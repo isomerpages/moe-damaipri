@@ -27,3 +27,18 @@ Our vision encapsulates the shared student outcomes we hope to see in our Damaia
 • **R**esilience in life
 
 • **K**indness to all
+
+As school and staff, we continue to be guided by a clear sense of purpose to provide a holistic student-centric, values-driven education to prepare our students for life. We will devote time and effort to help them build a solid foundation in numeracy and literacy, to be grounded in values, and develop skills in sports, aesthetics and leadership. Acknowledging that every Damaian is unique, we strive to enable each to grow and learn in a positive nurturing environment, discover the joy of learning and nurture their passion in overcoming new challenges. By forging strong partnership and close collaboration with parents and stakeholders, we are confident that every Damaian will be able to achieve his or her best in all that he or she undertakes.
+
+**One Team, One Vision**
+
+**Together, We Achieve More!**
+
+We look forward to an exciting and enriching year for our Damaians.
+
+  
+
+  
+
+**Mrs Jenny Leong** <br>
+**Principal**
