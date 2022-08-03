@@ -4,7 +4,7 @@ permalink: /our-school/principals-message
 description: ""
 ---
 <img src="/images/2020%20Mrs%20Jenny%20Leong.jpeg" 
-     style="width:30%" align = "right">
+     style="width:25%" align = "right">
 Welcome to Damai Primary School! We warmly embrace and welcome every child into our Damai family.  
 
   
