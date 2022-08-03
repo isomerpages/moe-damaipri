@@ -2,12 +2,12 @@ collections:
   our-school:
     output: true
     order:
-      - School Song.md
-      - Homework Policy.md
-      - School Rules.md
-      - General Information.md
-      - Our Staff/.keep
-      - School Values.md
-      - School Vision and Mission.md
-      - School Crest.md
       - Principal's Message.md
+      - School Crest.md
+      - School Vision and Mission.md
+      - School Values.md
+      - Our Staff/.keep
+      - General Information.md
+      - School Rules.md
+      - Homework Policy.md
+      - School Song.md
