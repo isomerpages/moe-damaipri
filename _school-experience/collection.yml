@@ -2,8 +2,8 @@ collections:
   school-experience:
     output: true
     order:
-      - School Wide Programmes/Interest Elective Programmes (IEP).md
+      - School Wide Programmes/.keep
       - School Wide Programmes/Learn for Life Programme (LLP).md
       - School Wide Programmes/Applied Learning Programme (ALP).md
       - School Wide Programmes/Programme for Active Learning (PAL).md
-      - School Wide Programmes/.keep
+      - School Wide Programmes/Interest Elective Programmes (IEP).md
