@@ -2,13 +2,13 @@ collections:
   school-experience:
     output: true
     order:
-      - Newsletter Damai Sparks/2019 (1).md
-      - Newsletter Damai Sparks/2019 (2).md
       - Newsletter Damai Sparks/.keep
       - Newsletter Damai Sparks/2022 (1).md
       - Newsletter Damai Sparks/2021 (2).md
       - Newsletter Damai Sparks/2021 (1).md
       - Newsletter Damai Sparks/2020.md
+      - Newsletter Damai Sparks/2019 (2).md
+      - Newsletter Damai Sparks/2019 (1).md
       - School Wide Programmes/.keep
       - School Wide Programmes/Learn for Life Programme (LLP).md
       - School Wide Programmes/Applied Learning Programme (ALP).md
