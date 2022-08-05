@@ -2,7 +2,11 @@ collections:
   school-experience:
     output: true
     order:
-      - Official Opening of New Campus.md
+      - School Wide Programmes/.keep
+      - School Wide Programmes/Learn for Life Programme (LLP).md
+      - School Wide Programmes/Applied Learning Programme (ALP).md
+      - School Wide Programmes/Programme for Active Learning (PAL).md
+      - School Wide Programmes/Interest Elective Programmes (IEP).md
       - Newsletter Damai Sparks/.keep
       - Newsletter Damai Sparks/2022 (1).md
       - Newsletter Damai Sparks/2021 (2).md
@@ -16,8 +20,4 @@ collections:
       - Newsletter Damai Sparks/2016 (2).md
       - Newsletter Damai Sparks/2016 (1).md
       - Newsletter Damai Sparks/2015.md
-      - School Wide Programmes/.keep
-      - School Wide Programmes/Learn for Life Programme (LLP).md
-      - School Wide Programmes/Applied Learning Programme (ALP).md
-      - School Wide Programmes/Programme for Active Learning (PAL).md
-      - School Wide Programmes/Interest Elective Programmes (IEP).md
+      - Official Opening of New Campus.md
