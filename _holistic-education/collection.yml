@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - CCA/Wushu.md
       - CCA/Rugby.md
       - CCA/Robotics Club.md
       - CCA/Red Cross.md
