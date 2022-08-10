@@ -22,3 +22,14 @@ Opening Dates during School Holidays :
   
 **22 to 30 November 2021 1 to 30 December 2021 (except 24 and 31 December)**   <br>
 **6 to 10 December 2021 (reserved for FAS collection)**
+
+# School Uniform
+
+### Beau Voix Uniform  
+
+**Website: [https://beauvoix.com/](https://beauvoix.com/) (Home delivery)**
+
+**Address : 2 Sims Close. Gemini @ Sims #03-08. Singapore 387298 (NO Walk – ins allowed. strictly by appointment only)**
+
+**Telephone : 6743 6645 / 6743 3627**   <br>
+**Operating Hours : 9am to 3pm (On consignment to the school bookshop)**
