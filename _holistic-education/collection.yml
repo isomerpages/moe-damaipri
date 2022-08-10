@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Department/Information & Communications Technology.md
       - Department/Character & Citizenship Education (Sexuality Education).md
       - Department/Character & Citizenship Education (Discipline & Student
         Leadership).md
