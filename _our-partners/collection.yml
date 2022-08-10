@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - School Bookshop & Uniform Vendor.md
       - School Bus Operator.md
       - School Dental Clinic.md
