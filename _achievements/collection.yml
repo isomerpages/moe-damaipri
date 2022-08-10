@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Staff and School.md
       - Academic/.keep
       - Academic/2022.md
       - Academic/2021.md
@@ -13,3 +12,4 @@ collections:
       - Non Academic/2021.md
       - Non Academic/2020.md
       - Non Academic/2019.md
+      - Staff and School.md
