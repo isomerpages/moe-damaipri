@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Department/Character & Citizenship Education.md
       - Department/Aesthetics.md
       - Department/Physical Education.md
       - Department/Science.md
