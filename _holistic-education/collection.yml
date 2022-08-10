@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - CCA/Art & Ceramic Club.md
       - CCA/.keep
       - Department/.keep
       - Department/English.md
