@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - CCA/Brownies.md
       - CCA/Art & Ceramics Club.md
       - CCA/.keep
       - Department/.keep
