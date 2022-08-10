@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Department/Aesthetics.md
       - Department/Physical Education.md
       - Department/Science.md
       - Department/Mother Tongue.md
