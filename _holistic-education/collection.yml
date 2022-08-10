@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - CCA/Malay Dance.md
       - CCA/Floorball.md
       - CCA/Environmental Club.md
       - CCA/Chinese Dance.md
