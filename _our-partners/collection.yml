@@ -2,4 +2,5 @@ collections:
   our-partners:
     output: true
     order:
+      - School Bus Operator.md
       - School Dental Clinic.md
