@@ -45,21 +45,37 @@ third_nav_title: Teaching Staff
 <a href="goh_chin_san_sunny@schools.gov.sg">ahmad_syalabi_adi_sunaryo@schools.gov.sg</a></center>
 
 
+<img src="/images/2020%20Ms%20Mardalina.jpeg" 
+     style="width:30%">
+		 
+<center>Mdm Mardalina Binte Mohamed Nossi<br>
+<a href="mardalina_mohamed_nossi@schools.gov.sg">mardalina\mohamed_nossi@schools.gov.sg</a></center>
+
+### 4D
+<img src="/images/2020%20Mr%20Lim%20K%20S.jpeg" 
+     style="width:30%">
+		 
+<center>Mr Lim Kok Soon<br>
+<a href="lim_kok_soon@schools.gov.sg">lim_kok_soon@schools.gov.sg</a></center>  
+
+		 
 <img src="/images/2019%20Miss%20Chen%20Xin%20Lei.jpeg" 
      style="width:30%">
 		 
 <center>Ms Chen Xin Lei<br>
 <a href="chen_xin_lei@schools.gov.sg">chen_xin_lei@schools.gov.sg</a></center>
 
-### 4D
-<img src="/images/2020%20Mr%20Shahizan.jpeg" 
-     style="width:30%">
-		 
-<center>Mr Shahizan Ahmad<br>
-<a href="shahizan_b_ahmad@schools.gov.sg">shahizan_b_ahmad@schools.gov.sg</a></center>
+
 
 <img src="/images/2020%20Mr%20Shahizan.jpeg" 
      style="width:30%">
 		 
 <center>Mr Shahizan Ahmad<br>
 <a href="shahizan_b_ahmad@schools.gov.sg">shahizan_b_ahmad@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Ms%20Foo%20Mabel.jpeg" 
+     style="width:30%">
+		 
+<center>Ms Foo Mabel<br>
+<a href="foo_mabel@schools.gov.sg">foo_mabel@schools.gov.sg</a></center>
+
