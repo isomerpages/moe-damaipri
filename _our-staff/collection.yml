@@ -2,5 +2,6 @@ collections:
   our-staff:
     output: true
     order:
+      - Teaching Staff/Primary 1.md
       - Teaching Staff/.keep
       - Key Personnel.md
