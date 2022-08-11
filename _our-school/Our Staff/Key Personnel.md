@@ -48,10 +48,23 @@ HOD Maths<br>
 HOD Science<br>
 <a href="dahalia_abbas@schools.gov.sg">dahalia_abbas@schools.gov.sg</a></center>
 
-<img src="images/2019%20Miss%20Chen%20Xin%20Lei.jpeg" 
+<img src="/images/2019%20Miss%20Chen%20Xin%20Lei.jpeg" 
      style="width:30%">
 		 
 <center>Ms Chen Xin Lei<br>
 HOD MT<br>
 <a href="chen_xin_lei@schools.gov.sg">chen_xin_lei@schools.gov.sg</a></center>
 
+<img src="/images/2020%20Mdm%20Nur%20Azlin.jpeg" 
+     style="width:30%">
+		 
+<center>Mdm Nur Azlin Ahmad<br>
+HOD ICT<br>
+<a href="nur_azlin_ahmad@schools.gov.sg">nur_azlin_ahmad@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Mrs%20Dianne%20Ang.jpeg" 
+     style="width:30%">
+		 
+<center>Mrs Dianne Ang<br>
+HOD Aesthetics<br>
+<a href="ling_liang_chee_dianne@schools.gov.sg">ling_liang_chee_dianne@schools.gov.sg</a></center>
