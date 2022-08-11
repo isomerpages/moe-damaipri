@@ -72,3 +72,25 @@ third_nav_title: Teaching Staff
 		 
 <center>Miss Ang Kim Heok<br>
 <a href="ang_kim_heok@schools.gov.sg">ang_kim_heok@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Ms%20Noor%20Hayati.jpeg" 
+     style="width:30%">
+		 
+<center>Ms Noor Hayati Bte Sha'ari<br>
+<a href="noor_hayati_shaari@schools.gov.sg">noor_hayati_shaari@schools.gov.sg</a></center>
+
+### 1F
+
+
+
+<img src="/images/2020%20Miss%20Loo.jpeg" 
+     style="width:30%">
+		 
+<center>Miss Loo Hui Qin Gladys<br>
+<a href="loo_hui_qin_gladys@schools.gov.sg">loo_hui_qin_gladys@schools.gov.sg</a></center>
+
+<img src="/images/2022%20Yeo-Lim%20Hwee%20Ling.jpeg" 
+     style="width:30%">
+		 
+<center>Mrs Yeo-Lim Hwee Ling<br>
+<a href="yeo-lim_hwee_ling@schools.gov.sg">yeo-lim_hwee_ling@schools.gov.sg</a></center>
