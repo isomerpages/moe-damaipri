@@ -35,3 +35,31 @@ third_nav_title: Teaching Staff
 <center>Mr Ahmad Syablabi<br>
 <a href="ahmad_syalabi_adi_sunaryo@schools.gov.sg">ahmad_syalabi_adi_sunaryo@schools.gov.sg</a></center>
 
+### 4C
+
+
+<img src="/images/2020%20Mr%20Sunny.jpeg" 
+     style="width:30%">
+		 
+<center>Mr Goh Chin San Sunny<br>
+<a href="goh_chin_san_sunny@schools.gov.sg">ahmad_syalabi_adi_sunaryo@schools.gov.sg</a></center>
+
+
+<img src="/images/2019%20Miss%20Chen%20Xin%20Lei.jpeg" 
+     style="width:30%">
+		 
+<center>Ms Chen Xin Lei<br>
+<a href="chen_xin_lei@schools.gov.sg">chen_xin_lei@schools.gov.sg</a></center>
+
+### 4D
+<img src="/images/2020%20Mr%20Shahizan.jpeg" 
+     style="width:30%">
+		 
+<center>Mr Shahizan Ahmad<br>
+<a href="shahizan_b_ahmad@schools.gov.sg">shahizan_b_ahmad@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Mr%20Shahizan.jpeg" 
+     style="width:30%">
+		 
+<center>Mr Shahizan Ahmad<br>
+<a href="shahizan_b_ahmad@schools.gov.sg">shahizan_b_ahmad@schools.gov.sg</a></center>
