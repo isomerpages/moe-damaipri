@@ -10,42 +10,34 @@ In Damai Primary School, we believe in establishing strong partnership and engag
 
 ### Embracing a community framework
 
-<img src="/images/2020%20psg%201.jpeg" 
-     style="width:75%">
+<img style="width:75%" src="/images/2020%20psg%201.jpeg">
 
 <center> Parents helping out during Racial Harmony Day </center>
 
-<img src="/images/2020%20psg%202.jpeg" 
-     style="width:75%">
+<img style="width:75%" src="/images/2020%20psg%202.jpeg">
 
 <center> Parents volunteers reading to the preschoolers at during Damai Open House.</center>
 
-<img src="/images/2020%20psg%203.jpeg" 
-     style="width:75%">
+<img style="width:75%" src="/images/2020%20psg%203.jpeg">
 
 <center> Parents giving their words of encouragement to our P6s through the Gift of Love Project!</center>
 
-<img src="/images/2020%20psg%204.jpeg" 
-     style="width:75%">
+<img style="width:75%" src="/images/2020%20psg%204.jpeg">
 
 <center> Recognizing the efforts of PSG members for their contribution to the school during Prize Giving Day.</center>
 
-<img src="/images/2020%20psg%205.jpeg" 
-     style="width:75%">
+<img style="width:75%" src="/images/2020%20psg%205.jpeg">
 
 <center> First PSG Meeting of the year!</center>
 
-<img src="/images/2020%20psg%206.jpeg" 
-     style="width:75%">
+<img style="width:75%" src="/images/2020%20psg%206.jpeg">
 
 <center> Bonding Time!</center>
 
-<img src="/images/2020%20psg%207.jpeg" 
-     style="width:75%">
+<img style="width:75%" src="/images/2020%20psg%207.jpeg">
 
 <center> PSG Recruitment Exercise during P1 Orientation</center>
 
+### 2019 Racial Harmony Day
 
-
-
-
+<table style="width: 628px; height: 124px;" class="iveo_table ive_eobj_center ives_tab_1"><tbody><tr><td style="width: 154px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2007%2022%20RacialHarmonyDay%20(114).jpeg"><br></td><td style="width: 154px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2007%2022%20RacialHarmonyDay%20(53).jpeg"><br></td><td style="width: 154px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2007%2022%20RacialHarmonyDay%20(85).jpeg"><br></td><td style="width: 154px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2007%2022%20RacialHarmonyDay%20(9).jpeg"><br></td></tr></tbody></table>
