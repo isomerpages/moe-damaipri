@@ -112,3 +112,42 @@ Year Head Middle Primary <br>
 Year Head Upper Primary <br>
 <a href="ang_mei_hui@schools.gov.sg">ang_mei_hui@schools.gov.sg</a></center>
 
+<img src="/images/2020%20Mr%20Teo%20Anson.jpeg" 
+     style="width:30%">
+		 
+<center>Mr Teo Keng Hon Anson<br>
+Subject Head ICT <br>
+<a href="teo_keng_hon@schools.gov.sg">teo_keng_hon@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Mr%20Khairulharis.jpeg" 
+     style="width:30%">
+		 
+<center>Mr Khairulharis Bin Karem<br>
+Subject Head Discipline and Student Leadership<br>
+<a href="khairulharis_karem@schools.gov.sg">khairulharis_karem@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Mdm%20Lau%20Px2.jpeg" 
+     style="width:30%">
+		 
+<center>Mdm Lau Peh Peh<br>
+Subject Head CL<br>
+<a href="lau_peh_peh@schools.gov.sg">lau_peh_peh@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Ms%20Christine.jpeg" 
+     style="width:30%">
+		 
+<center>Ms Christine Danielle Teo Hui Shan<br>
+Level Head EL<br>
+<a href="christine_teo_hui_shan@schools.gov.sg">christine_teo_hui_shan@schools.gov.sg</a></center>
+
+
+<img src="/images/2020%20Ms%20Tracy%20Tseng.jpeg" 
+     style="width:30%">
+		 
+<center>Ms Tracy Tseng Hwei Wen<br>
+Level Head SC<br>
+<a href="tseng_hwei_wen@schools.gov.sg">tseng_hwei_wen@schools.gov.sg</a></center>
+
+
+
+
