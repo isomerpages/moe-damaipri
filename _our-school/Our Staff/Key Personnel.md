@@ -68,3 +68,11 @@ HOD ICT<br>
 <center>Mrs Dianne Ang<br>
 HOD Aesthetics<br>
 <a href="ling_liang_chee_dianne@schools.gov.sg">ling_liang_chee_dianne@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Mrs%20Shirley%20Wang.jpeg" 
+     style="width:30%">
+		 
+<center>Mrs Shirley Wang<br>
+HOD CCE <br>
+<a href="tan_seok_ling_shirley@schools.gov.sg">tan_seok_ling_shirley@schools.gov.sg</a></center>
+
