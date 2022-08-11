@@ -90,3 +90,25 @@ HOD PE & CCA <br>
 SSD <br>
 <a href="yu_sim_pei_elise@schools.gov.sg">yu_sim_pei_elise@schools.gov.sg</a></center>
 
+<img src="/images/2020%20Mrs%20Nadira%20Khan.jpeg" 
+     style="width:30%">
+		 
+<center>Mrs Nadira Khan<br>
+Year Head Lower Primary <br>
+<a href="nadira_abdullah@schools.gov.sg">nadira_abdullah@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Miss%20Laurice.jpeg" 
+     style="width:30%">
+		 
+<center>Miss Ong Su May Laurice Sara<br>
+Year Head Middle Primary <br>
+<a href="ong_su_may_laurice@schools.gov.sg">ong_su_may_laurice@schools.gov.sg</a></center>
+
+
+<img src="/images/2020%20Mrs%20Kris%20Hay.jpeg" 
+     style="width:30%">
+		 
+<center>Mrs Kris Hay<br>
+Year Head Upper Primary <br>
+<a href="ang_mei_hui@schools.gov.sg">ang_mei_hui@schools.gov.sg</a></center>
+
