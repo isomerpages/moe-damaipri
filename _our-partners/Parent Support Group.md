@@ -10,62 +10,76 @@ In Damai Primary School, we believe in establishing strong partnership and engag
 
 ### Embracing a community framework
 
-<img style="width:75%" src="/images/2020%20psg%201.jpeg">
+<img src="/images/2020%20psg%201.jpeg" style="width:75%">
 
 <center> Parents helping out during Racial Harmony Day </center>
 
-<img style="width:75%" src="/images/2020%20psg%202.jpeg">
+<img src="/images/2020%20psg%202.jpeg" style="width:75%">
 
 <center> Parents volunteers reading to the preschoolers at during Damai Open House.</center>
 
-<img style="width:75%" src="/images/2020%20psg%203.jpeg">
+<img src="/images/2020%20psg%203.jpeg" style="width:75%">
 
 <center> Parents giving their words of encouragement to our P6s through the Gift of Love Project!</center>
 
-<img style="width:75%" src="/images/2020%20psg%204.jpeg">
+<img src="/images/2020%20psg%204.jpeg" style="width:75%">
 
 <center> Recognizing the efforts of PSG members for their contribution to the school during Prize Giving Day.</center>
 
-<img style="width:75%" src="/images/2020%20psg%205.jpeg">
+<img src="/images/2020%20psg%205.jpeg" style="width:75%">
 
 <center> First PSG Meeting of the year!</center>
 
-<img style="width:75%" src="/images/2020%20psg%206.jpeg">
+<img src="/images/2020%20psg%206.jpeg" style="width:75%">
 
 <center> Bonding Time!</center>
 
-<img style="width:75%" src="/images/2020%20psg%207.jpeg">
+<img src="/images/2020%20psg%207.jpeg" style="width:75%">
 
 <center> PSG Recruitment Exercise during P1 Orientation</center>
 
 ### 2019 Racial Harmony Day
 
-<table style="width: 628px; height: 124px;" class="iveo_table ive_eobj_center ives_tab_1"><tbody><tr><td style="width: 154px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2007%2022%20RacialHarmonyDay%20(114).jpeg"><br></td><td style="width: 154px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2007%2022%20RacialHarmonyDay%20(53).jpeg"><br></td><td style="width: 154px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2007%2022%20RacialHarmonyDay%20(85).jpeg"><br></td><td style="width: 154px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2007%2022%20RacialHarmonyDay%20(9).jpeg"><br></td></tr></tbody></table>
+<table class="iveo_table ive_eobj_center ives_tab_1" style="width: 628px; height: 124px;"><tbody><tr><td style="width: 154px;"><img src="/images/2019%2007%2022%20RacialHarmonyDay%20(114).jpeg" width="100%" class="ive_eobj_left"><br></td><td style="width: 154px;"><img src="/images/2019%2007%2022%20RacialHarmonyDay%20(53).jpeg" width="100%" class="ive_eobj_left"><br></td><td style="width: 154px;"><img src="/images/2019%2007%2022%20RacialHarmonyDay%20(85).jpeg" width="100%" class="ive_eobj_left"><br></td><td style="width: 154px;"><img src="/images/2019%2007%2022%20RacialHarmonyDay%20(9).jpeg" width="100%" class="ive_eobj_left"><br></td></tr></tbody></table>
 
 ### 2019 Teachers' Day Celebration
 
-<table class="iveo_table ive_eobj_center ives_tab_1" style="width: 593px; height: 118px;"><tbody><tr><td style="width: 194px;"><img src="/images/2019%2009%2005%20Teacherday%20(135).jpeg" width="100%" class="ive_eobj_left"><br></td><td style="width: 194px;"><img src="/images/2019%2009%2005%20Teacherday%20(142).jpeg" width="100%" class="ive_eobj_left"><br></td><td style="width: 195px;"><img src="/images/2019%2009%2005%20Teacherday%20(147).jpeg" width="100%" class="ive_eobj_left"><br></td></tr></tbody></table>
+<table style="width: 593px; height: 118px;" class="iveo_table ive_eobj_center ives_tab_1"><tbody><tr><td style="width: 194px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2009%2005%20Teacherday%20(135).jpeg"><br></td><td style="width: 194px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2009%2005%20Teacherday%20(142).jpeg"><br></td><td style="width: 195px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2009%2005%20Teacherday%20(147).jpeg"><br></td></tr></tbody></table>
 
 ### 2019 Gift of Love
 
-<table style="width: 679px; height: 124px;" class="iveo_table ive_eobj_center ives_tab_1"><tbody><tr><td style="width: 133px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2009%2016%20Gift%20of%20Love%20(26).jpeg"><br></td><td style="width: 133px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2009%2016%20Gift%20of%20Love%20(3).jpeg"><br></td><td style="width: 133px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2009%2016%20Gift%20of%20Love%20(18).jpeg"><br></td><td style="width: 133px;"><img class="ive_eobj_left" alt="2019 09 16 Gift of Love (8).JPG" width="100%" src="/images/2019%2009%2016%20Gift%20of%20Love%20(8).jpeg"><br></td><td style="width: 133px;"><img class="ive_eobj_left" alt="2019 09 16 Gift of Love (9).JPG" width="100%" src="/images/2019%2009%2016%20Gift%20of%20Love%20(9).jpeg"><br></td></tr></tbody></table>
+<table class="iveo_table ive_eobj_center ives_tab_1" style="width: 679px; height: 124px;"><tbody><tr><td style="width: 133px;"><img src="/images/2019%2009%2016%20Gift%20of%20Love%20(26).jpeg" width="100%" class="ive_eobj_left"><br></td><td style="width: 133px;"><img src="/images/2019%2009%2016%20Gift%20of%20Love%20(3).jpeg" width="100%" class="ive_eobj_left"><br></td><td style="width: 133px;"><img src="/images/2019%2009%2016%20Gift%20of%20Love%20(18).jpeg" width="100%" class="ive_eobj_left"><br></td><td style="width: 133px;"><img src="/images/2019%2009%2016%20Gift%20of%20Love%20(8).jpeg" width="100%" alt="2019 09 16 Gift of Love (8).JPG" class="ive_eobj_left"><br></td><td style="width: 133px;"><img src="/images/2019%2009%2016%20Gift%20of%20Love%20(9).jpeg" width="100%" alt="2019 09 16 Gift of Love (9).JPG" class="ive_eobj_left"><br></td></tr></tbody></table>
 
 ### 2019 Children's Day
-<table class="iveo_table ive_eobj_center ives_tab_1" style="width: 631px; height: 135px;"><tbody><tr><td style="width: 207px;"><img src="/images/2019%2010%2003%20childrenday%20(289).jpeg" width="100%" class="ive_eobj_left"><br></td><td style="width: 207px;"><img src="/images/2019%2010%2003%20childrenday%20(471).jpeg" width="100%" class="ive_eobj_left"><br></td><td style="width: 207px;"><img src="/images/2019%2010%2003%20childrenday%20(491).jpeg" width="100%" class="ive_eobj_left"><br></td></tr></tbody></table>
+<table style="width: 631px; height: 135px;" class="iveo_table ive_eobj_center ives_tab_1"><tbody><tr><td style="width: 207px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2010%2003%20childrenday%20(289).jpeg"><br></td><td style="width: 207px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2010%2003%20childrenday%20(471).jpeg"><br></td><td style="width: 207px;"><img class="ive_eobj_left" width="100%" src="/images/2019%2010%2003%20childrenday%20(491).jpeg"><br></td></tr></tbody></table>
 
 ### 2018 PSG Bonding DMPS and ECPS
 ![](/images/2018%2011%2001%20PSGbonding%20(10).jpeg)
 
-<table style="height: 10px; width: 520px;" class="ive_eobj_center iveo_table ives_tab_1">
+<table class="ive_eobj_center iveo_table ives_tab_1" style="height: 10px; width: 520px;">
 <tbody>
 <tr>
-<td style="width: 130px;"><img class="ive_eobj_left" alt="2018 11 01 PSGbonding (2).JPG" width="100%" src="/images/2018%2011%2001%20PSGbonding%20(2).jpeg"><br>
+<td style="width: 130px;"><img src="/images/2018%2011%2001%20PSGbonding%20(2).jpeg" width="100%" alt="2018 11 01 PSGbonding (2).JPG" class="ive_eobj_left"><br>
 </td>
-<td style="width: 130px;"><img class="ive_eobj_left" alt="2018 11 01 PSGbonding (3).JPG" width="100%" src="/images/2018%2011%2001%20PSGbonding%20(3).jpeg"><br>
+<td style="width: 130px;"><img src="/images/2018%2011%2001%20PSGbonding%20(3).jpeg" width="100%" alt="2018 11 01 PSGbonding (3).JPG" class="ive_eobj_left"><br>
 </td>
-<td style="width: 130px;"><img class="ive_eobj_left" alt="2018 11 01 PSGbonding (4).JPG" width="100%" src="/images/2018%2011%2001%20PSGbonding%20(4).jpeg"><br>
+<td style="width: 130px;"><img src="/images/2018%2011%2001%20PSGbonding%20(4).jpeg" width="100%" alt="2018 11 01 PSGbonding (4).JPG" class="ive_eobj_left"><br>
 </td>
-<td style="width: 130px;"><img class="ive_eobj_left" alt="2018 11 01 PSGbonding (6).JPG" width="100%" src="/images/2018%2011%2001%20PSGbonding%20(6).jpeg"><br></td>
+<td style="width: 130px;"><img src="/images/2018%2011%2001%20PSGbonding%20(6).jpeg" width="100%" alt="2018 11 01 PSGbonding (6).JPG" class="ive_eobj_left"><br></td>
 </tr>
 </tbody>
 </table>
+
+### 2018 Children's Day Celebration
+
+<table style="height: 10px; width: 520px;" class="ive_eobj_center iveo_table ives_tab_1">
+<tbody>
+<tr>
+<td style="width: 130px;"><img class="ive_eobj_left" alt="2018 10 04 Children Day A (118).JPG" width="100%" src="/images/2018%2010%2004%20Children%20Day%20A%20(118).jpeg"><br></td>
+<td style="width: 130px;"><img class="ive_eobj_left" alt="2018 10 04 Children Day A (133).JPG" width="100%" src="/images/2018%2010%2004%20Children%20Day%20A%20(133).jpeg"><br></td>
+<td style="width: 130px;"><img class="ive_eobj_left" alt="2018 10 04 Children Day A (140).JPG" width="100%" src="/images/2018%2010%2004%20Children%20Day%20A%20(140).jpeg"><br></td>
+<td style="width: 130px;"><img style="width: 61px; height: 91px;" class="ive_eobj_center" alt="2018 10 04 Children Day A (150).JPG" width="100%" src="/images/2018%2010%2004%20Children%20Day%20A%20(150).jpeg"></td>
+</tr>
+</tbody>
+</table>
+
