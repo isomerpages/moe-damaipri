@@ -36,5 +36,31 @@ third_nav_title: Teaching Staff
 <center>Mrs Kris Hay<br>
 <a href="ang_mei_hui@schools.gov.sg">ang_mei_hui@schools.gov.sg</a></center>
 
+### 5C
+
+<img src="/images/2020%20Mr%20Stanislaus%20Chia.jpeg" 
+     style="width:30%">
+<center>Mr Stanislaus Chia<br>
+<a href="chia_tze_chiam_stanislaus@schools.gov.sg">chia_tze_chiam_stanislaus@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Ms%20Stella.jpeg" 
+     style="width:30%">
+<center>Ms Teoh Han Yun Stella<br>
+<a href="teoh_han_yun@schools.gov.sg">teoh_han_yun@schools.gov.sg</a></center>
+
+### Primary 5
+<img src="/images/2020%20Mrs%20Elise%20Lee.jpeg" 
+     style="width:30%">
+<center>Mrs Elise Lee<br>
+<a href="yu_sim_pei_elise@schools.gov.sg">yu_sim_pei_elise@schools.gov.sg</a></center>
 
 
+<img src="/images/2019%20Miss%20Tarshini%20Krishna.jpeg" 
+     style="width:30%">
+<center>Ms Tarshini Krishna<br>
+<a href="tarshini_krishna@schools.gov.sg">tarshini_krishna@schools.gov.sg</a></center>
+
+<img src="/images/2022%20Goh%20Hong%20Fei.jpeg" 
+     style="width:30%">
+<center>Mr Goh Hong Fei<br>
+<a href="goh_hong_fei@schools.gov.sg">goh_hong_fei@schools.gov.sg</a></center>
