@@ -83,10 +83,10 @@ HOD CCE <br>
 HOD PE & CCA <br>
 <a href="tan_siew_chen_jacinda@schools.gov.sg">tan_siew_chen_jacinda@schools.gov.sg</a></center>
 
-<img src="/images/2020%20Mdm%20Jacinda.jpeg" 
+<img src="/images/2020%20Mrs%20Elise%20Lee.jpeg" 
      style="width:30%">
 		 
-<center>Mdm Jacinda Tan Siew Chen<br>
-HOD PE & CCA <br>
-<a href="tan_siew_chen_jacinda@schools.gov.sg">tan_siew_chen_jacinda@schools.gov.sg</a></center>
+<center>Mrs Elise Lee<br>
+SSD <br>
+<a href="yu_sim_pei_elise@schools.gov.sg">yu_sim_pei_elise@schools.gov.sg</a></center>
 
