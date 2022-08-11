@@ -79,3 +79,16 @@ third_nav_title: Teaching Staff
 <center>Ms Foo Mabel<br>
 <a href="foo_mabel@schools.gov.sg">foo_mabel@schools.gov.sg</a></center>
 
+### Primary 4
+
+<img src="/images/2022%20Zheng%20Jiawei.jpeg" 
+     style="width:30%">
+		 
+<center>Ms Zheng Jiawei Alice<br>
+<a href="zheng_jiawei@schools.gov.sg">zheng_jiawei@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Mrs%20Rajah.jpeg" 
+     style="width:30%">
+		 
+<center>Mdm Manokari d/o Veeraiyah Palaiyah<br>
+<a href="manokari_v_palaiyah@schools.gov.sg">manokari_v_palaiyah@schools.gov.sg</a></center>
