@@ -1,5 +1,5 @@
 collections:
-  our-staff:
+  school-staff:
     output: true
     order:
       - Teaching Staff/Primary 1.md
