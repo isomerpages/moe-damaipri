@@ -76,3 +76,17 @@ HOD Aesthetics<br>
 HOD CCE <br>
 <a href="tan_seok_ling_shirley@schools.gov.sg">tan_seok_ling_shirley@schools.gov.sg</a></center>
 
+<img src="/images/2020%20Mdm%20Jacinda.jpeg" 
+     style="width:30%">
+		 
+<center>Mdm Jacinda Tan Siew Chen<br>
+HOD PE & CCA <br>
+<a href="tan_siew_chen_jacinda@schools.gov.sg">tan_siew_chen_jacinda@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Mdm%20Jacinda.jpeg" 
+     style="width:30%">
+		 
+<center>Mdm Jacinda Tan Siew Chen<br>
+HOD PE & CCA <br>
+<a href="tan_siew_chen_jacinda@schools.gov.sg">tan_siew_chen_jacinda@schools.gov.sg</a></center>
+
