@@ -48,3 +48,27 @@ third_nav_title: Teaching Staff
 <center>Mr Syu'ib B Ahmad<br>
 <a href="syuib_ahmad@schools.gov.sg">syuib_ahmad@schools.gov.sg</a></center>
 
+### 1D
+
+<img src="/images/2020%20Mrs%20Irene%20Mak.jpeg" 
+     style="width:30%">
+		 
+<center>Mrs Irene Mak<br>
+<a href="mak_yew_fatt@schools.gov.sg">mak_yew_fatt@schools.gov.sg</a></center>
+
+
+
+<img src="/images/2022%20Roslinda%20Naim.jpeg" 
+     style="width:30%">
+		 
+<center>Mdm Roslinda Bte Naim<br>
+<a href="roslinda_naim@schools.gov.sg">roslinda_naim@schools.gov.sg</a></center>
+
+### 1E
+
+
+<img src="/images/2020%20Miss%20Ang.jpeg" 
+     style="width:30%">
+		 
+<center>Miss Ang Kim Heok<br>
+<a href="ang_kim_heok@schools.gov.sg">ang_kim_heok@schools.gov.sg</a></center>
