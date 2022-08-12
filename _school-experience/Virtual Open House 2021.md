@@ -28,3 +28,29 @@ description: ""
 <a href="https://staging.d2u2fg8l961knh.amplifyapp.com/holistic-education/Department/mathematics">
 <img src="/images/2021-MATH.png"  style="width:30%">
 </a>
+
+<a href="https://staging.d2u2fg8l961knh.amplifyapp.com/holistic-education/Department/mother-tongue">
+<img src="/images/2021-Mother-Tongue.png"  style="width:30%">
+</a>
+
+<a href="https://staging.d2u2fg8l961knh.amplifyapp.com/holistic-education/Department/science">
+<img src="/images/2021-Science.png"  style="width:30%">
+</a>
+
+<a href="https://staging.d2u2fg8l961knh.amplifyapp.com/holistic-education/Department/physical-education-pe">
+<img src="/images/2021-Physical-Edu.png"  style="width:30%">
+</a>
+
+<a href="https://staging.d2u2fg8l961knh.amplifyapp.com/holistic-education/Department/aesthetics">
+<img src="/images/2021-Aesthetics.png"  style="width:30%">
+</a>
+
+<a href="https://staging.d2u2fg8l961knh.amplifyapp.com/holistic-education/Department/character-n-citizenship-education">
+<img src="/images/2021-Character-n-Citizenship-Education.png"  style="width:30%">
+</a>
+
+
+<a href="https://staging.d2u2fg8l961knh.amplifyapp.com/holistic-education/Department/information-n-communications-technology">
+<img src="/images/2021-ICT.png"  style="width:30%">
+</a>
+
