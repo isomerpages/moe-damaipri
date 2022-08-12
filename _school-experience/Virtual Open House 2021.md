@@ -126,3 +126,7 @@ description: ""
 <a href="https://photos.google.com/share/AF1QipPUPFetigdnE0tum3wh1N4lGDTedIm6tnRRy12dc2vc-FRssasmUHZIH6ZU4FKQ8A?key=R1o1RzhaSzZoVTROWk5ESWp1bU5zbGVNOGd6RDVn">
 <img src="/images/2021%2011%2019%20PGD%20Jeff%2070.jpeg"  style="width:50%">
 </a>
+
+### Principal Live Talk
+
+![](/images/2021-LiveTalk.png)
