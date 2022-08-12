@@ -15,3 +15,8 @@ Admin Manager</center>
 <center>Mr Hamim B Hashim<br>
 Operations Manager</center>
 
+<img src="/images/2020%20Miss%20Normala.jpeg" 
+     style="width:30%">
+<center>Miss Normala Ab Hamid<br>
+Admin Executive</center>
+
