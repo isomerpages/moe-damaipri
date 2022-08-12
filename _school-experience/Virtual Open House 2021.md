@@ -54,3 +54,22 @@ description: ""
 <img src="/images/2021-ICT.png"  style="width:30%">
 </a>
 
+<a href="https://staging.d2u2fg8l961knh.amplifyapp.com/school-experience/school-wide-programmes/programme-for-active-learning-pal">
+<img src="/images/2021-PAL.png"  style="width:30%">
+</a>
+
+### Niche Programmes
+
+<a href="https://staging.d2u2fg8l961knh.amplifyapp.com/school-experience/school-wide-programmes/learn-for-life-programme-llp">
+<img src="/images/2021-LLP.png"  style="width:30%">
+</a>
+
+<a href="https://staging.d2u2fg8l961knh.amplifyapp.com/school-experience/school-wide-programmes/applied-learning-programme-alp">
+<img src="/images/2021-ALP.png"  style="width:30%">
+</a>
+
+<a href="https://staging.d2u2fg8l961knh.amplifyapp.com/school-experience/school-wide-programmes/interest-elective-programme-iep">
+<img src="/images/2021-IEP.png"  style="width:30%">
+</a>
+
+
