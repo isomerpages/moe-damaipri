@@ -22,6 +22,9 @@ description: ""
 ### School Programmes
 
 <a href="https://staging.d2u2fg8l961knh.amplifyapp.com/holistic-education/Department/english">
-<img src="/images/2021-EL.png"  style="width:50%">
+<img src="/images/2021-EL.png"  style="width:30%">
 </a>
 
+<a href="https://staging.d2u2fg8l961knh.amplifyapp.com/holistic-education/Department/mathematics">
+<img src="/images/2021-MATH.png"  style="width:30%">
+</a>
