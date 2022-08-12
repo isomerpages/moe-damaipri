@@ -53,3 +53,8 @@ third_nav_title: Teaching Staff
 <center>Mr Samuel See Tze Yang<br>
 <a href="see_tze-yang_samuel@schools.gov.sg">see_tze-yang_samuel@schools.gov.sg</a></center>
 
+<img src="/images/2020%20Mdm%20Dahalia.jpeg" 
+     style="width:30%">
+<center>Mdm Dahalia Abbas<br>
+<a href="dahalia_abbas@schools.gov.sg">dahalia_abbas@schools.gov.sg</a></center>
+
