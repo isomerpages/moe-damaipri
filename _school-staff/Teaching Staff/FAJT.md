@@ -46,3 +46,26 @@ FAJT</center>
 <center>Mdm Firdous<br>
 FAJT</center>
 
+<img src="/images/2022%20Noorjanna%20Bte%20Mohamed%20Hussain.jpeg" 
+     style="width:30%">
+<center>Mdm Noorjanna Bte Mohamed Hussain<br>
+FAJT</center>
+
+<img src="/images/2022%20Jonathan%20Chin%20Chee%20Kong.jpeg" 
+     style="width:30%">
+<center>Mr Jonathan Chin<br>
+FAJT</center>
+
+<img src="/images/2022%20Rahayu%20Binte%20Mohamed%20Haled.jpeg" 
+     style="width:30%">
+<center>Ms Rahayu Binte Mohamed Haled<br>
+FAJT</center>
+
+
+<img src="/images/2022%20Suraiya%20Noor%20Mohamed.jpeg" 
+     style="width:30%">
+<center>Ms Suraiya Binte Noor Mohamed<br>
+FAJT</center>
+
+
+
