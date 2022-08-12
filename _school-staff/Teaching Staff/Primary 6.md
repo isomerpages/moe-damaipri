@@ -29,6 +29,27 @@ third_nav_title: Teaching Staff
 <center>Ms Ho Mei Fong<br>
 <a href="ho_mei_fong@schools.gov.sg">ho_mei_fong@schools.gov.sg</a></center>
 
+### 6C
 
+<img src="/images/2020%20Mdm%20Junainah.jpeg" 
+     style="width:30%">
+<center>Mdm Junainah Binte Rahmat<br>
+<a href="junainah_rahmat@schools.gov.sg">junainah_rahmat@schools.gov.sg</a></center>
 
+<img src="/images/2020%20Miss%20Woo%20Y%20Q.jpeg" 
+     style="width:30%">
+<center>Miss Woo Ying Qi<br>
+<a href="woo_ying_qi@schools.gov.sg">woo_ying_qi@schools.gov.sg</a></center>
+
+### 6D
+
+<img src="/images/2020%20Mr%20Foo.jpeg" 
+     style="width:30%">
+<center>Mr Foo Chao Hen<br>
+<a href="foo_chao_hen@schools.gov.sg">foo_chao_hen@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Mr%20Samuel%20See.jpeg" 
+     style="width:30%">
+<center>Mr Samuel See Tze Yang<br>
+<a href="see_tze-yang_samuel@schools.gov.sg">see_tze-yang_samuel@schools.gov.sg</a></center>
 
