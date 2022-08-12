@@ -2,6 +2,7 @@ collections:
   school-staff:
     output: true
     order:
+      - Teaching Staff/FAJT.md
       - Teaching Staff/AED.md
       - Teaching Staff/Primary 6.md
       - Teaching Staff/Primary 5.md
