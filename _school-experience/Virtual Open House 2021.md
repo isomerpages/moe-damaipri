@@ -21,7 +21,7 @@ description: ""
 
 ### School Programmes
 
-<a href="https://www.getepic.com/students">
+<a href="/holistic-education/Department/english">
 <img src="/images/2021-EL.png"  style="width:50%">
 </a>
 
