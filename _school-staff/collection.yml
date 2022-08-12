@@ -2,6 +2,7 @@ collections:
   school-staff:
     output: true
     order:
+      - Non Teaching Staff/.keep
       - Teaching Staff/.keep
       - Teaching Staff/Primary 1.md
       - Teaching Staff/Primary 2.md
