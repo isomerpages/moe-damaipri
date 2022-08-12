@@ -2,6 +2,18 @@ collections:
   holistic-education:
     output: true
     order:
+      - Department/.keep
+      - Department/English.md
+      - Department/Mathematics.md
+      - Department/Mother Tongue.md
+      - Department/Science.md
+      - Department/Physical Education.md
+      - Department/Aesthetics.md
+      - Department/Character & Citizenship Education.md
+      - Department/Character & Citizenship Education (Discipline & Student
+        Leadership).md
+      - Department/Character & Citizenship Education (Sexuality Education).md
+      - Department/Information & Communications Technology.md
       - CCA/.keep
       - CCA/Art & Ceramics Club.md
       - CCA/Brownies.md
@@ -15,15 +27,3 @@ collections:
       - CCA/Robotics Club.md
       - CCA/Rugby.md
       - CCA/Wushu.md
-      - Department/.keep
-      - Department/English.md
-      - Department/Mathematics.md
-      - Department/Mother Tongue.md
-      - Department/Science.md
-      - Department/Physical Education.md
-      - Department/Aesthetics.md
-      - Department/Character & Citizenship Education.md
-      - Department/Character & Citizenship Education (Discipline & Student
-        Leadership).md
-      - Department/Character & Citizenship Education (Sexuality Education).md
-      - Department/Information & Communications Technology.md
