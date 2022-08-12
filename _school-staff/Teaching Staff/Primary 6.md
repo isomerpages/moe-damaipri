@@ -58,3 +58,16 @@ third_nav_title: Teaching Staff
 <center>Mdm Dahalia Abbas<br>
 <a href="dahalia_abbas@schools.gov.sg">dahalia_abbas@schools.gov.sg</a></center>
 
+### Primary 6
+
+<img src="/images/2020%20Mr%20Won.jpeg" 
+     style="width:30%">
+<center>Mr Won Wee Son<br>
+Student Welfare Education Officer <br>
+<a href="won_wee_son@schools.gov.sg">won_wee_son@schools.gov.sg</a></center>
+
+<img src="/images/2020%20Mr%20K%20Malaiarasu.jpeg" 
+     style="width:30%">
+<center>Mr K Malaiarasu<br>
+<a href="k_malaiarasu@schools.gov.sg">k_malaiarasu@schools.gov.sg</a></center>
+
