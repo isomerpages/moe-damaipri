@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Virtual Open House 2021.md
-      - Gallery/2020.md
-      - Gallery/2021.md
-      - Gallery/2022.md
       - Gallery/.keep
+      - Gallery/2022.md
+      - Gallery/2021.md
+      - Gallery/2020.md
       - School Wide Programmes/.keep
       - School Wide Programmes/Learn for Life Programme (LLP).md
       - School Wide Programmes/Applied Learning Programme (ALP).md
