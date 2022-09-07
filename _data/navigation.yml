@@ -1,9 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: School
     collection: our-school
   - title: Holistic Education
@@ -12,3 +8,5 @@ links:
     collection: our-partners
   - title: School Experience
     collection: school-experience
+  - title: Contact Us
+    url: /contact-us/
