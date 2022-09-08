@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Projects/.keep
       - Department/Damai Edible Garden.md
       - Department/.keep
       - Department/English.md
