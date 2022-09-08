@@ -8,7 +8,14 @@ locations:
       - "52 Bedok Reservoir Crescent, "
       - "Singapore 479226 "
       - ""
-    operating_hours: []
+    operating_hours:
+      - days: Weekdays
+        time: ""
+        description: 7:30 am to 5:30 pm (* Collection of school fees from 8:00 am to
+          4:00 pm)
+      - days: Weekends
+        time: ""
+        description: Closed
     maps_link: https://goo.gl/maps/CMXsjeZ1jCLdBB2D8
     title: Our Location
 contacts:
