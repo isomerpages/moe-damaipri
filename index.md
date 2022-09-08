@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Damai Primary School
-      background: /images/herobanner.gif
+      background: /images/HomeMatter/2018 Professionally Taken DMPS (101).jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
