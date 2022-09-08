@@ -15,12 +15,15 @@ sections:
         - title: Announcements
           description: ""
           url: https://google.com
+        - title: Principal's Letter
+          description: ""
+          url: /privacy/
         - title: Calendar of Events
           description: ""
           url: https://gmail.com
-        - title: Notifications
+        - title: Links for Parents
           description: ""
-          url: /privacy/
+          url: ""
       subtitle: Every Damaian has self-discipline to uphold the SPARK values
   - infobar:
       title: Infobar title
