@@ -21,6 +21,7 @@ sections:
         - title: Notifications
           description: ""
           url: /privacy/
+      subtitle: Every Damaian has self-discipline to uphold the SPARK values
   - infobar:
       title: Infobar title
       subtitle: Subtitle
