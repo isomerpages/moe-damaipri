@@ -2,9 +2,8 @@ collections:
   holistic-education:
     output: true
     order:
-      - Projects/.keep
-      - Department/Damai Edible Garden.md
       - Department/.keep
+      - Department/Damai Edible Garden.md
       - Department/English.md
       - Department/Mathematics.md
       - Department/Mother Tongue.md
@@ -29,3 +28,4 @@ collections:
       - CCA/Robotics Club.md
       - CCA/Rugby.md
       - CCA/Wushu.md
+      - Projects/.keep
