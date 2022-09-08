@@ -1,16 +1,13 @@
 ---
 title: Character & Citizenship Education (Discipline & Student Leadership)
-permalink: /holistic-education/Department/character-n-citizenship-education-discipline-n-student-leadership
+permalink: /holistic-education/Department/character-n-citizenship-education-discipline-n-student-leadership/
 description: ""
 third_nav_title: Department
 ---
-![](/images/2020%20discipline.png)
-
 ### Vision
 
 Every Damaian an Engaged Leader, Every Teacher a Restorative Practitioner   
   
-
 ### Missions/Goals
 
 1. Discipline: To instill self-discipline and good character in every Damaian
