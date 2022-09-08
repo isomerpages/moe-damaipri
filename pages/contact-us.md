@@ -5,12 +5,12 @@ permalink: /contact-us/
 agency_name: Damai Primary School
 locations:
   - address:
-      - "52 "
-      - "Bedok Reservoir Crescent, "
+      - "52 Bedok Reservoir Crescent, "
       - "Singapore 479226 "
+      - ""
     operating_hours: []
-    maps_link: ""
-    title: General Office
+    maps_link: https://goo.gl/maps/CMXsjeZ1jCLdBB2D8
+    title: Location
 contacts:
   - content:
       - phone: +65 6445 6483
