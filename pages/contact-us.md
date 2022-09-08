@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours: []
     maps_link: https://goo.gl/maps/CMXsjeZ1jCLdBB2D8
-    title: Location
+    title: Our Location
 contacts:
   - content:
       - phone: +65 6445 6483
