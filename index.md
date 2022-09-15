@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: Damai Primary School
+description: To nurture and empower every Damaian to learn, grow and lead.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -32,4 +32,5 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
