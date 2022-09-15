@@ -13,6 +13,3 @@ third_nav_title: School Staff
 |<img src="/images/2020%20Mrs%20Nadira%20Khan.jpeg" style="width:50%"><center>Mrs Nadira Khan<br>Year Head Lower Primary<br>nadira_abdullah@schools.gov.sg</center>|<img src="/images/2020%20Miss%20Laurice.jpeg" style="width:50%"><center>Miss Ong Su May Laurice Sara<br>Year Head Middle Primary<br>ong_su_may_laurice@schools.gov.sg</center>|<img src="/images/2020%20Mrs%20Kris%20Hay.jpeg" style="width:50%"><center>Mrs Kris Hay<br>Year Head Upper Primary<br>ang_mei_hui@schools.gov.sg</center>|
 |<img src="/images/2020%20Mr%20Teo%20Anson.jpeg"  style="width:50%"><center>Mr Teo Keng Hon Anson<br>Subject Head ICT<br>tteo_keng_hon@schools.gov.sg</center>|<img src="/images/2020%20Mr%20Khairulharis.jpeg" style="width:50%"><center>Mr Khairulharis Bin Karem<br>Subject Head Discipline and Student Leadership<br>khairulharis_karem@schools.gov.sg</center>|<img src="/images/2020%20Mdm%20Lau%20Px2.jpeg" style="width:50%"><center>Mdm Lau Peh Peh<br>Subject Head CL<br> lau_peh_peh@schools.gov.sg</center>|
 |<img src="/images/2020%20Ms%20Christine.jpeg" style="width:50%"><center>Ms Christine Danielle Teo Hui Shan<br>Level Head EL<br> christine_teo_hui_shan@schools.gov.sg</center>| |<img src="/images/2020%20Ms%20Tracy%20Tseng.jpeg" style="width:50%"><center>Ms Tracy Tseng Hwei Wen<br>Level Head SC<br> tseng_hwei_wen@schools.gov.sg</center>|
-
-
-
