@@ -2,15 +2,15 @@ collections:
   our-school:
     output: true
     order:
-      - School Staff/Primary 2.md
-      - School Staff/.keep
-      - School Staff/Key Personnel.md
-      - School Staff/Primary 1.md
       - Principal's Message.md
       - School Crest.md
       - School Vision and Mission.md
       - School Values.md
-      - General Information.md
+      - School Staff/.keep
+      - School Staff/Primary 2.md
+      - School Staff/Key Personnel.md
+      - School Staff/Primary 1.md
       - School Rules.md
+      - General Information.md
       - Homework Policy.md
       - School Song.md
