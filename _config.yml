@@ -1,21 +1,21 @@
-title: Title
+title: Damai Primary School
 url: https://www.damaipri.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#103a8a"
+  secondary-color: "#fd9900"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#0c253a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#4c370c"
     - title: media-color-three
-      color: "#00838f"
+      color: "#00318f"
     - title: media-color-four
-      color: "#00838f"
+      color: "#8f4300"
     - title: media-color-five
-      color: "#00838f"
-description: An Isomer site of the Singapore Government
+      color: "#0005db"
+description: To nurture and empower every Damaian to learn, grow and lead.
 permalink: none
 baseurl: ""
 exclude:
