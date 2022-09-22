@@ -6,15 +6,13 @@ third_nav_title: School Staff
 ---
 ### 1A
 
-|<img src="/images/2020%20Ms%20Nur%20Malisa.jpeg" style="width:50%">| |<img src="/images/2020%20Mr%20Eric%20Tan.jpeg" style="width:50%">|
-| -------- | -------- | -------- |
-|<center>Ms Nur Malisa Bte Saukrad Ali<br>nur_malisa_saukrad_ali@schools.gov.sg</center>||<center>Mr Eric Tan<br>eric_tan_wei_chong@schools.gov.sg</center>|
+<img src="/images/2020%20Ms%20Nur%20Malisa.jpeg" style="width:30%"><center>Ms Nur Malisa Bte Saukrad Ali<br>nur_malisa_saukrad_ali@schools.gov.sg</center>
+<img src="/images/2020%20Mr%20Eric%20Tan.jpeg" style="width:30%"><center>Mr Eric Tan<br>eric_tan_wei_chong@schools.gov.sg</center>
 
 ### 1B
 
-|<img src="/images/2020%20Mdm%20Noreha.jpeg" style="width:50%">||<img src="/images/2020%20Mrs%20Dianne%20Ang.jpeg" style="width:50%">|
-| -------- | -------- | -------- |
-|<center>Mdm Noreha Mohamed<br>noreha_mohamed@schools.gov.sg</center>||<center>Mrs Dianne Ang<br>ling_liang_chee_dianne@schools.gov.sg</center>|
+<img src="/images/2020%20Mdm%20Noreha.jpeg" style="width:30%"><center>Mdm Noreha Mohamed<br>noreha_mohamed@schools.gov.sg</center>
+<img src="/images/2020%20Mrs%20Dianne%20Ang.jpeg" style="width:30%"><center>Mrs Dianne Ang<br>ling_liang_chee_dianne@schools.gov.sg</center>
 
 ### 1C
 
