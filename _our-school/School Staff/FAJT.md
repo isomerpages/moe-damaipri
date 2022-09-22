@@ -8,7 +8,7 @@ third_nav_title: School Staff
 
 <img src="/images/2020%20Mdm%20Erh%20Teck%20Choo.jpeg" style="width:30%"><center>Mdm Erh Teck Choo</center>
 
-<img src="/images/2020%20Ms%20Kelly%20Seow.jpeg" style="width:30%">center>Ms Kelly Seow</center>
+<img src="/images/2020%20Ms%20Kelly%20Seow.jpeg" style="width:30%"><center>Ms Kelly Seow</center>
 
 <img src="/images/2020%20Mr%20Ramli.jpeg" style="width:30%"><center>Mr Ramli</center>
 
