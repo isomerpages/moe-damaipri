@@ -1,11 +1,9 @@
 ---
 title: For Students
-permalink: /quick-links/for-students
+permalink: /quick-links/for-students/
 description: ""
 ---
-<a href="https://vle.learning.moe.edu.sg/login">
-<img src="/images/SLS%20Logo.png" width="100" height="132">
-</a>
+<a href="https://vle.learning.moe.edu.sg/login"><img src="/images/SLS%20Logo.png" width="50%"></a>
 
 <a href="https://www.koobits.com/">
 <img src="/images/koobitsmikomin.png" width="100" height="132">
@@ -142,8 +140,3 @@ Password = School Windows Login Password
   </tr>
 </tbody>
 </table>
-
-
-
-
-
