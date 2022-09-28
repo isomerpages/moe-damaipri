@@ -179,5 +179,6 @@ At Damai Primary School, the following Sexuality Education lessons will be taugh
 
 ### Information for Parents
 <div style="text-align:justify;">8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.<br><br>
-9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is also downloadable [here](/files/2022%20SEd%20Opt%20Out%20form.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 26/1/2022.<br><br>10. Parents can contact the school at damai_ps@moe.edu.sg or  **64456483** for discussion or to seek clarification about the school’s sexuality education programme. <br><br>
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is also downloadable <a href="/files/2022%20SEd%20Opt%20Out%20form.pdf">here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 26/1/2022.<br><br>10. Parents can contact the school at damai_ps@moe.edu.sg or  **64456483** for discussion or to seek clarification about the school’s sexuality education programme. <br><br>
 11. Parents, who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangement.</div>
+
