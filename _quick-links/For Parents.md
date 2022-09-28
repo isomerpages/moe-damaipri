@@ -26,5 +26,5 @@ description: ""
 </a>
 
 <a href="https://www.msf.gov.sg/Pages/default.aspx">
-<img src="/images/MSFlogog.png"  style="width:50%">
+<img src="/images/MSFlogog.png"  style="width:40%">
 </a>
