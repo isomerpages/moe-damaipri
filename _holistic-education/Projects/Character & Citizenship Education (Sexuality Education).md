@@ -4,38 +4,25 @@ permalink: /holistic-education/Department/character-n-citizenship-education-sexu
 description: ""
 third_nav_title: Projects
 ---
-
 ### MOE SEXUALITY EDUCATION IN SCHOOLS
-
-1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
-
+<div style="text-align:justify;">1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+<br><br>
 2. The goals of Sexuality Education are:  
-
-*   To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
-*   To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
-*   To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
-
+<br>
+- To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;<br>- To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and<br>- To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+<br><br>
 3. The key messages of Sexuality Education are:  
+<br>- Love and respect yourself as you love and respect others;<br>- Build positive relationships based on love and respect (which are the foundation for strong families);<br>- Make responsible decisions for yourself, your family and society; and<br>- Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-*   Love and respect yourself as you love and respect others;
-*   Build positive relationships based on love and respect (which are the foundation for strong families);
-*   Make responsible decisions for yourself, your family and society; and
-*   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
-
-You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education
+You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education</div>
 
 ### OVERVIEW OF DAMAI PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022
-
-  
-
-4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
-
-  
-5. The subjects that incorporate topics on sexuality include:  
-
-*   Science
-*   Form Teacher Guidance Period (FTGP)
-*   Character and Citizenship Education (CCE)
+<div style="text-align:justify;">4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
+<br><br>
+5. The subjects that incorporate topics on sexuality include:
+<br>- Science
+<br>- Form Teacher Guidance Period (FTGP)
+<br>- Character and Citizenship Education (CCE)</div>
 
 ### Sexuality Education: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
 
@@ -213,6 +200,4 @@ At Damai Primary School, the following Sexuality Education lessons will be taugh
 
   
 
-11. Parents, who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangement
-
-Updated on 20/1/2022
+11. Parents, who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangement.
