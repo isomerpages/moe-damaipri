@@ -22,3 +22,8 @@ The materials located on this Web Site including the information and software pr
 
 **Right of Access**
 <div style="text-align:justify;">Damai Primary School reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.</div>
+
+**Disclaimer of Warranties and Liability**
+<div style="text-align:justify;">The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, Damai Primary School does not warrant and hereby disclaims any warranty:
+<br><br>(a) as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;<br><br>(b) that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.
+<br><br>Damai Primary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site​.</div>
