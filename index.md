@@ -12,9 +12,6 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: https://google.com
         - title: Principal's Letter
           description: ""
           url: /privacy/
@@ -32,5 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
