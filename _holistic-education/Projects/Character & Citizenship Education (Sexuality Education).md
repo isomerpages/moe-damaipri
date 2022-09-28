@@ -14,10 +14,10 @@ third_nav_title: Projects
 3. The key messages of Sexuality Education are:  
 <br>- Love and respect yourself as you love and respect others;<br>- Build positive relationships based on love and respect (which are the foundation for strong families);<br>- Make responsible decisions for yourself, your family and society; and<br>- Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education</div>
+You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education</div>
 
 ### OVERVIEW OF DAMAI PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022
-<div style="text-align:justify;">4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
+<div style="text-align:justify;">4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a> for more information on the scope of Sexuality Education in the school curriculum.
 <br><br>
 5. The subjects that incorporate topics on sexuality include:
 <br>- Science
@@ -181,4 +181,3 @@ At Damai Primary School, the following Sexuality Education lessons will be taugh
 <div style="text-align:justify;">8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.<br><br>
 9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is also downloadable <a href="/files/2022%20SEd%20Opt%20Out%20form.pdf">here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 26/1/2022.<br><br>10. Parents can contact the school at damai_ps@moe.edu.sg or  **64456483** for discussion or to seek clarification about the school’s sexuality education programme. <br><br>
 11. Parents, who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangement.</div>
-
