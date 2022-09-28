@@ -25,9 +25,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 <br>- Character and Citizenship Education (CCE)</div>
 
 ### Sexuality Education: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
-<div style="text-align:justify;">6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.<br><br>7. The Primary 5 & 6 Sexuality Education Teaching and Learing resource package, “Curious Minds (2 nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate *changes*, build healthy *relationships*, especially online relationships, and exercise _safety_.</div>
-
-  
+<div style="text-align:justify;">6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.<br><br>7. The Primary 5 & 6 Sexuality Education Teaching and Learing resource package, “Curious Minds (2 nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate *changes*, build healthy *relationships*, especially online relationships, and exercise *safety*.</div>
 
 At Damai Primary School, the following Sexuality Education lessons will be taught in 2022:
 
@@ -180,17 +178,6 @@ At Damai Primary School, the following Sexuality Education lessons will be taugh
 </table>
 
 ### Information for Parents
-
-8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
-
-  
-
-9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is also downloadable [](/files/2022%20SEd%20Opt%20Out%20form.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 26/1/2022.
-
-  
-
-10. Parents can contact the school at [damai\_ps@moe.edu.sg](mailto:damai_ps@moe.edu.sg) or **64456483** for discussion or to seek clarification about the school’s sexuality education programme.
-
-  
-
-11. Parents, who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangement.
+<div style="text-align:justify;">8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.<br><br>
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is also downloadable [here](/files/2022%20SEd%20Opt%20Out%20form.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 26/1/2022.<br><br>10. Parents can contact the school at damai_ps@moe.edu.sg or  **64456483** for discussion or to seek clarification about the school’s sexuality education programme. <br><br>
+11. Parents, who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangement.</div>
