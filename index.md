@@ -12,13 +12,13 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Principal's Letter to Parents
+        - title: Principal's Letter for Parents
           description: ""
           url: /principal/
         - title: Calendar of Events
           description: ""
           url: https://gmail.com
-        - title: Links for Parents
+        - title: Notification
           description: ""
           url: ""
       subtitle: To nurture and empower every Damaian to learn, grow and lead
