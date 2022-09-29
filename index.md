@@ -21,7 +21,7 @@ sections:
         - title: Notification
           description: For school announcement
           url: ""
-        - title: Links for Parents
+        - title: Information for Parents
           description: Helpful information
           url: ""
       subtitle: To nurture and empower every Damaian to learn, grow and lead
