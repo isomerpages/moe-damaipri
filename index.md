@@ -16,10 +16,13 @@ sections:
           description: ""
           url: /principal/
         - title: Calendar of Events
-          description: ""
+          description: In school
           url: https://gmail.com
         - title: Notification
-          description: ""
+          description: For school announcement
+          url: ""
+        - title: Links for Parents
+          description: Helpful information
           url: ""
       subtitle: To nurture and empower every Damaian to learn, grow and lead
   - infobar:
