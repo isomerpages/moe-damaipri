@@ -12,9 +12,9 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Principal's Letter
+        - title: Principal's Letter to Parents
           description: ""
-          url: /privacy/
+          url: /principal/
         - title: Calendar of Events
           description: ""
           url: https://gmail.com
