@@ -21,7 +21,7 @@ sections:
         - title: Links for Parents
           description: ""
           url: ""
-      subtitle: Every Damaian has self-discipline to uphold the SPARK values
+      subtitle: To nurture and empower every Damaian to learn, grow and lead
   - infobar:
       title: Infobar title
       subtitle: Subtitle
