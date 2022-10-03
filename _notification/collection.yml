@@ -2,5 +2,6 @@ collections:
   notification:
     output: true
     order:
+      - Notification/.keep
       - Principal's Letter.md
       - Calendar of Events.md
