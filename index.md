@@ -20,7 +20,7 @@ sections:
           url: /calendar/
         - title: Notification
           description: For school announcement
-          url: /notification/Announcements/
+          url: /notification/Announcements/elearning/
         - title: One-Stop
           description: Information for parents
           url: /quick-links/for-parents/
