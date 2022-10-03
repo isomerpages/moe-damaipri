@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Calendar of Events.md
-      - Notification/Principal's Letter.md
       - Notification/.keep
