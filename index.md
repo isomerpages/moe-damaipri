@@ -23,7 +23,7 @@ sections:
           url: notification/
         - title: One-Stop
           description: Information for parents
-          url: ""
+          url: /quick-links/for-parents/
       subtitle: To nurture and empower every Damaian to learn, grow and lead
   - infobar:
       title: Infobar title
