@@ -5,6 +5,7 @@ description: ""
 ---
 <div style="text-align:justify;">As part of continuous learning during PSLE Oral Days, P1 to P5 students will be engaged in planned online and offline learning activities. Teachers will monitor students’ learning progress and provide the necessary support when they are back in school.</div>
 
+<b><font size="4">E-Learning Timetable (PSLE Oral 15 &amp; 16 August)</font></b>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -17,116 +18,50 @@ description: ""
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
 <table class="tg"><thead><tr>
-    <th class="tg-dwlh">A</th>
-    <th class="tg-dwlh">B</th>
-    <th class="tg-dwlh">C</th>
-    <th class="tg-dwlh">D</th>
+    <th class="tg-dwlh"></th>
+    <th class="tg-dwlh">EL</th>
+    <th class="tg-dwlh">MA</th>
+    <th class="tg-dwlh">MT</th>
+	  <th class="tg-dwlh">SC</th>
+    <th class="tg-dwlh">PE</th>
+    <th class="tg-dwlh">ART</th>
+    <th class="tg-dwlh">MU</th>
   </tr></thead><tbody>
   <tr>
-    <td class="tg-n4qt">bold text</td>
-    <td class="tg-ku5w">normal center text</td>
-    <td class="tg-y7qa">normal left</td>
-    <td class="tg-ku5w">normal center text</td>
+		<td class="tg-n4qt"><b>P1 & P2</b></td>
+    <td class="tg-ku5w">online</td>
+    <td class="tg-ku5w">hardcopy</td>
+    <td class="tg-ku5w">online</td>
+    <td class="tg-ku5w">-</td>
+    <td class="tg-ku5w">online</td>
+    <td class="tg-ku5w">hardcopy</td>
+    <td class="tg-ku5w">-</td>
   </tr><tr>
-    <td class="tg-n4qt">E</td>
-    <td class="tg-ku5w">F</td>
-    <td class="tg-y7qa">G</td>
-    <td class="tg-ku5w">H</td>
+    <td class="tg-n4qt"><b>P3 & P4</b></td>
+    <td class="tg-ku5w">online</td>
+    <td class="tg-ku5w">hardcopy</td>
+    <td class="tg-ku5w">online</td>
+    <td class="tg-ku5w">hardcopy</td>
+    <td class="tg-ku5w">online</td>
+    <td class="tg-ku5w">-</td>
+    <td class="tg-ku5w">-</td>
+  </tr><tr>
+    <td class="tg-n4qt"><b>P5</b></td>
+    <td class="tg-ku5w">online</td>
+    <td class="tg-ku5w">hardcopy</td>
+    <td class="tg-ku5w">online</td>
+    <td class="tg-ku5w">hardcopy</td>
+    <td class="tg-ku5w">-</td>
+    <td class="tg-ku5w">-</td>
+    <td class="tg-ku5w">online</td>
   </tr></tbody></table>
 
-<b><font size="4">E-Learning Timetable (PSLE Oral 15 &amp; 16 August)</font></b>
-<table class="ive_eobj_center iveo_table ives_tab_dark" style="width: 585px; height: 143px;">
-<tbody>
-<tr>
-<td style="width: 72px;"><br>
-</td>
-<td style="width: 72px;"><b>EL
-</b>
-</td>
-<td style="width: 72px;"><b>MA
-</b>
-</td>
-<td style="width: 72px;"><b>MT
-</b>
-</td>
-<td style="width: 72px;"><b>SC
-</b>
-</td>
-<td style="width: 72px;"><b>PE
-</b>
-</td>
-<td style="width: 72px;"><b>ART
-</b>
-</td>
-<td style="width: 72px;"><b>MU
-</b>
-</td>
-</tr>
-<tr>
-<td><b>P1 &amp; P2
-</b>
-</td>
-<td>online
-</td>
-<td>hardcopy
-</td>
-<td>online
-</td>
-<td>-
-</td>
-<td>online
-</td>
-<td>hardcopy
-</td>
-<td>-
-</td>
-</tr>
-<tr>
-<td><b>P3 &amp; P4
-</b>
-</td>
-<td>online
-</td>
-<td>hardcopy
-</td>
-<td>online
-</td>
-<td>hardcopy
-</td>
-<td>online
-</td>
-<td>-
-</td>
-<td>-
-</td>
-</tr>
-<tr>
-<td style="width: 60px;"><b>P5
-</b>
-</td>
-<td style="width: 60px;">online
-</td>
-<td style="width: 60px;">hardcopy
-</td>
-<td style="width: 60px;">online
-</td>
-<td style="width: 60px;">hardcopy
-</td>
-<td style="width: 60px;">-
-</td>
-<td style="width: 60px;">-
-</td>
-<td style="width: 60px;">online
-</td>
-</tr>
-</tbody>
-</table>
 <ul>
-<li>30 - 45 minutes of asynchronous learning - No Live lessons
-</li>
-<li>Assignments can include worksheets, workbook, activities such as reading, general knowledge videos, quizzes, puzzles etc
-</li>
-</ul><br>Please click on the link below to view the Instructional Guide for the different subjects<br>
+<li>30 - 45 minutes of asynchronous learning - No Live lessons</li>
+<li>Assignments can include worksheets, workbook, activities such as reading, general knowledge videos, quizzes, puzzles etc</li>
+</ul>
+<br>Please click on the link below to view the Instructional Guide for the different subjects<br>
+
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
 <tr>
