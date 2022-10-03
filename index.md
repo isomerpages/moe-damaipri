@@ -26,9 +26,10 @@ sections:
           url: /quick-links/for-parents/
       subtitle: To nurture and empower every Damaian to learn, grow and lead
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: P3 & P4 eLearning
+      subtitle: 29th Sep - 4th Oct 2022
+      description: Students will be engaged in planned online and offline learning
+        activities.
+      button: Click here to read more
+      url: /notification/Announcements/elearning/
 ---
