@@ -17,7 +17,7 @@ sections:
           url: /principal/
         - title: Calendar of Events
           description: In school
-          url: https://gmail.com
+          url: calendar/
         - title: Notification
           description: For school announcement
           url: ""
