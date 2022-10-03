@@ -6,7 +6,7 @@ third_nav_title: Announcements
 ---
 <div style="text-align:justify;">P3 to P4 students will be engaged in planned online and offline learning activities. Teachers will monitor students’ learning progress and provide the necessary support when they are back in school.</div>
 
-<b><font size="4">E-Learning Timetable</font></b>
+<b><font size="4">E-Learning Timetable (29th Sep to 4th Oct 2022)</font></b>
 
 ![](/images/Announcement/2022%2009%2027%20lesson.png)
 
