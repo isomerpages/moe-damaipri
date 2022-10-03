@@ -34,12 +34,6 @@ sections:
       url: /notification/Announcements/elearning/
       alt: Image alt text
       image: /images/Announcement/2022-09-27-elearning-banner3a.jpg
-  - infobar:
-      title: Principal's Letter
-      subtitle: 2nd Aug 2022
-      description: The latest monthly letter about school updates
-      button: Click here for Aug & Sept
-      url: /files/Principal_letters/2022/2022%2002%20August%20%20Principals%20Letter.pdf
   - infopic:
       title: Principal's Letter
       subtitle: 2nd Aug 2022
@@ -48,4 +42,11 @@ sections:
       url: /files/Principal_letters/2022/2022%2002%20August%20%20Principals%20Letter.pdf
       image: /images/Announcement/2022 principalletter.png
       alt: principalletter
+  - infopic:
+      title: Useful Links
+      description: Links for students, parents and staff
+      button: Check it out
+      url: /quick-links/
+      image: /images/Announcement/2022 quicklink.png
+      alt: Image alt text
 ---
