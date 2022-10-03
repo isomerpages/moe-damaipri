@@ -3,7 +3,7 @@ title: Table template
 permalink: /tabletemplate/
 description: ""
 ---
-<div style="text-align:justify;">As part of continuous learning during PSLE Oral Days, P1 to P5 students will be engaged in planned online and offline learning activities. Teachers will monitor students’ learning progress and provide the necessary support when they are back in school.</div>
+<div style="text-align:justify;">text</div>
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
