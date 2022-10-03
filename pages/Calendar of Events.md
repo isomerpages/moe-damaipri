@@ -22,4 +22,4 @@ description: ""
 14 Nov - P1 2023 Orientation Day<br>
 17 Nov - Parent Teacher Meeting Selected students<br>
 18 Nov - Prize Giving Day<br>
-19 Nov~31 Dec - December School Holidays<br>
+19 Nov ~ 31 Dec - December School Holidays<br>
