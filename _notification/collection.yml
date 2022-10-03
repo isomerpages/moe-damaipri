@@ -2,8 +2,6 @@ collections:
   notification:
     output: true
     order:
-      - Parents Gateway.md
-      - Student Learning Space (SLS).md
       - Principal's Letter.md
       - Calendar of Events.md
       - Announcements/.keep
@@ -14,3 +12,5 @@ collections:
         2021.md
       - Announcements/DSA Sec for Primary 6 students.md
       - Announcements/What is your child learning in Social Studies?.md
+      - Parents Gateway.md
+      - Student Learning Space (SLS).md
