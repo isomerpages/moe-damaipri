@@ -5,5 +5,4 @@ description: ""
 third_nav_title: Announcements
 ---
 <div style="text-align:justify;">The Social Studies Primary Unit (Humanities Branch, CPDD2) recently produced a video to raise awareness about the value of Social Studies Primary as a subject. The title of the video is “What is your child learning in Social Studies?” and features students who share candidly about why they think they are learning the subject. It aims to help parents and educators realise the importance of Social Studies in developing their children beyond grades and examinations.  As a subject, Social Studies equips our children with key 21st century knowledge, values and skills to take on the challenges of working and living harmoniously with people from diverse cultures and backgrounds in Singapore, our region and beyond.</div>
-<div style="text-align: center;"><span style="background-color: transparent;"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/SDCkCj7sm8s?ecver=1" height="315" width="560"></iframe></span>
-</div>
+<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/SDCkCj7sm8s?ecver=1" height="315" width="560"></iframe>
