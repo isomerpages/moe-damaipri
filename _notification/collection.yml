@@ -2,4 +2,5 @@ collections:
   notification:
     output: true
     order:
+      - Calendar of Events.md
       - Principal's Letter.md
