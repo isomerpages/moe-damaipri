@@ -35,10 +35,9 @@ sections:
       alt: Image alt text
       image: /images/Announcement/2022-09-27-elearning-banner3a.jpg
   - infobar:
-      title: P3 & P4 eLearning
-      subtitle: 29th Sep - 4th Oct 2022
-      description: Students will be engaged in planned online and offline learning
-        activities.
-      button: Click here to read more
-      url: /notification/Announcements/elearning/
+      title: Principal's Letter
+      subtitle: 2nd Aug 2022
+      description: The latest monthly letter about school updates
+      button: Click here for Aug & Sept
+      url: /files/Principal_letters/2022/2022%2002%20August%20%20Principals%20Letter.pdf
 ---
