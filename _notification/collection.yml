@@ -1,0 +1,4 @@
+collections:
+  notification:
+    output: true
+    order: []
