@@ -17,10 +17,10 @@ sections:
           url: /principal/
         - title: Calendar of Events
           description: In school
-          url: calendar/
+          url: /calendar/
         - title: Notification
           description: For school announcement
-          url: notification/
+          url: /notification/
         - title: One-Stop
           description: Information for parents
           url: /quick-links/for-parents/
