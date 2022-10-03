@@ -1,4 +1,5 @@
 collections:
   notification:
     output: true
-    order: []
+    order:
+      - Principal's Letter.md
