@@ -5,6 +5,12 @@ description: ""
 ---
 ![](/images/Random/2022teachersdaybanner2.jpg)
 
+# School Leaders
+| Role | Name |
+| -------- | -------- |
+|Principal|[Mrs Jenny Leong](https://dmps.padlet.org/khairulharis_karem1/siughkl2wavwd7di)|
+|Vice-Principal|[Mdm Lim Peck Chin Yenlyn](https://dmps.padlet.org/khairulharis_karem1/l87ccr1pqay1ajnm)|
+|Vice-Principal|[Mr Mohamed Juraimi Bin Abdul Muhin](https://dmps.padlet.org/khairulharis_karem1/kaikl1q5kkz8bpnk)|
 
 # P1
 | Level | Name |
