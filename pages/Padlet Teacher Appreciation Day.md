@@ -129,33 +129,23 @@ description: ""
 # School Admin Team
 | Role | Name |
 | -------- | -------- |
-|SAT|[Ms Gwendolyn Ong](https://dmps.padlet.org/khairulharis_karem1/oeilop8m3g7amu2y)|
-|P1|[Mr Hamim B Hashim](https://dmps.padlet.org/khairulharis_karem1/vetp9o38ckkctkqq)|
-|P1|[Miss Normala Ab Hamid](https://dmps.padlet.org/khairulharis_karem1/gi8r8va7tkw4twu0)|
-|P1|[Mr Hadi Mulyono Bin Wakiono](https://dmps.padlet.org/khairulharis_karem1/i5m0rv3k1srj9d7y)|
-|P1|[Mr Jeffery Wong](https://dmps.padlet.org/khairulharis_karem1/6u78i3dwqe8ypccn)|
-|P1|[Mdm Lee Sok Cheng Susan](https://dmps.padlet.org/khairulharis_karem1/dbp4xq7l95afia6v)|
-|P1|[Mdm Surinah Sapuan Ali](https://dmps.padlet.org/khairulharis_karem1/59f3q09h2nd4q3x3)|
-|P1|[Mdm Faizah Mohd Ghalib](https://dmps.padlet.org/khairulharis_karem1/wte0q9sfun0i32my)|
-|P1|[Mdm Lee Ngok Chow](https://dmps.padlet.org/khairulharis_karem1/osob2h903l4m7980)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
-|P1|[yyy](xxxx)|
+|AM|[Ms Gwendolyn Ong](https://dmps.padlet.org/khairulharis_karem1/oeilop8m3g7amu2y)|
+|OM|[Mr Hamim B Hashim](https://dmps.padlet.org/khairulharis_karem1/vetp9o38ckkctkqq)|
+|SAT|[Miss Normala Ab Hamid](https://dmps.padlet.org/khairulharis_karem1/gi8r8va7tkw4twu0)|
+|SAT|[Mr Hadi Mulyono Bin Wakiono](https://dmps.padlet.org/khairulharis_karem1/i5m0rv3k1srj9d7y)|
+|SAT|[Mr Jeffery Wong](https://dmps.padlet.org/khairulharis_karem1/6u78i3dwqe8ypccn)|
+|SAT|[Mdm Lee Sok Cheng Susan](https://dmps.padlet.org/khairulharis_karem1/dbp4xq7l95afia6v)|
+|SAT|[Mdm Surinah Sapuan Ali](https://dmps.padlet.org/khairulharis_karem1/59f3q09h2nd4q3x3)|
+|OSO|[Mdm Faizah Mohd Ghalib](https://dmps.padlet.org/khairulharis_karem1/wte0q9sfun0i32my)|
+|OSO|[Mdm Lee Ngok Chow](https://dmps.padlet.org/khairulharis_karem1/osob2h903l4m7980)|
+|OSO|[Mdm Chua Cheng Kee](https://dmps.padlet.org/khairulharis_karem1/9xjxgg80iyuyhfxq)|
+|OSO|[Mdm S Usarani](https://dmps.padlet.org/khairulharis_karem1/msrtkkojch5n5r2c)|
+|OSO|[Mdm Teng Juat Ngoh](https://dmps.padlet.org/khairulharis_karem1/dexdjpsq4xge5e1e)|
+|OSO|[Ms Pauline Poh](https://dmps.padlet.org/khairulharis_karem1/9dgowpwgbi6yuw5z)|
+|OSO|[Mr Osman Bin Abu](https://dmps.padlet.org/khairulharis_karem1/pfnl9e85k8n5ti1t)|
+|Librarian|[Mr Yong Ming Sheng](https://dmps.padlet.org/khairulharis_karem1/yong)|
+|Desktop Engineer|[Mr Azrin Bin Azman](https://dmps.padlet.org/khairulharis_karem1/Azrin)|
+|Desktop Engineer|[Mr Yang Zhi Bin](https://dmps.padlet.org/khairulharis_karem1/Yang)|
+|Security Guard|[Mdm Chomil](https://dmps.padlet.org/khairulharis_karem1/j33qx7vs8hbuqfcu)|
+|Security Guard|[Mr Ang Hoe Heng](https://dmps.padlet.org/khairulharis_karem1/6a65llx9hpzdy2ps)|
+|Security Guard|[Mr Lim B Soon](https://dmps.padlet.org/khairulharis_karem1/uvdtx3jli7z8pbx1)|
