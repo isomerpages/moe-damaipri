@@ -51,14 +51,12 @@ Our heartfelt congratulations to Mr Arasan for the stellar performance of in his
 ![](/images/2020%20clean%20plate%20campaign.jpeg)
 
 Clean Plate Campaign (CPC) is started in conjunction with World Food Day – a global movement to end hunger and reduce food wastage. This year, CPC was done a bit differently compared to the previous years in 2 different ways:
-
   
 
 1. For every clean plate counted, $1 will be donated to FFTH food programme – Project Belanja! Where lower income beneficiaries get to enjoy a hot meal. (Officially, $50000 from sponsors is the amount pooled together for this project.)
 
 2. Staff from Food From the Heart (FFTH) did not come down to count the clean plates for us. Mr Arasan, Mrs Mak, Shirley and Christine Lim helped to do the counting during the various recesses, together with some students from 6A, 6E and some prefects from Primary 5 level. We would like to thank them very much for their help!
-
-  
+ 
 
 The campaign lasted a week (12/10 to 16/10) and our school counted a total of 1,599 clean plates! However, we are not sure how much contributed to Project Belanja since the official sponsored amount is $50000. The photo below shows the certificate given by FFTH.
 
