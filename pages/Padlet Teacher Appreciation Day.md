@@ -126,7 +126,7 @@ description: ""
 |FAJT|[Ms Rahayu Binte Mohamed Haled](https://dmps.padlet.org/khairulharis_karem1/o5ap3lf7z79zgxtg)|
 |FAJT|[Ms Suraiya Binte Noor Mohamed](https://dmps.padlet.org/khairulharis_karem1/a7q1t4jof9kxoxo6)|
 
-# FAJT
+# School Admin Team
 | Role | Name |
 | -------- | -------- |
 |P1|[yyy](xxxx)|
