@@ -3,6 +3,9 @@ title: P1 P5 ELearning Template
 permalink: /elearningtemplatep1to5/
 description: ""
 ---
+<img src="/images/design%20girl%202a.png" 
+     style="width:15%">
+		 
 <div style="text-align:justify;">As part of continuous learning during PSLE Oral Days, P1 to P5 students will be engaged in planned online and offline learning activities. Teachers will monitor students’ learning progress and provide the necessary support when they are back in school.</div>
 
 <b><font size="4">E-Learning Timetable (PSLE Oral 15 &amp; 16 August)</font></b>
