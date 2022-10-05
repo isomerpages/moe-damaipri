@@ -26,14 +26,14 @@ sections:
           url: /quick-links/for-parents/
       subtitle: To nurture and empower every Damaian to learn, grow and lead
   - infopic:
-      title: P3 & P4 eLearning
-      subtitle: 29th Sep - 4th Oct 2022
+      title: P1 & P5 eLearning
+      subtitle: 17th Oct - 20th Oct 2022
       description: Students will be engaged in planned online and offline learning
         activities.
       button: Click here to read more
       url: /notification/Announcements/elearning/
       alt: Image alt text
-      image: /images/Announcement/2022-09-27-elearning-banner3a.jpg
+      image: /images/Announcement/2022 10 05 p1p5.jpg
   - infopic:
       title: Principal's Letter
       subtitle: 2nd Aug 2022
