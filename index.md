@@ -39,7 +39,7 @@ sections:
       subtitle: 10th Oct 2022
       description: The latest monthly letter about school updates
       button: Click here for Oct
-      url: /files/Principal_letters/2022/2022%2002%20August%20%20Principals%20Letter.pdf
+      url: /principal/
       image: /images/Announcement/2022 principalletter.png
       alt: principalletter
   - infopic:
