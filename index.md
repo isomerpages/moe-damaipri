@@ -21,9 +21,6 @@ sections:
         - title: Notification
           description: For school announcement
           url: /notification/Announcements/elearning/
-        - title: One-Stop
-          description: Information for parents
-          url: /quick-links/for-parents/
       subtitle: To nurture and empower every Damaian to learn, grow and lead
   - infopic:
       title: P1 & P5 eLearning
