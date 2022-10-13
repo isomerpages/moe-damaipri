@@ -33,3 +33,16 @@ description: ""
     <td class="tg-y7qa">G</td>
     <td class="tg-ku5w">H</td>
   </tr></tbody></table>
+	
+<table align="center"><thead><tr class="Jeff's blog table class">
+<td>xxxx</td>
+<td>xxxx</td>
+</tr></thead>
+  <tbody><tr>
+<td>xxxx</td>
+<td>xxxx</td>
+</tr><tr>
+<td>xxxx</td>
+<td>xxxx</td>
+</tr>
+</tbody></table>
