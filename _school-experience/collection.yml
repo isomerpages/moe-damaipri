@@ -2,7 +2,6 @@ collections:
   school-experience:
     output: true
     order:
-      - Virtual Open House 2021.md
       - Gallery/.keep
       - Gallery/2022.md
       - Gallery/2021.md
