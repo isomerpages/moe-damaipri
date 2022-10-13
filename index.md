@@ -21,6 +21,7 @@ sections:
           description: For school announcement
           url: /notification/Announcements/elearning/
       subtitle: To nurture and empower every Damaian to learn, grow and lead
+      background: /images/HomeMatter/hero-banner-mascot3.jpg
   - infopic:
       title: P1 & P5 eLearning
       subtitle: 17th Oct - 20th Oct 2022
