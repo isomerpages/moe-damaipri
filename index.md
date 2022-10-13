@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Damai Primary School
-      background: /images/HomeMatter/hero-banner mascot2.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
