@@ -46,8 +46,4 @@ sections:
       url: /quick-links/for-students/
       image: /images/Announcement/2022 quicklink.png
       alt: Image alt text
-  - resources:
-      title: sample
-      subtitle: Information
-      button: find out more
 ---
