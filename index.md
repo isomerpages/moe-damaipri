@@ -11,8 +11,8 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Principal's Letter for Parents
-          description: ""
+        - title: Principal's Letter
+          description: for Parents
           url: /principal/
         - title: Calendar of Events
           description: In school
