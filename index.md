@@ -23,15 +23,6 @@ sections:
       subtitle: To nurture and empower every Damaian to learn, grow and lead
       background: /images/HomeMatter/hero-banner-mascot3a.jpg
   - infopic:
-      title: P1 & P5 eLearning
-      subtitle: 17th Oct - 20th Oct 2022
-      description: Students will be engaged in planned online and offline learning
-        activities.
-      button: Click here to read more
-      url: /notification/Announcements/elearning/
-      alt: Image alt text
-      image: /images/Announcement/2022 10 05 p1p5.jpg
-  - infopic:
       title: Principal's Letter
       subtitle: 10th Oct 2022
       description: The latest monthly letter about school updates
