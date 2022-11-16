@@ -24,9 +24,9 @@ sections:
       background: /images/HomeMatter/hero-banner-mascot3a.jpg
   - infopic:
       title: Principal's Letter
-      subtitle: 10th Oct 2022
+      subtitle: 15th Nov 2022
       description: The latest monthly letter about school updates
-      button: Click here for Oct
+      button: Click here for Nov
       url: /principal/
       image: /images/Announcement/2022 principalletter.png
       alt: principalletter
