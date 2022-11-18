@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Damai Primary School
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Principal's Letter
           description: for Parents
