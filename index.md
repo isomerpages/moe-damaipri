@@ -18,7 +18,7 @@ sections:
         - title: Notification
           description: For school announcement
           url: /notification/Announcements/elearning/
-      subtitle: To nurture and empower every Damaian to learn, grow and lead
+      subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3a.jpg
   - infopic:
       title: Principal's Letter
