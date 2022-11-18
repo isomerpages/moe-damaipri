@@ -1,6 +1,6 @@
 ---
 title: School Vision and Mission
-permalink: /our-school/school-vision-and-mission
+permalink: /our-school/school-vision-and-mission/
 description: ""
 ---
 <style type="text/css">
@@ -35,7 +35,15 @@ description: ""
   </tr>
 </tbody>
 </table>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a5i5" colspan="2">Mission</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-muqq">To nurture and empower every Damaian to learn, grow and lead</td></tr>
+  </tbody>
+</table>
 
-| Mission |
-| --- |
-| To nurture and empower every Damaian to learn, grow and lead |
