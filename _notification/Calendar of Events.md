@@ -3,13 +3,8 @@ title: Calendar of Events
 permalink: /calendar/
 description: ""
 ---
-
-
-
 | Date | Event |
 | -------- | -------- |
-| 3 Oct | PSLE Mother Tongue/Foundation Mother Tongue |
-| 4 Oct | PSLE Science/Foundation Science |
 | 3 ~ 4 Oct | eLearning for P4 Students |
 | 5 Oct | PSLE Higher Mother Tongue |
 | 17 ~ 20 Oct | PSLE Marking Days (No School) |
