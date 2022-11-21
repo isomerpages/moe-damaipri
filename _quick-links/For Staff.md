@@ -1,6 +1,6 @@
 ---
 title: For Staff
-permalink: /quick-links/for-staff
+permalink: /quick-links/for-staff/
 description: ""
 ---
 ### Useful links for staff (Authorised Users Only)
@@ -91,14 +91,7 @@ description: ""
     <td class="tg-r3ha"><a href="https://www.haze.gov.sg/"><span style="text-decoration:none;color:#0058D1">Haze Situation Update</span></a></td>
     <td class="tg-zr06">https://www.haze.gov.sg/</td>
   </tr>
-  <tr>
-    <td class="tg-r3ha"><a href="https://www.gebiz.gov.sg/egov/"><span style="text-decoration:none;color:#0058D1">Digital AOR</span></a></td>
-    <td class="tg-zr06">https://www.gebiz.gov.sg/egov/</td>
-  </tr>
-  <tr>
-    <td class="tg-r3ha"><a href="https://esms.stsynthesis.com/MOE/Default.aspx"><span style="text-decoration:none;color:#0058D1">Loan Asset</span></a> from ST Engineering</td>
-    <td class="tg-zr06">https://esms.stsynthesis.com/MOE/Default.aspx</td>
-  </tr>
+
   <tr>
     <td class="tg-r3ha"><a href="https://dmpspic.blogspot.com/"><span style="text-decoration:none;color:#0058D1">Media Archive</span></a> (Authorised Users Only)</td>
     <td class="tg-zr06">-</td>
