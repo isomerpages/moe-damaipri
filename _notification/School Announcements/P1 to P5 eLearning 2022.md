@@ -16,9 +16,7 @@ third_nav_title: School Announcements
 </ul>
 Please click on the link below to view the Instructional Guide for the different subjects<br><br>
 
-<table style="width: 100%;">
-<tbody>
-<tr>
+<table style="width: 100%;"><tbody><tr>
 <td style="width: 20%;"><b>1A</b></td>
 <td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5gk9AjLN3cg-jvgZav_7ewf9lEkX5wj5TcHGNqaBJnluc1025h-j9yzRTgf3cxzBxaSS6Nu9cWjRE/pubhtml?gid=1097046089&amp;single=true" target="_blank">17 Oct</a></td>
 <td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5gk9AjLN3cg-jvgZav_7ewf9lEkX5wj5TcHGNqaBJnluc1025h-j9yzRTgf3cxzBxaSS6Nu9cWjRE/pubhtml?gid=633891222&amp;single=true" target="_blank">18 Oct</a></td>
@@ -168,6 +166,4 @@ Please click on the link below to view the Instructional Guide for the different
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTttmBOc5uEMBTSkpu_EfcvMsjngWcOwYOM_7GgA1cQs95OfB6ow8MFHVw4qPcmMmZDfG7wMeAhs3vd/pubhtml?gid=218587213&amp;single=true" target="_blank">18 Oct</a></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTttmBOc5uEMBTSkpu_EfcvMsjngWcOwYOM_7GgA1cQs95OfB6ow8MFHVw4qPcmMmZDfG7wMeAhs3vd/pubhtml?gid=1097311923&amp;single=true" target="_blank">19 Oct</a></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTttmBOc5uEMBTSkpu_EfcvMsjngWcOwYOM_7GgA1cQs95OfB6ow8MFHVw4qPcmMmZDfG7wMeAhs3vd/pubhtml?gid=1859289504&amp;single=true" target="_blank">20 Oct</a></td>
-</tr>
-</tbody>
-</table><br>
+</tr></tbody></table><br>
