@@ -17,16 +17,10 @@ third_nav_title: School Staff
 *   **Miss Woo Ying Qi - woo_ying_qi@schools.gov.sg**  
 
 ### 6D
-
-<table align="center"><thead><tr class="Jeff's blog table class">
-<td style="width:50%"><img src="/images/2020%20Mr%20Foo.jpeg" style="width:100px"><center>Mr Foo Chao Hen<br>foo_chao_hen@schools.gov.sg</center></td>
-<td style="width:50%"><img src="/images/2020%20Mr%20Samuel%20See.jpeg" style="width:100px"><center>Mr Samuel See Tze Yang<br>see_tze-yang_samuel@schools.gov.sg</center></td></tr></thead></table>
-<table align="center"><thead><tr class="Jeff's blog table class">
-<td style="width:50%"><img src="/images/2020%20Mdm%20Dahalia.jpeg" style="width:100px"><center>Mdm Dahalia Abbas<br>dahalia_abbas@schools.gov.sg</center></td>
-<td style="width:50%"></td></tr></thead></table>
+*   **Mr Foo Chao Hen - foo_chao_hen@schools.gov.sg**  
+*   **Mr Samuel See Tze Yang - see_tze-yang_samuel@schools.gov.sg**  
+*   **Mdm Dahalia Abbas - dahalia_abbas@schools.gov.sg**  
 
 ### Primary 6
-
-<table align="center"><thead><tr class="Jeff's blog table class">
-<td style="width:50%"><img src="/images/2020%20Mr%20Won.jpeg" style="width:100px"><center>Mr Won Wee Son<br>Student Welfare Education Officer<br>won_wee_son@schools.gov.sg</center></td>
-<td style="width:50%"><img src="/images/2020%20Mr%20K%20Malaiarasu.jpeg" style="width:100px"><center>Mr K Malaiarasu<br>k_malaiarasu@schools.gov.sg</center></td></tr></thead></table>
+*   **Mr Won Wee Son - won_wee_son@schools.gov.sg**   - Student Welfare Education Officer
+*   **Mr K Malaiarasu - k_malaiarasu@schools.gov.sg**  
