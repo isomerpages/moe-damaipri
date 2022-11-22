@@ -6,9 +6,8 @@ third_nav_title: School Staff
 ---
 ### 6A
 
-<table align="center"><thead><tr class="Jeff's blog table class">
-<td style="width:50%"><img src="/images/2020%20Mdm%20Rozi.jpeg" style="width:100px"><center>Mdm Rozi Bahar<br>rozi_bahari@schools.gov.sg</center></td>
-<td style="width:50%"><img src="/images/2020%20Mdm%20Pang.jpeg" style="width:100px"><center>Mdm Pang Siew Yin<br>pang_siew_yin@schools.gov.sg</center></td></tr></thead></table>
+*   **Mdm Rozi Bahar - rozi_bahari@schools.gov.sg**  
+*   **Mdm Pang Siew Yin - pang_siew_yin@schools.gov.sg**  
 
 ### 6B
 
