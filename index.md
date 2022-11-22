@@ -21,6 +21,14 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3a.jpg
   - infopic:
+      title: P1 Orientation Day Slide
+      subtitle: "2022"
+      description: Dear Parents of P1 students 2023, please click here for the P1
+        Orientation Slides
+      button: Click here
+      url: /files/Announcement/2022/P1%20Orientation%20Day%202022_Hall%20Slides_website.pdf
+      image: /images/Announcement/2022 11 22 p1.png
+  - infopic:
       title: Principal's Letter
       subtitle: 15th Nov 2022
       description: The latest monthly letter about school updates
