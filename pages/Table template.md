@@ -46,3 +46,7 @@ description: ""
 <td>xxxx</td>
 </tr>
 </tbody></table>
+
+<table align="center"><thead><tr class="Jeff's blog table class">
+<td style="width:50%"><img src="/images/2020%20Ms%20Christine.jpeg" style="width:100px"><center>Ms Christine Danielle Teo Hui Shan<br>christine_teo_hui_shan@schools.gov.sg</center></td>
+<td style="width:50%"><img src="/images/2020%20Miss%20Lam.jpeg" style="width:100px"><center>Miss Lam Hui Zhen<br>lam_hui_zhen@schools.gov.sg</center></td></tr></thead></table>
