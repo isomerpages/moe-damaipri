@@ -27,7 +27,8 @@ sections:
         Orientation Slides
       button: Click here
       url: /files/Announcement/2022/P1%20Orientation%20Day%202022_Hall%20Slides_website.pdf
-      image: /images/Announcement/2022 11 22 p1.png
+      image: /images/Announcement/20221122p1slide.png
+      alt: 2022p1slide
   - infopic:
       title: Principal's Letter
       subtitle: 15th Nov 2022
