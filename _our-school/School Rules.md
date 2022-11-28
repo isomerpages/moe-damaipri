@@ -41,28 +41,21 @@ description: ""
 
 ![](/images/hair.png)
 
-**Accessories**  
-
-*   Jewellery and accessories apart from a watch are strictly NOT allowed. Only small simple ear studs for girls.
-*   No religious ornaments should be worn.
-
-![](/images/2020%20uniform.jpeg)
+![](/images/Random/2023%20uniform.png)
 
 Attendance
 ----------
-
-*   Students are to be punctual for all school activities.
-*   Parents must keep the school informed when their children are unable to attend school.
-*   A medical certificate and/or a letter from the parents must be submitted to cover any absence from school.
-*   Students must sit for all scheduled tests and examinations unless certified medically unfit by a doctor.
-*   Permission must be sought from the Form Teachers to leave early in the event of illness or unexpected circumstances.
-*   Parents/Guardians must sign out at the office before they can take the child/ ward home.
+* Students are to be punctual for all school activities.
+* Parents must keep the school informed when their children are unable to attend school.
+* A medical certificate and/or a letter from the parents must be submitted to cover any absence from school.
+* Students must sit for all scheduled tests and examinations unless certified medically unfit by a doctor.
+* Permission must be sought from the Form Teachers to leave early in the event of illness or unexpected circumstances.
+* Parents/Guardians must sign the early dismissal form at the general office before they can take the child/ward home.
 
 School Disciplinary Matters
 ---------------------------
 
 The school believes that good discipline is an important factor to help create a positive school with a conducive environment for our students. Students learn well when there is order and discipline. While we try our best to teach and instil self-discipline in our students, we seek parents’ understanding that disciplinary action may be imposed on students who violated the school rules.
-
   
 Students who have committed offences are referred to the Disciplinary Board which decides on the appropriate consequences. Disciplinary action meted out to the student will depend on the severity of the offence. These can be in the form of:  
 
@@ -92,15 +85,14 @@ Thereafter, the errant student(s) will be counselled.
 <tbody>
   <tr>
     <td class="tg-zr06">• Being late for school consistently (after 7.30 am)<br>• Truancy<br>• Skipping lessons<br>• Cheating in tests/assessments<br>• Improper attire<br>• Open defiance<br>• Bullying/Cyberbullying<br>• Disruptive Behaviour<br>• Abuse of technology<br>• Forgery</td>
-    <td class="tg-zr06">• Gambling<br>• Wilful Absentism<br>• Smoking<br>• Fighting<br>• Gangsterism<br>• Vandalism<br>• Arson<br>• Theft/Shoplifting<br>• Possession of pornographic materials<br>• Use of vulgarities</td>
+    <td class="tg-zr06">• Gambling<br>• Wilful Absentism<br>• Smoking/Vaping<br>• Fighting<br>• Gangsterism<br>• Vandalism<br>• Arson<br>• Theft/Shoplifting<br>• Possession of pornographic materials<br>• Use of vulgarities</td>
   </tr>
 </tbody>
 </table>
 
 **Note: When a student has been issued a Warning Letter, his/her conduct grade will be ‘Fair’.**  
 
-  
 
 ### Photographs/Video Images of Student for Non-Commercial Use
 
-Photograph(s) or video image(s) of your child/ward may be captured during school activities and events such as classroom lessons, CCAs, school camps and school concerts. These images may be used in displays, presentations, publications or other related materials, in any format (print, electronic,web or other media) for the purposes of documentation or non-commerical use. Please write to the school if you do not wish your child/ward’s image(s) to be used in 2022.
+Photograph(s) or video image(s) of your child/ward may be captured during school activities and events such as classroom lessons, CCAs, school camps and school concerts. These images may be used in displays, presentations, publications or other related materials, in any format (print, electronic,web or other media) for the purposes of documentation or non-commerical use. Please write to the school if you do not wish your child/ward’s image(s) to be used in 2023.
