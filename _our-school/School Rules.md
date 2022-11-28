@@ -38,7 +38,7 @@ description: ""
 *   Hair should be neat and tidy.
 *   Long hair must be tied up neatly with a black or blue ribbon.  
 *   Long fringe must be pinned up neatly with black blue hair clips.
-*   
+
 ![](/images/hair.png)
 
 **Accessories**  
