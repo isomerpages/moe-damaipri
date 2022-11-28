@@ -1,39 +1,35 @@
 ---
 title: School Rules
-permalink: /our-school/school-rules
+permalink: /our-school/school-rules/
 description: ""
 ---
 ### General Rules
-
-*   Students who are Singapore citizens must sing the National Anthem and take the pledge. Students will take the pledge with the right fist placed over the heart. All students in the school premises, regardless of their citizenship, must stand at attention when the National Anthem and school song are being played, and when the National Pledge is being recited..
-*   Students should greet the Principal, Vice-Principals, teachers, all other staff and visitors in the school.
-*   Students must be self-disciplined and behave in an orderly manner at all times both inside and outside school.
-*   Students are to uphold the good name of the school.
-*   Students are to respect all staff and school mates at all times.
-*   Students are to take care of school property and keep the school compound clean.
-*   Students should walk from point to point in an orderly manner.
-*   All students must be responsible for their personal belongings.
-*   Students are responsible for any assignments given to them. They should complete their assignments and hand in their work on time.
-*   Students are responsible for any assignments given to them. They should complete their assignments and hand in their work on time.
-*   Students are not allowed to bring handphones / smartwatches to school without obtaining written permission from the school. Parents must fill in a prescribed form to request for permission. The school will not be responsible for the loss of any handphone / smartwatch.
-*   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.
-*   Students must not leave the school without permission during school hours.
+*  Students who are Singapore citizens must sing the National Anthem and take the pledge. Students will take the pledge with the right fist placed over the heart. All students in the school premises, regardless of their citizenship, must stand at attention when the National Anthem and school song are being played, and when the National Pledge is being recited.
+* Students should greet the Principal, Vice-Principals, teachers, all other staff and visitors in the school.
+* Students must be self-disciplined and behave in an orderly manner at all times both inside and outside school.
+* Students are to uphold the good name of the school.
+* Students are to respect all staff and school mates at all times.
+* Students are to take care of school property and keep the school compound clean.
+* Students should walk from point to point in an orderly manner.
+* All students must be responsible for their personal belongings.
+* Students are responsible for any assignments given to them. They should complete their assignments and hand in their work on time.
+* Students are not allowed to bring handphones / smartwatches to school without obtaining written permission from the school. Parents must fill in a prescribed form to request for permission. The school will not be responsible for the loss of any handphone / smartwatch.
+* All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.
+* Students must not leave the school without permission during school hours.
 
 ### Appearance and Attire - Prescribed Uniform and Appearance
-*   Students are to wear the prescribed school uniform and the school PE attire. Name tags are to be sewn onto the school uniform and school PE attire. Modifications to the uniform are not allowed.
-*   White school shoes and white socks/school socks are to be worn. No ankle socks are allowed.
-*   Students must come to school in their PE attire on days they have PE lessons, PAL lessons and CCAs only. PE T-shirt must be tucked in neatly.
-*   Students are to keep a neat and tidy hairstyle. Fringe should not touch the eyebrows. Their hair must be in its natural colour. No dying, bleaching or highlight of hair is allowed at all times.
-*   Fingernails must be kept short and clean, without nail polish.  
-    
+* Students are to wear the prescribed school uniform and the school PE attire. Name tags are to be sewn onto the school uniform and school PE attire. Modifications to the uniform are not allowed.
+* White school shoes and white socks/school socks are to be worn. No ankle socks are allowed.
+* Students must come to school in their PE attire on days they have PE lessons, PAL lessons and CCAs only. PE T-shirt must be tucked in neatly.
+* Students are to keep a neat and tidy hairstyle. Fringe should not touch the eyebrows. Hair must be in its natural colour. No dying, bleaching or highlight of hair is allowed.
+* Fingernails must be kept short and clean without nail polish.
 
 **Boys**
 
-*   Hair must be short and neat. No fancy hair-cuts is allowed. (eg. extreme contrasts in lengths or patterns and/or side shaved hairstyles.)
-*   Hair should not touch the collar of the school uniform and/or cover the ears.  
-    
-*   Boys must be clean shaven.
-*   Facial hair such as beards, long sideburns or moustaches are not allowed.
+* Hair must be short and neat. No fancy hair-cuts is allowed. (eg. extreme contrasts in lengths or patterns and/or side shaved hairstyles.).
+* Hair should not touch the collar of the school uniform and/or cover the ears.
+* Boys must be clean shaven.
+* Facial hair such as beards, long sideburns or moustaches are not allowed.
 
 ![](/images/2022%20unacceptd.png)
 
@@ -41,7 +37,8 @@ description: ""
 
 *   Hair should be neat and tidy.
 *   Long hair must be tied up neatly with a black or blue ribbon.  
-*   Long fringe must be pinned up neatly with black blue hair clips
+*   Long fringe must be pinned up neatly with black blue hair clips.
+*   
 ![](/images/hair.png)
 
 **Accessories**  
