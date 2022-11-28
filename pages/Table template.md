@@ -1,0 +1,52 @@
+---
+title: Table template
+permalink: /tabletemplate/
+description: ""
+---
+<div style="text-align:justify;">text</div>
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg"><thead><tr>
+    <th class="tg-dwlh">A</th>
+    <th class="tg-dwlh">B</th>
+    <th class="tg-dwlh">C</th>
+    <th class="tg-dwlh">D</th>
+  </tr></thead><tbody>
+  <tr>
+    <td class="tg-n4qt">bold text</td>
+    <td class="tg-ku5w">normal center text</td>
+    <td class="tg-y7qa">normal left</td>
+    <td class="tg-ku5w">normal center text</td>
+  </tr><tr>
+    <td class="tg-n4qt">E</td>
+    <td class="tg-ku5w">F</td>
+    <td class="tg-y7qa">G</td>
+    <td class="tg-ku5w">H</td>
+  </tr></tbody></table>
+	
+<table align="center"><thead><tr class="Jeff's blog table class">
+<td>xxxx</td>
+<td>xxxx</td>
+</tr></thead>
+  <tbody><tr>
+<td>xxxx</td>
+<td>xxxx</td>
+</tr><tr>
+<td>xxxx</td>
+<td>xxxx</td>
+</tr>
+</tbody></table>
+
+<table align="center"><thead><tr class="Jeff's blog table class">
+<td style="width:50%"><img src="/images/2020%20Ms%20Christine.jpeg" style="width:100px"><center>Ms Christine Danielle Teo Hui Shan<br>christine_teo_hui_shan@schools.gov.sg</center></td>
+<td style="width:50%"><img src="/images/2020%20Miss%20Lam.jpeg" style="width:100px"><center>Miss Lam Hui Zhen<br>lam_hui_zhen@schools.gov.sg</center></td></tr></thead></table>

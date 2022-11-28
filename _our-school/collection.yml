@@ -1,0 +1,24 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Crest.md
+      - School Vision and Mission.md
+      - School Values.md
+      - School Staff/.keep
+      - School Staff/Key Personnel.md
+      - School Staff/Primary 1.md
+      - School Staff/Primary 2.md
+      - School Staff/Primary 3.md
+      - School Staff/Primary 4.md
+      - School Staff/Primary 5.md
+      - School Staff/Primary 6.md
+      - School Staff/Allied Educator.md
+      - School Staff/FAJT.md
+      - School Staff/School Admin Team.md
+      - School Staff/Support Staff.md
+      - School Rules.md
+      - General Information.md
+      - Homework Policy.md
+      - School Song.md

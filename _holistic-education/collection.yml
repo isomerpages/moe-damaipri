@@ -1,0 +1,26 @@
+collections:
+  holistic-education:
+    output: true
+    order:
+      - Department/.keep
+      - Department/English.md
+      - Department/Mathematics.md
+      - Department/Mother Tongue.md
+      - Department/Science.md
+      - Department/Physical Education.md
+      - Department/Aesthetics.md
+      - Department/Character & Citizenship Education.md
+      - Department/Information & Communications Technology.md
+      - CCA/.keep
+      - CCA/Art & Ceramics Club.md
+      - CCA/Brownies.md
+      - CCA/Chinese Dance.md
+      - CCA/Environmental Club.md
+      - CCA/Floorball.md
+      - CCA/Malay Dance.md
+      - CCA/Modern Dance.md
+      - CCA/Photography Club.md
+      - CCA/Red Cross.md
+      - CCA/Robotics Club.md
+      - CCA/Rugby.md
+      - CCA/Wushu.md
