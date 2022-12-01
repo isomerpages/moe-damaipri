@@ -26,7 +26,7 @@ third_nav_title: School Staff
 *   **Miss Ong Su May Laurice Sara - Year Head Middle Primary**
 *   **Mrs Kris Hay - Year Head Upper Primary**
 *   **Mr Teo Keng Hon Anson - Subject Head ICT**
-*   **Mr Khairulharis Bin Karem - Subject Head Discipline and Student**
+*   **Mr Khairulharis Bin Karem - Subject Head Discipline and Student Leadership**
 *   **Mdm Lau Peh Peh - Subject Head CL**
 *   **Ms Christine Danielle Teo Hui Shan - Level Head EL**
 *   **Ms Tracy Tseng Hwei Wen - Level Head SC**
