@@ -12,10 +12,10 @@ permalink: /example-page/
 .tg .tg-s25z{border-color:#000000;font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 490px">
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
 <colgroup>
-<col style="width: 81px">
-<col style="width: 409px">
+<col style="width: 80px">
+<col style="width: 520px">
 </colgroup>
 <thead>
   <tr>
