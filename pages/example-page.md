@@ -8,7 +8,7 @@ permalink: /example-page/
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#b9c9fe;border-color:#aabcfe;border-style:solid;border-width:1px;color:#039;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-18eh{border-color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-18eh{border-color:#000000;font-weight:bolder;text-align:center;vertical-align:middle}
 .tg .tg-s25z{border-color:#000000;font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
@@ -43,6 +43,25 @@ permalink: /example-page/
     <td class="tg-73oq"><a href="mailto:ang_kim_heok@schools.gov.sg">Miss Ang Kim Heok</a></td></tr>
   <tr>
     <td class="tg-73oq"><a href="mailto:roslinda_naim@schools.gov.sg">Mdm Roslinda Bte Naim</a></td></tr>
-
+  <tr>
+    <td class="tg-18eh" rowspan="2">1E</td>
+    <td class="tg-73oq"><a href="mailto:nabilah_sulaiman@schools.gov.sg">Ms Nabilah Sulaiman</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:shahizan_b_ahmad@schools.gov.sg">Mr Shahizan Ahmad</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">1F</td>
+    <td class="tg-73oq"><a href="mailto:rasul_bee_bee_khan@schools.gov.sg">Ms Rasul Bee Bee Khan</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:kimie_kwan@schools.gov.sg">Kimie Kwan</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">1G</td>
+    <td class="tg-73oq"><a href="mailto:junainah_rahmat@schools.gov.sg">Mdm Junainah Binte Rahmat</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:teoh_han_yun@schools.gov.sg">Ms Teoh Han Yun Stella</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">1H</td>
+    <td class="tg-73oq"><a href="mailto:tan_seok_ling_shirley@schools.gov.sg">Ms Shirley Tan Seok Ling</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:low_chan_wee@schools.gov.sg">Mr Johnny Low</a></td></tr>
 </tbody>
 </table>
