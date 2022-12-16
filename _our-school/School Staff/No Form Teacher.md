@@ -27,9 +27,9 @@ third_nav_title: School Staff
     <td class="tg-73oq"><a href="mailto:tarshini_krishna@schools.gov.sg">Ms Tarshini Krishna</a></td></tr><tr>
     <td class="tg-73oq"><a href="mailto:manokari_v_palaiyah@schools.gov.sg">Mdm Manokari d/o Veeraiyah Palaiyah</a></td></tr><tr>
     <td class="tg-73oq"><a href="mailto:lau_peh_peh@schools.gov.sg">Mdm Lau Peh Peh</a></td></tr><tr>
-    <td class="tg-73oq"><a href="mailto:won_wee_son@schools.gov.sg">Mr Won Wee Son - Student Welfare Education Officer</a></td></tr>
+    <td class="tg-73oq"><a href="mailto:won_wee_son@schools.gov.sg">Mr Won Wee Son</a> - Student Welfare Education Officer</td></tr>
 	<tr>
-    <td class="tg-73oq"><a href="mailto:tan_zhi_yong_benjamin@moe.edu.sg">Mr Tan Zhi Yong Benjamin - Trainee Teacher</a></td></tr>
+    <td class="tg-73oq"><a href="mailto:tan_zhi_yong_benjamin@moe.edu.sg">Mr Tan Zhi Yong Benjamin</a> - Trainee Teacher</td></tr>
 </tr>
 </tbody>
 </table>
