@@ -24,7 +24,7 @@ third_nav_title: School Staff
   <tr>
     <td class="tg-73oq"><a href="mailto:mohamed_jamil_yusak@schools.gov.sg">Mr Mohamed Jamil bin Yusak</a> - School Counsellor</td></tr><tr>
     <td class="tg-73oq"><a href="mailto:muhammad_nurhakim_mohamed_yusop@schools.gov.sg">Mr Muhammad Nurhakim Bin Mohd Yusop</a> - SEN Officer</td></tr><tr>
-    <td class="tg-73oq"><a href="mailto:mumtaz_noor_mohamed@schools.gov.sg">Ms Mumtaz Bte Noor Mohamed</a> - SEN Officer</td></tr>
+    <td class="tg-73oq"><a href="mailto:mumtaz_noor_mohamed@schools.gov.sg">Ms Mumtaz Bte Noor Mohamed</a> - SEN Officer</td>
 </tr>
 </tbody>
 </table>
