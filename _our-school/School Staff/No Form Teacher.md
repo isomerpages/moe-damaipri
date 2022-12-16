@@ -30,6 +30,5 @@ third_nav_title: School Staff
     <td class="tg-73oq"><a href="mailto:won_wee_son@schools.gov.sg">Mr Won Wee Son</a> - Student Welfare Education Officer</td></tr>
 	<tr>
     <td class="tg-73oq"><a href="mailto:tan_zhi_yong_benjamin@moe.edu.sg">Mr Tan Zhi Yong Benjamin</a> - Trainee Teacher</td></tr>
-</tr>
 </tbody>
 </table>
