@@ -1,6 +1,6 @@
 ---
-title: FAJT
-permalink: /our-school/School-Staff/FAJT/
+title: Special Education Needs
+permalink: /our-school/School-Staff/SEN/
 description: ""
 third_nav_title: School Staff
 ---
@@ -17,20 +17,14 @@ third_nav_title: School Staff
 <table class="tg" style="undefined;table-layout: fixed; width: 600px">
 <thead>
   <tr>
-    <th class="tg-s25z">Flexi-Adjunct Teachers</th>
+    <th class="tg-s25z">Special Education Needs and School Counsellor</th>
   </tr>
 </thead>
 <tbody>
-<tr><td class="tg-73oq">Ms Kelly Seow Kheng Li - EL</td></tr>
-<tr><td class="tg-73oq">Mdm Soh Ying Ying Jasmin - EL</td></tr>
-<tr><td class="tg-73oq">Mdm Jenny Lee Ngok Moi - EL</td></tr>
-<tr><td class="tg-73oq">Mdm Rahayu Binte Mohamed Haled - EL</td></tr>
-<tr><td class="tg-73oq">Mdm Noorjanna Bte Mohamed Hussain - EL</td></tr>
-<tr><td class="tg-73oq">Mdm Erh Teck Choo - CL</td></tr>
-<tr><td class="tg-73oq">Mdm Ong Tua Hua - CL</td></tr>
-<tr><td class="tg-73oq">Mr Mohamed Ramli B Abdul Samad - ML</td></tr>
-<tr><td class="tg-73oq">Mdm Firdous Bte Abdul Razak - ML</td></tr>
-<tr><td class="tg-73oq">Mdm Sembian Meena - TL (SRE)</td></tr>
-<tr><td class="tg-73oq">Mr Jonathan Chin Chee Kong - PE</td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:mohamed_jamil_yusak@schools.gov.sg">Mr Mohamed Jamil bin Yusak</a> - School Counsellor</td></tr><tr>
+    <td class="tg-73oq"><a href="mailto:muhammad_nurhakim_mohamed_yusop@schools.gov.sg">Mr Muhammad Nurhakim Bin Mohd Yusop</a> - SEN Officer</td></tr><tr>
+    <td class="tg-73oq"><a href="mailto:mumtaz_noor_mohamed@schools.gov.sg">Ms Mumtaz Bte Noor Mohamed</a> - SEN Officer</td>
+</tr>
 </tbody>
 </table>

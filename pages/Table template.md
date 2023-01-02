@@ -47,6 +47,59 @@ description: ""
 </tr>
 </tbody></table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
+.tg td{background-color:#e8edff;border-color:#aabcfe;border-style:solid;border-width:1px;color:#669;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#b9c9fe;border-color:#aabcfe;border-style:solid;border-width:1px;color:#039;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-18eh{border-color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-s25z{border-color:#000000;font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
+<thead>
+  <tr>
+    <th class="tg-s25z">header</th>
+  </tr>
+</thead>
+<tbody>
+<tr><td class="tg-73oq"><a href="mailto:cccc">dddd</a></td></tr>
+<tr><td class="tg-73oq"><a href="mailto:cccc">dddd</a></td></tr>
+<tr><td class="tg-73oq"><a href="mailto:cccc">dddd</a></td></tr>
+</tbody>
+</table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
+.tg td{background-color:#e8edff;border-color:#aabcfe;border-style:solid;border-width:1px;color:#669;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#b9c9fe;border-color:#aabcfe;border-style:solid;border-width:1px;color:#039;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-18eh{border-color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-s25z{border-color:#000000;font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
+<colgroup>
+<col style="width: 80px">
+<col style="width: 520px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-s25z" colspan="2">Header</th>
+  </tr>
+</thead>
+<tbody>
+  <tr><td class="tg-18eh" rowspan="2">zzzz</td>
+      <td class="tg-73oq"><a href="mailto:xxxx">yyyy</a></td></tr>
+  <tr><td class="tg-73oq"><a href="mailto:jjjjj">Mmmmm</a></td></tr>
+</tbody>
+</table>
+
+
+
 <table align="center"><thead><tr class="Jeff's blog table class">
 <td style="width:50%"><img src="/images/2020%20Ms%20Christine.jpeg" style="width:100px"><center>Ms Christine Danielle Teo Hui Shan<br>christine_teo_hui_shan@schools.gov.sg</center></td>
-<td style="width:50%"><img src="/images/2020%20Miss%20Lam.jpeg" style="width:100px"><center>Miss Lam Hui Zhen<br>lam_hui_zhen@schools.gov.sg</center></td></tr></thead></table>
+</tr></thead></table>

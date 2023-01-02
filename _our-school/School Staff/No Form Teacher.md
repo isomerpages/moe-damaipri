@@ -1,6 +1,6 @@
 ---
-title: FAJT
-permalink: /our-school/School-Staff/FAJT/
+title: No Form Teacher
+permalink: /our-school/School-Staff/NFT/
 description: ""
 third_nav_title: School Staff
 ---
@@ -17,20 +17,18 @@ third_nav_title: School Staff
 <table class="tg" style="undefined;table-layout: fixed; width: 600px">
 <thead>
   <tr>
-    <th class="tg-s25z">Flexi-Adjunct Teachers</th>
+    <th class="tg-s25z">No-Form Teachers</th>
   </tr>
 </thead>
 <tbody>
-<tr><td class="tg-73oq">Ms Kelly Seow Kheng Li - EL</td></tr>
-<tr><td class="tg-73oq">Mdm Soh Ying Ying Jasmin - EL</td></tr>
-<tr><td class="tg-73oq">Mdm Jenny Lee Ngok Moi - EL</td></tr>
-<tr><td class="tg-73oq">Mdm Rahayu Binte Mohamed Haled - EL</td></tr>
-<tr><td class="tg-73oq">Mdm Noorjanna Bte Mohamed Hussain - EL</td></tr>
-<tr><td class="tg-73oq">Mdm Erh Teck Choo - CL</td></tr>
-<tr><td class="tg-73oq">Mdm Ong Tua Hua - CL</td></tr>
-<tr><td class="tg-73oq">Mr Mohamed Ramli B Abdul Samad - ML</td></tr>
-<tr><td class="tg-73oq">Mdm Firdous Bte Abdul Razak - ML</td></tr>
-<tr><td class="tg-73oq">Mdm Sembian Meena - TL (SRE)</td></tr>
-<tr><td class="tg-73oq">Mr Jonathan Chin Chee Kong - PE</td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:nadira_abdullah@schools.gov.sg">Mrs Nadira Khan</a></td></tr><tr>
+    <td class="tg-73oq"><a href="mailto:k_malaiarasu@schools.gov.sg">Mr Arasan (K Malaiarasu)</a></td></tr><tr>
+    <td class="tg-73oq"><a href="mailto:tarshini_krishna@schools.gov.sg">Ms Tarshini Krishna</a></td></tr><tr>
+    <td class="tg-73oq"><a href="mailto:manokari_v_palaiyah@schools.gov.sg">Mdm Manokari d/o Veeraiyah Palaiyah</a></td></tr><tr>
+    <td class="tg-73oq"><a href="mailto:lau_peh_peh@schools.gov.sg">Mdm Lau Peh Peh</a></td></tr><tr>
+    <td class="tg-73oq"><a href="mailto:won_wee_son@schools.gov.sg">Mr Won Wee Son</a> - Student Welfare Education Officer</td></tr>
+	<tr>
+    <td class="tg-73oq"><a href="mailto:tan_zhi_yong_benjamin@moe.edu.sg">Mr Tan Zhi Yong Benjamin</a> - Trainee Teacher</td></tr>
 </tbody>
 </table>
