@@ -34,7 +34,6 @@ third_nav_title: School Staff
 <tr><td class="tg-73oq"><a href="mailto:yu_sim_pei_elise@schools.gov.sg">Mrs Elise Lee</a> - SSD</td></tr>
 </tbody>
 </table>
-<br>
 <table class="tg" style="undefined;table-layout: fixed; width: 600px">
 <thead>
   <tr>
