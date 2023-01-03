@@ -32,7 +32,7 @@ third_nav_title: School Staff
     <td class="tg-73oq"><a href="mailto:janice_how_sui_yen@schools.gov.sg">Ms Janice How</a></td></tr>
   <tr>
     <td class="tg-18eh" rowspan="2">1B</td>
-    <td class="tg-73oq"><a href="mailto:jowena_lim_lifen@schools.gov.sg">Mdm Jowena Lim lifen</a></td></tr>
+    <td class="tg-73oq"><a href="mailto:jowena_lim_lifen@schools.gov.sg">Mdm Jowena Lim</td></tr>
   <tr>
     <td class="tg-73oq"><a href="mailto:nur_azlin_ahmad@schools.gov.sg">Mdm Nur Azlin Bte Ahmad</a></td></tr>
   <tr>
@@ -54,7 +54,7 @@ third_nav_title: School Staff
     <td class="tg-18eh" rowspan="2">1F</td>
     <td class="tg-73oq"><a href="mailto:rasul_bee_bee_khan@schools.gov.sg">Ms Rasul Bee Bee Khan</a></td></tr>
   <tr>
-    <td class="tg-73oq"><a href="mailto:kimie_kwan@schools.gov.sg">Kimie Kwan</a></td></tr>
+    <td class="tg-73oq"><a href="mailto:kimie_kwan@schools.gov.sg">Ms Kimie Kwan</a></td></tr>
   <tr>
     <td class="tg-18eh" rowspan="2">1G</td>
     <td class="tg-73oq"><a href="mailto:junainah_rahmat@schools.gov.sg">Mdm Junainah Binte Rahmat</a></td></tr>
@@ -62,7 +62,7 @@ third_nav_title: School Staff
     <td class="tg-73oq"><a href="mailto:teoh_han_yun@schools.gov.sg">Ms Teoh Han Yun Stella</a></td></tr>
   <tr>
     <td class="tg-18eh" rowspan="2">1H</td>
-    <td class="tg-73oq"><a href="mailto:tan_seok_ling_shirley@schools.gov.sg">Ms Shirley Tan Seok Ling</a></td></tr>
+    <td class="tg-73oq"><a href="mailto:tan_seok_ling_shirley@schools.gov.sg">Mrs Shirley Wang</a></td></tr>
   <tr>
     <td class="tg-73oq"><a href="mailto:low_chan_wee@schools.gov.sg">Mr Johnny Low</a></td></tr>
 </tbody>
