@@ -12,24 +12,13 @@ third_nav_title: School Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-73oq"><a href="mailto:nadira_abdullah@schools.gov.sg">Mrs Nadira Khan</a></td></tr><tr>
-    <td class="tg-73oq"><a href="mailto:k_malaiarasu@schools.gov.sg">Mr Arasan (K Malaiarasu)</a></td></tr><tr>
-    <td class="tg-73oq"><a href="mailto:tarshini_krishna@schools.gov.sg">Ms Tarshini Krishna</a></td></tr><tr>
-    <td class="tg-73oq"><a href="mailto:manokari_v_palaiyah@schools.gov.sg">Mdm Manokari d/o Veeraiyah Palaiyah</a></td></tr><tr>
-    <td class="tg-73oq"><a href="mailto:lau_peh_peh@schools.gov.sg">Mdm Lau Peh Peh</a></td></tr><tr>
-    <td class="tg-73oq"><a href="mailto:won_wee_son@schools.gov.sg">Mr Won Wee Son</a></td></tr>
-	<tr>
-    <td class="tg-73oq"><a href="mailto:tan_zhi_yong_benjamin@moe.edu.sg">Mr Tan Zhi Yong Benjamin</a></td></tr>
-</tbody>
-</table>
-<br>
-<table class="tg" style="undefined;table-layout: fixed; width: 600px">
-<thead>
-  <tr>
-    <th class="tg-s25z">Flexi-Adjunct Teachers</th>
-  </tr>
-</thead>
-<tbody>
+    <td class="tg-73oq"><a href="mailto:nadira_abdullah@schools.gov.sg">Mrs Nadira Khan</a></td></tr>
+	<tr><td class="tg-73oq"><a href="mailto:k_malaiarasu@schools.gov.sg">Mr Arasan (K Malaiarasu)</a></td></tr>
+	<tr><td class="tg-73oq"><a href="mailto:tarshini_krishna@schools.gov.sg">Ms Tarshini Krishna</a></td></tr>
+	<tr><td class="tg-73oq"><a href="mailto:manokari_v_palaiyah@schools.gov.sg">Mdm Manokari d/o Veeraiyah Palaiyah</a></td></tr>
+	<tr><td class="tg-73oq"><a href="mailto:lau_peh_peh@schools.gov.sg">Mdm Lau Peh Peh</a></td></tr>
+	<tr><td class="tg-73oq"><a href="mailto:won_wee_son@schools.gov.sg">Mr Won Wee Son</a></td></tr>
+	<tr><td class="tg-73oq"><a href="mailto:tan_zhi_yong_benjamin@moe.edu.sg">Mr Tan Zhi Yong Benjamin</a></td></tr>
 <tr><td class="tg-73oq">Ms Kelly Seow Kheng Li</td></tr>
 <tr><td class="tg-73oq">Mdm Soh Ying Ying Jasmin</td></tr>
 <tr><td class="tg-73oq">Mdm Jenny Lee Ngok Moi</td></tr>
