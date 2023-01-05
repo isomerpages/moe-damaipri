@@ -22,7 +22,7 @@ third_nav_title: School Staff
     <td class="tg-73oq"><a href="mailto:janice_how_sui_yen@schools.gov.sg">Ms Janice How</a></td></tr>
   <tr>
     <td class="tg-18eh" rowspan="2">1B</td>
-    <td class="tg-73oq"><a href="mailto:jowena_lim_lifen@schools.gov.sg">Mdm Jowena Lim</td></tr>
+    <td class="tg-73oq"><a href="mailto:jowena_lim_lifen@schools.gov.sg">Mdm Jowena Lim</a></td></tr>
   <tr>
     <td class="tg-73oq"><a href="mailto:nur_azlin_ahmad@schools.gov.sg">Mdm Nur Azlin Bte Ahmad</a></td></tr>
   <tr>
