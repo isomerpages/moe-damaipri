@@ -1,8 +1,9 @@
 ---
-title: For Staff
-permalink: /quick-links/for-staff/
+title: Staff
+permalink: /useful-links/staff/
 description: ""
 ---
+
 ### Useful links for staff (Authorised Users Only)
 
 <style type="text/css">

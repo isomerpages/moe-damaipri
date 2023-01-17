@@ -41,7 +41,7 @@ sections:
       title: Useful Links
       description: Links for students, parents and staff
       button: Check it out
-      url: /quick-links/for-students/
+      url: /useful-links/students/
       image: /images/Announcement/2022 quicklink.png
       alt: Image alt text
 ---

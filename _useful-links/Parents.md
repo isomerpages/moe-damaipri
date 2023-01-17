@@ -1,8 +1,9 @@
 ---
-title: For Parents
-permalink: /quick-links/for-parents/
+title: Parents
+permalink: /Useful-links/parents/
 description: ""
 ---
+
 <a href="https://www.schoolbag.edu.sg/">
 <img src="/images/site-logo.png" style="width:50%">
 </a>

@@ -1,8 +1,10 @@
 ---
-title: For Students
-permalink: /quick-links/for-students/
+title: Students
+permalink: /useful-links/students/
 description: ""
 ---
+
+
 <a href="https://vle.learning.moe.edu.sg/login"><img src="/images/SLS%20Logo.png" style="width:50%"></a>
 
 <a href="https://www.koobits.com/"><img src="/images/koobitsmikomin.png" style="width:50%"></a>
