@@ -24,7 +24,7 @@ sections:
       title: Principal's Letter
       subtitle: 3rd Jan 2023
       description: The latest monthly letter about school updates
-      button: Click here for Nov
+      button: Click here for jan
       url: /principal/
       image: /images/Announcement/2022 principalletter.png
       alt: principalletter
