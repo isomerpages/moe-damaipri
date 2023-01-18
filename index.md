@@ -29,6 +29,14 @@ sections:
       image: /images/Announcement/2022 principalletter.png
       alt: principalletter
   - infopic:
+      title: Parents' Briefing
+      subtitle: Principal's Address
+      description: P6 and P5 Parents' Briefing
+      button: Click here to find out more
+      url: /notification/Announcements/parentbriefing/
+      image: /images/Announcement/2023/2023parentbrief.png
+      alt: Image alt text
+  - infopic:
       title: P1 Orientation Day Slide
       subtitle: "2022"
       description: Dear Parents of P1 students 2023, please click here for the P1
@@ -43,13 +51,5 @@ sections:
       button: Check it out
       url: /useful-links/students/
       image: /images/Announcement/2022 quicklink.png
-      alt: Image alt text
-  - infopic:
-      title: Parents' Briefing
-      subtitle: Principal's Address
-      description: P6 and P5 Parents' Briefing
-      button: Click here to find out more
-      url: /notification/Announcements/parentbriefing/
-      image: /images/Announcement/2023/2023parentbrief.png
       alt: Image alt text
 ---
