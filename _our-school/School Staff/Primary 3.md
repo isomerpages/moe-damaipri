@@ -22,7 +22,7 @@ third_nav_title: School Staff
     <td class="tg-73oq"><a href="mailto:karen_chan_gar_lam@schools.gov.sg">Miss Karen Chan Gar Lam</a></td></tr>
   <tr>
     <td class="tg-18eh" rowspan="2">3B</td>
-    <td class="tg-73oq"><a href="mailto:rozi_bahari@schools.gov.sg">Mdm Rozi Bahar</a></td></tr>
+    <td class="tg-73oq"><a href="mailto:rozi_bahari@schools.gov.sg">Mdm Rozi Bahari</a></td></tr>
   <tr>
     <td class="tg-73oq"><a href="mailto:zheng_jiawei@schools.gov.sg">Ms Zheng Jiawei Alice</a></td></tr>
   <tr>

@@ -31,7 +31,7 @@ sections:
   - infopic:
       title: Parents' Briefing
       subtitle: Principal's Address
-      description: P6 and P5 Parents' Briefing
+      description: You may find P3 - P6 Parents' Briefing slides here
       button: Click here to find out more
       url: /notification/Announcements/parentbriefing/
       image: /images/Announcement/2023/2023parentbrief.png
