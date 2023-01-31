@@ -21,14 +21,6 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
-      title: Principal's Letter
-      subtitle: 3rd Jan 2023
-      description: The latest monthly letter about school updates
-      button: Click here for jan
-      url: /principal/
-      image: /images/Announcement/2022 principalletter.png
-      alt: principalletter
-  - infopic:
       title: Parents' Briefing
       subtitle: Principal's Address
       description: You may find P3 - P6 Parents' Briefing slides here

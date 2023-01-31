@@ -3,7 +3,4 @@ title: Calendar of Events
 permalink: /calendar/
 description: ""
 ---
-| Date | Event |
-| -------- | -------- |
-
-coming soon
+![2023semster1](/images/Announcement/2023/2023_Semster1.jpg)
