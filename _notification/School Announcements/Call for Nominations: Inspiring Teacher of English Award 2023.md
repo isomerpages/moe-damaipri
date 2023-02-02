@@ -12,6 +12,6 @@ Nominations for the annual Inspiring Teacher of English Award are now open.  Pre
 
 Nomination forms for the Teaching Award can be downloaded from [the link here](http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information). The Award is open to all in-service teachers of English Language, including teachers of Literature in English and General Paper. All students, their parents, and teachers are invited to send in nominations for the Teaching Award to the Principal of the nominee’s school by 6 p.m. on 27 March 2023.
 
-Should you require more information, please email SGEM at nhb_speakgoodenglishmovement@nhb.gov.sg.  
+Should you require more information, please email SGEM at <a href="mailto:nhb_speakgoodenglishmovement@nhb.gov.sg">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.  
 
 Do nominate them for the award!
