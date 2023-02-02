@@ -4,14 +4,14 @@ permalink: /notification/Announcements/open4nomination/
 description: ""
 third_nav_title: School Announcements
 ---
+Dear Teachers, Parents and Students,
 
+<img style="width: 640px; height: 360px;" class="ive_eobj_center" alt="MT Teacher Nomination.png" src="/images/Announcement/2023/2023%2002%2002%20iloveenglish.png">
 
-Dear Parents,
-<br><br><img style="width: 640px; height: 360px;" class="ive_eobj_center" alt="MT Teacher Nomination.png" src="/images/Announcement/MT%20Teacher%20Nomination.png"><br>Do take time to appreciate our Mother Tongue teachers and consider nominating them for these awards.<br>
-<br>Please click on the links below for more information on the awards and nomination:<br>•	<a target="_blank" href="https://www.gevme.com/dclta2022">Distinguished Chinese Language Teachers Award</a> (CL)
-<br>•	<a target="_blank" href="https://www.moe.gov.sg/news/press-releases/20220204-nominations-open-for-arif-budiman-malay-language-teacher-award-2022">Arif Budiman Malay Language Teacher Award</a> (ML)
-<br>•	<a target="_blank" href="https://www.moe.gov.sg/news/press-releases/20220204-open-for-nominations-most-inspiring-tamil-teachers-award-2022">Most Inspiring Tamil Teachers’ Award</a> (TL)
-<br><br>All nominations can be done online via the links below and respective closing dates indicated:
-<br>•	<a target="_blank" href="https://www.gevme.com/34715664/registration/order/form">Distinguished Chinese Language Teachers Award</a> (CL) – 30th April
-<br>•	<a target="_blank" href="https://go.gov.sg/agab2022">Arif Budiman Malay Language Teacher Award</a> (ML) – 1st April
-<br>•	<a target="_blank" href="https://form.gov.sg/#!/61de4a97bdbbe60012422794">Most Inspiring Tamil Teachers’ Award</a> (TL) – 29th April<br><br>
+Nominations for the annual Inspiring Teacher of English Award are now open.  Presented by the Speak Good English Movement and The Straits Times with the support of the Ministry of Education, the Award has two categories – the Teaching Award and the Leadership Award.
+
+Nomination forms for the Teaching Award can be downloaded from [the link here](http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information). The Award is open to all in-service teachers of English Language, including teachers of Literature in English and General Paper. All students, their parents, and teachers are invited to send in nominations for the Teaching Award to the Principal of the nominee’s school by 6 p.m. on 27 March 2023.
+
+Should you require more information, please email SGEM at nhb_speakgoodenglishmovement@nhb.gov.sg.  
+
+Do nominate them for the award!
