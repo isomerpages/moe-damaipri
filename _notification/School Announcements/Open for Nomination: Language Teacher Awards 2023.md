@@ -4,15 +4,20 @@ permalink: /notification/Announcements/open4nomination/
 description: ""
 third_nav_title: School Announcements
 ---
+# Open for Nomination: Language Teacher Awards 2023
 
-Dear Teachers, Parents and Students,
+Dear Parents/Guardians,,
 
-<img style="width: 640px; height: 360px;" class="ive_eobj_center" alt="MT Teacher Nomination.png" src="/images/Announcement/2023/2023%2002%2002%20iloveenglish.png">
+![](/images/Announcement/2023/2023%20Lang%20Teacher%20Nomination%20PG%20Post.png)
 
-Nominations for the annual Inspiring Teacher of English Award are now open.  Presented by the Speak Good English Movement and The Straits Times with the support of the Ministry of Education, the Award has two categories – the Teaching Award and the Leadership Award.
+Do take time to appreciate our English/Mother Tongue teachers and consider nominating them for these awards.
 
-Nomination forms for the Teaching Award can be downloaded from [the link here](http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information). The Award is open to all in-service teachers of English Language, including teachers of Literature in English and General Paper. All students, their parents, and teachers are invited to send in nominations for the Teaching Award to the Principal of the nominee’s school by 6 p.m. on 27 March 2023.
+Please click on the links below for more information on the awards and nomination:
+* [Inspiring English Language Teacher Award (EL)](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information)
+*	[Arif Budiman Malay Language Teacher Award (ML)](https://www.moe.gov.sg/news/press-releases/20230303-nominations-open-for-arif-budiman-malay-language-teacher-award-2023)
+* [Most Inspiring Tamil Teachers’ Award (TL)](https://www.moe.gov.sg/news/press-releases/20230126-open-for-nominations-most-inspiring-tamil-teachers-award-2023#:~:text=Open%20for%20Nominations%3A%20Most%20Inspiring%20Tamil%20Teachers'%20Award%202023,-Published%20Date%3A%2026&text=From%2030%20January%20to%2010,'%20(MITT)%20Award%202023)
 
-Should you require more information, please email SGEM at <a href="mailto:nhb_speakgoodenglishmovement@nhb.gov.sg">nhb_speakgoodenglishmovement@nhb.gov.sg</a>.  
-
-Do nominate them for the award!
+Nominations can be done online/hard copy via the links below and respective closing dates indicated:
+*	[Inspiring English Language Teacher Award Nomination (Hard copy only to General Office)](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information) – 27 Mar 
+*	[Arif Budiman Malay Language Teacher Award Nomination (Online)](https://go.gov.sg/agab2023) – 10 April
+* [Most Inspiring Tamil Teachers’ Award Nomination (Online)](https://form.gov.sg/63b37e2ed7315c001292c529) – 31 Mar
