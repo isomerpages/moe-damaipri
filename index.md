@@ -21,13 +21,13 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
-      title: Call for Nominations
-      subtitle: Inspiring Teacher Award
-      description: Nominations for the annual Inspiring Teacher of English Award are
-        now open.
+      title: Open for Nomination
+      subtitle: Language Teacher Awards 2023
+      description: Do take time to appreciate our English/Mother Tongue teachers and
+        consider nominating them for these awards.
       button: Click here to find out more
       url: /notification/Announcements/open4nomination/
-      image: /images/Announcement/2023/2023 02 02 iloveenglishthumb.png
+      image: /images/Announcement/2023/2023 Lang Teacher Nomination PG Post.png
       alt: Image alt text
   - infopic:
       title: Parents' Briefing
