@@ -6,7 +6,7 @@ third_nav_title: School Announcements
 ---
 # Open for Nomination: Language Teacher Awards 2023
 
-Dear Parents/Guardians,,
+Dear Parents/Guardians,
 
 ![](/images/Announcement/2023/2023%20Lang%20Teacher%20Nomination%20PG%20Post.png)
 

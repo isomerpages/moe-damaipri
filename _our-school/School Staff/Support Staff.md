@@ -12,6 +12,8 @@ third_nav_title: School Staff
 </thead>
 <tbody>
 <tr><td class="tg-73oq">Mr Azrin Bin Azman</td></tr>
+	<tr><td class="tg-73oq">Mr Muzer Hazim Bin Mat Zin
+</td></tr>
 </tbody>
 </table>
 <table class="tg" style="undefined;table-layout: fixed; width: 600px">
