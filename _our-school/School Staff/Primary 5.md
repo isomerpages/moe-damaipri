@@ -32,11 +32,11 @@ third_nav_title: School Staff
     <td class="tg-73oq"><a href="mailto:syuib_ahmad@schools.gov.sg">Mr Syu'ib B Ahmad</a></td></tr>
   <tr>
     <td class="tg-18eh" rowspan="3">5D</td>
-    <td class="tg-73oq"><a href="mailto:rozaimi_b_anas@moe.edu.sg">Mr Rozaimi Bin Anas</a></td></tr>
+    <td class="tg-73oq"><a href="mailto:rozaimi_b_anas@schools.gov.sg">Mr Rozaimi Bin Anas</a></td></tr>
   <tr>
     <td class="tg-73oq"><a href="mailto:teo_keng_hon@schools.gov.sg">Mr Teo Keng Hon Anson</a></td></tr>
   <tr>
-    <td class="tg-73oq"><a href="mailto:zahrah_ali@moe.edu.sg">Mdm Zahrah Bte Ali</a></td></tr>
+    <td class="tg-73oq"><a href="mailto:zahrah_ali@schools.gov.sg">Mdm Zahrah Bte Ali</a></td></tr>
 </tbody>
 </table>
 <style type="text/css">
