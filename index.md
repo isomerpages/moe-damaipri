@@ -38,15 +38,6 @@ sections:
       image: /images/Announcement/2023/2023parentbrief.png
       alt: Image alt text
   - infopic:
-      title: P1 Orientation Day Slide
-      subtitle: "2022"
-      description: Dear Parents of P1 students 2023, please click here for the P1
-        Orientation Slides
-      button: Click here
-      url: /files/Announcement/2022/P1%20Orientation%20Day%202022_Hall%20Slides_website.pdf
-      image: /images/Announcement/20221122p1slide.png
-      alt: 2022p1slide
-  - infopic:
       title: Useful Links
       description: Links for students, parents and staff
       button: Check it out
