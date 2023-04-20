@@ -29,7 +29,7 @@ third_nav_title: School Staff
 <tr><td class="tg-73oq">Mdm Firdous Bte Abdul Razak</td></tr>
 <tr><td class="tg-73oq">Mdm Sembian Meena</td></tr>
 <tr><td class="tg-73oq">Mr Jonathan Chin Chee Kong</td></tr>
-<tr><td class="tg-73oq">Mdm han Chin Kwang (Mrs Aw)</td></tr>
+<tr><td class="tg-73oq">Mdm Han Chin Kwang (Mrs Aw)</td></tr>
 </tbody>
 </table>
 <style type="text/css">
