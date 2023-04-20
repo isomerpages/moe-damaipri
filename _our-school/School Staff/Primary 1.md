@@ -19,7 +19,7 @@ third_nav_title: School Staff
     <td class="tg-18eh" rowspan="2">1A</td>
     <td class="tg-73oq"><a href="mailto:cheong_hwee_wan@schools.gov.sg">Mrs Lim Hwee Wan</a></td></tr>
   <tr>
-    <td class="tg-73oq"><a href="mailto:janice_how_sui_yen@schools.gov.sg">Ms Janice How</a></td></tr>
+    <td class="tg-73oq"><a href="mailto:janice_how_sui_yen@schools.gov.sg">Ms Janice How Sui Fen</a></td></tr>
   <tr>
     <td class="tg-18eh" rowspan="2">1B</td>
     <td class="tg-73oq"><a href="mailto:jowena_lim_lifen@schools.gov.sg">Mdm Jowena Lim</a></td></tr>
