@@ -18,7 +18,6 @@ third_nav_title: School Staff
 	<tr><td class="tg-73oq"><a href="mailto:manokari_v_palaiyah@schools.gov.sg">Mdm Manokari d/o Veeraiyah Palaiyah</a></td></tr>
 	<tr><td class="tg-73oq"><a href="mailto:lau_peh_peh@schools.gov.sg">Mdm Lau Peh Peh</a></td></tr>
 	<tr><td class="tg-73oq"><a href="mailto:won_wee_son@schools.gov.sg">Mr Won Wee Son</a></td></tr>
-	<tr><td class="tg-73oq"><a href="mailto:tan_zhi_yong_benjamin@moe.edu.sg">Mr Tan Zhi Yong Benjamin</a></td></tr>
 <tr><td class="tg-73oq">Ms Kelly Seow Kheng Li</td></tr>
 <tr><td class="tg-73oq">Mdm Soh Ying Ying Jasmin</td></tr>
 <tr><td class="tg-73oq">Mdm Jenny Lee Ngok Moi</td></tr>
@@ -26,10 +25,11 @@ third_nav_title: School Staff
 <tr><td class="tg-73oq">Mdm Noorjanna Bte Mohamed Hussain</td></tr>
 <tr><td class="tg-73oq">Mdm Erh Teck Choo</td></tr>
 <tr><td class="tg-73oq">Mdm Ong Tua Hua</td></tr>
-<tr><td class="tg-73oq">Mr Mohamed Ramli B Abdul Samad</td></tr>
+<tr><td class="tg-73oq">Mrs Teo Meng Meng</td></tr>
 <tr><td class="tg-73oq">Mdm Firdous Bte Abdul Razak</td></tr>
 <tr><td class="tg-73oq">Mdm Sembian Meena</td></tr>
 <tr><td class="tg-73oq">Mr Jonathan Chin Chee Kong</td></tr>
+<tr><td class="tg-73oq">Mdm Han Chin Kwang (Mrs Aw)</td></tr>
 </tbody>
 </table>
 <style type="text/css">

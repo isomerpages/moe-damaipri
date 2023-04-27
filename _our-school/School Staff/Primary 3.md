@@ -31,11 +31,11 @@ third_nav_title: School Staff
   <tr>
     <td class="tg-73oq"><a href="mailto:khairulharis_karem@schools.gov.sg">Mr Khairulharis Bin Karem</a></td></tr>
   <tr>
-    <td class="tg-18eh" rowspan="2">3D</td>
+    <td class="tg-18eh" rowspan="3">3D</td>
     <td class="tg-73oq"><a href="mailto:lim_kok_soon@schools.gov.sg">Mr Lim Kok Soon</a></td></tr>
   <tr>
     <td class="tg-73oq"><a href="mailto:sabrina_mohamed@schools.gov.sg">Mdm Sabrina Binte Mohamed</a></td></tr>
-
+ <tr><td class="tg-73oq"><a href="mailto:Tan_Zhi_Yong_Benjamin@schools.gov.sg">Mr Tan Zhi Yong Benjamin</a></td></tr>
   <tr>
     <td class="tg-18eh" rowspan="2">3E</td>
     <td class="tg-73oq"><a href="mailto:marinah_mohsin@schools.gov.sg">Mdm Marinah Binte Mohsin Bin Talib</a></td></tr>
