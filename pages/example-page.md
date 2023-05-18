@@ -32,7 +32,7 @@ Leadership Opportunities: We empower our students to become confident and capabl
 
 <table align="center" cellpadding="0" cellspacing="0" class="Jeff's blog table class" style="margin-left: auto; margin-right: auto; text-align: center;"><thead>
   <tr>
-<td style="width:150px"><a href="/holistic-education/Department/information-n-communications-technology/"><img src="/images/Random/Openhouse%20Matter/infocommt.png" style="width:150px"></a></td>
+<td style="width:150px"><a href="/school-experience/school-wide-programmes/learn-for-life-programme-llp"><img src="/images/Random/Openhouse%20Matter/llprogram.png" style="width:150px"></a></td>
 <td style="width:150px"> </td>
 <td style="width:150px"><a href="/holistic-education/Department/information-n-communications-technology/"><img src="/images/Random/Openhouse%20Matter/infocommt.png" style="width:150px"></a></td>
   </tr>
