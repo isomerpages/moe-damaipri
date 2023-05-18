@@ -10,9 +10,9 @@ Join our virtual open house and explore what makes us the ideal choice for your 
 
 <table align="center" cellpadding="0" cellspacing="0" class="Jeff's blog table class" style="margin-left: auto; margin-right: auto; text-align: center;"><thead>
   <tr>
-<td><a href="/holistic-education/Department/english/"><img src="/images/Random/Openhouse%20Matter/english.png" style="width:150px"></a></td>
-<td><a href="/holistic-education/Department/mathematics/"><img src="/images/Random/Openhouse%20Matter/mathmath.png" style="width:150px"></a></td>
-<td><a href="/holistic-education/Department/mother-tongue/"><img src="/images/Random/Openhouse%20Matter/mother-tongue.png" style="width:150px"></a></td>
+<td style="width:150px"><a href="/holistic-education/Department/english/"><img src="/images/Random/Openhouse%20Matter/english.png" style="width:150px"></a></td>
+<td style="width:150px"><a href="/holistic-education/Department/mathematics/"><img src="/images/Random/Openhouse%20Matter/mathmath.png" style="width:150px"></a></td>
+<td style="width:150px"><a href="/holistic-education/Department/mother-tongue/"><img src="/images/Random/Openhouse%20Matter/mother-tongue.png" style="width:150px"></a></td>
   </tr>
   </thead>
   <tbody><tr>
@@ -32,22 +32,18 @@ Leadership Opportunities: We empower our students to become confident and capabl
 
 <table align="center" cellpadding="0" cellspacing="0" class="Jeff's blog table class" style="margin-left: auto; margin-right: auto; text-align: center;"><thead>
   <tr>
-<td>yyy</td>
-<td>yyy</td>
-<td>yyy</td>
+<td style="width:150px"><a href="/holistic-education/Department/information-n-communications-technology/"><img src="/images/Random/Openhouse%20Matter/infocommt.png" style="width:150px"></a></td>
+<td style="width:150px"> </td>
+<td style="width:150px"><a href="/holistic-education/Department/information-n-communications-technology/"><img src="/images/Random/Openhouse%20Matter/infocommt.png" style="width:150px"></a></td>
   </tr>
   </thead>
   <tbody><tr>
-<td>xxxx</td>
-<td>xxxx</td>
-<td>xxxx</td>
-    </tr><tr>
-<td>xxxx</td>
-<td>xxxx</td>
-<td>xxxx</td>
+<td><a href="/holistic-education/Department/information-n-communications-technology/"><img src="/images/Random/Openhouse%20Matter/infocommt.png" style="width:150px"></a></td>
+<td></td>
+<td><a href="/holistic-education/Department/information-n-communications-technology/"><img src="/images/Random/Openhouse%20Matter/infocommt.png" style="width:150px"></a></td>
     </tr>
 </tbody></table>
 
-Don't miss this opportunity to be part of a nurturing and enriching learning community.
+Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.
 
-We look forward to welcoming you!
+Embark on this educational journey with us and discover the endless possibilities!
