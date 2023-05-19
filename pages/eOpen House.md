@@ -9,7 +9,7 @@ description: ""
 
 <div style="text-align: justify;">At Damai Primary School, we believe in nurturing well-rounded individuals. In addition to our comprehensive core subjects such as English, Mathematics, Science, and Mother Tongue languages, we offer a wide range of holistic and diverse programmes. From sports and arts to STEM (Science, Technology, Engineering, and Mathematics) and Infocomm skills, our students have the opportunity to explore their passions and develop their skills in various areas.</div>
 <h3><b>School Programmes</b></h3>
-<table style="margin-left: auto; margin-right: auto; text-align: center;" class="Jeff's blog table class" cellspacing="0" cellpadding="0" align="center"><thead>
+<table><thead>
   <tr>
 <td style="width:150px"><a href="/holistic-education/Department/english/"><img style="width:150px" src="/images/Random/Openhouse%20Matter/english.png"></a></td>
 <td style="width:150px"><a href="/holistic-education/Department/mathematics/"><img style="width:150px" src="/images/Random/Openhouse%20Matter/mathmath.png"></a></td>
@@ -29,7 +29,7 @@ description: ""
 <h3><b>Niche Programmes</b></h3>
 <div style="text-align: justify;">We prioritize the well-being and development of every student. At Damai Primary School, we foster a culture of care where each student is valued, supported, and encouraged to thrive. Our dedicated teachers and staff create a nurturing environment that promotes inclusivity, respect, and positive relationships. We believe that when students feel safe, supported, and cared for, they can truly excel academically and personally.</div><br>
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" class="Jeff's blog table class" cellspacing="0" cellpadding="0" align="center"><thead>
+<table><thead>
   <tr>
 <td style="width:150px"><a href="/school-experience/school-wide-programmes/learn-for-life-programme-llp"><img style="width:150px" src="/images/Random/Openhouse%20Matter/llprogram.png"></a></td>
 <td style="width:150px"> </td>
@@ -44,7 +44,7 @@ description: ""
 </tbody></table>
 <div style="text-align: justify;">We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.</div>
 <h3><b>Featured Video</b></h3>
-<table style="margin-left: auto; margin-right: auto; text-align: center;" class="Jeff's blog table class" cellspacing="0" cellpadding="0" align="center"><thead>
+<table><thead>
   <tr>
 <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zdg2uV1YUyM" width="300"></iframe></td>
 <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fY1_GyKFSEA" width="300"></iframe></td>
