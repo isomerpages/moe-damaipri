@@ -45,8 +45,24 @@ description: ""
     </tr>
 </tbody></table>
 
-<div style="text-align: justify;">We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.
+<div style="text-align: justify;">We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.</div>
+	
+### Featured Video
 
-Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.
+<table align="center" cellpadding="0" cellspacing="0" class="Jeff's blog table class" style="margin-left: auto; margin-right: auto; text-align: center;"><thead>
+  <tr>
+<td><iframe width="250" src="https://www.youtube.com/embed/zdg2uV1YUyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+<td><iframe width="250" src="https://www.youtube.com/embed/fY1_GyKFSEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+  </tr>
+  </thead>
+  <tbody><tr>
+<td><iframe width="250" src="https://www.youtube.com/embed/bDrmgWh1H5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+<td></td>
+<td><iframe width="250" src="https://www.youtube.com/embed/gT6mqNMUUrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+    </tr>
+</tbody></table>
+
+
+<div style="text-align: justify;">Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.<br>
 
 Embark on this educational journey with us and discover the endless possibilities!</div>
