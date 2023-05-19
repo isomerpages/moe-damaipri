@@ -33,13 +33,13 @@ We prioritize the well-being and development of every student. At Damai Primary 
   <tr>
 <td style="width:150px"><a href="/school-experience/school-wide-programmes/learn-for-life-programme-llp"><img src="/images/Random/Openhouse%20Matter/llprogram.png" style="width:150px"></a></td>
 <td style="width:150px"> </td>
-<td style="width:150px"><a href="/holistic-education/Department/information-n-communications-technology/"><img src="/images/Random/Openhouse%20Matter/infocommt.png" style="width:150px"></a></td>
+<td style="width:150px"><a href="/school-experience/school-wide-programmes/applied-learning-programme-alp"><img src="/images/Random/Openhouse%20Matter/alprogram.png" style="width:150px"></a></td>
   </tr>
   </thead>
   <tbody><tr>
-<td><a href="/holistic-education/Department/information-n-communications-technology/"><img src="/images/Random/Openhouse%20Matter/infocommt.png" style="width:150px"></a></td>
+<td><a href="/school-experience/school-wide-programmes/programme-for-active-learning-pal"><img src="/images/Random/Openhouse%20Matter/palpal.png" style="width:150px"></a></td>
 <td></td>
-<td><a href="/holistic-education/Department/information-n-communications-technology/"><img src="/images/Random/Openhouse%20Matter/infocommt.png" style="width:150px"></a></td>
+<td><a href="/school-experience/school-wide-programmes/interest-elective-programme-iep"><img src="/images/Random/Openhouse%20Matter/ieprogram.png" style="width:150px"></a></td>
     </tr>
 </tbody></table>
 
