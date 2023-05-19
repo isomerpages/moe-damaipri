@@ -51,13 +51,13 @@ description: ""
 
 <table align="center" cellpadding="0" cellspacing="0" class="Jeff's blog table class" style="margin-left: auto; margin-right: auto; text-align: center;"><thead>
   <tr>
-<td><iframe width="250" src="https://www.youtube.com/embed/zdg2uV1YUyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-<td><iframe width="250" src="https://www.youtube.com/embed/fY1_GyKFSEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+<td><iframe width="300" src="https://www.youtube.com/embed/zdg2uV1YUyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+<td><iframe width="300" src="https://www.youtube.com/embed/fY1_GyKFSEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
   </tr>
   </thead>
   <tbody><tr>
-<td><iframe width="250" src="https://www.youtube.com/embed/bDrmgWh1H5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-<td><iframe width="250" src="https://www.youtube.com/embed/gT6mqNMUUrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+<td><iframe width="300" src="https://www.youtube.com/embed/bDrmgWh1H5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+<td><iframe width="300" src="https://www.youtube.com/embed/gT6mqNMUUrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
     </tr>
 </tbody></table>
 
