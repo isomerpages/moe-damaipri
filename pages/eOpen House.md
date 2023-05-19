@@ -3,15 +3,15 @@ title: eOpen House
 permalink: /eopenhouse/
 description: ""
 ---
-## Discover Damai Primary School!
+<h2><b>Discover Damai Primary School!</b></h2>
 
-<div style="text-align: justify;">Join our virtual open house and explore what makes us the ideal choice for your child's education:</div>
+<div style="text-align: justify;">Join our virtual open house and explore what makes us the ideal choice for your child's education:</div><br>
 
-![](/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%204.jpg)
+<div><img src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%204.jpg" style="width:90%"></div><br>
 
 <div style="text-align: justify;">At Damai Primary School, we believe in nurturing well-rounded individuals. In addition to our comprehensive core subjects such as English, Mathematics, Science, and Mother Tongue languages, we offer a wide range of holistic and diverse programmes. From sports and arts to STEM (Science, Technology, Engineering, and Mathematics) and Infocomm skills, our students have the opportunity to explore their passions and develop their skills in various areas.</div>
 
-### School Programmes
+<h3><b>School Programmes</b></h3>
 
 <table align="center" cellpadding="0" cellspacing="0" class="Jeff's blog table class" style="margin-left: auto; margin-right: auto; text-align: center;"><thead>
   <tr>
