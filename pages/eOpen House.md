@@ -31,7 +31,7 @@ description: ""
 <td><a href="/holistic-education/Department/information-n-communications-technology/"><img src="/images/Random/Openhouse%20Matter/infocommt.png" style="width:150px"></a></td>
     </tr></tbody></table>
 
-### Niche Programmes
+<h3><b>Niche Programmes</b></h3>
 
 <div style="text-align: justify;">We prioritize the well-being and development of every student. At Damai Primary School, we foster a culture of care where each student is valued, supported, and encouraged to thrive. Our dedicated teachers and staff create a nurturing environment that promotes inclusivity, respect, and positive relationships. We believe that when students feel safe, supported, and cared for, they can truly excel academically and personally.</div><br>
 
@@ -51,7 +51,7 @@ description: ""
 
 <div style="text-align: justify;">We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.</div>
 
-### Featured Video
+<h3><b>Featured Video</b></h3>
 
 <table align="center" cellpadding="0" cellspacing="0" class="Jeff's blog table class" style="margin-left: auto; margin-right: auto; text-align: center;"><thead>
   <tr>
@@ -65,7 +65,7 @@ description: ""
     </tr>
 </tbody></table>
 
-### Gallery
+<h3><b>Gallery</b></h3>
 
 <table align="center"><thead><tr class="Jeff's blog table class">
 <td align="center" style="text-align: center;"><a href="https://photos.app.goo.gl/7xdGKcX6W4pJA5Mn9">
