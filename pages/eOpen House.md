@@ -5,9 +5,11 @@ description: ""
 ---
 ## Discover Damai Primary School!
 
-Join our virtual open house and explore what makes us the ideal choice for your child's education:
+<div style="text-align: justify;">Join our virtual open house and explore what makes us the ideal choice for your child's education:</div>
 
-At Damai Primary School, we believe in nurturing well-rounded individuals. In addition to our comprehensive core subjects such as English, Mathematics, Science, and Mother Tongue languages, we offer a wide range of holistic and diverse programmes. From sports and arts to STEM (Science, Technology, Engineering, and Mathematics) and Infocomm skills, our students have the opportunity to explore their passions and develop their skills in various areas.
+![](/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%204.jpg)
+
+<div style="text-align: justify;">At Damai Primary School, we believe in nurturing well-rounded individuals. In addition to our comprehensive core subjects such as English, Mathematics, Science, and Mother Tongue languages, we offer a wide range of holistic and diverse programmes. From sports and arts to STEM (Science, Technology, Engineering, and Mathematics) and Infocomm skills, our students have the opportunity to explore their passions and develop their skills in various areas.</div><br>
 
 <table align="center" cellpadding="0" cellspacing="0" class="Jeff's blog table class" style="margin-left: auto; margin-right: auto; text-align: center;"><thead>
   <tr>
@@ -27,7 +29,7 @@ At Damai Primary School, we believe in nurturing well-rounded individuals. In ad
 <td><a href="/holistic-education/Department/information-n-communications-technology/"><img src="/images/Random/Openhouse%20Matter/infocommt.png" style="width:150px"></a></td>
     </tr></tbody></table>
 
-We prioritize the well-being and development of every student. At Damai Primary School, we foster a culture of care where each student is valued, supported, and encouraged to thrive. Our dedicated teachers and staff create a nurturing environment that promotes inclusivity, respect, and positive relationships. We believe that when students feel safe, supported, and cared for, they can truly excel academically and personally.
+<div style="text-align: justify;">We prioritize the well-being and development of every student. At Damai Primary School, we foster a culture of care where each student is valued, supported, and encouraged to thrive. Our dedicated teachers and staff create a nurturing environment that promotes inclusivity, respect, and positive relationships. We believe that when students feel safe, supported, and cared for, they can truly excel academically and personally.</div><br>
 
 <table align="center" cellpadding="0" cellspacing="0" class="Jeff's blog table class" style="margin-left: auto; margin-right: auto; text-align: center;"><thead>
   <tr>
@@ -43,8 +45,8 @@ We prioritize the well-being and development of every student. At Damai Primary 
     </tr>
 </tbody></table>
 
-We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.
+<div style="text-align: justify;">We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.
 
 Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.
 
-Embark on this educational journey with us and discover the endless possibilities!
+Embark on this educational journey with us and discover the endless possibilities!</div>
