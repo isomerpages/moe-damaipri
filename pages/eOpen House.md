@@ -4,9 +4,8 @@ permalink: /eopenhouse/
 description: ""
 ---
 <h2><b>Discover Damai Primary School!</b></h2>
-<div style="text-align: justify;">Join our virtual open house and explore what makes us the ideal choice for your child's education:</div><br>
-<div><img style="width:90%" src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%204.jpg"></div><br>
-
+<div style="text-align: justify;">Join our virtual open house and explore what makes us the ideal choice for your child's education:</div>
+<div><img style="width:90%" src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%204.jpg"></div>
 <div style="text-align: justify;">At Damai Primary School, we believe in nurturing well-rounded individuals. In addition to our comprehensive core subjects such as English, Mathematics, Science, and Mother Tongue languages, we offer a wide range of holistic and diverse programmes. From sports and arts to STEM (Science, Technology, Engineering, and Mathematics) and Infocomm skills, our students have the opportunity to explore their passions and develop their skills in various areas.</div>
 <h3><b>School Programmes</b></h3>
 <table><thead>
@@ -27,8 +26,7 @@ description: ""
 <td><a href="/holistic-education/Department/information-n-communications-technology/"><img style="width:150px" src="/images/Random/Openhouse%20Matter/infocommt.png"></a></td>
     </tr></tbody></table>
 <h3><b>Niche Programmes</b></h3>
-<div style="text-align: justify;">We prioritize the well-being and development of every student. At Damai Primary School, we foster a culture of care where each student is valued, supported, and encouraged to thrive. Our dedicated teachers and staff create a nurturing environment that promotes inclusivity, respect, and positive relationships. We believe that when students feel safe, supported, and cared for, they can truly excel academically and personally.</div><br>
-
+<div style="text-align: justify;">We prioritize the well-being and development of every student. At Damai Primary School, we foster a culture of care where each student is valued, supported, and encouraged to thrive. Our dedicated teachers and staff create a nurturing environment that promotes inclusivity, respect, and positive relationships. We believe that when students feel safe, supported, and cared for, they can truly excel academically and personally.</div>
 <table><thead>
   <tr>
 <td style="width:150px"><a href="/school-experience/school-wide-programmes/learn-for-life-programme-llp"><img style="width:150px" src="/images/Random/Openhouse%20Matter/llprogram.png"></a></td>
@@ -84,6 +82,6 @@ description: ""
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/EZZ1D5ssALJ2jm4f8">
 <img style="width:300px" src="/images/Gallery/2023/2023%2005%2008%20hariraya%20s.JPG">Hari Raya Celebration</a></td>
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/rUysiSTtwYuefcVr5">
-<img style="width:300px" src="/images/Gallery/2023/2023%2005%2015%20talentime.JPG">Talentime @ Damai</a></td></tr></thead></table><br>
-<div style="text-align: justify;">Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.</div><br>
+<img style="width:300px" src="/images/Gallery/2023/2023%2005%2015%20talentime.JPG">Talentime @ Damai</a></td></tr></thead></table>
+<div style="text-align: justify;">Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.</div>
 <div style="text-align: justify;">Embark on this educational journey with us and discover the endless possibilities!</div>
