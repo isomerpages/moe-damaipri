@@ -10,34 +10,34 @@ description: ""
 <h3><b>School Programmes</b></h3>
 <table><thead>
   <tr>
-<td style="width:150px"><a href="/holistic-education/Department/english/"><img style="width:150px" src="/images/Random/Openhouse%20Matter/english.png"></a></td>
-<td style="width:150px"><a href="/holistic-education/Department/mathematics/"><img style="width:150px" src="/images/Random/Openhouse%20Matter/mathmath.png"></a></td>
-<td style="width:150px"><a href="/holistic-education/Department/mother-tongue/"><img style="width:150px" src="/images/Random/Openhouse%20Matter/mother-tongue.png"></a></td>
+<td style="width:200px"><a href="/holistic-education/Department/english/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/english.png"></a></td>
+<td style="width:200px"><a href="/holistic-education/Department/mathematics/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/mathmath.png"></a></td>
+<td style="width:200px"><a href="/holistic-education/Department/mother-tongue/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/mother-tongue.png"></a></td>
   </tr>
   </thead>
   <tbody><tr>
-<td><a href="/holistic-education/Department/science/"><img style="width:150px" src="/images/Random/Openhouse%20Matter/science.png"></a></td>
-<td><a href="/holistic-education/Department/physical-education-pe/"><img style="width:150px" src="/images/Random/Openhouse%20Matter/peducation.png"></a></td>
-<td><a href="/holistic-education/Department/aesthetics/"><img style="width:150px" src="/images/Random/Openhouse%20Matter/aesthetics.png"></a></td>
+<td><a href="/holistic-education/Department/science/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/science.png"></a></td>
+<td><a href="/holistic-education/Department/physical-education-pe/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/peducation.png"></a></td>
+<td><a href="/holistic-education/Department/aesthetics/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/aesthetics.png"></a></td>
     </tr>
     <tr>
-<td><a href="/holistic-education/Department/character-n-citizenship-education/"><img style="width:150px" src="/images/Random/Openhouse%20Matter/cceducation.png"></a></td>
+<td><a href="/holistic-education/Department/character-n-citizenship-education/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/cceducation.png"></a></td>
 <td> </td>
-<td><a href="/holistic-education/Department/information-n-communications-technology/"><img style="width:150px" src="/images/Random/Openhouse%20Matter/infocommt.png"></a></td>
+<td><a href="/holistic-education/Department/information-n-communications-technology/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/infocommt.png"></a></td>
     </tr></tbody></table>
 <h3><b>Niche Programmes</b></h3>
 <div style="text-align: justify;">We prioritize the well-being and development of every student. At Damai Primary School, we foster a culture of care where each student is valued, supported, and encouraged to thrive. Our dedicated teachers and staff create a nurturing environment that promotes inclusivity, respect, and positive relationships. We believe that when students feel safe, supported, and cared for, they can truly excel academically and personally.</div>
 <table><thead>
   <tr>
-<td style="width:150px"><a href="/school-experience/school-wide-programmes/learn-for-life-programme-llp"><img style="width:150px" src="/images/Random/Openhouse%20Matter/llprogram.png"></a></td>
-<td style="width:150px"> </td>
-<td style="width:150px"><a href="/school-experience/school-wide-programmes/applied-learning-programme-alp"><img style="width:150px" src="/images/Random/Openhouse%20Matter/alprogram.png"></a></td>
+<td style="width:200px"><a href="/school-experience/school-wide-programmes/learn-for-life-programme-llp"><img style="width:200px" src="/images/Random/Openhouse%20Matter/llprogram.png"></a></td>
+<td style="width:200px"> </td>
+<td style="width:200px"><a href="/school-experience/school-wide-programmes/applied-learning-programme-alp"><img style="width:200px" src="/images/Random/Openhouse%20Matter/alprogram.png"></a></td>
   </tr>
   </thead>
   <tbody><tr>
-<td><a href="/school-experience/school-wide-programmes/programme-for-active-learning-pal"><img style="width:150px" src="/images/Random/Openhouse%20Matter/palpal.png"></a></td>
+<td><a href="/school-experience/school-wide-programmes/programme-for-active-learning-pal"><img style="width:200px" src="/images/Random/Openhouse%20Matter/palpal.png"></a></td>
 <td></td>
-<td><a href="/school-experience/school-wide-programmes/interest-elective-programme-iep"><img style="width:150px" src="/images/Random/Openhouse%20Matter/ieprogram.png"></a></td>
+<td><a href="/school-experience/school-wide-programmes/interest-elective-programme-iep"><img style="width:200px" src="/images/Random/Openhouse%20Matter/ieprogram.png"></a></td>
     </tr>
 </tbody></table>
 <div style="text-align: justify;">We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.</div>
