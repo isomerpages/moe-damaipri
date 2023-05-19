@@ -61,6 +61,6 @@ description: ""
     </tr>
 </tbody></table>
 
-<div style="text-align: justify;">Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.<br>
+<div style="text-align: justify;">Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.</div><br>
 
-Embark on this educational journey with us and discover the endless possibilities!</div>
+<div style="text-align: justify;">Embark on this educational journey with us and discover the endless possibilities!</div>
