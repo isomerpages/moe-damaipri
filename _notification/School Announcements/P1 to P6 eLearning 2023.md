@@ -73,8 +73,8 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>3C</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOUd3nwDJ8AFnAFzJZMShzG9oOrLAs-xBLSoAYQRcn_b8hT-XVC3dudyrbFMzNvQh78joGa85lultl/pubhtml" target="_blank">24 May</a></td>
 <td> </td>
-<td> </td>
-<td> </td>
+<td>-</td>
+<td>-</td>
 </tr><tr>
 <td><b>4A</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-rsAthBWtLeSAFHrPazgpP2PfKHv5rUuWtVWNfxcLD83mbxxCmwJH14Krnj8E3c2vncUZrdpYFa9r/pubhtml" target="_blank">24 May</a></td>
@@ -99,4 +99,16 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td> </td>
 <td><b>5D</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ54HNo8wkU_o0V2eef_iBanV4CFd294LH7or5g2idS6r1J6GPh0HCTq6Um4cx-CVjte0LDe8TxwL5m/pubhtml" target="_blank">24 May</a></td>
+</tr><tr>
+<td><b>6A</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vScat6TcEQ_rURBYIuV3xHzO8rrYEujLK2ihKnIMeIXC1mvSaNVZq3_BRywtwqniwWApwE_2bCm2BbL/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td><b>6C</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSdikT5ZDpcqC7Qks8M67il00TxVdMV3KunErkaxZTO5Qa6lN2B_sm1fyJ9hMDBbpMXj14vOuuEFpRV/pubhtml" target="_blank">24 May</a></td>
+</tr><tr>
+<td><b>6B</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQoxg_39OrByLnK2su1Yum_vG0HW_O3v2nsAwPmDVY5mAq8eUI9t3AThsP_OGC690A73JSfW0IcoMpl/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr></tbody></table><br>
