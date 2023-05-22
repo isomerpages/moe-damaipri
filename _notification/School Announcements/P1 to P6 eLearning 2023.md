@@ -29,10 +29,10 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td> </td>
 </tr><tr>
 <td><b>1C</b></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9MWpahSb8d6q2BfLHIHMNUtkldpKxn8-G-LGCsozdK7DxszLQ2Nasy4d4hZyqepEZV-8532bjJ8eb/pubhtml?gid=942067161&amp;single=true" target="_blank">17 Oct</a>
-</td><td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9MWpahSb8d6q2BfLHIHMNUtkldpKxn8-G-LGCsozdK7DxszLQ2Nasy4d4hZyqepEZV-8532bjJ8eb/pubhtml?gid=1165617130&amp;single=true" target="_blank">18 Oct</a>
-</td><td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9MWpahSb8d6q2BfLHIHMNUtkldpKxn8-G-LGCsozdK7DxszLQ2Nasy4d4hZyqepEZV-8532bjJ8eb/pubhtml?gid=1709254850&amp;single=true" target="_blank">19 Oct</a>
-</td><td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9MWpahSb8d6q2BfLHIHMNUtkldpKxn8-G-LGCsozdK7DxszLQ2Nasy4d4hZyqepEZV-8532bjJ8eb/pubhtml?gid=976297377&amp;single=true" target="_blank">20 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRogiemGvM8g1Cbp2Icv4AAGYLoCBQq3houfNf-TPm3rrnrJravJt4k3PauOZ91p9Eg_j2TF0xJt_X-/pubhtml?gid=1527936744&amp;single=true" target="_blank">24 May</a></td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
 </tr><tr>
 <td><b>1D</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRDzhsnGxJbNm7ntQ50prCLF0HYakR_OdZd7XDxAV7wgpKt6ljkNs9fl30DySX6hamulTbyG9m8Tep/pubhtml?gid=1803012700&amp;single=true" target="_blank">17 Oct</a></td>
