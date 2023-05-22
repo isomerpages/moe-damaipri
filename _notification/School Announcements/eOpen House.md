@@ -16,7 +16,7 @@ Scan the QR code to register or click the link
 <a href="https://form.gov.sg/64678675c36fce0012152825">here.</a></div>
 
 <h3><b>Promise of a Holistic Education</b></h3>
-<div style="text-align: justify;">Insert video<br>Preparing Future-Ready Students: Let's uncover our exciting school and niche programmes!</div>
+<div style="text-align: justify;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zdg2uV1YUyM" width="300"></iframe><br>Preparing Future-Ready Students: Let's uncover our exciting school and niche programmes!</div>
 
 
 <h3><b>School Programmes</b></h3>
@@ -62,18 +62,6 @@ Scan the QR code to register or click the link
 <h3><b>Let's Step Inside and Explore DPS Facilities</b></h3>
 <div style="text-align: justify;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fY1_GyKFSEA" width="500"></iframe></div>
 
-<h3><b>Featured Video</b></h3>
-<table><thead>
-  <tr>
-<td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zdg2uV1YUyM" width="300"></iframe></td>
-<td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bDrmgWh1H5U" width="300"></iframe></td>
-  </tr>
-  </thead>
-  <tbody><tr>
-<td> </td>
-<td> </td>
-    </tr>
-</tbody></table>
 <h3><b>2023 Photo Gallery</b></h3>
 <table><thead><tr class="Jeff's blog table class">
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/7xdGKcX6W4pJA5Mn9">
@@ -97,7 +85,7 @@ Scan the QR code to register or click the link
 <img align="center" style="width:300px" src="/images/Gallery/2023/2023%2002%2027%20manga.JPG">Art Assembly Program - Manga</a></td></tr></thead></table>
 <table><thead><tr class="Jeff's blog table class">
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/fygtiqRtvv3mL3XB8">
-<img style="height:200px" src="/images/Gallery/2023/2023%2003%2008%20p1%20mouse%20lesson.jpg">P1 Mouse Lesson</a></td>
+<img style="height:150px" src="/images/Gallery/2023/2023%2003%2008%20p1%20mouse%20lesson.jpg">P1 Mouse Lesson</a></td>
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/zyfaW4QEhwAbd1UV8">
 <img align="center" style="width:300px" src="/images/Gallery/2023/2023%2003%2020%20happy%20world%20water%20day%20stu1.JPG">Happy World Water Day</a></td></tr></thead></table><table><thead><tr class="Jeff's blog table class">
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/EZZ1D5ssALJ2jm4f8">
