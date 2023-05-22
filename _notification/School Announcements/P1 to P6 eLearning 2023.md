@@ -35,22 +35,28 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 	<td> </td>
 </tr><tr>
 <td><b>1D</b></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRDzhsnGxJbNm7ntQ50prCLF0HYakR_OdZd7XDxAV7wgpKt6ljkNs9fl30DySX6hamulTbyG9m8Tep/pubhtml?gid=1803012700&amp;single=true" target="_blank">17 Oct</a></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRDzhsnGxJbNm7ntQ50prCLF0HYakR_OdZd7XDxAV7wgpKt6ljkNs9fl30DySX6hamulTbyG9m8Tep/pubhtml?gid=1672985126&amp;single=true" target="_blank">18 Oct</a></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRDzhsnGxJbNm7ntQ50prCLF0HYakR_OdZd7XDxAV7wgpKt6ljkNs9fl30DySX6hamulTbyG9m8Tep/pubhtml?gid=799435630&amp;single=true" target="_blank">19 Oct</a></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRDzhsnGxJbNm7ntQ50prCLF0HYakR_OdZd7XDxAV7wgpKt6ljkNs9fl30DySX6hamulTbyG9m8Tep/pubhtml?gid=1081912582&amp;single=true" target="_blank">20 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSG0mc1AFzLWrDM2ANcAskZRNFpIIu3DrLG0sJovIHLseCsVJ6VPnfzJuXl7C8meRNIufPSkMSW-ygQ/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr><tr>
 <td><b>1E</b></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSde2ycsdZ85CCC-xFQAKSmsMIutF3KRtj-1MfR6pDbDcggGrUV3K2gG5R-70sijzWD8eSB0w6KuTvO/pubhtml?gid=1639989053&amp;single=true" target="_blank">17 Oct</a></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSde2ycsdZ85CCC-xFQAKSmsMIutF3KRtj-1MfR6pDbDcggGrUV3K2gG5R-70sijzWD8eSB0w6KuTvO/pubhtml?gid=1835227780&amp;single=true" target="_blank">18 Oct</a></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSde2ycsdZ85CCC-xFQAKSmsMIutF3KRtj-1MfR6pDbDcggGrUV3K2gG5R-70sijzWD8eSB0w6KuTvO/pubhtml?gid=1427123347&amp;single=true" target="_blank">19 Oct</a></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSde2ycsdZ85CCC-xFQAKSmsMIutF3KRtj-1MfR6pDbDcggGrUV3K2gG5R-70sijzWD8eSB0w6KuTvO/pubhtml?gid=1529962463&amp;single=true" target="_blank">20 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0bPwbtYL7yQoG7Z58pxlMKobqsTZ2HFvMjhMFMuGVsDrLFxkCiBV3L_BIndn6rAMDyCrL0m96nkax/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr><tr>
 <td><b>1F</b></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTm3o22SAOTevG26WFgkzlbFETbRYCWJPTV5n8GpbCT8vOJVi50cs2MNuXX8cqT6YLJndXjz_x3TZ-N/pubhtml?gid=980293910&amp;single=true" target="_blank">17 Oct</a></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTm3o22SAOTevG26WFgkzlbFETbRYCWJPTV5n8GpbCT8vOJVi50cs2MNuXX8cqT6YLJndXjz_x3TZ-N/pubhtml?gid=325058775&amp;single=true" target="_blank">18 Oct</a></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTm3o22SAOTevG26WFgkzlbFETbRYCWJPTV5n8GpbCT8vOJVi50cs2MNuXX8cqT6YLJndXjz_x3TZ-N/pubhtml?gid=600408158&amp;single=true" target="_blank">19 Oct</a></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTm3o22SAOTevG26WFgkzlbFETbRYCWJPTV5n8GpbCT8vOJVi50cs2MNuXX8cqT6YLJndXjz_x3TZ-N/pubhtml?gid=531034062&amp;single=true" target="_blank">20 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCbsUFWP466jDbMozjbguZl-8yRNkhftcjIgJRV_g_l_ro1YO2ECyMh-YeFcFmdFu3tKt5pO8a6HNY/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr><tr>
+<td><b>1G</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCbsUFWP466jDbMozjbguZl-8yRNkhftcjIgJRV_g_l_ro1YO2ECyMh-YeFcFmdFu3tKt5pO8a6HNY/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr><tr>
 <td><b>2A</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT0hJyAW-yiINM_VOpr79qhzGDYF5Jl1t-UDZ8wCv31RUVltyJAFEjULcNoThB_BAXsLHFxuRXOcVWU/pubhtml?gid=2074342579&amp;single=true" target="_blank">17 Oct</a></td>
