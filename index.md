@@ -44,4 +44,14 @@ sections:
       url: /useful-links/students/
       image: /images/Announcement/2022 quicklink.png
       alt: Image alt text
+  - infopic:
+      title: P1 to P6 eLearning 2023
+      subtitle: 24 May 2023
+      description: As there are no lessons in school on 24 May 2023 due to
+        Parent-Teacher-Student Conference, the school will be conducting an
+        e-Learning Exercise on that day.
+      button: Click here to find out more
+      url: /notification/announcements/elearning/
+      image: /images/Announcement/2023/elearning banner.jpg
+      alt: Image alt text
 ---
