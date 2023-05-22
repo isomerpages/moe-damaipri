@@ -16,7 +16,7 @@ Scan the QR code to register or click the link
 <a href="https://form.gov.sg/64678675c36fce0012152825">here.</a></div>
 
 <h3><b>Promise of a Holistic Education</b></h3>
-<div style="text-align: justify;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zdg2uV1YUyM" width="300"></iframe><br>Preparing Future-Ready Students: Let's uncover our exciting school and niche programmes!</div>
+<div style="text-align: justify;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zdg2uV1YUyM" width="500"></iframe><br>Preparing Future-Ready Students: Let's uncover our exciting school and niche programmes!</div>
 
 
 <h3><b>School Programmes</b></h3>
