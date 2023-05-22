@@ -65,20 +65,16 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td> </td>
 </tr><tr>
 <td><b>2A</b></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT0hJyAW-yiINM_VOpr79qhzGDYF5Jl1t-UDZ8wCv31RUVltyJAFEjULcNoThB_BAXsLHFxuRXOcVWU/pubhtml?gid=2074342579&amp;single=true" target="_blank">17 Oct</a></td>
-	<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT0hJyAW-yiINM_VOpr79qhzGDYF5Jl1t-UDZ8wCv31RUVltyJAFEjULcNoThB_BAXsLHFxuRXOcVWU/pubhtml?gid=938832276&amp;single=true" target="_blank">18 Oct</a></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT0hJyAW-yiINM_VOpr79qhzGDYF5Jl1t-UDZ8wCv31RUVltyJAFEjULcNoThB_BAXsLHFxuRXOcVWU/pubhtml?gid=1946805963&amp;single=true" target="_blank">19 Oct</a></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT0hJyAW-yiINM_VOpr79qhzGDYF5Jl1t-UDZ8wCv31RUVltyJAFEjULcNoThB_BAXsLHFxuRXOcVWU/pubhtml?gid=1092877827&amp;single=true" target="_blank">20 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrzO4muteu3KzBG8CDRiEL4SFBBu2hssaNJ3tC5n2IBbiDr7GsRrIE0Rr9UaUgU_p6QFEM_EjgKp2Y/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr><tr>
 <td><b>2B</b></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQryUI21PLw-CWpP-StMYBfNXpDNFdsVDHGOz9DrhTF21TqoXBEFfypis0IbBXnkHocyvq8UC-wWI7H/pubhtml?gid=1146240156&amp;single=true" target="_blank">17 Oct</a>
-</td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQryUI21PLw-CWpP-StMYBfNXpDNFdsVDHGOz9DrhTF21TqoXBEFfypis0IbBXnkHocyvq8UC-wWI7H/pubhtml?gid=1094990599&amp;single=true" target="_blank">18 Oct</a>
-</td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQryUI21PLw-CWpP-StMYBfNXpDNFdsVDHGOz9DrhTF21TqoXBEFfypis0IbBXnkHocyvq8UC-wWI7H/pubhtml?gid=1150908801&amp;single=true" target="_blank">19 Oct</a>
-</td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQryUI21PLw-CWpP-StMYBfNXpDNFdsVDHGOz9DrhTF21TqoXBEFfypis0IbBXnkHocyvq8UC-wWI7H/pubhtml?gid=1119433129&amp;single=true" target="_blank">20 Oct</a>
-</td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VPQ8vGk45F-ygd87iH416PtpfqvNwZpXMKeIXPpVa4hM30YKKGhQxzHe9yz4NIaGcmw7jXGshAA/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr><tr>
 <td><b>2C</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vReHEaHYKFLiZ84v6mcYCRGV-FqatlY87TCEuqMDwC6UjCKpW1OIEzp97xLO6sChu6hJJss3QWESiFN/pubhtml?gid=1215288483&amp;single=true" target="_blank">17 Oct</a></td>
