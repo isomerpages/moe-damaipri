@@ -10,8 +10,9 @@ third_nav_title: School Announcements
 <div style="text-align: justify;">Welcome to Damai Primary School! We warmly embrace and welcome every child into our Damai family.  Join our E-Open House to experience and explore the programmes and facilities that we have in DPS!</div><br>
 <div><img style="width:90%" src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%204.jpg"></div><br>
 <h3><b>Principal's Message</b></h3>
-<div style="text-align: justify;">Insert video - she wants to record at DAMAZING<br>Register for our Principal Live Talk on Saturday, 8th July 2023<br>
-Add Qr Code<br>
+<div style="text-align: justify;">Insert video<br><br>
+We hope this E-Open House will provide an insight into our school’s academic curriculum and niche programmes. In addition to a live talk by our School Principal, there will be different sharing sessions by our heads of departments, parent volunteers, student care personnel and ex-Damai students for those who signed up.<br><br>Register for our Principal Live Talk on Saturday, 8th July 2023<br><br>
+Add Qr Code<br><br>
 Scan the QR code to register or click the link
 <a href="https://form.gov.sg/64678675c36fce0012152825">here.</a></div>
 
