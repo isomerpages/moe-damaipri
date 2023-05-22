@@ -5,16 +5,16 @@ description: ""
 third_nav_title: School Announcements
 ---
 <div style="text-align: center;"><h2><b>Discover Damai Primary School</b></h2><br><h5>Confident Individuals ● Thinking Learners ● Engaged Leaders</h5></div>
-<div style="text-align: justify;">Welcome to Damai Primary School! We warmly embrace and welcome every child into our Damai family.  Join our E-Open House to experience and explore the programmes and facilities that we have in DPS!</div>
-<div><img style="width:90%" src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%204.jpg"></div>
+<div style="text-align: justify;">Welcome to Damai Primary School! We warmly embrace and welcome every child into our Damai family.  Join our E-Open House to experience and explore the programmes and facilities that we have in DPS!</div><br>
+<div><img style="width:90%" src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%204.jpg"></div><br>
 <div style="text-align: center;"><h3><b>Principal's Message</b></h3></div>
 <div style="text-align: justify;">-Video will be up soon-<br><br>
 We hope this E-Open House will provide an insight into our school’s academic curriculum and niche programmes. In addition to a live talk by our School Principal, there will be different sharing sessions by our heads of departments, parent volunteers, student care personnel and ex-Damai students for those who signed up.<br><br>Register for our Principal Live Talk on <b>Saturday, 8th July 2023</b></div>
 <div style="text-align: center;"><img style="width:200px" src="/images/Announcement/2023/register.jpeg"><br>
 Scan the QR code to register or click the link
-<a href="https://form.gov.sg/64678675c36fce0012152825">here.</a></div>
+<a href="https://form.gov.sg/64678675c36fce0012152825">here.</a></div><br>
 <div style="text-align: center;"><h3><b>Promise of a Holistic Education</b></h3></div>
-<div style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zdg2uV1YUyM" height="350px" width="500px"></iframe><br>Preparing Future-Ready Students: Let's uncover our exciting school and niche programmes!</div>
+<div style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zdg2uV1YUyM" height="350px" width="500px"></iframe><br>Preparing Future-Ready Students: Let's uncover our exciting school and niche programmes!</div><br>
 <div style="text-align: center;"><h3><b>School Programmes</b></h3></div>
 <div style="text-align: justify;">At Damai Primary School, we believe in nurturing well-rounded individuals. In addition to our comprehensive core subjects such as English, Mathematics, Science, and Mother Tongue languages, we offer a wide range of holistic and diverse programmes. From sports and arts to STEM (Science, Technology, Engineering, and Mathematics) and Infocomm skills, our students have the opportunity to explore their passions and develop their skills in various areas.</div>
 <table><thead>
@@ -33,7 +33,7 @@ Scan the QR code to register or click the link
 <td><a href="/holistic-education/Department/character-n-citizenship-education/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/cceducation.png"></a></td>
 <td> </td>
 <td><a href="/holistic-education/Department/information-n-communications-technology/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/infocommt.png"></a></td>
-    </tr></tbody></table>
+    </tr></tbody></table><br>
 <div style="text-align: center;"><h3><b>Niche Programmes</b></h3></div>
 <div style="text-align: justify;">We prioritize the well-being and development of every student. At Damai Primary School, we foster a culture of care where each student is valued, supported, and encouraged to thrive. Our dedicated teachers and staff create a nurturing environment that promotes inclusivity, respect, and positive relationships. We believe that when students feel safe, supported, and cared for, they can truly excel academically and personally.</div>
 <table><thead>
@@ -49,12 +49,12 @@ Scan the QR code to register or click the link
 <td><a href="/school-experience/school-wide-programmes/interest-elective-programme-iep"><img style="width:200px" src="/images/Random/Openhouse%20Matter/ieprogram.png"></a></td>
     </tr>
 </tbody></table>
-<div style="text-align: justify;">We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.</div>
+<div style="text-align: justify;">We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.</div><br>
 <div style="text-align: center;"><h3><b>A Day in the Life of a P1 Damaian</b></h3></div>
-<div style="text-align: justify;">-Video will be up soon-<br><br>Let's walk in the footsteps of a Primary 1 student going through his and her daily life as student in our school!</div>
+<div style="text-align: justify;">-Video will be up soon-<br><br>Let's walk in the footsteps of a Primary 1 student going through his and her daily life as student in our school!</div><br>
 <div style="text-align: center;"><h3><b>Let's Step Inside and Explore DPS Facilities</b></h3></div>
 <div style="text-align: center;"><a href="/school-experience/official-opening-of-new-school-campus"><img style="width:500px" src="/images/2020-official-school-opening-b.png"></a></div>
-<div style="text-align: justify;">Let's walk through the facilities and experience the different places that can be found in Damai Primary School.</div>
+<div style="text-align: justify;">Let's walk through the facilities and experience the different places that can be found in Damai Primary School.</div><br>
 <div style="text-align: center;"><h3><b>2023 Photo Gallery</b></h3></div><table><thead><tr class="Jeff's blog table class">
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/7xdGKcX6W4pJA5Mn9">
 <img style="width:300px" src="/images/Gallery/2023/2023%2001%2003%20p1%20first%20day%20j.JPG">First Day</a></td>
@@ -83,7 +83,7 @@ Scan the QR code to register or click the link
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/EZZ1D5ssALJ2jm4f8">
 <img style="width:300px" src="/images/Gallery/2023/2023%2005%2008%20hariraya%20s.JPG">Hari Raya Celebration</a></td>
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/rUysiSTtwYuefcVr5">
-<img style="width:300px" src="/images/Gallery/2023/2023%2005%2015%20talentime.JPG">Talentime @ Damai</a></td></tr></thead></table>
-<div style="text-align: justify;">Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.</div>
+<img style="width:300px" src="/images/Gallery/2023/2023%2005%2015%20talentime.JPG">Talentime @ Damai</a></td></tr></thead></table><br>
+<div style="text-align: justify;">Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.</div><br>
 <div style="text-align: center;"><h3><b>Primary 1 Registration Information</b></h3></div>
 <div style="text-align: justify;">Click on the link to prepare and register your child for P1 through the <a href="https://www.moe.gov.sg/primary/p1-registration">P1 registration</a> process on the MOE website.</div>
