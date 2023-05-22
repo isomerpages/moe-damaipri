@@ -111,4 +111,16 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td> </td>
 <td> </td>
 <td> </td>
+</tr><tr>
+<td><b>3C</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOUd3nwDJ8AFnAFzJZMShzG9oOrLAs-xBLSoAYQRcn_b8hT-XVC3dudyrbFMzNvQh78joGa85lultl/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr><tr>
+<td><b>3D</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaoarC-4dflfrt7f4uVqO1LV8cqgYrOA2rKFZbWYRta7vontw-FKVEtElriiVZvWfDI1oGHhxhWYkE/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr></tbody></table><br>
