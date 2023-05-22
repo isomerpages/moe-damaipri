@@ -60,7 +60,7 @@ Scan the QR code to register or click the link
 <div style="text-align: justify;">Let's walk in the footsteps of a Primary 1 student going through his and her daily life as student in our school!</div>
 
 <h3><b>Let's Step Inside and Explore DPS Facilities</b></h3>
-<div style="text-align: justify;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fY1_GyKFSEA" width="500"></iframe></div>
+<div style="text-align: justify;">Let's walk through the facilities and experience the different places that can be found in Damai Primary School.</div>
 
 <h3><b>2023 Photo Gallery</b></h3>
 <table><thead><tr class="Jeff's blog table class">
@@ -85,7 +85,7 @@ Scan the QR code to register or click the link
 <img align="center" style="width:300px" src="/images/Gallery/2023/2023%2002%2027%20manga.JPG">Art Assembly Program - Manga</a></td></tr></thead></table>
 <table><thead><tr class="Jeff's blog table class">
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/fygtiqRtvv3mL3XB8">
-<img style="height:150px" src="/images/Gallery/2023/2023%2003%2008%20p1%20mouse%20lesson.jpg">P1 Mouse Lesson</a></td>
+<img style="height:200px" src="/images/Gallery/2023/2023%2003%2008%20p1%20mouse%20lesson.jpg">P1 Mouse Lesson</a></td>
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/zyfaW4QEhwAbd1UV8">
 <img align="center" style="width:300px" src="/images/Gallery/2023/2023%2003%2020%20happy%20world%20water%20day%20stu1.JPG">Happy World Water Day</a></td></tr></thead></table><table><thead><tr class="Jeff's blog table class">
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/EZZ1D5ssALJ2jm4f8">
