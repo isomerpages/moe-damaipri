@@ -109,6 +109,6 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>6B</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQoxg_39OrByLnK2su1Yum_vG0HW_O3v2nsAwPmDVY5mAq8eUI9t3AThsP_OGC690A73JSfW0IcoMpl/pubhtml" target="_blank">24 May</a></td>
 <td> </td>
-<td> </td>
-<td> </td>
+<td>-</td>
+<td>-</td>
 </tr></tbody></table><br>
