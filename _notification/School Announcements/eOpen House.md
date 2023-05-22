@@ -96,5 +96,5 @@ Scan the QR code to register or click the link
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/rUysiSTtwYuefcVr5">
 <img style="width:300px" src="/images/Gallery/2023/2023%2005%2015%20talentime.JPG">Talentime @ Damai</a></td></tr></thead></table><br>
 <div style="text-align: justify;">Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.</div><br>
-
+<h3><b>Primary 1 Registration Information</b></h3>
 <div style="text-align: justify;">Click on the link to prepare and register your child for P1 through the <a href="https://www.moe.gov.sg/primary/p1-registration">P1 registration</a> process on the MOE website.</div>
