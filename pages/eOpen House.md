@@ -8,10 +8,18 @@ description: ""
 
 <div style="text-align: justify;">Welcome to Damai Primary School! We warmly embrace and welcome every child into our Damai family.  Join our E-Open House to experience and explore the programmes and facilities that we have in DPS!</div><br>
 <div><img style="width:90%" src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%204.jpg"></div><br>
-<h3><b>School Programmes</b></h3>
+<h3><b>Principal's Message</b></h3>
+<div style="text-align: justify;">Insert video - she wants to record at DAMAZING<br>Register for our Principal Live Talk on Saturday, 8th July 2023<br>
+Add Qr Code<br>
+Scan the QR code to register or click the link
+<a href="https://form.gov.sg/64678675c36fce0012152825">here.</a></div>
 
-<div style="text-align: justify;">At Damai Primary School, we believe in nurturing well-rounded individuals. In addition to our comprehensive core subjects such as English, Mathematics, Science, and Mother Tongue languages, we offer a wide range of holistic and diverse programmes. From sports and arts to STEM (Science, Technology, Engineering, and Mathematics) and Infocomm skills, our students have the opportunity to explore their passions and develop their skills in various areas.</div>
+<h3><b>Promise of a Holistic Education</b></h3>
+<div style="text-align: justify;">Insert video<br>Preparing Future-Ready Students: Let's uncover our exciting school and niche programmes!</div>
+
+
 <h3><b>School Programmes</b></h3>
+<div style="text-align: justify;">At Damai Primary School, we believe in nurturing well-rounded individuals. In addition to our comprehensive core subjects such as English, Mathematics, Science, and Mother Tongue languages, we offer a wide range of holistic and diverse programmes. From sports and arts to STEM (Science, Technology, Engineering, and Mathematics) and Infocomm skills, our students have the opportunity to explore their passions and develop their skills in various areas.</div>
 <table><thead>
   <tr>
 <td style="width:200px"><a href="/holistic-education/Department/english/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/english.png"></a></td>
@@ -29,6 +37,7 @@ description: ""
 <td> </td>
 <td><a href="/holistic-education/Department/information-n-communications-technology/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/infocommt.png"></a></td>
     </tr></tbody></table>
+		
 <h3><b>Niche Programmes</b></h3>
 <div style="text-align: justify;">We prioritize the well-being and development of every student. At Damai Primary School, we foster a culture of care where each student is valued, supported, and encouraged to thrive. Our dedicated teachers and staff create a nurturing environment that promotes inclusivity, respect, and positive relationships. We believe that when students feel safe, supported, and cared for, they can truly excel academically and personally.</div><br>
 <table><thead>
@@ -45,19 +54,26 @@ description: ""
     </tr>
 </tbody></table><br>
 <div style="text-align: justify;">We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.</div>
+
+<h3><b>A Day in the Life of a P1 Damaian</b></h3>
+<div style="text-align: justify;">Let's walk in the footsteps of a Primary 1 student going through his and her daily life as student in our school!</div>
+
+<h3><b>Let's Step Inside and Explore DPS Facilities</b></h3>
+<div style="text-align: justify;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fY1_GyKFSEA" width="500"></iframe></div>
+
 <h3><b>Featured Video</b></h3>
 <table><thead>
   <tr>
 <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zdg2uV1YUyM" width="300"></iframe></td>
-<td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fY1_GyKFSEA" width="300"></iframe></td>
+<td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bDrmgWh1H5U" width="300"></iframe></td>
   </tr>
   </thead>
   <tbody><tr>
-<td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bDrmgWh1H5U" width="300"></iframe></td>
-<td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gT6mqNMUUrE" width="300"></iframe></td>
+<td> </td>
+<td> </td>
     </tr>
 </tbody></table>
-<h3><b>Gallery</b></h3>
+<h3><b>2023 Photo Gallery</b></h3>
 <table><thead><tr class="Jeff's blog table class">
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/7xdGKcX6W4pJA5Mn9">
 <img style="width:300px" src="/images/Gallery/2023/2023%2001%2003%20p1%20first%20day%20j.JPG">First Day</a></td>
