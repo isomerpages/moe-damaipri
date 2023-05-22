@@ -21,12 +21,14 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
-      title: Parents' Briefing
-      subtitle: Principal's Address
-      description: You may find P3 - P6 Parents' Briefing slides here
+      title: P1 to P6 eLearning 2023
+      subtitle: 24 May 2023
+      description: As there are no lessons in school on 24 May 2023 due to
+        Parent-Teacher-Student Conference, the school will be conducting an
+        e-Learning Exercise on that day.
       button: Click here to find out more
-      url: /notification/Announcements/parentbriefing/
-      image: /images/Announcement/2023/2023parentbrief.png
+      url: /notification/announcements/elearning/
+      image: /images/Announcement/2023/elearning banner.jpg
       alt: Image alt text
   - infopic:
       title: E-Open House 2023
@@ -38,20 +40,18 @@ sections:
       image: /images/Announcement/2023/2023 openhouse web.jpg
       alt: Image alt text
   - infopic:
+      title: Parents' Briefing
+      subtitle: Principal's Address
+      description: You may find P3 - P6 Parents' Briefing slides here
+      button: Click here to find out more
+      url: /notification/Announcements/parentbriefing/
+      image: /images/Announcement/2023/2023parentbrief.png
+      alt: Image alt text
+  - infopic:
       title: Useful Links
       description: Links for students, parents and staff
       button: Check it out
       url: /useful-links/students/
       image: /images/Announcement/2022 quicklink.png
-      alt: Image alt text
-  - infopic:
-      title: P1 to P6 eLearning 2023
-      subtitle: 24 May 2023
-      description: As there are no lessons in school on 24 May 2023 due to
-        Parent-Teacher-Student Conference, the school will be conducting an
-        e-Learning Exercise on that day.
-      button: Click here to find out more
-      url: /notification/announcements/elearning/
-      image: /images/Announcement/2023/elearning banner.jpg
       alt: Image alt text
 ---
