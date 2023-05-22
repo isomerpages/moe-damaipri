@@ -129,4 +129,28 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td> </td>
 <td> </td>
 <td> </td>
+</tr><tr>
+<td><b>4A</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-rsAthBWtLeSAFHrPazgpP2PfKHv5rUuWtVWNfxcLD83mbxxCmwJH14Krnj8E3c2vncUZrdpYFa9r/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr><tr>
+<td><b>4B</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_mjrPOVFDMlB2O-MAAn2SwKNdcysSJ-mRnN5owIPT_5GGyswWIqB-aTdixjbnkCBaPpNHY4roiYrK/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr><tr>
+<td><b>4C</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTyTjVFPIrpQf7OHb36w0S0FRC8u9gH36jWqgTt4J9OI-fgdW9To_7Ye5XQ7sVNLZ1xSLb_wdE04Hr2/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr><tr>
+<td><b>4D</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4e-2pdH6yBPeG8Hvgay9iDWeWueHWrgJmRJq120qjfvkSbcnlcUevS_0s4bUKtoDF2dIkoOwtmyVX/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr></tbody></table><br>
