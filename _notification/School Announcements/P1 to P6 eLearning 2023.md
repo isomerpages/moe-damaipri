@@ -93,4 +93,10 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td> </td>
 <td> </td>
 <td> </td>
+</tr><tr>
+<td><b>2F</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxXNE-PinRpVgT1wP_jvH5C7H1_bceaxqbeWugqFag8yx-Ll-GkkM2uYMx0NA8_bNGQN5En-0oGgTm/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr></tbody></table><br>
