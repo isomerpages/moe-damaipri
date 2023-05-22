@@ -53,7 +53,13 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td> </td>
 </tr><tr>
 <td><b>1G</b></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCbsUFWP466jDbMozjbguZl-8yRNkhftcjIgJRV_g_l_ro1YO2ECyMh-YeFcFmdFu3tKt5pO8a6HNY/pubhtml" target="_blank">24 May</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQCGHtWrrdUC6HT6h7XQCs1MDYz_uGxt_uk5egS_HkrhsLG8SklxaHfgqxUYVxp8nH_hshFulQz-8DQ/pubhtml" target="_blank">24 May</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr><tr>
+<td><b>1H</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQi_7f--ffNWw3TNGsNk4Hnlo6dzxQCLc1iu9U-spycLO-IbJ4YjXvgeq8-rZS90TciprsbqmdFS7ov/pubhtml" target="_blank">24 May</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
