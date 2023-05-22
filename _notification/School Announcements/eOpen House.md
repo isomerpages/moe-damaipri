@@ -60,6 +60,8 @@ Scan the QR code to register or click the link
 <div style="text-align: justify;">Let's walk in the footsteps of a Primary 1 student going through his and her daily life as student in our school!</div>
 
 <h3><b>Let's Step Inside and Explore DPS Facilities</b></h3>
+<a href="/school-experience/official-opening-of-new-school-campus"><img style="width:500px" src="/images/2020-official-school-opening-b.png"></a>
+
 <div style="text-align: justify;">Let's walk through the facilities and experience the different places that can be found in Damai Primary School.</div>
 
 <h3><b>2023 Photo Gallery</b></h3>
