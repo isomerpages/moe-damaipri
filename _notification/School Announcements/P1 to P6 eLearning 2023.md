@@ -4,9 +4,12 @@ permalink: /notification/announcements/elearning/
 description: ""
 third_nav_title: School Announcements
 ---
-<div style="text-align:justify;">P1 to P5 students will be engaged in planned online and offline learning activities. Teachers will monitor students’ learning progress and provide the necessary support when they are back in school.</div>
+<b><font size="6">e-Learning Exercise for P1 to P6 on 24 May 2023</font></b>
 
-<b><font size="4">E-Learning Timetable (17 Oct to 20 Oct 2022)</font></b>
+<div style="text-align:justify;">As there are no lessons in school on 24 May 2023 due to Parent-Teacher-Student Conference, the school will be conducting an e-Learning Exercise on that day.<br>
+The objectives of the exercise are to ensure continuous learning in case of school closure and encourage students to be self-directed learners.</div>
+
+<b><font size="4">Schedule for 24 May 2023</font></b>
 
 ![](/images/Announcement/2022%2010%2005%20elearning.jpg)
 
