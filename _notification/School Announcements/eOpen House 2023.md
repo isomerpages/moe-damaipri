@@ -54,11 +54,8 @@ Scan the QR code to register or click the link
 <div style="text-align: justify;">-Video will be up soon-<br><br>Let's walk in the footsteps of a Primary 1 student going through his and her daily life as student in our school!</div>
 <div style="text-align: center;"><h3><b>Let's Step Inside and Explore DPS Facilities</b></h3></div>
 <div style="text-align: center;"><a href="/school-experience/official-opening-of-new-school-campus"><img style="width:500px" src="/images/2020-official-school-opening-b.png"></a></div>
-
 <div style="text-align: justify;">Let's walk through the facilities and experience the different places that can be found in Damai Primary School.</div>
-
-<h3><b>2023 Photo Gallery</b></h3>
-<table><thead><tr class="Jeff's blog table class">
+<div style="text-align: center;"><h3><b>2023 Photo Gallery</b></h3></div><table><thead><tr class="Jeff's blog table class">
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/7xdGKcX6W4pJA5Mn9">
 <img style="width:300px" src="/images/Gallery/2023/2023%2001%2003%20p1%20first%20day%20j.JPG">First Day</a></td>
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/UdoA7ZRcTcjdnmwt6">
@@ -86,7 +83,7 @@ Scan the QR code to register or click the link
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/EZZ1D5ssALJ2jm4f8">
 <img style="width:300px" src="/images/Gallery/2023/2023%2005%2008%20hariraya%20s.JPG">Hari Raya Celebration</a></td>
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/rUysiSTtwYuefcVr5">
-<img style="width:300px" src="/images/Gallery/2023/2023%2005%2015%20talentime.JPG">Talentime @ Damai</a></td></tr></thead></table><br>
-<div style="text-align: justify;">Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.</div><br>
-<h3><b>Primary 1 Registration Information</b></h3>
+<img style="width:300px" src="/images/Gallery/2023/2023%2005%2015%20talentime.JPG">Talentime @ Damai</a></td></tr></thead></table>
+<div style="text-align: justify;">Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.</div>
+<div style="text-align: center;"><h3><b>Primary 1 Registration Information</b></h3></div>
 <div style="text-align: justify;">Click on the link to prepare and register your child for P1 through the <a href="https://www.moe.gov.sg/primary/p1-registration">P1 registration</a> process on the MOE website.</div>
