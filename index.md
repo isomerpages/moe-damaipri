@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Damai Primary School
+      title: Discover Damai Primary
       key_highlights:
         - title: Principal's Letter
           description: for Parents
@@ -21,13 +21,23 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
-      title: Open for Nomination
-      subtitle: Language Teacher Awards 2023
-      description: Do take time to appreciate our English/Mother Tongue teachers and
-        consider nominating them for these awards.
+      title: E-Open House 2023
+      subtitle: Discover Damai Primary School
+      description: Join our E-Open House to experience and explore the programmes and
+        facilities that we have in DPS!
       button: Click here to find out more
-      url: /notification/Announcements/open4nomination/
-      image: /images/Announcement/2023/2023 Lang Teacher Nomination PG Post.png
+      url: /eopenhouse/
+      image: /images/Announcement/2023/2023 openhouse web.jpg
+      alt: Image alt text
+  - infopic:
+      title: P1 to P6 eLearning 2023
+      subtitle: 24 May 2023
+      description: As there are no lessons in school on 24 May 2023 due to
+        Parent-Teacher-Student Conference, the school will be conducting an
+        e-Learning Exercise on that day.
+      button: Click here to find out more
+      url: /notification/announcements/elearning/
+      image: /images/Announcement/2023/elearning banner.jpg
       alt: Image alt text
   - infopic:
       title: Parents' Briefing
