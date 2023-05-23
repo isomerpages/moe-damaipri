@@ -47,13 +47,13 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnV_uKYWP26-muU3U-yCXdI5_7ZV9c_GpeGx0UaP1cAdMd1qQSR0aiC1Wb8-ncGlnDBWucPo7Q8rhJ/pubhtml" target="_blank">24 May</a></td>
 </tr><tr>
 <td><b>2B</b></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VPQ8vGk45F-ygd87iH416PtpfqvNwZpXMKeIXPpVa4hM30YKKGhQxzHe9yz4NIaGcmw7jXGshAA/pubhtml" target="_blank">24 May</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VPQ8vGk45F-ygd87iH416PtpfqvNwZpXMKeIXPpVa4hM30YKKGhQxzHe9yz4NIaGcmw7jXGshAA/pubhtml?gid=1527936744&amp;single=true" target="_blank">24 May</a></td>
 <td> </td>
 <td><b>2E</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKZ8C2skpiad9RdiAYqKFU17rZXnlQ7vSkC4kBongSqtGNze3XO6LZHc9nIbFsH21F1kWo66mo6sBk/pubhtml" target="_blank">24 May</a></td>
 </tr><tr>
 <td><b>2C</b></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VPQ8vGk45F-ygd87iH416PtpfqvNwZpXMKeIXPpVa4hM30YKKGhQxzHe9yz4NIaGcmw7jXGshAA/pubhtml" target="_blank">24 May</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTr_iTFk_nCWW6PQjYzwM9zhYQ9ndCnP4McmiSslA97yirEdzXNA0VhClNs-9VaR9rAgBUNIDJMtRaQ/pubhtml" target="_blank">24 May</a></td>
 <td> </td>
 <td><b>2F</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxXNE-PinRpVgT1wP_jvH5C7H1_bceaxqbeWugqFag8yx-Ll-GkkM2uYMx0NA8_bNGQN5En-0oGgTm/pubhtml" target="_blank">24 May</a></td>
