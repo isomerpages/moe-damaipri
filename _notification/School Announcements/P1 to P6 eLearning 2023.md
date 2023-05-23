@@ -13,7 +13,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 
 ![](/images/Announcement/2023/2023%2005%2022%20timetable.png)
 
-<div style="text-align:justify;">Hardcopy assignments need to be submitted to the respective Subject Teachers when your child/ward returns to school the next day.<br><br><b>Students are to visit the school website on e-Learning day to access the instructional guide for their respective subject’s assignments.</b><br><br>We value your partnership and look forward to providing the best for our students.<br><br>If you need any further clarifications, please contact the General Office at Tel: 6445 6483.</div><br>
+<div style="text-align:justify;">Hardcopy assignments need to be submitted to the respective Subject Teachers when your child/ward returns to school the next day.<br><br>We value your partnership and look forward to providing the best for our students.<br><br>If you need any further clarifications, please contact the General Office at Tel: 6445 6483.</div><br>
 
 <table style="width: 100%;"><tbody><tr>
 <td style="width: 20%;"><b>1A</b></td>
