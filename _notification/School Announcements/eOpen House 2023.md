@@ -8,8 +8,9 @@ third_nav_title: School Announcements
 <div style="text-align: justify;">Welcome to Damai Primary School! We warmly embrace and welcome every child into our Damai family.  Join our E-Open House to experience and explore the programmes and facilities that we have in DPS!</div><br>
 <div><img style="width:90%" src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%204.jpg"></div><br>
 <div style="text-align: center;"><h3><b>Principal's Message</b></h3></div>
-<div style="text-align: justify;">-Video will be up soon-<br><br>
-We hope this E-Open House will provide an insight into our school’s academic curriculum and niche programmes. In addition to a live talk by our School Principal, there will be different sharing sessions by our heads of departments, parent volunteers, student care personnel and ex-Damai students for those who signed up.</div><br><div style="text-align: center;">Register for our Principal Live Talk on<br><b>Saturday, 8th July 2023.</b>
+<div style="text-align: justify;">~ Stay tune for the video ~<br><br>
+We hope this E-Open House will provide an insight into our school’s academic curriculum and niche programmes. In addition to a live talk by our School Principal, there will be different sharing sessions by our heads of departments, parent volunteers, student care personnel and ex-Damai students for those who signed up.</div><br>
+<div style="text-align: center;">Register for our Principal Live Talk on<br><b>Saturday, 8th July 2023.</b>
 <img style="width:200px" src="/images/Announcement/2023/register.jpeg"><br>
 Scan the QR code to register or click the link
 <a href="https://form.gov.sg/64678675c36fce0012152825">here.</a></div><br>
@@ -51,7 +52,7 @@ Scan the QR code to register or click the link
 </tbody></table>
 <div style="text-align: justify;">We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.</div><br>
 <div style="text-align: center;"><h3><b>A Day in the Life of a P1 Damaian</b></h3></div>
-<div style="text-align: justify;">-Video will be up soon-<br><br>Let's walk in the footsteps of a Primary 1 student going through his and her daily life as student in our school!</div><br>
+<div style="text-align: justify;">~ Stay tune~ <br><br>Let's walk in the footsteps of a Primary 1 student going through his and her daily life as a student in our school!</div><br>
 <div style="text-align: center;"><h3><b>Let's Step Inside and Explore DPS Facilities</b></h3></div>
 <div style="text-align: center;"><a href="/school-experience/official-opening-of-new-school-campus"><img style="width:500px" src="/images/2020-official-school-opening-b.png"></a></div>
 <div style="text-align: justify;">Let's walk through the facilities and experience the different places that can be found in Damai Primary School.</div><br>
