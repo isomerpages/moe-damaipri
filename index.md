@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Damai Primary School
+      title: Discover Damai Primary
       key_highlights:
         - title: Principal's Letter
           description: for Parents
