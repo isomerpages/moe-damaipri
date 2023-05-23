@@ -9,14 +9,14 @@ third_nav_title: School Announcements
 <div><img style="width:90%" src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%204.jpg"></div><br>
 <div style="text-align: center;"><h3><b>Principal's Message</b></h3></div>
 <div style="text-align: justify;">-Video will be up soon-<br><br>
-We hope this E-Open House will provide an insight into our school’s academic curriculum and niche programmes. In addition to a live talk by our School Principal, there will be different sharing sessions by our heads of departments, parent volunteers, student care personnel and ex-Damai students for those who signed up.<br><br>Register for our Principal Live Talk on <b>Saturday, 8th July 2023</b></div>
-<div style="text-align: center;"><img style="width:200px" src="/images/Announcement/2023/register.jpeg"><br>
+We hope this E-Open House will provide an insight into our school’s academic curriculum and niche programmes. In addition to a live talk by our School Principal, there will be different sharing sessions by our heads of departments, parent volunteers, student care personnel and ex-Damai students for those who signed up.</div><br><div style="text-align: center;">Register for our Principal Live Talk on<br><b>Saturday, 8th July 2023.</b>
+<img style="width:200px" src="/images/Announcement/2023/register.jpeg"><br>
 Scan the QR code to register or click the link
 <a href="https://form.gov.sg/64678675c36fce0012152825">here.</a></div><br>
 <div style="text-align: center;"><h3><b>Promise of a Holistic Education</b></h3></div>
 <div style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zdg2uV1YUyM" height="350px" width="500px"></iframe><br>Preparing Future-Ready Students: Let's uncover our exciting school and niche programmes!</div><br>
 <div style="text-align: center;"><h3><b>School Programmes</b></h3></div>
-<div style="text-align: justify;">At Damai Primary School, we believe in nurturing well-rounded individuals. In addition to our comprehensive core subjects such as English, Mathematics, Science, and Mother Tongue languages, we offer a wide range of holistic and diverse programmes. From sports and arts to STEM (Science, Technology, Engineering, and Mathematics) and Infocomm skills, our students have the opportunity to explore their passions and develop their skills in various areas.</div>
+<div style="text-align: justify;">At Damai Primary School, we believe in nurturing well-rounded individuals. In addition to our comprehensive core subjects such as English, Mathematics, Science, and Mother Tongue languages, we offer a wide range of holistic and diverse programmes. Our students have the opportunity to explore their passions and develop their skills in various areas.</div>
 <table><thead>
   <tr>
 <td style="width:200px"><a href="/holistic-education/Department/english/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/english.png"></a></td>
@@ -77,7 +77,7 @@ Scan the QR code to register or click the link
 <img align="center" style="width:300px" src="/images/Gallery/2023/2023%2002%2027%20manga.JPG">Art Assembly Program - Manga</a></td></tr></thead></table>
 <table><thead><tr class="Jeff's blog table class">
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/fygtiqRtvv3mL3XB8">
-<img style="height:200px" src="/images/Gallery/2023/2023%2003%2008%20p1%20mouse%20lesson.jpg">P1 Mouse Lesson</a></td>
+<img style="height:200px" src="/images/Gallery/2023/2023%2003%2008%20p1%20mouse%20lesson.jpg">P1 ICT Lesson</a></td>
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/zyfaW4QEhwAbd1UV8">
 <img align="center" style="width:300px" src="/images/Gallery/2023/2023%2003%2020%20happy%20world%20water%20day%20stu1.JPG">Happy World Water Day</a></td></tr></thead></table><table><thead><tr class="Jeff's blog table class">
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/EZZ1D5ssALJ2jm4f8">
