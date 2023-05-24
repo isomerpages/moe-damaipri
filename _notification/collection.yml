@@ -2,7 +2,6 @@ collections:
   notification:
     output: true
     order:
-      - eOpen House 2023.md
       - Principal's Letter.md
       - Calendar of Events.md
       - School Announcements/.keep
@@ -14,3 +13,4 @@ collections:
         Examination 2021.md
       - "School Announcements/Open for Nomination: Language Teacher Awards
         2023.md"
+      - eOpen House 2023.md
