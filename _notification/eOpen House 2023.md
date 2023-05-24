@@ -8,8 +8,8 @@ description: ""
 <div><img style="width:90%" src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%204.jpg"></div><br>
 <div style="text-align: center;"><h3><b>Principal's Message</b></h3></div>
 <div style="text-align: justify;">~ Stay tune for the video ~<br><br>
-We hope this E-Open House will provide an insight into our school’s academic curriculum and niche programmes. In addition to a live talk by our School Principal, there will be different sharing sessions by our heads of departments, parent volunteers, student care personnel and ex-Damai students for those who signed up.</div><br>
-<div style="text-align: center;">Register for our Principal Live Talk on<br><b>Saturday, 8th July 2023.</b>
+We hope this E-Open House will provide your students and their parents an insight into our school’s academic curriculum and niche programmes. In addition to a live talk by our School Principal, there will be engagement sessions by our heads of departments, parent volunteers, student care personnel and ex-Damai students for those who signed up.</div><br>
+<div style="text-align: center;">Register for our Live Engagement Session on<br><b>Saturday, 8th July 2023.</b>
 <img style="width:200px" src="/images/Announcement/2023/register.jpeg"><br>
 Scan the QR code to register or click the link
 <a href="https://form.gov.sg/64678675c36fce0012152825">here.</a></div><br>
@@ -50,8 +50,6 @@ Scan the QR code to register or click the link
     </tr>
 </tbody></table>
 <div style="text-align: justify;">We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.</div><br>
-<div style="text-align: center;"><h3><b>A Day in the Life of a P1 Damaian</b></h3></div>
-<div style="text-align: justify;">~ Stay tune~ <br><br>Let's walk in the footsteps of a Primary 1 student going through his and her daily life as a student in our school!</div><br>
 <div style="text-align: center;"><h3><b>Let's Step Inside and Explore DPS Facilities</b></h3></div>
 <div style="text-align: center;"><a href="/school-experience/official-opening-of-new-school-campus"><img style="width:500px" src="/images/2020-official-school-opening-b.png"></a></div>
 <div style="text-align: justify;">Let's walk through the facilities and experience the different places that can be found in Damai Primary School.</div><br>
@@ -84,6 +82,5 @@ Scan the QR code to register or click the link
 <img style="width:300px" src="/images/Gallery/2023/2023%2005%2008%20hariraya%20s.JPG">Hari Raya Celebration</a></td>
 <td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/rUysiSTtwYuefcVr5">
 <img style="width:300px" src="/images/Gallery/2023/2023%2005%2015%20talentime.JPG">Talentime @ Damai</a></td></tr></thead></table><br>
-<div style="text-align: justify;">Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.</div><br>
 <div style="text-align: center;"><h3><b>Primary 1 Registration Information</b></h3></div>
-<div style="text-align: justify;">Click on the link to prepare and register your child for P1 through the <a href="https://www.moe.gov.sg/primary/p1-registration">P1 registration</a> process on the MOE website.</div>
+<div style="text-align: justify;">Click on the link to prepare and register your child for P1 through the <a href="https://www.moe.gov.sg/primary/p1-registration">P1 registration</a> process on the MOE website.</div><br><div style="text-align: justify;">Join us at Damai Primary School and experience the enriching school-wide programmes that ignite a love for learning, foster holistic development, and empower students to reach their full potential. Together, we create a dynamic and nurturing environment that prepares students for success in the 21st century.</div><br>
