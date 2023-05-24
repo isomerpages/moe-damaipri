@@ -17,7 +17,7 @@ sections:
           url: /calendar/
         - title: Notification
           description: For school announcement
-          url: /notification/Announcements/elearning/
+          url: /notification/announcements/elearning/
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
