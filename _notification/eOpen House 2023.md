@@ -7,8 +7,8 @@ description: ""
 <div style="text-align: justify;">Welcome to Damai Primary School! We warmly embrace and welcome every child into our Damai family.  Join our E-Open House to experience and explore the programmes and facilities that we have in DPS!</div><br>
 <div><img style="width:90%" src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%205.jpg"></div><br>
 <div style="text-align: center;"><h3><b>Principal's Message</b></h3></div>
-<div style="text-align: justify;">~ Stay tune for the video ~<br><br>
-We hope this E-Open House will provide your students and their parents an insight into our school’s academic curriculum and niche programmes. In addition to a live talk by our School Principal, there will be engagement sessions by our heads of departments, parent volunteers, student care personnel and ex-Damai students for those who signed up.</div><br>
+<div style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/P0IhzDU2PcA" height="315" width="500"></iframe></div>
+<div style="text-align: justify;">We hope this E-Open House will provide your students and their parents an insight into our school’s academic curriculum and niche programmes. In addition to a live talk by our School Principal, there will be engagement sessions by our heads of departments, parent volunteers, student care personnel and ex-Damai students for those who signed up.</div><br>
 <div style="text-align: center;">Register for our Live Engagement Session on<br><b>Saturday, 8th July 2023.</b>
 <img style="width:200px" src="/images/Announcement/2023/register.jpeg"><br>
 Scan the QR code to register or click the link
