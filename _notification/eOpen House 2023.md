@@ -20,6 +20,7 @@ Scan the QR code to register or click the link
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P0IhzDU2PcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <div style="text-align: center;">Preparing Future-Ready Students: Let's uncover our exciting school and niche programmes!</div><br>
+
 <div style="text-align: center;"><h3><b>School Programmes</b></h3></div>
 <div style="text-align: justify;">At Damai Primary School, we believe in nurturing well-rounded individuals. In addition to our comprehensive core subjects such as English, Mathematics, Science, and Mother Tongue languages, we offer a wide range of holistic and diverse programmes. Our students have the opportunity to explore their passions and develop their skills in various areas.</div>
 <table><thead>
