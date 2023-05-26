@@ -17,9 +17,18 @@ sections:
           url: /calendar/
         - title: Notification
           description: For school announcement
-          url: /notification/Announcements/elearning/
+          url: /notification/announcements/elearning/
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
+  - infopic:
+      title: E-Open House 2023
+      subtitle: Discover Damai Primary School
+      description: Join our E-Open House to experience and explore the programmes and
+        facilities that we have in DPS!
+      button: Click here to find out more
+      url: /eopenhouse/
+      image: /images/Announcement/2023/2023 openhouse web.jpg
+      alt: Image alt text
   - infopic:
       title: P1 to P6 eLearning 2023
       subtitle: 24 May 2023
