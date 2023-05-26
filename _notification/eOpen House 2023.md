@@ -8,7 +8,7 @@ description: ""
 <div><img style="width:90%" src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%205.jpg"></div><br>
 <div style="text-align: center;"><h3><b>Principal's Message</b></h3></div>
 
-<div style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/P0IhzDU2PcA" height="315" width="500"></iframe></div>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/P0IhzDU2PcA" height="315" width="500"></iframe>
 
 <div style="text-align: justify;">We hope this E-Open House will provide your students and their parents an insight into our school’s academic curriculum and niche programmes. In addition to a live talk by our School Principal, there will be engagement sessions by our heads of departments, parent volunteers, student care personnel and ex-Damai students for those who signed up.</div><br>
 <div style="text-align: center;">Register for our Live Engagement Session on<br><b>Saturday, 8th July 2023.</b>
@@ -16,7 +16,9 @@ description: ""
 Scan the QR code to register or click the link
 <a href="https://form.gov.sg/64678675c36fce0012152825">here.</a></div><br>
 <div style="text-align: center;"><h3><b>Promise of a Holistic Education</b></h3></div>
-<div style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/P0IhzDU2PcA" height="315" width="500"></iframe><br>Preparing Future-Ready Students: Let's uncover our exciting school and niche programmes!</div><br>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/P0IhzDU2PcA" height="315" width="500"></iframe>
+<br><div style="text-align: center;">Preparing Future-Ready Students: Let's uncover our exciting school and niche programmes!</div><br>
 <div style="text-align: center;"><h3><b>School Programmes</b></h3></div>
 <div style="text-align: justify;">At Damai Primary School, we believe in nurturing well-rounded individuals. In addition to our comprehensive core subjects such as English, Mathematics, Science, and Mother Tongue languages, we offer a wide range of holistic and diverse programmes. Our students have the opportunity to explore their passions and develop their skills in various areas.</div>
 <table><thead>
