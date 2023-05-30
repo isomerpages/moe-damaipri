@@ -5,19 +5,19 @@ description: ""
 ---
 <div style="text-align: center;"><h2><b>Discover Damai Primary School</b></h2><br><h5>Confident Individuals ● Thinking Learners ● Engaged Leaders</h5></div>
 <div style="text-align: justify;">Welcome to Damai Primary School! We warmly embrace and welcome every child into our Damai family.  Join our E-Open House to experience and explore the programmes and facilities that we have in DPS!</div><br>
-<div><img src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%205.jpg" style="width:90%"></div><br>
+<div><img style="width:90%" src="/images/Random/Openhouse%20Matter/2023%20openhouse%20copy%205.jpg"></div><br>
 <div style="text-align: center;"><h3><b>Principal's Message</b></h3></div>
 
-<div style="text-align: center;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_cXPVeMmBeJydWXr4UUBODwtuC_2LqljM5Ej0wDqonkFG8jBAHE_KNevxY2Gqa0cdH6xmhWRhvxP6/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></div>
+<div style="text-align: center;"><iframe allowfullscreen="true" width="560" height="315" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR_cXPVeMmBeJydWXr4UUBODwtuC_2LqljM5Ej0wDqonkFG8jBAHE_KNevxY2Gqa0cdH6xmhWRhvxP6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
 
 <div style="text-align: justify;">We hope this E-Open House will provide your students and their parents an insight into our school’s academic curriculum and niche programmes. In addition to a live talk by our School Principal, there will be engagement sessions by our heads of departments, parent volunteers, student care personnel and ex-Damai students for those who signed up.</div><br>
 <div style="text-align: center;">Register for our Live Engagement Session on<br><b>Saturday, 8th July 2023.</b>
-<img src="/images/Announcement/2023/register.jpeg" style="width:200px"><br>
+<img style="width:200px" src="/images/Announcement/2023/register.jpeg"><br>
 Scan the QR code to register or click the link
 <a href="https://form.gov.sg/64678675c36fce0012152825">here.</a></div><br>
 <div style="text-align: center;"><h3><b>Promise of a Holistic Education</b></h3></div>
 
-<div style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zdg2uV1YUyM" height="315" width="500"></iframe></div>
+<div style="text-align: center;"><iframe width="500" height="315" src="https://www.youtube.com/embed/zdg2uV1YUyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 <div style="text-align: center;">Preparing Future-Ready Students: Let's uncover our exciting school and niche programmes!</div><br>
 
@@ -25,69 +25,79 @@ Scan the QR code to register or click the link
 <div style="text-align: justify;">At Damai Primary School, we believe in nurturing well-rounded individuals. In addition to our comprehensive core subjects such as English, Mathematics, Science, and Mother Tongue languages, we offer a wide range of holistic and diverse programmes. Our students have the opportunity to explore their passions and develop their skills in various areas.</div>
 <table><thead>
   <tr>
-<td style="width:200px"><a href="/holistic-education/Department/english/"><img src="/images/Random/Openhouse%20Matter/english.png" style="width:200px"></a></td>
-<td style="width:200px"><a href="/holistic-education/Department/mathematics/"><img src="/images/Random/Openhouse%20Matter/mathmath.png" style="width:200px"></a></td>
-<td style="width:200px"><a href="/holistic-education/Department/mother-tongue/"><img src="/images/Random/Openhouse%20Matter/mother-tongue.png" style="width:200px"></a></td>
+<td style="width:200px"><a href="/holistic-education/Department/english/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/english.png"></a></td>
+<td style="width:200px"><a href="/holistic-education/Department/mathematics/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/mathmath.png"></a></td>
+<td style="width:200px"><a href="/holistic-education/Department/mother-tongue/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/mother-tongue.png"></a></td>
   </tr>
   </thead>
   <tbody><tr>
-<td><a href="/holistic-education/Department/science/"><img src="/images/Random/Openhouse%20Matter/science.png" style="width:200px"></a></td>
-<td><a href="/holistic-education/Department/physical-education-pe/"><img src="/images/Random/Openhouse%20Matter/peducation.png" style="width:200px"></a></td>
-<td><a href="/holistic-education/Department/aesthetics/"><img src="/images/Random/Openhouse%20Matter/aesthetics.png" style="width:200px"></a></td>
+<td><a href="/holistic-education/Department/science/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/science.png"></a></td>
+<td><a href="/holistic-education/Department/physical-education-pe/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/peducation.png"></a></td>
+<td><a href="/holistic-education/Department/aesthetics/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/aesthetics.png"></a></td>
     </tr>
     <tr>
-<td><a href="/holistic-education/Department/character-n-citizenship-education/"><img src="/images/Random/Openhouse%20Matter/cceducation.png" style="width:200px"></a></td>
+<td><a href="/holistic-education/Department/character-n-citizenship-education/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/cceducation.png"></a></td>
 <td> </td>
-<td><a href="/holistic-education/Department/information-n-communications-technology/"><img src="/images/Random/Openhouse%20Matter/infocommt.png" style="width:200px"></a></td>
+<td><a href="/holistic-education/Department/information-n-communications-technology/"><img style="width:200px" src="/images/Random/Openhouse%20Matter/infocommt.png"></a></td>
     </tr></tbody></table><br>
 <div style="text-align: center;"><h3><b>Niche Programmes</b></h3></div>
 <div style="text-align: justify;">We prioritize the well-being and development of every student. At Damai Primary School, we foster a culture of care where each student is valued, supported, and encouraged to thrive. Our dedicated teachers and staff create a nurturing environment that promotes inclusivity, respect, and positive relationships. We believe that when students feel safe, supported, and cared for, they can truly excel academically and personally.</div>
 <table><thead>
   <tr>
-<td style="width:200px"><a href="/school-experience/school-wide-programmes/learn-for-life-programme-llp"><img src="/images/Random/Openhouse%20Matter/llprogram.png" style="width:200px"></a></td>
+<td style="width:200px"><a href="/school-experience/school-wide-programmes/learn-for-life-programme-llp"><img style="width:200px" src="/images/Random/Openhouse%20Matter/llprogram.png"></a></td>
 <td style="width:200px"> </td>
-<td style="width:200px"><a href="/school-experience/school-wide-programmes/applied-learning-programme-alp"><img src="/images/Random/Openhouse%20Matter/alprogram.png" style="width:200px"></a></td>
+<td style="width:200px"><a href="/school-experience/school-wide-programmes/applied-learning-programme-alp"><img style="width:200px" src="/images/Random/Openhouse%20Matter/alprogram.png"></a></td>
   </tr>
   </thead>
   <tbody><tr>
-<td><a href="/school-experience/school-wide-programmes/programme-for-active-learning-pal"><img src="/images/Random/Openhouse%20Matter/palpal.png" style="width:200px"></a></td>
+<td><a href="/school-experience/school-wide-programmes/programme-for-active-learning-pal"><img style="width:200px" src="/images/Random/Openhouse%20Matter/palpal.png"></a></td>
 <td></td>
-<td><a href="/school-experience/school-wide-programmes/interest-elective-programme-iep"><img src="/images/Random/Openhouse%20Matter/ieprogram.png" style="width:200px"></a></td>
+<td><a href="/school-experience/school-wide-programmes/interest-elective-programme-iep"><img style="width:200px" src="/images/Random/Openhouse%20Matter/ieprogram.png"></a></td>
     </tr>
 </tbody></table>
 <div style="text-align: justify;">We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.</div><br>
+<div style="text-align: center;"><h3><b>A Day in the Life of a P1 Damaian</b></h3></div>
+
+<div style="text-align: center;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQBoW3DQD9gAgvZVOqElqX5qxB1mDL_dQ8F4cyQgNrj_KpWzlzL8FqsYcLQr2E0BTnz9PeMT0Yf0jZm/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true"></iframe></div>
+<div style="text-align: justify;">Let's walk in the footsteps of a Primary 1 student going through his and her daily life as a student in our school!</div><br>
+
+<div style="text-align: center;"><h3><b>Open House 2022</b></h3></div>
+
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/n12_-L5VY4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<div style="text-align: justify;">Let's revisit our cherished moments from our school's Open House in 2022. Catch glimpses of the students' talents displayed through showcasing of CCAs. The video captures the essence of our school community of confident individuals with unique strengths and talents. Marvel at the passion, creativity and accomplishments that were on display during our school's Open House in 2022.</div><br>
+
 <div style="text-align: center;"><h3><b>Let's Step Inside and Explore DPS Facilities</b></h3></div>
-<div style="text-align: center;"><a href="/school-experience/official-opening-of-new-school-campus"><img src="/images/2020-official-school-opening-b.png" style="width:500px"></a></div>
+<div style="text-align: center;"><a href="/school-experience/official-opening-of-new-school-campus"><img style="width:500px" src="/images/2020-official-school-opening-b.png"></a></div>
 <div style="text-align: justify;">Let's walk through the facilities and experience the different places that can be found in Damai Primary School.</div><br>
 <div style="text-align: center;"><h3><b>2023 Photo Gallery</b></h3></div><table><thead><tr class="Jeff's blog table class">
-<td align="center" style="text-align: center;"><a href="https://photos.app.goo.gl/7xdGKcX6W4pJA5Mn9">
-<img src="/images/Gallery/2023/2023%2001%2003%20p1%20first%20day%20j.JPG" style="width:300px">First Day</a></td>
-<td align="center" style="text-align: center;"><a href="https://photos.app.goo.gl/UdoA7ZRcTcjdnmwt6">
-<img src="/images/Gallery/2023/2023%2001%2006%20p5%20and%201%20buddy.JPG" style="width:300px" align="center">Buddy Programme</a></td></tr></thead></table>
+<td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/7xdGKcX6W4pJA5Mn9">
+<img style="width:300px" src="/images/Gallery/2023/2023%2001%2003%20p1%20first%20day%20j.JPG">First Day</a></td>
+<td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/UdoA7ZRcTcjdnmwt6">
+<img align="center" style="width:300px" src="/images/Gallery/2023/2023%2001%2006%20p5%20and%201%20buddy.JPG">Buddy Programme</a></td></tr></thead></table>
 <table><thead><tr class="Jeff's blog table class">
-<td align="center" style="text-align: center;"><a href="https://photos.app.goo.gl/BcqUBanMaokxiAVr9">
-<img src="/images/Gallery/2023/2023%2001%2010%20road%20safety.JPG" style="width:300px">Road Safety</a></td>
-<td align="center" style="text-align: center;"><a href="https://photos.app.goo.gl/1FD2TCd89LdpumyZA">
-<img src="/images/Gallery/2023/2023%2001%2013%20firedrill.jpg" style="height:200px" align="center">Emergency Exercise</a></td></tr></thead></table>
+<td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/BcqUBanMaokxiAVr9">
+<img style="width:300px" src="/images/Gallery/2023/2023%2001%2010%20road%20safety.JPG">Road Safety</a></td>
+<td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/1FD2TCd89LdpumyZA">
+<img align="center" style="height:200px" src="/images/Gallery/2023/2023%2001%2013%20firedrill.jpg">Emergency Exercise</a></td></tr></thead></table>
 <table><thead><tr class="Jeff's blog table class">
-<td align="center" style="text-align: center;"><a href="https://photos.app.goo.gl/4kHUFfAu1y99qmkS9">
-<img src="/images/Gallery/2023/2023%2001%2020%20cny%20j.JPG" style="width:300px">Chinese New Year</a></td>
-<td align="center" style="text-align: center;"><a href="https://photos.app.goo.gl/q7fE75t7tFUzsdKa6">
-<img src="/images/Gallery/2023/2023%2002%2010%20athletes%20oath.JPG" style="width:300px" align="center">Athletes' Oath</a></td></tr></thead></table>
+<td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/4kHUFfAu1y99qmkS9">
+<img style="width:300px" src="/images/Gallery/2023/2023%2001%2020%20cny%20j.JPG">Chinese New Year</a></td>
+<td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/q7fE75t7tFUzsdKa6">
+<img align="center" style="width:300px" src="/images/Gallery/2023/2023%2002%2010%20athletes%20oath.JPG">Athletes' Oath</a></td></tr></thead></table>
 <table><thead><tr class="Jeff's blog table class">
-<td align="center" style="text-align: center;"><a href="https://photos.app.goo.gl/j63PbN5X6AyVYh4A6">
-<img src="/images/Gallery/2023/2023%2002%2015%20total%20defencce%20day.JPG" style="width:300px">Total Defence Day</a></td>
-<td align="center" style="text-align: center;"><a href="https://photos.app.goo.gl/Qap468wAG1Yf6QgJ8">
-<img src="/images/Gallery/2023/2023%2002%2027%20manga.JPG" style="width:300px" align="center">Art Assembly Program - Manga</a></td></tr></thead></table>
+<td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/j63PbN5X6AyVYh4A6">
+<img style="width:300px" src="/images/Gallery/2023/2023%2002%2015%20total%20defencce%20day.JPG">Total Defence Day</a></td>
+<td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/Qap468wAG1Yf6QgJ8">
+<img align="center" style="width:300px" src="/images/Gallery/2023/2023%2002%2027%20manga.JPG">Art Assembly Program - Manga</a></td></tr></thead></table>
 <table><thead><tr class="Jeff's blog table class">
-<td align="center" style="text-align: center;"><a href="https://photos.app.goo.gl/fygtiqRtvv3mL3XB8">
-<img src="/images/Gallery/2023/2023%2003%2008%20p1%20mouse%20lesson.jpg" style="height:200px">P1 ICT Lesson</a></td>
-<td align="center" style="text-align: center;"><a href="https://photos.app.goo.gl/zyfaW4QEhwAbd1UV8">
-<img src="/images/Gallery/2023/2023%2003%2020%20happy%20world%20water%20day%20stu1.JPG" style="width:300px" align="center">Happy World Water Day</a></td></tr></thead></table><table><thead><tr class="Jeff's blog table class">
-<td align="center" style="text-align: center;"><a href="https://photos.app.goo.gl/EZZ1D5ssALJ2jm4f8">
-<img src="/images/Gallery/2023/2023%2005%2008%20hariraya%20s.JPG" style="width:300px">Hari Raya Celebration</a></td>
-<td align="center" style="text-align: center;"><a href="https://photos.app.goo.gl/rUysiSTtwYuefcVr5">
-<img src="/images/Gallery/2023/2023%2005%2015%20talentime.JPG" style="width:300px">Talentime @ Damai</a></td></tr></thead></table><br>
+<td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/fygtiqRtvv3mL3XB8">
+<img style="height:200px" src="/images/Gallery/2023/2023%2003%2008%20p1%20mouse%20lesson.jpg">P1 ICT Lesson</a></td>
+<td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/zyfaW4QEhwAbd1UV8">
+<img align="center" style="width:300px" src="/images/Gallery/2023/2023%2003%2020%20happy%20world%20water%20day%20stu1.JPG">Happy World Water Day</a></td></tr></thead></table><table><thead><tr class="Jeff's blog table class">
+<td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/EZZ1D5ssALJ2jm4f8">
+<img style="width:300px" src="/images/Gallery/2023/2023%2005%2008%20hariraya%20s.JPG">Hari Raya Celebration</a></td>
+<td style="text-align: center;" align="center"><a href="https://photos.app.goo.gl/rUysiSTtwYuefcVr5">
+<img style="width:300px" src="/images/Gallery/2023/2023%2005%2015%20talentime.JPG">Talentime @ Damai</a></td></tr></thead></table><br>
 <div style="text-align: center;"><h3><b>Primary 1 Registration Information</b></h3></div>
 
 <div style="text-align: justify;">Click on the link to prepare and register your child for P1 through the <a href="https://www.moe.gov.sg/primary/p1-registration">P1 registration</a> process on the MOE website.</div><br>
