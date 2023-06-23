@@ -21,14 +21,14 @@ third_nav_title: School Staff
 <tr><td class="tg-73oq">Mdm Soh Ying Ying Jasmin</td></tr>
 <tr><td class="tg-73oq">Mdm Jenny Lee Ngok Moi</td></tr>
 <tr><td class="tg-73oq">Mdm Rahayu Binte Mohamed Haled</td></tr>
-<tr><td class="tg-73oq">Mdm Noorjanna Bte Mohamed Hussain</td></tr>
 <tr><td class="tg-73oq">Mdm Erh Teck Choo</td></tr>
 <tr><td class="tg-73oq">Mdm Ong Tua Hua</td></tr>
 <tr><td class="tg-73oq">Mrs Teo Meng Meng</td></tr>
 <tr><td class="tg-73oq">Mdm Firdous Bte Abdul Razak</td></tr>
-<tr><td class="tg-73oq">Mdm Sembian Meena</td></tr>
 <tr><td class="tg-73oq">Mr Jonathan Chin Chee Kong</td></tr>
 <tr><td class="tg-73oq">Mdm Han Chin Kwang (Mrs Aw)</td></tr>
+	<tr><td class="tg-73oq">Mrs Brenda Yip</td></tr>
+	<tr><td class="tg-73oq">Mdm Tan Seok Ting</td></tr>
 </tbody>
 </table>
 <style type="text/css">
