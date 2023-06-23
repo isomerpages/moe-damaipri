@@ -46,10 +46,11 @@ third_nav_title: School Staff
   <tr>
     <td class="tg-73oq"><a href="mailto:kimie_kwan@schools.gov.sg">Ms Kimie Kwan</a></td></tr>
   <tr>
-    <td class="tg-18eh" rowspan="2">1G</td>
+    <td class="tg-18eh" rowspan="3">1G</td>
     <td class="tg-73oq"><a href="mailto:junainah_rahmat@schools.gov.sg">Mdm Junainah Binte Rahmat</a></td></tr>
   <tr>
     <td class="tg-73oq"><a href="mailto:teoh_han_yun@schools.gov.sg">Ms Teoh Han Yun Stella</a></td></tr>
+		<tr><td class="tg-73oq"><a href="mailto:lau_peh_peh@schools.gov.sg">Mdm Lau Peh Peh</a></td></tr>
   <tr>
     <td class="tg-18eh" rowspan="2">1H</td>
     <td class="tg-73oq"><a href="mailto:tan_seok_ling_shirley@schools.gov.sg">Mrs Shirley Wang</a></td></tr>
@@ -67,3 +68,4 @@ third_nav_title: School Staff
 .tg .tg-s25z{border-color:#000000;font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
+

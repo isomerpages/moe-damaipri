@@ -21,10 +21,8 @@ third_nav_title: School Staff
   <tr>
     <td class="tg-73oq"><a href="mailto:mohammad_fazli_b_salleh@schools.gov.sg">Mr Mohammad Fazli B Salleh</a></td></tr>
   <tr>
-    <td class="tg-18eh" rowspan="3">4B</td>
+    <td class="tg-18eh" rowspan="2">4B</td>
     <td class="tg-73oq"><a href="mailto:tan_wee_kok@schools.gov.sg">Mr Tan Wee Kok</a></td></tr>
-  <tr>
-    <td class="tg-73oq"><a href="mailto:ahmad_syalabi_adi_sunaryo@schools.gov.sg">Mr Ahmad Syalabi</a></td></tr>
   <tr>
     <td class="tg-73oq"><a href="mailto:chen_xin_lei@schools.gov.sg">Ms Chen Xin Lei</a></td></tr>
   <tr>

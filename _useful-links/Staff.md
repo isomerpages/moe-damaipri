@@ -3,7 +3,6 @@ title: Staff
 permalink: /useful-links/staff/
 description: ""
 ---
-
 ### Useful links for staff (Authorised Users Only)
 
 <style type="text/css">
@@ -91,11 +90,6 @@ description: ""
   <tr>
     <td class="tg-r3ha"><a href="https://www.haze.gov.sg/"><span style="text-decoration:none;color:#0058D1">Haze Situation Update</span></a></td>
     <td class="tg-zr06">https://www.haze.gov.sg/</td>
-  </tr>
-
-  <tr>
-    <td class="tg-r3ha"><a href="https://dmpspic.blogspot.com/"><span style="text-decoration:none;color:#0058D1">Media Archive</span></a> (Authorised Users Only)</td>
-    <td class="tg-zr06">-</td>
   </tr>
   <tr>
     <td class="tg-r3ha"><a href="https://icollaborate.moe.gov.sg/myitb/projects/ITD%20School%20Collaboration/Forms/AllItems.aspx"><span style="text-decoration:none;color:#0058D1">ICollaborate</span></a> (Authorised Users Only)</td>
