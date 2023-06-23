@@ -3,9 +3,14 @@ title: Staff and School
 permalink: /achievements/staff-and-school/
 description: ""
 ---
+# 2023
+
+### EdTech Exploration Award
+![](/images/Random/2023%2006%2022%20award.jpg)
+
 # 2022
 
-### Caring Teachers Award 2022
+### Caring Teachers Award
 ![](/images/caring%20teachers%20award.png)
 
 # 2021
@@ -41,7 +46,7 @@ We are proud to share that Mr Arasan was conferred the Most Inspiring Tamil Teac
   
 Our heartfelt congratulations to Mr Arasan for the stellar performance of in his role in educating and promoting Tamil Language among our students.
 
-### "Design For Change Singapore" Virtual Conference Participation 
+### "Design For Change Singapore" Virtual Conference Participation&nbsp;
 
 ![](/images/2021-01-19-scanned-article.jpeg)
 
@@ -79,7 +84,7 @@ The SEC-StarHub School Green Awards is an environmental programme for all school
 
   
 
-Damai Primary School was awarded the 2016 **School Green Award – Lotus Award** in November for initiating innovative environment projects carried out by the staff and students of the school. The School Leaders and staff consciously role-model their commitment to manage and reduce the use of electricity, water and paper to the students who in turn are urged to adopt the 3Rs practices.  
+Damai Primary School was awarded the 2016&nbsp;**School Green Award – Lotus Award**&nbsp;in November for initiating innovative environment projects carried out by the staff and students of the school. The School Leaders and staff consciously role-model their commitment to manage and reduce the use of electricity, water and paper to the students who in turn are urged to adopt the 3Rs practices.  
 
   
 The school also partnered the Northwest CDC and participated in a community outreach project to promote binning as a shared responsibility to keep the environment clean and green. The objectives of this ‘Live Green, Think Clean’ project are to develop a sense of personal responsibility and ownership for maintaining the cleanliness of the school's surrounding or vicinity in the neighbourhood in our students. This project is significant and it provides Damaiains the opportunities to experience the trials of performing a cleaner’s job and indeed they have a newfound respect and appreciation for workers who perform such services for them.
