@@ -3,12 +3,10 @@ title: School Dental Clinic
 permalink: /our-partners/school-dental-clinic/
 description: ""
 ---
-1. Parents who have enquiries or request of dental appointment for their child may reach us via our official mobile number at **9105 4971** (SMS/Whatsapp).
+We are pleased to announce that the dental clinic at Damai Primary School will be ready to provide dental treatment to our students from **Friday, 26th May 2023.** The clinic will be operation until the end of the year.
 
-2. Please call Health Promotion Board’s School Dental Centre at **6435 3782** for assistance in the event of a dental emergency, such as dental trauma, facial/gum swelling or severe toothache.
+Parents/Guardians requesting for appointments  or have any enquiries may post their enquiry at **91054971** (via WhatsApp/SMS).
 
-3. Please do not hesitate to contact the School Dental Centre should you have any further dental queries.
-
-School Dental Centre DID: 6435 3782, <br>
+School Dental Centre DID: 6435 3782 <br>
 Mondays - Fridays, 8am - 5pm <br>
-Email: [HPB\_Dental\_Counter@hpb.gov.sg](mailto:HPB_Dental_Counter@hpb.gov.sg)
+Email:&nbsp;[HPB\_Dental\_Counter@hpb.gov.sg](mailto:HPB_Dental_Counter@hpb.gov.sg)
