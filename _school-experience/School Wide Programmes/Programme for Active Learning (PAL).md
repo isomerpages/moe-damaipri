@@ -1,10 +1,9 @@
 ---
 title: Programme for Active Learning (PAL)
-permalink: /school-experience/school-wide-programmes/programme-for-active-learning-pal
+permalink: /school-experience/school-wide-programmes/programme-for-active-learning-pal/
 description: ""
 third_nav_title: School Wide Programmes
 ---
-
 # About PAL
 PAL is part of the curriculum and offered during time-tabled time.
   
@@ -64,19 +63,3 @@ PAL provides a broad exposure of experiences to our P1 and P2 students in the fo
 ![](/images/2021%20pal%204.png)
 ![](/images/2021%20pal%208.png)
 ![](/images/2021%20pal%209.png)
-
-# Visual Arts Module
-
-**P1**
-
-![](/images/2015P1PalVisual.png)
-
-# Performing Arts Module
-
-**P1**
-
-![](/images/P1Pal2015.png)
-
-**P2**
-
-![](/images/P2Pal2015.png)
