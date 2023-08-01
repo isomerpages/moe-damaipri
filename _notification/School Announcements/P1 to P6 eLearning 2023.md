@@ -109,8 +109,8 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><a href="xxx" target="_blank">16 Aug</a></td>
 <td> </td>
 <td><b>4D</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4e-2pdH6yBPeG8Hvgay9iDWeWueHWrgJmRJq120qjfvkSbcnlcUevS_0s4bUKtoDF2dIkoOwtmyVX/pubhtml?gid=1527936744&amp;single=true" target="_blank">15 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4e-2pdH6yBPeG8Hvgay9iDWeWueHWrgJmRJq120qjfvkSbcnlcUevS_0s4bUKtoDF2dIkoOwtmyVX/pubhtml?gid=763611484&amp;single=true" target="_blank">16 Aug</a></td>
 </tr><tr>
 <td><b>5A</b></td>
 <td><a href="xxx" target="_blank">15 Aug</a></td>
