@@ -62,7 +62,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td> </td>
 <td><b>2E</b></td>
 <td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="xxxx" target="_blank">16 Aug</a></td>
 </tr><tr>
 <td><b>2C</b></td>
 <td><a href="xxx" target="_blank">15 Aug</a></td>
@@ -81,8 +81,8 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaoarC-4dflfrt7f4uVqO1LV8cqgYrOA2rKFZbWYRta7vontw-FKVEtElriiVZvWfDI1oGHhxhWYkE/pubhtml?gid=1759041450&amp;single=true" target="_blank">16 Aug</a></td>
 </tr><tr>
 <td><b>3B</b></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ68gaWcqZ62D_t0DD3pCDGefI18GBSjpHk1DRVMm8hzaidOtP75EAdl8GkBey9uN6DeP6KPSON4yv9/pubhtml?gid=151302070&amp;single=true" target="_blank">15 Aug</a></td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ68gaWcqZ62D_t0DD3pCDGefI18GBSjpHk1DRVMm8hzaidOtP75EAdl8GkBey9uN6DeP6KPSON4yv9/pubhtml?gid=378635781&amp;single=true" target="_blank">16 Aug</a></td>
+<td><a href="xxxx" target="_blank">15 Aug</a></td>
+<td><a href="xxx" target="_blank">16 Aug</a></td>
 <td> </td>
 <td><b>3E</b></td>
 <td><a href="xxx" target="_blank">15 Aug</a></td>
@@ -90,7 +90,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 </tr><tr>
 <td><b>3C</b></td>
 <td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRPhOC-ndwtmxk1j67Wrhkgw1KJ4bGiAtZWWQJpKlIGGRn5MdhxoQ75MsjnAMZDBpKWHHlknqpd4WK0/pubhtml?gid=838088410&amp;single=true" target="_blank">16 Aug</a></td>
 <td> </td>
 <td>-</td>
 <td>-</td>
