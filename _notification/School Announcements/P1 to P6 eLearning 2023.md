@@ -17,48 +17,48 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 
 <table style="width: 100%;"><tbody><tr>
 <td style="width: 5%;"><b>1A</b></td>
-<td style="width: 20%;"><a href="xxx" target="_blank">15 Aug</a></td>
-<td style="width: 20%;"><a href="xxx" target="_blank">16 Aug</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7gdkePDOLJRCl6nvmweCwjbN5iHstYl6kBa56fmM5DKGuagZSnOn60aE6A2MHAFWnVBcuzAz43uiU/pubhtml?gid=313733299&amp;single=true" target="_blank">15 Aug</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7gdkePDOLJRCl6nvmweCwjbN5iHstYl6kBa56fmM5DKGuagZSnOn60aE6A2MHAFWnVBcuzAz43uiU/pubhtml?gid=505620777&amp;single=true" target="_blank">16 Aug</a></td>
 <td style="width: 10%;"> </td>
 <td style="width: 5%;"><b>1E</b></td>
-<td style="width: 20%;"><a href="xxx" target="_blank">15 Aug</a></td>
-<td style="width: 20%;"><a href="xxx" target="_blank">16 Aug</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0bPwbtYL7yQoG7Z58pxlMKobqsTZ2HFvMjhMFMuGVsDrLFxkCiBV3L_BIndn6rAMDyCrL0m96nkax/pubhtml?gid=1464243270&amp;single=true" target="_blank">15 Aug</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0bPwbtYL7yQoG7Z58pxlMKobqsTZ2HFvMjhMFMuGVsDrLFxkCiBV3L_BIndn6rAMDyCrL0m96nkax/pubhtml?gid=2128485440&amp;single=true" target="_blank">16 Aug</a></td>
 </tr><tr>
 <td><b>1B</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSes6Y-QlcW8rNd5MNsdZbzBgDW3vmQbKhT8Addl2vxmU2EKUid3NvSfkFeePyz53QIPgPhQOVwpIMx/pubhtml?gid=1896268354&amp;single=true" target="_blank">15 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSes6Y-QlcW8rNd5MNsdZbzBgDW3vmQbKhT8Addl2vxmU2EKUid3NvSfkFeePyz53QIPgPhQOVwpIMx/pubhtml?gid=580538391&amp;single=true" target="_blank">16 Aug</a></td>
 <td> </td>
 <td><b>1F</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCbsUFWP466jDbMozjbguZl-8yRNkhftcjIgJRV_g_l_ro1YO2ECyMh-YeFcFmdFu3tKt5pO8a6HNY/pubhtml?gid=1578380530&amp;single=true" target="_blank">15 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCbsUFWP466jDbMozjbguZl-8yRNkhftcjIgJRV_g_l_ro1YO2ECyMh-YeFcFmdFu3tKt5pO8a6HNY/pubhtml?gid=503562293&amp;single=true" target="_blank">16 Aug</a></td>
 </tr><tr>
 <td><b>1C</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRogiemGvM8g1Cbp2Icv4AAGYLoCBQq3houfNf-TPm3rrnrJravJt4k3PauOZ91p9Eg_j2TF0xJt_X-/pubhtml?gid=657170701&amp;single=true" target="_blank">15 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRogiemGvM8g1Cbp2Icv4AAGYLoCBQq3houfNf-TPm3rrnrJravJt4k3PauOZ91p9Eg_j2TF0xJt_X-/pubhtml?gid=972254805&amp;single=true" target="_blank">16 Aug</a></td>
 	<td> </td>
 <td><b>1G</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQCGHtWrrdUC6HT6h7XQCs1MDYz_uGxt_uk5egS_HkrhsLG8SklxaHfgqxUYVxp8nH_hshFulQz-8DQ/pubhtml?gid=208272174&amp;single=true" target="_blank">15 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQCGHtWrrdUC6HT6h7XQCs1MDYz_uGxt_uk5egS_HkrhsLG8SklxaHfgqxUYVxp8nH_hshFulQz-8DQ/pubhtml?gid=526177353&amp;single=true" target="_blank">16 Aug</a></td>
 </tr><tr>
 <td><b>1D</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSG0mc1AFzLWrDM2ANcAskZRNFpIIu3DrLG0sJovIHLseCsVJ6VPnfzJuXl7C8meRNIufPSkMSW-ygQ/pubhtml?gid=1695679730&amp;single=true" target="_blank">15 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSG0mc1AFzLWrDM2ANcAskZRNFpIIu3DrLG0sJovIHLseCsVJ6VPnfzJuXl7C8meRNIufPSkMSW-ygQ/pubhtml?gid=2020928166&amp;single=true" target="_blank">16 Aug</a></td>
 <td> </td>
 <td><b>1H</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSG0mc1AFzLWrDM2ANcAskZRNFpIIu3DrLG0sJovIHLseCsVJ6VPnfzJuXl7C8meRNIufPSkMSW-ygQ/pubhtml?gid=2020928166&amp;single=true" target="_blank">15 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQi_7f--ffNWw3TNGsNk4Hnlo6dzxQCLc1iu9U-spycLO-IbJ4YjXvgeq8-rZS90TciprsbqmdFS7ov/pubhtml?gid=167190104&amp;single=true" target="_blank">16 Aug</a></td>
 </tr><tr>
 <td><b>2A</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrzO4muteu3KzBG8CDRiEL4SFBBu2hssaNJ3tC5n2IBbiDr7GsRrIE0Rr9UaUgU_p6QFEM_EjgKp2Y/pubhtml?gid=1372202086&amp;single=true" target="_blank">15 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrzO4muteu3KzBG8CDRiEL4SFBBu2hssaNJ3tC5n2IBbiDr7GsRrIE0Rr9UaUgU_p6QFEM_EjgKp2Y/pubhtml?gid=62143996&amp;single=true" target="_blank">16 Aug</a></td>
 <td> </td>
 <td><b>2D</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnV_uKYWP26-muU3U-yCXdI5_7ZV9c_GpeGx0UaP1cAdMd1qQSR0aiC1Wb8-ncGlnDBWucPo7Q8rhJ/pubhtml?gid=1746340811&amp;single=true" target="_blank">15 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnV_uKYWP26-muU3U-yCXdI5_7ZV9c_GpeGx0UaP1cAdMd1qQSR0aiC1Wb8-ncGlnDBWucPo7Q8rhJ/pubhtml?gid=1318666102&amp;single=true" target="_blank">16 Aug</a></td>
 </tr><tr>
 <td><b>2B</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VPQ8vGk45F-ygd87iH416PtpfqvNwZpXMKeIXPpVa4hM30YKKGhQxzHe9yz4NIaGcmw7jXGshAA/pubhtml?gid=1590712806&amp;single=true" target="_blank">15 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VPQ8vGk45F-ygd87iH416PtpfqvNwZpXMKeIXPpVa4hM30YKKGhQxzHe9yz4NIaGcmw7jXGshAA/pubhtml?gid=292262335&amp;single=true" target="_blank">16 Aug</a></td>
 <td> </td>
 <td><b>2E</b></td>
 <td><a href="xxx" target="_blank">15 Aug</a></td>
@@ -129,16 +129,16 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><a href="xxx" target="_blank">16 Aug</a></td>
 </tr><tr>
 <td><b>6A</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td>-</td>
+<td>-</td>
 <td> </td>
 <td><b>6C</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td>-</td>
+<td>-</td>
 </tr><tr>
 <td><b>6B</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td>-</td>
+<td>-</td>
 <td> </td>
 <td>-</td>
 <td>-</td>
