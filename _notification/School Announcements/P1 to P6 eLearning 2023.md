@@ -61,16 +61,16 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT76VPQ8vGk45F-ygd87iH416PtpfqvNwZpXMKeIXPpVa4hM30YKKGhQxzHe9yz4NIaGcmw7jXGshAA/pubhtml?gid=292262335&amp;single=true" target="_blank">16 Aug</a></td>
 <td> </td>
 <td><b>2E</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKZ8C2skpiad9RdiAYqKFU17rZXnlQ7vSkC4kBongSqtGNze3XO6LZHc9nIbFsH21F1kWo66mo6sBk/pubhtml?gid=1238132951&amp;single=true" target="_blank">15 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKZ8C2skpiad9RdiAYqKFU17rZXnlQ7vSkC4kBongSqtGNze3XO6LZHc9nIbFsH21F1kWo66mo6sBk/pubhtml?gid=1900474671&amp;single=true" target="_blank">16 Aug</a></td>
 </tr><tr>
 <td><b>2C</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTr_iTFk_nCWW6PQjYzwM9zhYQ9ndCnP4McmiSslA97yirEdzXNA0VhClNs-9VaR9rAgBUNIDJMtRaQ/pubhtml?gid=1596140875&amp;single=true" target="_blank">15 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTr_iTFk_nCWW6PQjYzwM9zhYQ9ndCnP4McmiSslA97yirEdzXNA0VhClNs-9VaR9rAgBUNIDJMtRaQ/pubhtml?gid=1323004715&amp;single=true" target="_blank">16 Aug</a></td>
 <td> </td>
 <td><b>2F</b></td>
-<td><a href="xxx" target="_blank">15 Aug</a></td>
-<td><a href="xxx" target="_blank">16 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxXNE-PinRpVgT1wP_jvH5C7H1_bceaxqbeWugqFag8yx-Ll-GkkM2uYMx0NA8_bNGQN5En-0oGgTm/pubhtml?gid=82718741&amp;single=true" target="_blank">15 Aug</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxXNE-PinRpVgT1wP_jvH5C7H1_bceaxqbeWugqFag8yx-Ll-GkkM2uYMx0NA8_bNGQN5En-0oGgTm/pubhtml?gid=885829313&amp;single=true" target="_blank">16 Aug</a></td>
 </tr><tr>
 <td><b>3A</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWDh894PRbjxq-_KMdwUi29L1nCdvoIChRuQtRprJZVKA1cQM5sZviEa3KjovREQvXpSfTSP52Seey/pubhtml?gid=1781735368&amp;single=true" target="_blank">15 Aug</a></td>
