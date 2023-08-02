@@ -16,9 +16,9 @@ DigitalAccess@Home will be launched on **3rd April 2023**, with NEU PC Plus and 
 Eligible households can apply for the scheme through a simplified application process and enjoy the **flexibility to choose their device and broadband connectivity according to their needs**.
 
 # Who can apply?
-Low-income households living in HDB flats with at least one Singapore Citizen are eligible to apply for [DigitalAccess@Home online](www.digitalaccess.gov.sg) You can check your eligibility at this&nbsp;[website](https://go.gov.sg/digitalaccesschecker).
+Low-income households living in HDB flats with at least one Singapore Citizen are eligible to apply for [DigitalAccess@Home online](www.digitalaccess.gov.sg) You can check your eligibility at this [website](https://go.gov.sg/digitalaccesschecker).
 
-Click on&nbsp;[Scheme Details](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details#ef97571b-3546-4a23-83a1-2815b62d1cfc)&nbsp;for more information
+Click on [Scheme Details](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details#ef97571b-3546-4a23-83a1-2815b62d1cfc) for more information
 
 # How can I apply?
 You can apply in two ways: 
@@ -26,7 +26,7 @@ You can apply in two ways:
 * Online submission (by e-form): Visit [digitalaccess.gov.sg](https://eservice.imda.gov.sg/das/homepage), click on ‘For Applicant’, and log in with Singpass.
 * Hard copy submission (by mail): Download and print the [form here](https://go.gov.sg/digitalaccess-application-form), complete it and mail it to IMDA.
 
-Click on&nbsp;[Scheme Details](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details#fb86fa6e-f86b-48c0-8b55-fa4845c11d97)&nbsp;for more information
+Click on [Scheme Details](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details#fb86fa6e-f86b-48c0-8b55-fa4845c11d97)&nbsp;for more information
 
 # How much do I need to pay? (Co-payment)
 
@@ -39,7 +39,7 @@ Through DigitalAccess@Home, you may receive the following:&nbsp;
 
 The amount of your co-payment will depend on the product(s) you select. You may click on [this link](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home#a3a2bae9-1c74-4504-a6c7-063906b3d640) to check the range of co-payment amounts.
 
-Click on&nbsp;[Scheme Details](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details#ab90c89f-7576-49bd-8736-3f0a9854d166)&nbsp;for more information
+Click on [Scheme Details](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details#ab90c89f-7576-49bd-8736-3f0a9854d166)&nbsp;for more information
 # FAQs
 
 **1. What kind of assistance are offered in DigitalAccess@Home scheme?**
@@ -48,3 +48,35 @@ Households eligible for the DigitalAccess@Home scheme can choose from one the fo
 * 3 years of subsidised fibre broadband and a subsidised device (laptop or tablet); or
 * 3 years of subsidised fibre broadband; or
 * a subsidised device (laptop or tablet).
+
+**2. What are the key differences between the new scheme and the existing schemes?**
+
+The key differences that the DigitalAccess@Home scheme has over the existing ones are:
+* Flexibility to choose product offerings with expanded product choices: Eligible households will enjoy more flexible and expanded device and broadband connectivity options including the flexibility to add options during the period of assistance when their needs change.
+* Simplified and streamlined application for greater convenience and faster approval: The application process will be simplified and applicants will no longer be required to submit supporting documents such as copies of NRIC and income documents. Existing recipients of selected government assistance schemes will also automatically qualify for the Digital Access@Home scheme.
+
+**3. What should households who are keen to get on the scheme do come April 2023?**
+
+From 3 April 2023, applicants may apply for the DigitalAccess@Home scheme online or by submitting a hardcopy application. They can also approach any of the 37 SG Digital community hubs and 4 self-help groups (CDAC, Eurasian Association, MENDAKI, SINDA) for assistance with applications.
+
+Applicants may use the [online self-assessment tool](https://go.gov.sg/digitalaccesschecker) to check their eligibility before applying.
+
+**4. If a household applied for DigitalAccess@Home, chose and received a broadband-only package, can this household apply again for DigitalAccess@Home if they need a device later on (e.g. after 1 year)?**
+
+Yes. a household that received a broadband-only or device-only package can apply for a device or broadband plan respectively within the 3-year assistance period.
+
+**5. If an applicant is an existing or was previously a Home Access/NEU PC Plus beneficiary, can he/she apply for DigitalAccess@Home?**
+
+If an applicant is an existing NEU PC Plus beneficiary, he/she may submit a DigitalAccess@Home application for a fibre broadband only package, or a device only package if he/she is not currently benefitting from subsidised fibre broadband or device (desktop/laptop) respectively.
+
+If an applicant is an existing Home Access beneficiary and is not currently benefitting from a subsidised device (tablet/smartphone), he/she may apply for a device under the DigitalAccess@Home scheme.
+
+Applicants are encouraged to use the [online self-assessment tool](https://go.gov.sg/digitalaccesschecker) to check their eligibility before applying.
+
+**6. How does the launch of DigitalAccess@Home affect households already on existing schemes?**
+
+Households already on the existing schemes may continue to enjoy the benefits of the schemes until the end of their broadband contracts/ or qualifying periods (e.g. 3 years for NEU PC Plus). Eligible households may apply for the DigitalAccess@Home scheme after their contract ends.
+
+**5. If an applicant is an existing or was previously a Home Access/NEU PC Plus beneficiary, can he/she apply for DigitalAccess@Home?**
+
+If an applicant is an existing NEU PC Plus beneficiary, he/she may submit a DigitalAccess@Home application for a fibre broa
