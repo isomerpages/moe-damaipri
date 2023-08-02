@@ -77,6 +77,24 @@ Applicants are encouraged to use the [online self-assessment tool](https://go.go
 
 Households already on the existing schemes may continue to enjoy the benefits of the schemes until the end of their broadband contracts/ or qualifying periods (e.g. 3 years for NEU PC Plus). Eligible households may apply for the DigitalAccess@Home scheme after their contract ends.
 
-**5. If an applicant is an existing or was previously a Home Access/NEU PC Plus beneficiary, can he/she apply for DigitalAccess@Home?**
+**7. Why are the broadband options not fully subsidised under DigitalAccess@Home, like it was with NEU PC Plus?**
 
-If an applicant is an existing NEU PC Plus beneficiary, he/she may submit a DigitalAccess@Home application for a fibre broa
+Co-payment is an important principle in the design of government assistance schemes as this is a prudent use of government funds in supporting the most needy households.
+
+The new DigitalAccess@Home scheme has taken the above principle into consideration and will be based on co-payment format. We will continue to ensure that the co-payment amounts are reasonable for low-income households to obtain affordable digital access.
+
+**8. Students used to be supported under NEU PC Plus regardless of their dwelling type, while DigitalAccess@Home only supports those staying in HDB flats. How will non-HDB dwelling households with school-going children be supported?**
+
+The government subsidies are targeted at those with the greatest need. The use of property ownership is a practical way of considering households’ means to help us target government subsidies on areas with the greatest need.
+
+**9. Are PRs eligible for DigitalAccess@Home?**
+
+Low-income households with PRs are eligible for DigitalAccess@Home as long as the household comprises at least 1 Singapore Citizen. This includes new Singapore Citizens who have just received their citizenships.
+
+**10. What if I have several young children and need more than 1 laptop for my home?**
+
+Complementing the DigitalAccess@Home scheme, the Digital for Life partners have stepped forward to support DigitalAccesss@Home households with 3 or more students with additional laptops – such households can seek IMDA’s assistance to facilitate the provision of a refurbished laptop. Other needy households with extenuating circumstances can seek assistance from IMDA, which will endeavour to assist or work with 3P partners to support the households’ needs.
+
+**11. Will households with children not attending MOE schools (e.g. Madrasah schools, private schools, or home schooled) be eligible to apply for DigitalAccess@Home?**
+
+Yes.
