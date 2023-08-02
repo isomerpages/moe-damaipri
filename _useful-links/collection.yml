@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - Digital Access @ Home.md
       - Student Learning Space (SLS).md
       - Parents Gateway.md
+      - Digital Access @ Home.md
       - Students.md
       - Parents.md
       - Staff.md
