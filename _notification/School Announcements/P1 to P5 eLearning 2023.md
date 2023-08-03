@@ -11,7 +11,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 
 <b><font size="4">Schedule for 15 &amp; 16 Aug 2023</font></b>
 
-![](/images/Announcement/2023/2023%2005%2022%20timetable.png)
+![](/images/Announcement/2023/2023%20oralelearning.png)
 
 <div style="text-align:justify;">Hardcopy assignments need to be submitted to the respective Subject Teachers when your child/ward returns to school the next day.<br><br>We value your partnership and look forward to providing the best for our students.<br><br>If you need any further clarifications, please contact the General Office at Tel: 6445 6483.</div><br>
 
