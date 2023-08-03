@@ -30,13 +30,12 @@ sections:
       image: /images/Announcement/2023/2023 openhouse web.jpg
       alt: Image alt text
   - infopic:
-      title: Art Exhibition
-      subtitle: Singapore Youth Festival 2023
-      description: 18 - 30 July 2023 @ Stamford Arts Centre
-      button: How to get there
-      url: https://artshouselimited.sg/sac
-      image: /images/Announcement/2023/singapore youth festival 2023 art
-        exhibition_new.jpg
+      title: P1 - P5 E-Learning
+      subtitle: 15 - 16 Aug 2023
+      description: Here are the details for the upcoming e-Learning
+      button: Find out more
+      url: /notification/announcements/elearning/
+      image: /images/Announcement/2023/elearning banner.jpg
       alt: Image alt text
   - infopic:
       title: Parents' Briefing
