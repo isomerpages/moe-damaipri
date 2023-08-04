@@ -11,10 +11,7 @@ description: ""
 <div style="text-align: center;"><iframe allowfullscreen="true" width="560" height="315" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR_cXPVeMmBeJydWXr4UUBODwtuC_2LqljM5Ej0wDqonkFG8jBAHE_KNevxY2Gqa0cdH6xmhWRhvxP6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div>
 
 <div style="text-align: justify;">We hope this E-Open House will provide your students and their parents an insight into our school’s academic curriculum and niche programmes. In addition to a live talk by our School Principal, there will be engagement sessions by our heads of departments, parent volunteers, student care personnel and ex-Damai students for those who signed up.</div><br>
-<div style="text-align: center;">Register for our Live Engagement Session on<br><b>Saturday, 8th July 2023.</b>
-<img style="width:200px" src="/images/Announcement/2023/register.jpeg"><br>
-Scan the QR code to register or click the link
-<a href="https://form.gov.sg/64678675c36fce0012152825">here.</a></div><br>
+
 <div style="text-align: center;"><h3><b>Promise of a Holistic Education</b></h3></div>
 
 <div style="text-align: center;"><iframe width="500" height="315" src="https://www.youtube.com/embed/zdg2uV1YUyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
