@@ -7,7 +7,7 @@ description: ""
 
 ### Read for Books
 Read for Books - a book charity drive aimed at raising awareness of reading and sharing the gift of reading with the less privileged. From 1-31 July 2023, for every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries, for up to approximately 9,200 books.
-![](/images/Random/2023/2023%2008%2007%20read%20for%20books.png)
+<img src="/images/Random/2023/2023%2008%2007%20read%20for%20books.png" style="width:200px">
 
 ### EdTech Exploration Award
 ![](/images/Random/2023%2006%2022%20award.jpg)
