@@ -93,7 +93,9 @@ Damai Primary School was awarded the 2016&nbsp;**School Green Award – Lotus Aw
   
 The school also partnered the Northwest CDC and participated in a community outreach project to promote binning as a shared responsibility to keep the environment clean and green. The objectives of this ‘Live Green, Think Clean’ project are to develop a sense of personal responsibility and ownership for maintaining the cleanliness of the school's surrounding or vicinity in the neighbourhood in our students. This project is significant and it provides Damaiains the opportunities to experience the trials of performing a cleaner’s job and indeed they have a newfound respect and appreciation for workers who perform such services for them.
 
-![](/images/schoolgreenaward1.png)
-![](/images/schoolgreenaward2.png)
-![](/images/schoolgreenaward3.png)
-![](/images/schoolgreenaward4.png)
+<table align="center"><thead><tr class="Jeff's blog table class">
+<td align="center" style="text-align: center;"><img src="/images/schoolgreenaward1.png" style="width:300px"></td>
+</tr></thead></table>
+<table align="center"><thead><tr class="Jeff's blog table class">
+<td align="center" style="text-align: center;"><img src="/images/schoolgreenaward2.png" style="width:200px"></td>
+<td align="center" style="text-align: center;"><img src="/images/schoolgreenaward3.png" style="width:200px" align="center"></td><td align="center" style="text-align: center;"><img src="/images/schoolgreenaward4.png" style="width:200px" align="center"></td></tr></thead></table>
