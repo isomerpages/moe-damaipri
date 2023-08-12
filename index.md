@@ -21,22 +21,12 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
-      title: E-Open House 2023
-      subtitle: Discover Damai Primary School
-      description: Join our E-Open House to experience and explore the programmes and
-        facilities that we have in DPS!
-      button: Click here to find out more
-      url: /eopenhouse/
-      image: /images/Announcement/2023/2023 openhouse web.jpg
-      alt: Image alt text
-  - infopic:
-      title: Art Exhibition
-      subtitle: Singapore Youth Festival 2023
-      description: 18 - 30 July 2023 @ Stamford Arts Centre
-      button: How to get there
-      url: https://artshouselimited.sg/sac
-      image: /images/Announcement/2023/singapore youth festival 2023 art
-        exhibition_new.jpg
+      title: P1 - P5 E-Learning
+      subtitle: 15 - 16 Aug 2023
+      description: Here are the details for the upcoming e-Learning
+      button: Find out more
+      url: /notification/announcements/elearning/
+      image: /images/Announcement/2023/elearning banner.jpg
       alt: Image alt text
   - infopic:
       title: Parents' Briefing
