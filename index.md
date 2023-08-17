@@ -21,14 +21,6 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
-      title: P1 - P5 E-Learning
-      subtitle: 15 - 16 Aug 2023
-      description: Here are the details for the upcoming e-Learning
-      button: Find out more
-      url: /notification/announcements/elearning/
-      image: /images/Announcement/2023/elearning banner.jpg
-      alt: Image alt text
-  - infopic:
       title: Parents' Briefing
       subtitle: Principal's Address
       description: You may find P3 - P6 Parents' Briefing slides here
