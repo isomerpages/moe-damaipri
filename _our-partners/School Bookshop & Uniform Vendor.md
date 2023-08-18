@@ -36,8 +36,3 @@ For self-collection, you can select the preferred collection date and time throu
 **Telephone :&nbsp;6743 6645 / 6743 3627**   <br>
 **Operating Hours : 8.30am to 3pm (On consignment to the school bookshop)**
 
-### Opening Dates during School Holidays:
-
-**21 to 30 November 2022** <br>
-**1 to 30 December 2022 (except 20, 21, 22 and 26 December)** <br>
-**5 to 9 December 2022 (reserved for FAS collection)**
