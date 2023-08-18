@@ -6,11 +6,11 @@ description: ""
 # School Bookshop
 ### Actlink Marketing Pte Ltd  
 
-**Website:&nbsp;[www.actlink.com.sg]**
+**Website: [www.actlink.com.sg]**
 
-**Address :&nbsp;25 Fernvale Road #04-23 Highpark Residences Singapore 797639<br>
-Telephone :&nbsp;6896 1156 (office)<br>
-Operating Hours in School :&nbsp;8.30am to 3pm**
+**Address : 25 Fernvale Road #04-23 Highpark Residences Singapore 797639<br>
+Telephone : 6896 1156 (office)<br>
+Operating Hours in School : 8.30am to 3pm**
 
 ### Note to Parents:
 
