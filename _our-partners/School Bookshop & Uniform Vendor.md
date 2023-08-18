@@ -30,9 +30,9 @@ For self-collection, you can select the preferred collection date and time throu
 
 ### Beau Voix Uniform  
 
-**Website:&nbsp;[https://beauvoix.com.sg/](https://beauvoix.com.sg/)** <br>
-**Address :&nbsp;2 Sims Close. Gemini @ Sims #03-08. Singapore 387298 (NO Walk – ins allowed. strictly by appointment only)**
+**Website : [https://beauvoix.com.sg/](https://beauvoix.com.sg/)** <br>
+**Address : 2 Sims Close. Gemini @ Sims #03-08. Singapore 387298 (NO Walk – ins allowed. strictly by appointment only)**
 
-**Telephone :&nbsp;6743 6645 / 6743 3627**   <br>
+**Telephone : 6743 6645 / 6743 3627**   <br>
 **Operating Hours : 8.30am to 3pm (On consignment to the school bookshop)**
 
