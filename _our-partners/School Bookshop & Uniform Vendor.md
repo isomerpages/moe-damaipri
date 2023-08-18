@@ -35,4 +35,3 @@ For self-collection, you can select the preferred collection date and time throu
 
 **Telephone : 6743 6645 / 6743 3627**   <br>
 **Operating Hours : 8.30am to 3pm (On consignment to the school bookshop)**
-
