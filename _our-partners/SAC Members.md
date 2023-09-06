@@ -4,22 +4,44 @@ permalink: /our-partners/sacmembers/
 description: ""
 ---
 <table class="tg" style="undefined;table-layout: fixed; width: 600px">
-<colgroup>
-<col style="width: 400px">
-<col style="width: 200px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-s25z" colspan="1">Primary 2</th>
+<thead><tr>
+<th class="tg-s25z">SAC Members</th>
   </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-18eh" rowspan="1">2A</td>
-    <td class="tg-73oq"><a href="mailto:nur_malisa_saukrad_ali@schools.gov.sg">Ms Nur Malisa Bte Saukrad Ali</a></td></tr>
-    <tr>
-  </tr></tbody>
-</table>
+  </thead>
+  <tbody><tr>
+<td><table class="tg-73oq"><thead><tr>
+<td width="400px">GOH ENG HOE</td>
+<td width="200px">- CHAIRMAN</td>
+  </tr></thead></table></td>
+    </tr><tr>
+<td><table class="tg-73oq"><thead><tr>
+<td width="400px">TANG ZHICHAO</td>
+<td width="200px">- VICE-CHAIRMAN</td>
+  </tr></thead></table></td>
+    </tr><tr>
+<td><table class="tg-73oq"><thead><tr>
+<td width="400px">AFFANDI SALLEH</td>
+<td width="200px">- MEMBER</td>
+  </tr></thead></table></td>
+    </tr><tr>
+<td><table class="tg-73oq"><thead><tr>
+<td width="400px">GOH CHOW KIM</td>
+<td width="200px">- MEMBER</td>
+  </tr></thead></table></td>
+    </tr><tr>
+<td><table class="tg-73oq"><thead><tr>
+<td width="400px">HAJA ZAFARULLAH S/O A P K M</td>
+<td width="200px">- MEMBER</td>
+  </tr></thead></table></td>
+    </tr><tr>
+<td><table class="tg-73oq"><thead><tr>
+<td width="400px">YEE FOOK KEONG STEPHEN</td>
+<td width="200px">- MEMBER</td>
+  </tr></thead></table></td>
+    </tr>
+  </tbody></table>
+	
+	
 
 
 <style type="text/css">
