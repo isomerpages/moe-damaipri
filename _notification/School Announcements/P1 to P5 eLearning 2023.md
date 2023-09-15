@@ -4,7 +4,7 @@ permalink: /notification/announcements/elearning/
 description: ""
 third_nav_title: School Announcements
 ---
-<b><font size="6">e-Learning Exercise for P1 to P5 on 15 ~ 16 Aug 2023</font></b>
+<b><font size="6">e-Learning Exercise for P3 to P4 on 28 ~ 29 Sep 2023</font></b>
 
 <div style="text-align:justify;">As there are no lessons in school on 15 and 16 Aug 2023 due to PSLE Oral, the school will be conducting an e-Learning Exercise on that day.<br>
 The objectives of the exercise are to ensure continuous learning in case of school closure and encourage students to be self-directed learners.</div>
