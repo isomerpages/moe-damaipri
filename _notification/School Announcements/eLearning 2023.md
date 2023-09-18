@@ -30,8 +30,8 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ68gaWcqZ62D_t0DD3pCDGefI18GBSjpHk1DRVMm8hzaidOtP75EAdl8GkBey9uN6DeP6KPSON4yv9/pubhtml?gid=1594268490&amp;single=true">29 Sep</a></td>
 <td> </td>
 <td><b>3E</b></td>
-<td><a href="xxx">28 Sep</a></td>
-<td><a href="xxx">29 Sep</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRPhOC-ndwtmxk1j67Wrhkgw1KJ4bGiAtZWWQJpKlIGGRn5MdhxoQ75MsjnAMZDBpKWHHlknqpd4WK0/pubhtml?gid=555866564&amp;single=true">28 Sep</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRPhOC-ndwtmxk1j67Wrhkgw1KJ4bGiAtZWWQJpKlIGGRn5MdhxoQ75MsjnAMZDBpKWHHlknqpd4WK0/pubhtml?gid=1716300914&amp;single=true">29 Sep</a></td>
 <td> </td>
 </tr> <tr>
 <td><b>3C</b></td>
@@ -161,9 +161,9 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ68gaWcqZ62D_t0DD3pCDGefI18GBSjpHk1DRVMm8hzaidOtP75EAdl8GkBey9uN6DeP6KPSON4yv9/pubhtml?gid=629848491&amp;single=true">17 Oct</a></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ68gaWcqZ62D_t0DD3pCDGefI18GBSjpHk1DRVMm8hzaidOtP75EAdl8GkBey9uN6DeP6KPSON4yv9/pubhtml?gid=788201782&amp;single=true">18 Oct</a></td>
 <td><b>3E</b></td>
-<td><a href="xxx">16 Oct</a></td>
-<td><a href="xxx">17 Oct</a></td>
-<td><a href="xxx">18 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRPhOC-ndwtmxk1j67Wrhkgw1KJ4bGiAtZWWQJpKlIGGRn5MdhxoQ75MsjnAMZDBpKWHHlknqpd4WK0/pubhtml?gid=470404634&amp;single=true">16 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRPhOC-ndwtmxk1j67Wrhkgw1KJ4bGiAtZWWQJpKlIGGRn5MdhxoQ75MsjnAMZDBpKWHHlknqpd4WK0/pubhtml?gid=1527937105&amp;single=true">17 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRPhOC-ndwtmxk1j67Wrhkgw1KJ4bGiAtZWWQJpKlIGGRn5MdhxoQ75MsjnAMZDBpKWHHlknqpd4WK0/pubhtml?gid=697116820&amp;single=true">18 Oct</a></td>
 </tr> <tr>
 <td><b>3C</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOUd3nwDJ8AFnAFzJZMShzG9oOrLAs-xBLSoAYQRcn_b8hT-XVC3dudyrbFMzNvQh78joGa85lultl/pubhtml?gid=2002633916&amp;single=true">16 Oct</a></td>
