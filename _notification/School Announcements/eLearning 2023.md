@@ -17,26 +17,26 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 
 <table style="width: 100%;"><tbody><tr>
 <td style="width: 5%;"><b>3A</b></td>
-<td style="width: 15%;">-</td>
-<td style="width: 15%;">-</td>
+<td style="width: 15%;"><a href="xxx">28 Sep</a></td>
+<td style="width: 15%;"><a href="xxx">29 Sep</a></td>
 <td style="width: 15%;"> </td>
 <td style="width: 5%;"><b>3D</b></td>
-<td style="width: 15%;">-</td>
-<td style="width: 15%;">-</td>
+<td style="width: 15%;"><a href="xxx">28 Sep</a></td>
+<td style="width: 15%;"><a href="xxx">29 Sep</a></td>
 <td style="width: 15%;"> </td>
 </tr><tr>
 <td><b>3B</b></td>
-<td>28 Sep</td>
-<td>29 Sep</td>
+<td><a href="xxx">28 Sep</a></td>
+<td><a href="xxx">29 Sep</a></td>
 <td> </td>
 <td><b>3E</b></td>
-<td>-</td>
-<td>-</td>
+<td><a href="xxx">28 Sep</a></td>
+<td><a href="xxx">29 Sep</a></td>
 <td> </td>
 </tr> <tr>
 <td><b>3C</b></td>
-<td>-</td>
-<td>-</td>
+<td><a href="xxx">28 Sep</a></td>
+<td><a href="xxx">29 Sep</a></td>
 <td> </td>
 <td>---</td>
 <td>-</td>
@@ -44,20 +44,20 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td> </td>
 </tr><tr>
 <td><b>4A</b></td>
-<td>-</td>
-<td>-</td>
+<td><a href="xxx">28 Sep</a></td>
+<td><a href="xxx">29 Sep</a></td>
 <td> </td>
 <td><b>4C</b></td>
-<td>-</td>
-<td>-</td>
+<td><a href="xxx">28 Sep</a></td>
+<td><a href="xxx">29 Sep</a></td>
 <td> </td>
 </tr><tr>
 <td><b>4B</b></td>
-<td>-</td>
-<td>-</td>
+<td><a href="xxx">28 Sep</a></td>
+<td><a href="xxx">29 Sep</a></td>
 <td> </td>
 <td><b>4D</b></td>
-<td>-</td>
-<td>-</td>
+<td><a href="xxx">28 Sep</a></td>
+<td><a href="xxx">29 Sep</a></td>
 <td> </td>
 </tr></tbody></table><br>
