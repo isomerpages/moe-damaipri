@@ -94,9 +94,9 @@ xxx
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTr_iTFk_nCWW6PQjYzwM9zhYQ9ndCnP4McmiSslA97yirEdzXNA0VhClNs-9VaR9rAgBUNIDJMtRaQ/pubhtml?gid=1910921282&amp;single=true">17 Oct</a></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTr_iTFk_nCWW6PQjYzwM9zhYQ9ndCnP4McmiSslA97yirEdzXNA0VhClNs-9VaR9rAgBUNIDJMtRaQ/pubhtml?gid=1492127031&amp;single=true">18 Oct</a></td>
 <td><b>2F</b></td>
-<td><a href="xxx">16 Oct</a></td>
-<td><a href="xxx">17 Oct</a></td>
-<td><a href="xxx">18 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxXNE-PinRpVgT1wP_jvH5C7H1_bceaxqbeWugqFag8yx-Ll-GkkM2uYMx0NA8_bNGQN5En-0oGgTm/pubhtml?gid=475155369&amp;single=true">16 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxXNE-PinRpVgT1wP_jvH5C7H1_bceaxqbeWugqFag8yx-Ll-GkkM2uYMx0NA8_bNGQN5En-0oGgTm/pubhtml?gid=1416780097&amp;single=true">17 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxXNE-PinRpVgT1wP_jvH5C7H1_bceaxqbeWugqFag8yx-Ll-GkkM2uYMx0NA8_bNGQN5En-0oGgTm/pubhtml?gid=837959771&amp;single=true">18 Oct</a></td>
 </tr><tr>
 <td><b>3A</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWDh894PRbjxq-_KMdwUi29L1nCdvoIChRuQtRprJZVKA1cQM5sZviEa3KjovREQvXpSfTSP52Seey/pubhtml?gid=211012505&amp;single=true">16 Oct</a></td>
@@ -167,144 +167,144 @@ BLANK TEMPLATE
 <td style="width: 5%;"><b>1A</b></td>
 <td style="width: 15%;">-</td>
 <td style="width: 15%;">-</td>
-<td style="width: 15%;"> </td>
+<td style="width: 15%;">-</td>
 <td style="width: 5%;"><b>1E</b></td>
 <td style="width: 15%;">-</td>
 <td style="width: 15%;">-</td>
-<td style="width: 15%;"> </td>
+<td style="width: 15%;">-</td>
 </tr><tr>
 <td><b>1B</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td><b>1F</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr><tr>
 <td><b>1C</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td><b>1G</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr><tr>
 <td><b>1D</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td><b>1H</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr><tr>
 <td><b>2A</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td><b>2D</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr><tr>
 <td><b>2B</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td><b>2E</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr><tr>
 <td><b>2C</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td><b>2F</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr><tr>
 <td><b>3A</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td><b>3D</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr><tr>
 <td><b>3B</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td><b>3E</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr> <tr>
 <td><b>3C</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td>---</td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr><tr>
 <td><b>4A</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td><b>4C</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr><tr>
 <td><b>4B</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td><b>4D</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr><tr>
 <td><b>5A</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td><b>5C</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr><tr>
 <td><b>5B</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td><b>5D</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr> <tr>
 <td><b>6A</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td><b>6C</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr> <tr>
 <td><b>6B</b></td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 <td>---</td>
 <td>-</td>
 <td>-</td>
-<td> </td>
+<td>-</td>
 </tr></tbody></table><br>
