@@ -35,8 +35,8 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td> </td>
 </tr> <tr>
 <td><b>3C</b></td>
-<td><a href="xxx">28 Sep</a></td>
-<td><a href="xxx">29 Sep</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOUd3nwDJ8AFnAFzJZMShzG9oOrLAs-xBLSoAYQRcn_b8hT-XVC3dudyrbFMzNvQh78joGa85lultl/pubhtml?gid=1841931776&amp;single=true">28 Sep</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOUd3nwDJ8AFnAFzJZMShzG9oOrLAs-xBLSoAYQRcn_b8hT-XVC3dudyrbFMzNvQh78joGa85lultl/pubhtml?gid=1672173770&amp;single=true">29 Sep</a></td>
 <td> </td>
 <td>---</td>
 <td>-</td>
