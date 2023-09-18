@@ -21,8 +21,8 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td style="width: 15%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWDh894PRbjxq-_KMdwUi29L1nCdvoIChRuQtRprJZVKA1cQM5sZviEa3KjovREQvXpSfTSP52Seey/pubhtml?gid=1092449611&amp;single=true">29 Sep</a></td>
 <td style="width: 15%;"> </td>
 <td style="width: 5%;"><b>3D</b></td>
-<td style="width: 15%;"><a href="xxx">28 Sep</a></td>
-<td style="width: 15%;"><a href="xxx">29 Sep</a></td>
+<td style="width: 15%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaoarC-4dflfrt7f4uVqO1LV8cqgYrOA2rKFZbWYRta7vontw-FKVEtElriiVZvWfDI1oGHhxhWYkE/pubhtml?gid=1862180490&amp;single=true">28 Sep</a></td>
+<td style="width: 15%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaoarC-4dflfrt7f4uVqO1LV8cqgYrOA2rKFZbWYRta7vontw-FKVEtElriiVZvWfDI1oGHhxhWYkE/pubhtml?gid=1532754285&amp;single=true">29 Sep</a></td>
 <td style="width: 15%;"> </td>
 </tr><tr>
 <td><b>3B</b></td>
@@ -60,4 +60,153 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><a href="xxx">28 Sep</a></td>
 <td><a href="xxx">29 Sep</a></td>
 <td> </td>
+</tr></tbody></table><br>
+
+
+<table style="width: 100%;"><tbody><tr>
+<td style="width: 5%;"><b>5A</b></td>
+<td style="width: 15%;">-</td>
+<td style="width: 15%;"><a href="xxx">2 Oct</a></td>
+<td style="width: 15%;"> </td>
+<td style="width: 5%;"><b>5C</b></td>
+<td style="width: 15%;">-</td>
+<td style="width: 15%;"><a href="xxx">2 Oct</a></td>
+<td style="width: 15%;"> </td>
+</tr><tr>
+<td><b>5B</b></td>
+<td>-</td>
+<td><a href="xxx">2 Oct</a></td>
+<td> </td>
+<td><b>---</b></td>
+<td>-</td>
+<td>-</td>
+<td> </td>
+</tr></tbody></table><br>
+
+<table style="width: 100%;"><tbody><tr>
+<td style="width: 5%;"><b>1A</b></td>
+<td style="width: 15%;"><a href="xxx">16 Oct</a></td>
+<td style="width: 15%;"><a href="xxx">17 Oct</a></td>
+<td style="width: 15%;"><a href="xxx">18 Oct</a></td>
+<td style="width: 5%;"><b>1E</b></td>
+<td style="width: 15%;"><a href="xxx">16 Oct</a></td>
+<td style="width: 15%;"><a href="xxx">17 Oct</a></td>
+<td style="width: 15%;"><a href="xxx">18 Oct</a></td>
+</tr><tr>
+<td><b>1B</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+<td><b>1F</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+</tr><tr>
+<td><b>1C</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+<td><b>1G</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+</tr><tr>
+<td><b>1D</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+<td><b>1H</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+</tr><tr>
+<td><b>2A</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+<td><b>2D</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+</tr><tr>
+<td><b>2B</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+<td><b>2E</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+</tr><tr>
+<td><b>2C</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+<td><b>2F</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+</tr><tr>
+<td><b>3A</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWDh894PRbjxq-_KMdwUi29L1nCdvoIChRuQtRprJZVKA1cQM5sZviEa3KjovREQvXpSfTSP52Seey/pubhtml?gid=211012505&amp;single=true">16 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWDh894PRbjxq-_KMdwUi29L1nCdvoIChRuQtRprJZVKA1cQM5sZviEa3KjovREQvXpSfTSP52Seey/pubhtml?gid=1719955482&amp;single=true">17 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWDh894PRbjxq-_KMdwUi29L1nCdvoIChRuQtRprJZVKA1cQM5sZviEa3KjovREQvXpSfTSP52Seey/pubhtml?gid=1812325116&amp;single=true">18 Oct</a></td>
+<td><b>3D</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaoarC-4dflfrt7f4uVqO1LV8cqgYrOA2rKFZbWYRta7vontw-FKVEtElriiVZvWfDI1oGHhxhWYkE/pubhtml?gid=668662325&amp;single=true">16 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaoarC-4dflfrt7f4uVqO1LV8cqgYrOA2rKFZbWYRta7vontw-FKVEtElriiVZvWfDI1oGHhxhWYkE/pubhtml?gid=234380553&amp;single=true">17 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaoarC-4dflfrt7f4uVqO1LV8cqgYrOA2rKFZbWYRta7vontw-FKVEtElriiVZvWfDI1oGHhxhWYkE/pubhtml?gid=122388407&amp;single=true">18 Oct</a></td>
+</tr><tr>
+<td><b>3B</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ68gaWcqZ62D_t0DD3pCDGefI18GBSjpHk1DRVMm8hzaidOtP75EAdl8GkBey9uN6DeP6KPSON4yv9/pubhtml?gid=230786026&amp;single=true">16 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ68gaWcqZ62D_t0DD3pCDGefI18GBSjpHk1DRVMm8hzaidOtP75EAdl8GkBey9uN6DeP6KPSON4yv9/pubhtml?gid=629848491&amp;single=true">17 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ68gaWcqZ62D_t0DD3pCDGefI18GBSjpHk1DRVMm8hzaidOtP75EAdl8GkBey9uN6DeP6KPSON4yv9/pubhtml?gid=788201782&amp;single=true">18 Oct</a></td>
+<td><b>3E</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+</tr> <tr>
+<td><b>3C</b></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOUd3nwDJ8AFnAFzJZMShzG9oOrLAs-xBLSoAYQRcn_b8hT-XVC3dudyrbFMzNvQh78joGa85lultl/pubhtml?gid=2002633916&amp;single=true">16 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOUd3nwDJ8AFnAFzJZMShzG9oOrLAs-xBLSoAYQRcn_b8hT-XVC3dudyrbFMzNvQh78joGa85lultl/pubhtml?gid=640503094&amp;single=true">17 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOUd3nwDJ8AFnAFzJZMShzG9oOrLAs-xBLSoAYQRcn_b8hT-XVC3dudyrbFMzNvQh78joGa85lultl/pubhtml?gid=731720015&amp;single=true">18 Oct</a></td>
+<td>---</td>
+<td>-</td>
+<td>-</td>
+<td> </td>
+</tr><tr>
+<td><b>4A</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+<td><b>4C</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+</tr><tr>
+<td><b>4B</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+<td><b>4D</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+</tr><tr>
+<td><b>5A</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+<td><b>5C</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+</tr><tr>
+<td><b>5B</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
+<td><b>5D</b></td>
+<td><a href="xxx">16 Oct</a></td>
+<td><a href="xxx">17 Oct</a></td>
+<td><a href="xxx">18 Oct</a></td>
 </tr></tbody></table><br>
