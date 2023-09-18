@@ -16,12 +16,13 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 
 <table style="width: 100%;"><tbody><tr>
 <td style="width: 5%;"><b>1A</b></td>
-<td style="width: 20%;">-</td>
-<td style="width: 20%;">-</td>
-<td style="width: 10%;"> </td>
+<td style="width: 15%;">-</td>
+<td style="width: 15%;">-</td>
+<td style="width: 15%;"> </td>
 <td style="width: 5%;"><b>1E</b></td>
-<td style="width: 20%;">-</td>
-<td style="width: 20%;">-</td>
+<td style="width: 15%;">-</td>
+<td style="width: 15%;">-</td>
+<td style="width: 15%;"> </td>
 </tr><tr>
 <td><b>1B</b></td>
 <td>-</td>
@@ -30,14 +31,16 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>1F</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>1C</b></td>
 <td>-</td>
 <td>-</td>
-	<td> </td>
+<td> </td>
 <td><b>1G</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>1D</b></td>
 <td>-</td>
@@ -46,6 +49,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>1H</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>2A</b></td>
 <td>-</td>
@@ -54,6 +58,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>2D</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>2B</b></td>
 <td>-</td>
@@ -62,6 +67,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>2E</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>2C</b></td>
 <td>-</td>
@@ -70,6 +76,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>2F</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>3A</b></td>
 <td>-</td>
@@ -78,6 +85,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>3D</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>3B</b></td>
 <td>-</td>
@@ -86,7 +94,8 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>3E</b></td>
 <td>-</td>
 <td>-</td>
-</tr><tr>
+<td> </td>
+</tr> <tr>
 <td><b>3C</b></td>
 <td>-</td>
 <td>-</td>
@@ -94,6 +103,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td>---</td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>4A</b></td>
 <td>-</td>
@@ -102,6 +112,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>4C</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>4B</b></td>
 <td>-</td>
@@ -110,6 +121,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>4D</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>5A</b></td>
 <td>-</td>
@@ -118,6 +130,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>5C</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>5B</b></td>
 <td>-</td>
@@ -126,7 +139,8 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>5D</b></td>
 <td>-</td>
 <td>-</td>
-</tr><tr>
+<td> </td>
+</tr> <tr>
 <td><b>6A</b></td>
 <td>-</td>
 <td>-</td>
@@ -134,7 +148,8 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><b>6C</b></td>
 <td>-</td>
 <td>-</td>
-</tr><tr>
+<td> </td>
+</tr> <tr>
 <td><b>6B</b></td>
 <td>-</td>
 <td>-</td>
@@ -142,17 +157,19 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td>---</td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr></tbody></table><br>
 
 BLANK TEMPLATE
 <table style="width: 100%;"><tbody><tr>
 <td style="width: 5%;"><b>1A</b></td>
-<td style="width: 20%;">-</td>
-<td style="width: 20%;">-</td>
-<td style="width: 10%;"> </td>
+<td style="width: 15%;">-</td>
+<td style="width: 15%;">-</td>
+<td style="width: 15%;"> </td>
 <td style="width: 5%;"><b>1E</b></td>
-<td style="width: 20%;">-</td>
-<td style="width: 20%;">-</td>
+<td style="width: 15%;">-</td>
+<td style="width: 15%;">-</td>
+<td style="width: 15%;"> </td>
 </tr><tr>
 <td><b>1B</b></td>
 <td>-</td>
@@ -161,14 +178,16 @@ BLANK TEMPLATE
 <td><b>1F</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>1C</b></td>
 <td>-</td>
 <td>-</td>
-	<td> </td>
+<td> </td>
 <td><b>1G</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>1D</b></td>
 <td>-</td>
@@ -177,6 +196,7 @@ BLANK TEMPLATE
 <td><b>1H</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>2A</b></td>
 <td>-</td>
@@ -185,6 +205,7 @@ BLANK TEMPLATE
 <td><b>2D</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>2B</b></td>
 <td>-</td>
@@ -193,6 +214,7 @@ BLANK TEMPLATE
 <td><b>2E</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>2C</b></td>
 <td>-</td>
@@ -201,6 +223,7 @@ BLANK TEMPLATE
 <td><b>2F</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>3A</b></td>
 <td>-</td>
@@ -209,6 +232,7 @@ BLANK TEMPLATE
 <td><b>3D</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>3B</b></td>
 <td>-</td>
@@ -217,7 +241,8 @@ BLANK TEMPLATE
 <td><b>3E</b></td>
 <td>-</td>
 <td>-</td>
-</tr><tr>
+<td> </td>
+</tr> <tr>
 <td><b>3C</b></td>
 <td>-</td>
 <td>-</td>
@@ -225,6 +250,7 @@ BLANK TEMPLATE
 <td>---</td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>4A</b></td>
 <td>-</td>
@@ -233,6 +259,7 @@ BLANK TEMPLATE
 <td><b>4C</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>4B</b></td>
 <td>-</td>
@@ -241,6 +268,7 @@ BLANK TEMPLATE
 <td><b>4D</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>5A</b></td>
 <td>-</td>
@@ -249,6 +277,7 @@ BLANK TEMPLATE
 <td><b>5C</b></td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr><tr>
 <td><b>5B</b></td>
 <td>-</td>
@@ -257,7 +286,8 @@ BLANK TEMPLATE
 <td><b>5D</b></td>
 <td>-</td>
 <td>-</td>
-</tr><tr>
+<td> </td>
+</tr> <tr>
 <td><b>6A</b></td>
 <td>-</td>
 <td>-</td>
@@ -265,7 +295,8 @@ BLANK TEMPLATE
 <td><b>6C</b></td>
 <td>-</td>
 <td>-</td>
-</tr><tr>
+<td> </td>
+</tr> <tr>
 <td><b>6B</b></td>
 <td>-</td>
 <td>-</td>
@@ -273,4 +304,5 @@ BLANK TEMPLATE
 <td>---</td>
 <td>-</td>
 <td>-</td>
+<td> </td>
 </tr></tbody></table><br>
