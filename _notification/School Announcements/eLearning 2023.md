@@ -11,7 +11,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 
 <b><font size="4">Schedule for 28 and 29 Sep 2023</font></b>
 
-![](/images/Announcement/2023/2023%2009%2018%20elearning.png)
+![](/images/Announcement/2023/2023%2009%2018%20elearning%20a.png)
 
 <div style="text-align:justify;">Hardcopy assignments need to be submitted to the respective Subject Teachers when your child/ward returns to school the next day.<br><br>We value your partnership and look forward to providing the best for our students.<br><br>If you need any further clarifications, please contact the General Office at Tel: 6445 6483.</div><br>
 
@@ -26,8 +26,8 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td style="width: 15%;"> </td>
 </tr><tr>
 <td><b>3B</b></td>
-<td>-</td>
-<td>-</td>
+<td>28 Sep</td>
+<td>29 Sep</td>
 <td> </td>
 <td><b>3E</b></td>
 <td>-</td>
@@ -57,42 +57,6 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td>-</td>
 <td> </td>
 <td><b>4D</b></td>
-<td>-</td>
-<td>-</td>
-<td> </td>
-</tr><tr>
-<td><b>5A</b></td>
-<td>-</td>
-<td>-</td>
-<td> </td>
-<td><b>5C</b></td>
-<td>-</td>
-<td>-</td>
-<td> </td>
-</tr><tr>
-<td><b>5B</b></td>
-<td>-</td>
-<td>-</td>
-<td> </td>
-<td><b>5D</b></td>
-<td>-</td>
-<td>-</td>
-<td> </td>
-</tr> <tr>
-<td><b>6A</b></td>
-<td>-</td>
-<td>-</td>
-<td> </td>
-<td><b>6C</b></td>
-<td>-</td>
-<td>-</td>
-<td> </td>
-</tr> <tr>
-<td><b>6B</b></td>
-<td>-</td>
-<td>-</td>
-<td> </td>
-<td>---</td>
 <td>-</td>
 <td>-</td>
 <td> </td>
