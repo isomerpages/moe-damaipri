@@ -17,8 +17,8 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 
 <table style="width: 100%;"><tbody><tr>
 <td style="width: 5%;"><b>3A</b></td>
-<td style="width: 15%;"><a href="xxx">28 Sep</a></td>
-<td style="width: 15%;"><a href="xxx">29 Sep</a></td>
+<td style="width: 15%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWDh894PRbjxq-_KMdwUi29L1nCdvoIChRuQtRprJZVKA1cQM5sZviEa3KjovREQvXpSfTSP52Seey/pubhtml?gid=398758367&amp;single=true">28 Sep</a></td>
+<td style="width: 15%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWDh894PRbjxq-_KMdwUi29L1nCdvoIChRuQtRprJZVKA1cQM5sZviEa3KjovREQvXpSfTSP52Seey/pubhtml?gid=1092449611&amp;single=true">29 Sep</a></td>
 <td style="width: 15%;"> </td>
 <td style="width: 5%;"><b>3D</b></td>
 <td style="width: 15%;"><a href="xxx">28 Sep</a></td>
@@ -26,8 +26,8 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td style="width: 15%;"> </td>
 </tr><tr>
 <td><b>3B</b></td>
-<td><a href="xxx">28 Sep</a></td>
-<td><a href="xxx">29 Sep</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ68gaWcqZ62D_t0DD3pCDGefI18GBSjpHk1DRVMm8hzaidOtP75EAdl8GkBey9uN6DeP6KPSON4yv9/pubhtml?gid=21138772&amp;single=true">28 Sep</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ68gaWcqZ62D_t0DD3pCDGefI18GBSjpHk1DRVMm8hzaidOtP75EAdl8GkBey9uN6DeP6KPSON4yv9/pubhtml?gid=1594268490&amp;single=true">29 Sep</a></td>
 <td> </td>
 <td><b>3E</b></td>
 <td><a href="xxx">28 Sep</a></td>
