@@ -63,9 +63,9 @@ xxx
 <td><a href="xxx">18 Oct</a></td>
 </tr><tr>
 <td><b>1D</b></td>
-<td><a href="xxx">16 Oct</a></td>
-<td><a href="xxx">17 Oct</a></td>
-<td><a href="xxx">18 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSG0mc1AFzLWrDM2ANcAskZRNFpIIu3DrLG0sJovIHLseCsVJ6VPnfzJuXl7C8meRNIufPSkMSW-ygQ/pubhtml?gid=1665831786&amp;single=true">16 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSG0mc1AFzLWrDM2ANcAskZRNFpIIu3DrLG0sJovIHLseCsVJ6VPnfzJuXl7C8meRNIufPSkMSW-ygQ/pubhtml?gid=1959262562&amp;single=true">17 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSG0mc1AFzLWrDM2ANcAskZRNFpIIu3DrLG0sJovIHLseCsVJ6VPnfzJuXl7C8meRNIufPSkMSW-ygQ/pubhtml?gid=381462779&amp;single=true">18 Oct</a></td>
 <td><b>1H</b></td>
 <td><a href="xxx">16 Oct</a></td>
 <td><a href="xxx">17 Oct</a></td>
