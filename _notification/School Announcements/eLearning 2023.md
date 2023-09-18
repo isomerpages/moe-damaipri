@@ -206,7 +206,7 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTD0Qm7QLefQVfa8qquB4MYB9wvPGhpDKVUCQGX39LdCvrCZ6jJ36eiwVjHHbsa-WVAs-mmdv9SGj1L/pubhtml?gid=1626287919&amp;single=true">17 Oct</a></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTD0Qm7QLefQVfa8qquB4MYB9wvPGhpDKVUCQGX39LdCvrCZ6jJ36eiwVjHHbsa-WVAs-mmdv9SGj1L/pubhtml?gid=65770106&amp;single=true">18 Oct</a></td>
 <td><b>5D</b></td>
-<td><a href="xxx">16 Oct</a></td>
-<td><a href="xxx">17 Oct</a></td>
-<td><a href="xxx">18 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ54HNo8wkU_o0V2eef_iBanV4CFd294LH7or5g2idS6r1J6GPh0HCTq6Um4cx-CVjte0LDe8TxwL5m/pubhtml?gid=544786250&amp;single=true">16 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ54HNo8wkU_o0V2eef_iBanV4CFd294LH7or5g2idS6r1J6GPh0HCTq6Um4cx-CVjte0LDe8TxwL5m/pubhtml?gid=527981260&amp;single=true">17 Oct</a></td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ54HNo8wkU_o0V2eef_iBanV4CFd294LH7or5g2idS6r1J6GPh0HCTq6Um4cx-CVjte0LDe8TxwL5m/pubhtml?gid=1675212419&amp;single=true">18 Oct</a></td>
 </tr></tbody></table><br>
