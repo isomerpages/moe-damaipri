@@ -4,14 +4,16 @@ permalink: /notification/announcements/elearning/
 description: ""
 third_nav_title: School Announcements
 ---
-<b><font size="6">e-Learning Exercise for P3 to P4 on 28 ~ 29 Sep 2023</font></b>
+<b><font size="6">e-Learning Exercise for P3 to P5</font></b>
 
-<div style="text-align:justify;">As there are no lessons in school on 28 and 29 Sep 2023 due to PSLE, the school will be conducting an e-Learning Exercise on that day.<br>
+<div style="text-align:justify;">Damai Primary School will be conducting an e-Learning Exercise on these dates.<br><br>
 The objectives of the exercise are to ensure continuous learning in case of school closure and encourage students to be self-directed learners.</div>
 
-<b><font size="4">Schedule for P3 and P4</font></b>
+<b><font size="4">Schedule</font></b>
 
 ![](/images/Announcement/2023/2023%2009%2018%20elearning%20a.png)
+
+![](/images/Announcement/2023/2023%2009%2018%20elearning%20b.png)
 
 <div style="text-align:justify;">Hardcopy assignments need to be submitted to the respective Subject Teachers when your child/ward returns to school the next day.<br><br>We value your partnership and look forward to providing the best for our students.<br><br>If you need any further clarifications, please contact the General Office at Tel: 6445 6483.</div><br>
 
@@ -60,4 +62,24 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4e-2pdH6yBPeG8Hvgay9iDWeWueHWrgJmRJq120qjfvkSbcnlcUevS_0s4bUKtoDF2dIkoOwtmyVX/pubhtml?gid=226935685&amp;single=true">28 Sep</a></td>
 <td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4e-2pdH6yBPeG8Hvgay9iDWeWueHWrgJmRJq120qjfvkSbcnlcUevS_0s4bUKtoDF2dIkoOwtmyVX/pubhtml?gid=2027479591&amp;single=true">29 Sep</a></td>
 <td> </td>
+</tr></tbody></table>
+
+<table style="width: 100%;"><tbody><tr>
+<td style="width: 5%;"><b>5A</b></td>
+<td style="width: 15%;">-</td>
+<td style="width: 15%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQt8mAyCAFwZF_7joHaWQtOs22wUDvQML6NauOm1DOFrK5LxXURKYKKEkXdin1NjNQ82wG1SgU2OrE7/pubhtml?gid=682658008&amp;single=true">2 Oct</a></td>
+<td style="width: 15%;">-</td>
+<td style="width: 5%;"><b>5C</b></td>
+<td style="width: 15%;">-</td>
+<td style="width: 15%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCwQhKVLKleN3YY8sKBjIoC7-DwdrRfh98IzR3FYECRQTdQrPDre4_6lMH4hf3r4zepLWOAs3n_R8m/pubhtml?gid=638310027&amp;single=true">2 Oct</a></td>
+<td style="width: 15%;">-</td>
+</tr><tr>
+<td><b>5B</b></td>
+<td>-</td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTD0Qm7QLefQVfa8qquB4MYB9wvPGhpDKVUCQGX39LdCvrCZ6jJ36eiwVjHHbsa-WVAs-mmdv9SGj1L/pubhtml?gid=421163925&amp;single=true">2 Oct</a></td>
+<td>-</td>
+<td><b>5D</b></td>
+<td>-</td>
+<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ54HNo8wkU_o0V2eef_iBanV4CFd294LH7or5g2idS6r1J6GPh0HCTq6Um4cx-CVjte0LDe8TxwL5m/pubhtml?gid=2116447434&amp;single=true">2 Oct</a></td>
+<td>-</td>
 </tr></tbody></table><br>
