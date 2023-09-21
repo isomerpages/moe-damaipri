@@ -9,7 +9,7 @@ third_nav_title: School Announcements
 <div style="text-align:justify;">As there are no lessons in school on 28 and 29 Sep 2023 due to PSLE, the school will be conducting an e-Learning Exercise on that day.<br>
 The objectives of the exercise are to ensure continuous learning in case of school closure and encourage students to be self-directed learners.</div>
 
-<b><font size="4">Schedule for 28 and 29 Sep 2023</font></b>
+<b><font size="4">Schedule for P3 and P4</font></b>
 
 ![](/images/Announcement/2023/2023%2009%2018%20elearning%20a.png)
 
