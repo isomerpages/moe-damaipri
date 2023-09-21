@@ -14,25 +14,7 @@ xxx
 
 <div style="text-align:justify;">Hardcopy assignments need to be submitted to the respective Subject Teachers when your child/ward returns to school the next day.<br><br>We value your partnership and look forward to providing the best for our students.<br><br>If you need any further clarifications, please contact the General Office at Tel: 6445 6483.</div><br>
 
-<table style="width: 100%;"><tbody><tr>
-<td style="width: 5%;"><b>5A</b></td>
-<td style="width: 15%;">-</td>
-<td style="width: 15%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQt8mAyCAFwZF_7joHaWQtOs22wUDvQML6NauOm1DOFrK5LxXURKYKKEkXdin1NjNQ82wG1SgU2OrE7/pubhtml?gid=682658008&amp;single=true">2 Oct</a></td>
-<td style="width: 15%;">-</td>
-<td style="width: 5%;"><b>5C</b></td>
-<td style="width: 15%;">-</td>
-<td style="width: 15%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCwQhKVLKleN3YY8sKBjIoC7-DwdrRfh98IzR3FYECRQTdQrPDre4_6lMH4hf3r4zepLWOAs3n_R8m/pubhtml?gid=638310027&amp;single=true">2 Oct</a></td>
-<td style="width: 15%;">-</td>
-</tr><tr>
-<td><b>5B</b></td>
-<td>-</td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTD0Qm7QLefQVfa8qquB4MYB9wvPGhpDKVUCQGX39LdCvrCZ6jJ36eiwVjHHbsa-WVAs-mmdv9SGj1L/pubhtml?gid=421163925&amp;single=true">2 Oct</a></td>
-<td>-</td>
-<td><b>5D</b></td>
-<td>-</td>
-<td><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ54HNo8wkU_o0V2eef_iBanV4CFd294LH7or5g2idS6r1J6GPh0HCTq6Um4cx-CVjte0LDe8TxwL5m/pubhtml?gid=2116447434&amp;single=true">2 Oct</a></td>
-<td>-</td>
-</tr></tbody></table><br>
+
 
 <table style="width: 100%;"><tbody><tr>
 <td style="width: 5%;"><b>1A</b></td>
