@@ -21,6 +21,17 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
+      title: e-Learning Exercise
+      subtitle: P3 to P5
+      id: infopic
+      description: The objectives of the exercise are to ensure continuous learning in
+        case of school closure and encourage students to be self-directed
+        learners.
+      button: Click here to find out more
+      url: /notification/announcements/elearning/
+      image: /images/Announcement/2023/elearning banner.jpg
+      alt: Image alt text
+  - infopic:
       title: Parents' Briefing
       subtitle: Principal's Address
       description: You may find P3 - P6 Parents' Briefing slides here
