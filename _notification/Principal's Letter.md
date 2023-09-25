@@ -10,7 +10,7 @@ Here are the principal's letter for parents.
 | [January](/files/Principal_letters/2023/2023_01_Jan_Principal_Letter.pdf) | [February](/files/Principal_letters/2023/2023_13%20Feb%20Principal%20Letter_Final.pdf) | [March](/files/Principal_letters/2023/2023_20%20Mar_Principals%20Letter.pdf) |
 | -------- | -------- | -------- |
 |**[April](/files/Principal_letters/2023/2023_20%20april_principals%20letter%20_april_final.pdf)** | **[May](/files/Principal_letters/2023/2023_may_principal%20letter.pdf)** | **[June](/files/Principal_letters/2023/2023_26%20june%20principalletter.pdf)** |
-| **July** | **[August](/files/Principal_letters/2023/2023%20august%20principal%20letter.pdf)** | **September** |
+| **July** | **[August](/files/Principal_letters/2023/2023%20august%20principal%20letter.pdf)** | **[September](/files/Principal_letters/2023/2023%20sept_principal%20letter_final.pdf)** |
 | **October** | **November** | **December** |
 
 
