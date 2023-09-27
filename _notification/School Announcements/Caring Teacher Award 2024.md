@@ -6,6 +6,8 @@ third_nav_title: School Announcements
 ---
 # **Caring Teacher Awards 2024**
 
+![http://www.cta.nie.edu.sg](/images/Announcement/2023/2023%20cta%202024.png)
+
 Do take time to show your appreciation to the teachers of your child/ward by nominating them for the **Caring Teacher Awards (CTA) 2024**.
 
 Organised by National Institute of Education (NIE), this award aims to acknowledge teachers who go beyond the call of duty to nurture the holistic development of their students.
