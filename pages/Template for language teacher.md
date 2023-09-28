@@ -1,8 +1,7 @@
 ---
-title: "Open for Nomination: Language Teacher Awards 2023"
-permalink: /notification/Announcements/open4nomination/
+title: Template for language teacher
+permalink: /temem/
 description: ""
-third_nav_title: School Announcements
 ---
 # Open for Nomination: Language Teacher Awards 2023
 
