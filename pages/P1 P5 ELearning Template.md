@@ -3,16 +3,13 @@ title: P1 P5 ELearning Template
 permalink: /elearningtemplatep1to5/
 description: ""
 ---
-<b><font size="6">e-Learning Exercise for P3 to P4 on 28 ~ 29 Sep 2023</font></b>
+Principal letter
 
-<div style="text-align:justify;">As there are no lessons in school on 28 and 29 Sep 2023 due to PSLE, the school will be conducting an e-Learning Exercise on that day.<br>
-The objectives of the exercise are to ensure continuous learning in case of school closure and encourage students to be self-directed learners.</div>
-
-<b><font size="4">Schedule for 28 and 29 Sep 2023</font></b>
-
-xxx
-
-<div style="text-align:justify;">Hardcopy assignments need to be submitted to the respective Subject Teachers when your child/ward returns to school the next day.<br><br>We value your partnership and look forward to providing the best for our students.<br><br>If you need any further clarifications, please contact the General Office at Tel: 6445 6483.</div><br>
+| [January](xxx) | [February](xxx) | [March](xxx) |
+| -------- | -------- | -------- |
+|**[April](xxx)** | **[May](xxx)** | **[June](xxx)** |
+| **[July](xxx)** | **[August](xxx)** | **[September](xxx)** |
+| **[October](xxx)** | **[November](xxx)** | **[December](xxx)** |
 
 
 
