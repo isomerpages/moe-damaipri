@@ -22,7 +22,7 @@ sections:
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
       title: e-Learning Exercise
-      subtitle: P3 to P5
+      subtitle: PSLE Marking days
       id: infopic
       description: The objectives of the exercise are to ensure continuous learning in
         case of school closure and encourage students to be self-directed
@@ -33,7 +33,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Caring Teacher Awards 2024
-      subtitle: "aims to acknowledge teachers "
+      subtitle: aims to acknowledge teachers
       id: infopic
       description: >-
         Do take time to show your appreciation to the teachers by nominating
