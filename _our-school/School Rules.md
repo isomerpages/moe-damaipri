@@ -32,7 +32,7 @@ description: ""
 * Boys must be clean shaven.
 * Facial hair such as beards, long sideburns or moustaches are not allowed.
 
-![](/images/2022%20unacceptd.png)
+![](/images/Random/2023%20haircut.png)
 
 **Girls**  
 
@@ -40,9 +40,15 @@ description: ""
 *   Long hair must be tied up neatly with a black or blue ribbon.  
 *   Long fringe must be pinned up neatly with black blue hair clips.
 
+**Accessories**
+
+* Jewellery, ornaments and accessories, apart from a watch, are strictly NOT allowed for all students.
+* Only one identical pair of small simple ear studs is allowed for girls. 
+
 ![](/images/hair.png)
 
 ![](/images/Random/2023%20uniform.png)
+
 
 Attendance
 ----------
