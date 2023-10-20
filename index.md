@@ -24,8 +24,8 @@ sections:
       title: PAT & OYEA 2024
       subtitle: Nomination
       id: infopic
-      description: Nomination for President’s Award for Teachers (PAT) and Outstanding
-        Youth in Education Award (OYEA) 2024 are now open.
+      description: Do take the opportunity to nominate teachers who have supported
+        your child in his/her educational journey.
       button: Click here to find out more
       url: /notification/school-announcements/pat-oyea/
       image: /images/Announcement/2023/2024 vote.jpg
