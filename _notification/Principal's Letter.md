@@ -2,6 +2,7 @@
 title: Principal's Letter
 permalink: /principal/
 description: ""
+variant: markdown
 ---
 Here are the principal's letter for parents.
 
@@ -11,7 +12,7 @@ Here are the principal's letter for parents.
 | -------- | -------- | -------- |
 |**[April](/files/Principal_letters/2023/2023_20%20april_principals%20letter%20_april_final.pdf)** | **[May](/files/Principal_letters/2023/2023_may_principal%20letter.pdf)** | **[June](/files/Principal_letters/2023/2023_26%20june%20principalletter.pdf)** |
 | **July** | **[August](/files/Principal_letters/2023/2023%20august%20principal%20letter.pdf)** | **[September](/files/Principal_letters/2023/2023%20sept_principal%20letter_final.pdf)** |
-| **October** | **November** | **December** |
+| **October** | **[November](/files/Principal_letters/2023/2023_nov%20principal's%20letter_final.pdf)** | **December** |
 
 
 
