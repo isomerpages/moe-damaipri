@@ -48,7 +48,7 @@ sections:
       subtitle: Information
       description: You may find the hall presentation slides here
       button: Click here to find out more
-      url: /notification/announcements/parentbriefing/
+      url: /files/Announcement/2023/2023_P1_Orientation_Day_Hall_Slides_Website.pdf
       image: /images/Announcement/2023/2023_11_p1_orientationslide.png
       alt: Image alt text
   - infopic:
