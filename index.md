@@ -44,12 +44,12 @@ sections:
       image: /images/Announcement/2023/2023 cta 2024.png
       alt: Image alt text
   - infopic:
-      title: Parents' Briefing
-      subtitle: Principal's Address
-      description: You may find P3 - P6 Parents' Briefing slides here
+      title: P1 Orientation Day Slide
+      subtitle: Information
+      description: You may find the hall presentation slides here
       button: Click here to find out more
-      url: /notification/announcements/parentbriefing/
-      image: /images/Announcement/2023/2023parentbrief.png
+      url: /files/Announcement/2023/2023_P1_Orientation_Day_Hall_Slides_Website.pdf
+      image: /images/Announcement/2023/2023_11_p1_orientationslide.png
       alt: Image alt text
   - infopic:
       title: Useful Links

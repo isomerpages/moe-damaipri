@@ -1,8 +1,9 @@
 ---
 title: 2023 Parents' Briefing
-permalink: /notification/Announcements/parentbriefing/
+permalink: /notification/announcements/parentbriefing/
 description: ""
 third_nav_title: School Announcements
+variant: tiptap
 ---
 Dear Parents,
 
