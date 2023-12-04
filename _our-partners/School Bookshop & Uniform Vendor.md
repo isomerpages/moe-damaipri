@@ -24,7 +24,7 @@ January: **2, 3,  4 and  5** (2pm to 4pm)
 # School Bookshop
 ### Actlink Marketing Pte Ltd  
 
-Website: **[www.actlink.com.sg]**
+Website: **[https://actlink.com.sg/](https://actlink.com.sg/)**
 
 Address : **25 Fernvale Road #04-23 Highpark Residences Singapore 797639**<br>
 Telephone : **6896 1156 (office)**<br>
