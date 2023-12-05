@@ -2,6 +2,7 @@
 title: Table template
 permalink: /tabletemplate/
 description: ""
+variant: markdown
 ---
 <div style="text-align:justify;">text</div>
 <br>
@@ -259,3 +260,208 @@ BLANK TEMPLATE
 <td>-</td>
 <td>-</td>
 </tr></tbody></table><br>
+
+
+
+
+
+
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
+<colgroup>
+<col style="width: 80px">
+<col style="width: 520px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-s25z" colspan="2">Primary 1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-18eh" rowspan="2">1A</td>
+    <td class="tg-73oq"><a href="mailto:loo_hui_qin_gladys@schools.gov.sg">Miss Loo Hui Qin Gladys</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:dellina_daniell_assik@schools.gov.sg">Mdm Dellina Daniell Assik</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">1B</td>
+    <td class="tg-73oq"><a href="mailto:koh_bee_khim_sally@schools.gov.sg">Ms Sally Koh Bee Khim</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:yeo-lim_hwee_ling@schools.gov.sg">Mrs Yeo-Lim Hwee Ling</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">1C</td>
+    <td class="tg-73oq"><a href="mailto:noreha_mohamed@schools.gov.sg">Mdm Noreha Mohamed</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:ang_heng_jo@schools.gov.sg">Miss Ang Heng Jo Johannah</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">1D</td>
+    <td class="tg-73oq"><a href="mailto:eric_tan_wei_chong@schools.gov.sg">Mr Eric Tan</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:willupdate">Mdm Sheryl Chai</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">1E</td>
+    <td class="tg-73oq"><a href="mailto:mak_yew_fatt@schools.gov.sg">Mrs Irene Mak Yew Fatt</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:ling_liang_chee_dianne@schools.gov.sg">Mrs Dianne Ang</a></td></tr>
+  <tr>
+</tr></tbody>
+</table>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
+<colgroup>
+<col style="width: 80px">
+<col style="width: 520px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-s25z" colspan="2">Primary 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-18eh" rowspan="2">2A</td>
+    <td class="tg-73oq"><a href="mailto:cheong_hwee_wan@schools.gov.sg">Mrs Lim Hwee Wan</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:janice_how_sui_yen@schools.gov.sg">Ms Janice How Sui Fen</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">2B</td>
+    <td class="tg-73oq"><a href="mailto:jowena_lim_lifen@schools.gov.sg">Mdm Jowena Lim</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:nur_azlin_ahmad@schools.gov.sg">Mdm Nur Azlin Bte Ahmad</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">2C</td>
+    <td class="tg-73oq"><a href="mailto:nashitah_fikriyah_sabari@schools.gov.sg">Miss Nashitah Fikriyah</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:mardalina_mohamed_nossi@schools.gov.sg">Mdm Mardalina Binte Mohamed Nossi</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">2D</td>
+    <td class="tg-73oq"><a href="mailto:ang_kim_heok@schools.gov.sg">Miss Ang Kim Heok</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:roslinda_naim@schools.gov.sg">Mdm Roslinda Bte Naim</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">2E</td>
+    <td class="tg-73oq"><a href="mailto:nabilah_sulaiman@schools.gov.sg">Ms Nabilah Sulaiman</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:shahizan_b_ahmad@schools.gov.sg">Mr Shahizan Ahmad</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">2F</td>
+    <td class="tg-73oq"><a href="mailto:rasul_bee_bee_khan@schools.gov.sg">Ms Rasul Bee Bee Khan</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:kimie_kwan@schools.gov.sg">Ms Kimie Kwan</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="3">2G</td>
+    <td class="tg-73oq"><a href="mailto:junainah_rahmat@schools.gov.sg">Mdm Junainah Binte Rahmat</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:teoh_han_yun@schools.gov.sg">Ms Teoh Han Yun Stella</a></td></tr>
+		<tr><td class="tg-73oq"><a href="mailto:lau_peh_peh@schools.gov.sg">Mdm Lau Peh Peh</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">2H</td>
+    <td class="tg-73oq"><a href="mailto:nadira_abdullah@schools.gov.sg">Mrs Nadira Khan</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:low_chan_wee@schools.gov.sg">Mr Johnny Low</a></td></tr>
+</tbody>
+</table>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
+<colgroup>
+<col style="width: 80px">
+<col style="width: 520px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-s25z" colspan="2">Primary 3</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-18eh" rowspan="2">3A</td>
+    <td class="tg-73oq"><a href="mailto:tseng_hwei_wen@schools.gov.sg">Ms Tracy Tseng Hwei Wen</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:karen_chan_gar_lam@schools.gov.sg">Miss Karen Chan Gar Lam</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">3B</td>
+    <td class="tg-73oq"><a href="mailto:rozi_bahari@schools.gov.sg">Mdm Rozi Bahari</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:zheng_jiawei@schools.gov.sg">Ms Zheng Jiawei Alice</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">3C</td>
+    <td class="tg-73oq"><a href="mailto:ang_mei_hui@schools.gov.sg">Mrs Kris Hay</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:khairulharis_karem@schools.gov.sg">Mr Khairulharis Bin Karem</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="3">3D</td>
+    <td class="tg-73oq"><a href="mailto:lim_kok_soon@schools.gov.sg">Mr Lim Kok Soon</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:sabrina_mohamed@schools.gov.sg">Mdm Sabrina Binte Mohamed</a></td></tr>
+ <tr><td class="tg-73oq"><a href="mailto:Tan_Zhi_Yong_Benjamin@schools.gov.sg">Mr Tan Zhi Yong Benjamin</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">3E</td>
+    <td class="tg-73oq"><a href="mailto:marinah_mohsin@schools.gov.sg">Mdm Marinah Binte Mohsin Bin Talib</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:koo_swee_ying@schools.gov.sg">Mdm Koo Swee Ying</a></td></tr>
+</tbody>
+</table>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
+<colgroup>
+<col style="width: 80px">
+<col style="width: 520px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-s25z" colspan="2">Primary 4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-18eh" rowspan="2">4A</td>
+    <td class="tg-73oq"><a href="mailto:wong-goh_kah_lean@schools.gov.sg">Mrs Wong-Goh Kah Lean</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:mohammad_fazli_b_salleh@schools.gov.sg">Mr Mohammad Fazli B Salleh</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">4B</td>
+    <td class="tg-73oq"><a href="mailto:tan_wee_kok@schools.gov.sg">Mr Tan Wee Kok</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:chen_xin_lei@schools.gov.sg">Ms Chen Xin Lei</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">4C</td>
+    <td class="tg-73oq"><a href="mailto:nurhafizah_hashim@schools.gov.sg">Ms Nurhafizah Binte Hashim</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:ong_su_may_laurice@schools.gov.sg">Miss Ong Su May Laurice Sara</a></td></tr>
+  <tr>
+    <td class="tg-18eh" rowspan="2">4D</td>
+    <td class="tg-73oq"><a href="mailto:ismail_hashim@schools.gov.sg">Mr Ismail Bin Hashim</a></td></tr>
+  <tr>
+    <td class="tg-73oq"><a href="mailto:tan_siew_chen_jacinda@schools.gov.sg">Mdm Jacinda Tan Siew Chen</a></td></tr>
+</tbody>
+</table>
+
+<a href="mailto:nur_malisa_saukrad_ali@schools.gov.sg">Ms Nur Malisa Bte Saukrad Ali</a>
+<a href="mailto:sanisa_saleh@schools.gov.sg">Mdm Sanisa Binte Saleh</a>
+<a href="mailto:lin_huijun_christine@schools.gov.sg">Mrs Christine Lim</a>
+<a href="mailto:tan_seok_ling_shirley@schools.gov.sg">Mrs Shirley Wang</a>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
+<thead>
+  <tr>
+    <th class="tg-s25z">Other Subject Teachers</th>
+  </tr>
+</thead>
+<tbody>
+	<tr><td class="tg-73oq"><a href="mailto:k_malaiarasu@schools.gov.sg">Mr Arasan (K Malaiarasu)</a></td></tr>
+	<tr><td class="tg-73oq"><a href="mailto:tarshini_krishna@schools.gov.sg">Ms Tarshini Krishna</a></td></tr>
+	<tr><td class="tg-73oq"><a href="mailto:manokari_v_palaiyah@schools.gov.sg">Mdm Manokari d/o Veeraiyah Palaiyah</a></td></tr>
+	<tr><td class="tg-73oq"><a href="mailto:won_wee_son@schools.gov.sg">Mr Won Wee Son</a></td></tr>
+<tr><td class="tg-73oq">Ms Kelly Seow Kheng Li</td></tr>
+<tr><td class="tg-73oq">Mdm Soh Ying Ying Jasmin</td></tr>
+<tr><td class="tg-73oq">Mdm Jenny Lee Ngok Moi</td></tr>
+<tr><td class="tg-73oq">Mdm Rahayu Binte Mohamed Haled</td></tr>
+<tr><td class="tg-73oq">Mdm Erh Teck Choo</td></tr>
+<tr><td class="tg-73oq">Mdm Ong Tua Hua</td></tr>
+<tr><td class="tg-73oq">Mrs Teo Meng Meng</td></tr>
+<tr><td class="tg-73oq">Mdm Firdous Bte Abdul Razak</td></tr>
+<tr><td class="tg-73oq">Mr Jonathan Chin Chee Kong</td></tr>
+<tr><td class="tg-73oq">Mdm Han Chin Kwang (Mrs Aw)</td></tr>
+	<tr><td class="tg-73oq">Mrs Brenda Yip</td></tr>
+	<tr><td class="tg-73oq">Mdm Tan Seok Ting</td></tr>
+</tbody>
+</table>
