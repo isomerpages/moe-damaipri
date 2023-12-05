@@ -3,6 +3,7 @@ title: Other Subject Teachers
 permalink: /our-school/School-Staff/otherteachers/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
 <table class="tg" style="undefined;table-layout: fixed; width: 600px">
 <thead>
@@ -11,8 +12,6 @@ third_nav_title: School Staff
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-73oq"><a href="mailto:nadira_abdullah@schools.gov.sg">Mrs Nadira Khan</a></td></tr>
 	<tr><td class="tg-73oq"><a href="mailto:k_malaiarasu@schools.gov.sg">Mr Arasan (K Malaiarasu)</a></td></tr>
 	<tr><td class="tg-73oq"><a href="mailto:tarshini_krishna@schools.gov.sg">Ms Tarshini Krishna</a></td></tr>
 	<tr><td class="tg-73oq"><a href="mailto:manokari_v_palaiyah@schools.gov.sg">Mdm Manokari d/o Veeraiyah Palaiyah</a></td></tr>
