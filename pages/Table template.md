@@ -462,11 +462,9 @@ BLANK TEMPLATE
 	  <tr>
     <td class="tg-73oq"><a href="mailto:tarshini_krishna@schools.gov.sg">Ms Tarshini Krishna</a></td></tr>
   <tr>
-    <td class="tg-18eh" rowspan="3">5D</td>
+    <td class="tg-18eh" rowspan="2">5D</td>
     <td class="tg-73oq"><a href="mailto:won_wee_son@schools.gov.sg">Mr Won Wee Son</a></td></tr>
-  <tr>
-    <td class="tg-73oq"><a href="mailto:goh_hong_fei@schools.gov.sg">Mr Goh Hong Fei</a></td></tr>
-  <tr>
+    <tr>
     <td class="tg-73oq"><a href="mailto:tan_seok_ling_shirley@schools.gov.sg">Mrs Shirley Wang</a></td></tr>
 </tbody>
 </table>
