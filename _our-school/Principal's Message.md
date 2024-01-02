@@ -43,5 +43,5 @@ achieve excellence in all their endeavors.
 Indeed, at Damai Primary, we operate as One Team with One Vision because Together, We Achieve
 More! We eagerly anticipate an exciting and enriching year ahead for our Damaians!
   
-**Mrs Jenny Leong** <br>
+**Mrs Jenny Leong** 
 **Principal**
