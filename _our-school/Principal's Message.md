@@ -2,17 +2,23 @@
 title: Principal's Message
 permalink: /our-school/principals-message/
 description: ""
+variant: markdown
 ---
 <img src="/images/Staff%20Photo/2017%202020/2020%20Mrs%20Jenny%20Leong.jpeg" style="width:22%" align="right">
-Welcome to Damai Primary School! We warmly embrace and welcome every child into our Damai family.
+Dear Parents and Guardians,
 
-  
+A warm welcome to the Damai Primary family! At Damai Primary School, we hold an unwavering belief
+that each and every Damaian possesses the potential to learn, grow, and emerge as a leader. We firmly
+believe that Damaians hold within them the capability to succeed.
 
-We believe that every Damaian can learn, grow and lead, and every Damaian wants and can succeed! Through our culture of care and distinction, we focus on 5 key domains: Cognitive, Physical, Aesthetics, Social and Moral, to nurture all Damaians holistically and be ready for the future.
+Our approach towards education revolves around fostering holistic development, nurturing a growth
+mindset, and instilling in our Damaians the confidence that they can overcome any challenge. We
+channel our efforts towards five fundamental domains: Cognitive, Physical, Aesthetics, Social and Moral,
+understanding that a balanced focus on these facets is key to preparing our Damaians for the
+complexities of the future.
 
-  
-
-Our vision encapsulates the shared student outcomes we hope to see in our Damaians after their six years with Damai Primary. Our aspiration is for Damaians to be ‘Confident Individuals’ who demonstrate SPARK values, communicate effectively and want to make a difference. As ‘Thinking Learners’, Damaians will think critically and innovatively, and learn collaboratively. As ‘Engaged Leaders’, Damaians will care and have the courage to want to contribute. All Damaians will continue to be guided by SPARK values in all they do:
+The vision we hold for our Damaians encapsulates the desired outcomes we strive for during their
+transformative six-year journey at Damai Primary. We aspire for each Damaian to emerge as a 'Confident Individual' embodying the SPARK values - demonstrating effective communication skills, a desire to make a meaningful difference, and displaying confidence and competence. As 'Thinking Learners', we encourage critical thinking, innovation, and collaborative learning. Moreover, as 'Engaged Leaders', we nurture a sense of care and courage to contribute positively to their communities, guided consistently by our SPARK values::
 
 		 
 • **S**incerity to self and others
@@ -25,17 +31,17 @@ Our vision encapsulates the shared student outcomes we hope to see in our Damaia
 
 • **K**indness to all
 
-As school and staff, we continue to be guided by a clear sense of purpose to provide a holistic student-centric, values-driven education to prepare our students for life. We will devote time and effort to help them build a solid foundation in numeracy and literacy, to be grounded in values, and develop skills in sports, aesthetics and leadership. Acknowledging that every Damaian is unique, we strive to enable each to grow and learn in a positive nurturing environment, discover the joy of learning and nurture their passion in overcoming new challenges. By forging strong partnership and close collaboration with parents and stakeholders, we are confident that every Damaian will be able to achieve his or her best in all that he or she undertakes.
+As a dedicated team of educators and support staff, our commitment is steadfast towards providing a
+holistic, student-centric, values-driven education. We focus on nurturing a solid foundation in numeracy
+and literacy, grounded in strong values, and fostering skills in sports, arts, and leadership. Recognizing the uniqueness of each Damaian, our aim is to provide a nurturing environment that enables growth,
+encourages the joy of learning, and fosters a passion for overcoming obstacles.
 
-**One Team, One Vision**
+We strongly believe in the power of collaboration and partnership. Together, with your invaluable
+support and our collective efforts, we are confident that Damaians will unleash their full potential and
+achieve excellence in all their endeavors.
 
-**Together, We Achieve More!**
-
-We look forward to an exciting and enriching year for our Damaians.
-
+Indeed, at Damai Primary, we operate as One Team with One Vision because Together, We Achieve
+More! We eagerly anticipate an exciting and enriching year ahead for our Damaians!
   
-
-  
-
-**Mrs Jenny Leong** <br>
+**Mrs Jenny Leong** 
 **Principal**
