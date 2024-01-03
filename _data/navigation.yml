@@ -1,0 +1,16 @@
+logo: /images/HomeMatter/damailogo.jpg
+links:
+  - title: Our School
+    collection: our-school
+  - title: Holistic Education
+    collection: holistic-education
+  - title: Our Partners
+    collection: our-partners
+  - title: School Experience
+    collection: school-experience
+  - title: Achievements
+    collection: achievements
+  - title: Useful Links
+    collection: useful-links
+  - title: Contact Us
+    url: /contact-us/

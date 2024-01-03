@@ -1,0 +1,10 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - SAC Members.md
+      - Parent Support Group.md
+      - Student Care Centre.md
+      - School Bookshop & Uniform Vendor.md
+      - School Bus Operator.md
+      - School Dental Clinic.md
