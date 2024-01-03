@@ -3,6 +3,7 @@ title: School Admin Team
 permalink: /our-school/School-Staff/SAT/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
@@ -37,7 +38,6 @@ third_nav_title: School Staff
   </tr>
 </thead>
 <tbody>
-<tr><td class="tg-73oq">Mdm Faizah Mohd Ghalib</td></tr>
 <tr><td class="tg-73oq">Mdm Lee Ngok Chow</td></tr>
 <tr><td class="tg-73oq">Mdm Chua Cheng Kee</td></tr>
 <tr><td class="tg-73oq">Mdm S Usarani</td></tr>
