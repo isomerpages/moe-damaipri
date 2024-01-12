@@ -31,17 +31,13 @@ sections:
       image: /images/Announcement/2023/2024 vote.jpg
       alt: Image alt text
   - infopic:
-      title: Caring Teacher Awards 2024
-      subtitle: aims to acknowledge teachers
+      title: P6 Parents' Briefing
+      subtitle: Information
       id: infopic
-      description: >-
-        Do take time to show your appreciation to the teachers by nominating
-        them for the Caring Teacher Awards (CTA) 2024,
-
-        organised by NIE.
-      button: Nominate Now
-      url: http://www.cta.nie.edu.sg
-      image: /images/Announcement/2023/2023 cta 2024.png
+      description: You may find this presentation slides here
+      button: Find out more
+      url: /files/Announcement/2024/2024_P___YH_Address_To_Parents_Parents_Briefing_P6.pdf
+      image: /images/Announcement/2024/2024_p6_breifing.png
       alt: Image alt text
   - infopic:
       title: P1 Orientation Day Slide
