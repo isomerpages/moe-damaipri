@@ -21,16 +21,6 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
-      title: PAT & OYEA 2024
-      subtitle: Nomination
-      id: infopic
-      description: Do take the opportunity to nominate teachers who have supported
-        your child in his/her educational journey.
-      button: Click here to find out more
-      url: /notification/school-announcements/pat-oyea/
-      image: /images/Announcement/2023/2024 vote.jpg
-      alt: Image alt text
-  - infopic:
       title: P6 Parents' Briefing
       subtitle: Information
       id: infopic
