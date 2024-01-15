@@ -4,21 +4,6 @@ permalink: /our-partners/school-bookshop-n-uniform-vendor/
 description: ""
 variant: markdown
 ---
-### Opening Dates during School Holidays:
-
-<u>Bookshop Year End Operating Dates (**9am to 3pm**)</u><br>
-December : **1,4,5, 13, 14, 15, 18, 19, 20, 26, 27, 28 and 29**<br>
-Dates for FAS students: **6, 7 and 8 December**
-
-<u> Year End Operating Dates (**9am to 3pm**)</u><br>
-December:  **1,6 ,7, 8 , 13 , 14 , 18 ,19 , 27 , 28 and 29**<br>
-Dates for FAS students: **6, 7 and 8 December**
-
-<u>Year 2024</u><br>
-Uniform Vendor will be in school on <br>
-January: **2, 3,  4 and  5** (2pm to 4pm)
-
-
 # School Bookshop
 ### Actlink Marketing Pte Ltd  
 
