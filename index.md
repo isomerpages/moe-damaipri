@@ -21,15 +21,6 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
-      title: P6 Parents' Briefing
-      subtitle: Information
-      id: infopic
-      description: You may find this presentation slides here
-      button: Find out more
-      url: /files/Announcement/2024/2024_P___YH_Address_To_Parents_Parents_Briefing_P6.pdf
-      image: /images/Announcement/2024/2024_p6_breifing.png
-      alt: Image alt text
-  - infopic:
       title: P1 Orientation Day Slide
       subtitle: Information
       description: You may find the hall presentation slides here
