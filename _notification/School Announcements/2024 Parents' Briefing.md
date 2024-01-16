@@ -5,15 +5,4 @@ description: ""
 third_nav_title: School Announcements
 variant: tiptap
 ---
-Dear Parents,
-
-Do spend some time going through the slides as the information will be beneficial to you and your child.
-
-You can also access these PDF by clicking on the link below:
-
-
-|  |  |
-| -------- | -------- |
-| [Primary 1] | [Primary 2](/files/Announcement/2023/2023%20P2%20Parents%20Briefing_website_final.pdf) |
-| [Primary 3](/files/Announcement/2023/2023%20P3%20Parents%20Briefing%20-School%20website%20updated.pdf) | [Primary 4](/files/Announcement/2023/2023%20P4%20Parents%20Briefing%20-%20School%20Website%20updated.pdf) |
-| [Primary 5](/files/Announcement/2023/2023%20P5%20Parents%20Briefing%20-%20School%20Website_v2.pdf) | [Primary 6](/files/Announcement/2023/2023%20P6%20Parents%20Briefing%20-%20School%20Website.pdf) |
+<p>Dear Parents,</p><p>Do spend some time going through the slides as the information will be beneficial to you and your child.</p><p>You can also access these PDF by clicking on the link below:</p><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Primary 1</p></td><td rowspan="1" colspan="1"><p>Primary 2</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 3</p></td><td rowspan="1" colspan="1"><p>Primary 4</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/Announcement/2024/2024_P___YH_Address_To_Parents_Parents_Briefing_P5_Final__School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/Announcement/2024/2024_P___YH_Address_To_Parents_Parents_Briefing_P6_Final__for_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a></p></td></tr></tbody></table><p></p>
