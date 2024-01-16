@@ -21,27 +21,13 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
-      title: PAT & OYEA 2024
-      subtitle: Nomination
+      title: Parent's Briefing Slide 2024
+      subtitle: INFORMATION
       id: infopic
-      description: Do take the opportunity to nominate teachers who have supported
-        your child in his/her educational journey.
-      button: Click here to find out more
-      url: /notification/school-announcements/pat-oyea/
-      image: /images/Announcement/2023/2024 vote.jpg
-      alt: Image alt text
-  - infopic:
-      title: Caring Teacher Awards 2024
-      subtitle: aims to acknowledge teachers
-      id: infopic
-      description: >-
-        Do take time to show your appreciation to the teachers by nominating
-        them for the Caring Teacher Awards (CTA) 2024,
-
-        organised by NIE.
-      button: Nominate Now
-      url: http://www.cta.nie.edu.sg
-      image: /images/Announcement/2023/2023 cta 2024.png
+      description: You may find the briefing slides here
+      button: Button Text
+      url: /notification/announcements/parentbriefing/
+      image: /images/Announcement/2024/2024_parent_briefing.jpg
       alt: Image alt text
   - infopic:
       title: P1 Orientation Day Slide
