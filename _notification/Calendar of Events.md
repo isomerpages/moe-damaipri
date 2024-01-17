@@ -2,6 +2,6 @@
 title: Calendar of Events
 permalink: /calendar/
 description: ""
+variant: markdown
 ---
-![2023semster1](/images/Announcement/2023/2023_Semster1.jpg)
-![](/images/Announcement/2023/2023_26%20june%20principalletter_page_7.jpg)![](/images/Announcement/2023/2023_26%20june%20principalletter_page_8.jpg)
+![](/images/Announcement/2024/2024_001_3_Jan_Principal_s_Letter_P2_to_6_Final__Page_8.jpg)
