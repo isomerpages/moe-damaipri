@@ -25,7 +25,7 @@ sections:
       subtitle: INFORMATION
       id: infopic
       description: You may find the briefing slides here
-      button: Button Text
+      button: Click here
       url: /notification/announcements/parentbriefing/
       image: /images/Announcement/2024/2024_parent_briefing.jpg
       alt: Image alt text
