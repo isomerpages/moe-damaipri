@@ -40,14 +40,6 @@ sections:
       image: /images/Announcement/2024/2024_parent_briefing.jpg
       alt: Image alt text
   - infopic:
-      title: P1 Orientation Day Slide
-      subtitle: Information
-      description: You may find the hall presentation slides here
-      button: Click here to find out more
-      url: /files/Announcement/2023/2023_P1_Orientation_Day_Hall_Slides_Website.pdf
-      image: /images/Announcement/2023/2023_11_p1_orientationslide.png
-      alt: Image alt text
-  - infopic:
       title: Useful Links
       description: Links for students, parents and staff
       button: Check it out
