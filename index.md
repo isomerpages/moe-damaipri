@@ -21,6 +21,16 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
+      title: English & Tamil Language Teacher Awards 2024
+      subtitle: Open for Nomination
+      id: infopic
+      description: Do take time to appreciate our English/Tamil Language teachers and
+        consider nominating them for these awards.
+      button: More detail
+      url: /notification/school-announcements/nomination/
+      image: /images/Announcement/2024/Lang_Teacher_Nomination_PG_Post.png
+      alt: Image alt text
+  - infopic:
       title: Parent's Briefing Slide 2024
       subtitle: INFORMATION
       id: infopic
