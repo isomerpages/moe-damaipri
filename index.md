@@ -31,7 +31,7 @@ sections:
       image: /images/Announcement/2024/Lang_Teacher_Nomination_PG_Post.png
       alt: Image alt text
   - infopic:
-      title: Parent's Briefing Slide 2024
+      title: Parents' Briefing Slides 2024
       subtitle: INFORMATION
       id: infopic
       description: You may find the briefing slides here
