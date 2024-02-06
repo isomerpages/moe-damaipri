@@ -17,7 +17,7 @@ sections:
           url: /calendar/
         - title: Notification
           description: For school announcement
-          url: /notification/announcements/elearning/
+          url: /notification/school-announcements/nomination/
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
@@ -31,21 +31,13 @@ sections:
       image: /images/Announcement/2024/Lang_Teacher_Nomination_PG_Post.png
       alt: Image alt text
   - infopic:
-      title: Parent's Briefing Slide 2024
+      title: Parents' Briefing Slides 2024
       subtitle: INFORMATION
       id: infopic
       description: You may find the briefing slides here
       button: Click here
       url: /notification/announcements/parentbriefing/
       image: /images/Announcement/2024/2024_parent_briefing.jpg
-      alt: Image alt text
-  - infopic:
-      title: P1 Orientation Day Slide
-      subtitle: Information
-      description: You may find the hall presentation slides here
-      button: Click here to find out more
-      url: /files/Announcement/2023/2023_P1_Orientation_Day_Hall_Slides_Website.pdf
-      image: /images/Announcement/2023/2023_11_p1_orientationslide.png
       alt: Image alt text
   - infopic:
       title: Useful Links
