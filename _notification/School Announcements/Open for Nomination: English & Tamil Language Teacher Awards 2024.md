@@ -15,12 +15,13 @@ consider nominating them for these awards.</p>
 <p>&nbsp;Please click on the links below for more information on the awards:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank">Inspiring English Language Teacher Award (EL)</a>
-</p>
+<p><a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank">Inspiring English Language Teacher Award</a> (EL)</p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/news/press-releases/20240115-open-for-nominations-most-inspiring-tamil-teachers-award-2024#:~:text=The%20awards%20will%20be%20presented,.gov.sg%2Fmitt2024nominationformel." rel="noopener noreferrer nofollow" target="_blank">Most Inspiring Tamil Teachers’ Award (TL)</a>
-</p>
+<p><a href="https://www.moe.gov.sg/news/press-releases/20240115-open-for-nominations-most-inspiring-tamil-teachers-award-2024#:~:text=The%20awards%20will%20be%20presented,.gov.sg%2Fmitt2024nominationformel." rel="noopener noreferrer nofollow" target="_blank">Most Inspiring Tamil Teachers’ Award</a> (TL)</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/news/press-releases/20240202-nominations-open-for-arif-budiman-malay-language-teacher-award-2024" rel="noopener noreferrer nofollow" target="_blank">Arif Budiman Malay Language Teacher Award</a> (ML)</p>
 </li>
 </ul>
 <p>&nbsp;Nomination forms can be downloaded online via the links below and
@@ -32,6 +33,10 @@ respective closing dates indicated:</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/mitt2024nominationformel" rel="noopener noreferrer nofollow" target="_blank">Most Inspiring Tamil Teachers’ Award Nomination (Online)</a> –
+1 April</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/agab2024" rel="noopener noreferrer nofollow" target="_blank">Arif Budiman Malay Language Teacher Award</a> –
 1 April</p>
 </li>
 </ul>
