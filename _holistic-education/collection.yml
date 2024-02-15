@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - School Wide Program/.keep
       - Department/.keep
       - Department/English.md
       - Department/Mathematics.md
@@ -12,6 +11,7 @@ collections:
       - Department/Aesthetics.md
       - Department/Character & Citizenship Education.md
       - Department/Information & Communications Technology.md
+      - School Wide Program/.keep
       - CCA/.keep
       - CCA/Art & Ceramics Club.md
       - CCA/Brownies.md
