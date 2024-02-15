@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Official Opening of New Campus.md
       - Principal's Message.md
       - School Crest.md
       - School Vision and Mission.md
