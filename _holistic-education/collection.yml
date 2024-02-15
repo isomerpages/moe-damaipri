@@ -2,7 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
-      - Curriculum/.keep
+      - School Wide Program/.keep
       - Department/.keep
       - Department/English.md
       - Department/Mathematics.md
