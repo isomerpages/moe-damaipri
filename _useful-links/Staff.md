@@ -2,6 +2,7 @@
 title: Staff
 permalink: /useful-links/staff/
 description: ""
+variant: markdown
 ---
 ### Useful links for staff (Authorised Users Only)
 
@@ -70,6 +71,10 @@ description: ""
   <tr>
     <td class="tg-r3ha"><a href="https://go.gov.sg/"><span style="text-decoration:none;color:#0058D1">Link Shortener</span></a> (Official)</td>
     <td class="tg-zr06">https://go.gov.sg/</td>
+  </tr>
+	 <tr>
+    <td class="tg-r3ha"><a href="http://intranet.moe.gov.sg/Send/Pages/SEN_Resource_Portal.aspx"><span style="text-decoration:none;color:#0058D1">SEN Resource Portal</span></a></td>
+    <td class="tg-zr06">http://intranet.moe.gov.sg/Send/Pages/SEN_Resource_Portal.aspx</td>
   </tr>
   <tr>
     <td class="tg-r3ha"><a href="https://schools.gov.sg/owa"><span style="text-decoration:none;color:#0058D1">Outlook</span></a> (Web Browser)</td>
