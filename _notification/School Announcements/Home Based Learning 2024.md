@@ -5,14 +5,14 @@ description: ""
 third_nav_title: School Announcements
 variant: markdown
 ---
-<b><font size="6">e-Learning Exercise for P1 to P5</font></b>
+<b><font size="6">Home-Based Learning for P1 to P6</font></b>
 
-<div style="text-align:justify;">Damai Primary School will be conducting an e-Learning Exercise on these dates.<br><br>
+<div style="text-align:justify;">Damai Primary School will be conducting an Home-Based Learning Exercise on these dates.<br><br>
 The objectives of the exercise are to ensure continuous learning in case of school closure and encourage students to be self-directed learners.</div>
 
 <b><font size="4">Schedule</font></b>
 
-![](/images/Announcement/2023/2023%2010%20elearning.png)
+![](/images/Announcement/2024/2024_05_HBL.jpg)
 
 <div style="text-align:justify;">Hardcopy assignments need to be submitted to the respective Subject Teachers when your child/ward returns to school the next day.<br><br>We value your partnership and look forward to providing the best for our students.<br><br>If you need any further clarifications, please contact the General Office at Tel: 6445 6483.</div><br>
 
