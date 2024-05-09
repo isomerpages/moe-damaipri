@@ -36,22 +36,22 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td style="width: 20%;">-</td>
 </tr><tr>
 <td style="width: 5%;"><b>2A</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMG7k_fLr__4oouZQqEtk39Pe1s8BcDUCO_kONpr0N1QwLrv4chIBCAWRb5Fqy-8Q4jfogGeKLyDPk/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 <td style="width: 5%;"><b>2B</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFgcEDliSVKg1uoZIjyTH5Xj_K_cXr0WhnHk3ccJPpWMh3BgTMje4eMJFG0VUuDZju27VSacIRFY9o/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 <td style="width: 5%;"><b>2C</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTWuMibyFigbPVCl5olc5146VxJGNypG7IOAh8-TWAWPHF-vx6UDwk_Q69DfZdvpIc4Z6ZDcLprE3jR/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 <td style="width: 5%;"><b>2D</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQmvcsJR622K0v67JIr35VeTicMqwxpQviiLmzPjTW0zqnLrvCh7l5ex9EMyN0P9Oux1sSKnroPk8zC/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 </tr><tr>
 <td style="width: 5%;"><b>2E</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTF7284s2W0zuXAepPxvXCscs0RwlmzbXF6TiuLc6N9FFOJAZKf7hV6NARUWidzEml4In-SfvMiUvVi/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 <td style="width: 5%;"><b>2F</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMS01pMq0QPPgY9IOTrZJxGRUOx3Tv-vdXFkT6ygBOfmALIPNM7huM2yCJnQatkrmlLVy_2Irp2CfA/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 <td style="width: 5%;"><b>2G</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSdKWLWECPr3G34iYhxj8yk1FJWSVx5L4Re2WMroMxowtbjsKdWqnoJmeLKONJrzRkTvmFae7AP0gZ/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 <td style="width: 5%;"><b>2H</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcH0Z-0ebIddPzdLFfr7ewdtV_hM3W5c-FueDP6AoLEV-Bg2LM3ygyxMzfeaXUdM89ovJob8lyIKt9/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 </tr><tr>
 <td style="width: 5%;"><b>3A</b></td>
 <td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS8NS8LIpWmZ2EQw9_lp1oD00QNPr9Sw9-Pdc6aAfvFVZoKMcQ9TfrEd-sDPuW6mFIB8D62oqEo_bjw/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
