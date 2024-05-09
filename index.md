@@ -22,7 +22,7 @@ sections:
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
       title: Home-Based Learning
-      subtitle: 2024 P1-P6
+      subtitle: 2024 23 May
       id: infopic
       description: Damai Primary School will be conducting a Home-Based Learning on
         these dates.
