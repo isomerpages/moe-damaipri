@@ -63,9 +63,9 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1LG7B07pJWaO5kQNmHDWio9nxwidyMgFRdeUL6SZ9rclYPWwfVBQMcyWu6PQjSVUcq3JXVXXQ9II1/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 </tr><tr>
 <td style="width: 5%;"><b>4A</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRiD5736xst0Kpn2JEkl106mDKFLBTt71NaWZEJ0MCYpn7La5tari7hj6C--0f9hnZVxo8KbVmAQuCl/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 <td style="width: 5%;"><b>4B</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ31dLyTd_6EXYrotxuTnk3Y6F9hvexVvhkvz6fgkfWnOeXvoB3v7Kpuv_dnbFk41hWXol5Ka3nnvlN/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 <td style="width: 5%;"><b>4C</b></td>
 <td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>4D</b></td>
