@@ -21,6 +21,16 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
+      title: Home-Based Learning
+      subtitle: eLearning 2024
+      id: infopic
+      description: Damai Primary School will be conducting an e-Learning Exercise on
+        these dates.
+      button: Click here for more detail
+      url: /notification/announcements/elearning/
+      image: /images/Announcement/2023/elearning banner.jpg
+      alt: Image alt text
+  - infopic:
       title: English & Tamil Language Teacher Awards 2024
       subtitle: Open for Nomination
       id: infopic
