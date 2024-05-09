@@ -54,13 +54,13 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td style="width: 20%;">-</td>
 </tr><tr>
 <td style="width: 5%;"><b>3A</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>3B</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>3C</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>3D</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 </tr><tr>
 <td style="width: 5%;"><b>4A</b></td>
 <td style="width: 20%;">-</td>
