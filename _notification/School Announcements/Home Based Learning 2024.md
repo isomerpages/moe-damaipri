@@ -18,16 +18,16 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 
 <table style="width: 100%;"><tbody><tr>
 <td style="width: 5%;"><b>1A</b></td>
-<td style="width: 20%;"><a href="xxx">xx</a></td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>1B</b></td>
-<td style="width: 20%;"><a href="xxx">xx</a></td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>1C</b></td>
-<td style="width: 20%;"><a href="xxx">xx</a></td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>1D</b></td>
-<td style="width: 20%;"><a href="xxx">xx</a></td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 </tr><tr>
 <td style="width: 5%;"><b>1E</b></td>
-<td style="width: 20%;"><a href="xxx">xx</a></td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>-</b></td>
 <td style="width: 20%;">-</td>
 <td style="width: 5%;"><b>-</b></td>
@@ -36,22 +36,22 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td style="width: 20%;">-</td>
 </tr><tr>
 <td style="width: 5%;"><b>2A</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>2B</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>2C</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>2D</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 </tr><tr>
 <td style="width: 5%;"><b>2E</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>2F</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>2G</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>2H</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 </tr><tr>
 <td style="width: 5%;"><b>3A</b></td>
 <td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS8NS8LIpWmZ2EQw9_lp1oD00QNPr9Sw9-Pdc6aAfvFVZoKMcQ9TfrEd-sDPuW6mFIB8D62oqEo_bjw/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
@@ -63,16 +63,16 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1LG7B07pJWaO5kQNmHDWio9nxwidyMgFRdeUL6SZ9rclYPWwfVBQMcyWu6PQjSVUcq3JXVXXQ9II1/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 </tr><tr>
 <td style="width: 5%;"><b>4A</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>4B</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>4C</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>4D</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 </tr><tr>
 <td style="width: 5%;"><b>4E</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>-</b></td>
 <td style="width: 20%;">-</td>
 <td style="width: 5%;"><b>-</b></td>
@@ -81,20 +81,20 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td style="width: 20%;">-</td>
 </tr><tr>
 <td style="width: 5%;"><b>5A</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>5B</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>5C</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>5D</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 </tr><tr>
 <td style="width: 5%;"><b>6A</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>6B</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>6C</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 <td style="width: 5%;"><b>6D</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxx">23 May</a></td>
 </tr></tbody></table><br>
