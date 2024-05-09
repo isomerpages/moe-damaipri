@@ -81,13 +81,13 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td style="width: 20%;">-</td>
 </tr><tr>
 <td style="width: 5%;"><b>5A</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLBzFj1y6kA642yS4r93j6AdbcTurFrax4CnhGLYIMcGXGtyBNPTTt_DqrUyo1MhWDMxxX-Cc1C0Gm/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 <td style="width: 5%;"><b>5B</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQj0YeCEY4vtMs53DU1LyZaGhWE2J561A-5M8PnYJ3UICj6h9GHcQx3_QlXLccR917pStTxSYnjDlXH/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 <td style="width: 5%;"><b>5C</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQgwaKjGEGGwGEeqqIcTm_BZbZSpwnFEFy3FF9j2fyEWlwWNmR6xJ2sM1QV5t_sha_MBQsoXcdAPT-K/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 <td style="width: 5%;"><b>5D</b></td>
-<td style="width: 20%;"><a href="xxx">23 May</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWc4zR-xWIXkJC9SiBc7k6rrsNwtREYMxiolmzcJvTJR8jjz1cIzCVkAGQIrGKehpyJhzSvkxrY4MW/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 </tr><tr>
 <td style="width: 5%;"><b>6A</b></td>
 <td style="width: 20%;"><a href="xxx">23 May</a></td>
