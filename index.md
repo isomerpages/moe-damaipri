@@ -24,9 +24,8 @@ sections:
       title: Home-Based Learning
       subtitle: 2024 23 May
       id: infopic
-      description: Damai Primary School will be conducting a Home-Based Learning on
-        these dates.
-      button: Click here for more detail
+      description: HBL information for 23 May 2023
+      button: Click here for more details
       url: /notification/announcements/elearning/
       image: /images/Announcement/2024/HBL.jpg
       alt: Image alt text
