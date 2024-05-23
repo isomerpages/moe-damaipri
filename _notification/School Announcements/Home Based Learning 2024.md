@@ -7,10 +7,11 @@ variant: markdown
 ---
 <b><font size="6">Home-Based Learning for P1 to P6</font></b>
 
-<div style="text-align:justify;">Damai Primary School will be conducting an Home-Based Learning Exercise on these dates.<br><br>
-The objectives of the exercise are to ensure continuous learning in case of school closure and encourage students to be self-directed learners.</div>
+<div style="text-align:justify;">HBL aims to facilitate continuous learning during emergencies like school closures, while fostering student independence as self-directed learners.</div><br>
 
-<b><font size="4">Schedule</font></b>
+<div style="text-align:justify;">Please refer to the details below for HBL 23 May 2024<br><br>
+
+<b><font size="4">Schedule for 23 May 2024</font></b>
 
 ![](/images/Announcement/2024/2024_05_HBL.jpg)
 
@@ -97,4 +98,4 @@ The objectives of the exercise are to ensure continuous learning in case of scho
 <td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwC580EpVYMIXRVbGiC6oLT1IO5SOVyhknfSUgAE8ueS5dQnYLZc9xbaWkLqNthDeJHC0EvzUA9jom/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 <td style="width: 5%;"><b>6D</b></td>
 <td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSI13TFRcH4VFNK33MNcB4M9dk6j0LI8AIiRCHh-zWl3-0l6m2zQy5H5_j27IOcHniJsZT7ag3239h_/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
-</tr></tbody></table><br>
+</tr></tbody></table><br></div>
