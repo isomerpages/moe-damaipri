@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Department/Discipline & Student Leadership.md
       - Department/.keep
       - Department/English.md
       - Department/Mathematics.md
