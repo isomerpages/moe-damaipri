@@ -31,16 +31,6 @@ sections:
       image: /images/Announcement/2024/eopenhouse_square.jpg
       alt: Image alt text
   - infopic:
-      title: English & Tamil Language Teacher Awards 2024
-      subtitle: Open for Nomination
-      id: infopic
-      description: Do take time to appreciate our English/Tamil Language teachers and
-        consider nominating them for these awards.
-      button: More detail
-      url: /notification/school-announcements/nomination/
-      image: /images/Announcement/2024/Lang_Teacher_Nomination_PG_Post.png
-      alt: Image alt text
-  - infopic:
       title: Parents' Briefing Slides 2024
       subtitle: INFORMATION
       id: infopic
