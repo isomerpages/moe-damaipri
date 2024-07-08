@@ -5,16 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: School Announcements
 ---
-**To register** for the Virtual Open House, scan the QR Code **to join the WhatsApp Community**. 
-
-<img src="/images/Announcement/2024/qrcode.jpg" style="width:200px">
-
-You will receive the Zoom link and reminder via this WhatsApp Community two days before the actual Virtual Open House.
-
-Kindly confirm your attendance by clicking the link below and filling in the Engagement Survey Form to let us know you and send us any questions that you would like us to answer before the Virtual Open House so that we can engage you better.
-
-https://form.gov.sg/6646b21f60173239e20ee1d9
-
 <div style="text-align: center;"><h2><b>Discover Damai Primary School</b></h2><br><h5>Confident Individuals ● Thinking Learners ● Engaged Leaders</h5></div>
 <div style="text-align: justify;">Welcome to Damai Primary School! We warmly embrace and welcome every child into our Damai family.  Join our Virtual Open House to experience and explore the programmes and facilities that we have in DPS!</div><br>
 <div><img style="width:90%" src="/images/Announcement/2024/2024_04_30_dmps__1_.jpg"></div><br>
@@ -63,6 +53,12 @@ https://form.gov.sg/6646b21f60173239e20ee1d9
     </tr>
 </tbody></table>
 <div style="text-align: justify;">We empower our students to become confident and capable leaders. Damai Primary School offers various leadership opportunities that enable students to develop essential skills such as communication, teamwork, problem-solving, and decision-making. Through our leadership programmes, student council, and involvement in community initiatives, we cultivate the next generation of responsible and compassionate leaders.</div><br>
+
+<div style="text-align: center;"><h3><b>Damai Primary Virtual School Tour Video</b></h3></div>
+
+<div style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/k5qAFTZXQIA?si=xKqznCdtXwmIValY" height="315" width="560"></iframe></div>
+<div style="text-align: justify;">A simple video will give you a better idea of our beautiful school grounds and facilities.</div><br>
+
 <div style="text-align: center;"><h3><b>A Day in the Life of a P1 Damaian</b></h3></div>
 
 <div style="text-align: center;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQBoW3DQD9gAgvZVOqElqX5qxB1mDL_dQ8F4cyQgNrj_KpWzlzL8FqsYcLQr2E0BTnz9PeMT0Yf0jZm/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true"></iframe></div>
