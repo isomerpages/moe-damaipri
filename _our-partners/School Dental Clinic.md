@@ -2,10 +2,11 @@
 title: School Dental Clinic
 permalink: /our-partners/school-dental-clinic/
 description: ""
+variant: markdown
 ---
-We are pleased to announce that the dental clinic at Damai Primary School will be ready to provide dental treatment to our students from **Friday, 26th May 2023.** The clinic will be operation until the end of the year.
-
-Parents/Guardians requesting for appointments  or have any enquiries may post their enquiry at **91054971** (via WhatsApp/SMS).
+Damai Primary School Dental Clinic is closed.
+##### **From 20th June 2024 until further notice**
+In any instance students require urgent dental attention such as trauma, toothache, gum swelling/facial swelling, the following clinics may be contacted during office hours (Monday - Friday: 8am – 12.30pm/1pm, 2pm - 5pm/5.30pm).
 
 School Dental Centre DID: 6435 3782 <br>
 Mondays - Fridays, 8am - 5pm <br>
