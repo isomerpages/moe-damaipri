@@ -3,6 +3,7 @@ title: School Dental Clinic
 permalink: /our-partners/school-dental-clinic/
 description: ""
 variant: tiptap
+third_nav_title: School Services
 ---
 <p>Damai Primary School Dental Clinic is closed <strong><u>from 20th June 2024 until further notice.</u></strong>
 </p>
