@@ -21,6 +21,15 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/hero-banner-mascot3b.jpg
   - infopic:
+      title: Home-Based Learning
+      subtitle: 13th & 14th Aug 2024
+      id: infopic
+      description: Please refer to the details below for HBL
+      button: Find out more
+      url: /notification/announcements/elearning/
+      image: /images/Announcement/2024/HBL.jpg
+      alt: Image alt text
+  - infopic:
       title: Parents' Briefing Slides 2024
       subtitle: INFORMATION
       id: infopic
