@@ -5,13 +5,13 @@ description: ""
 third_nav_title: School Announcements
 variant: markdown
 ---
-<b><font size="6">Home-Based Learning for P1 to P6</font></b>
+<b><font size="6">Home-Based Learning for P1 to P5</font></b>
 
 <div style="text-align:justify;">HBL aims to facilitate continuous learning during emergencies like school closures, while fostering student independence as self-directed learners.</div><br>
 
-<div style="text-align:justify;">Please refer to the details below for HBL 23 May 2024<br><br>
+<div style="text-align:justify;">Please refer to the details below for HBL 13 &amp; 14 Aug 2024<br><br>
 
-<b><font size="4">Schedule for 23 May 2024</font></b>
+<b><font size="4">Schedule for 13 Aug 2024</font></b>
 <br>
 <img src="/images/Announcement/2024/2024_05_HBL.jpg" style="width:100%">
 
@@ -91,11 +91,11 @@ variant: markdown
 <td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWc4zR-xWIXkJC9SiBc7k6rrsNwtREYMxiolmzcJvTJR8jjz1cIzCVkAGQIrGKehpyJhzSvkxrY4MW/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
 </tr><tr>
 <td style="width: 5%;"><b>6A</b></td>
-<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYOnG_wEdJe7rDihd5E2CENN8GOebGafl4ADN-PNVfgqW4lIRdzYJQ8u5A2mDRTm78VanOjoygsCSe/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
+<td style="width: 20%;">-</td>
 <td style="width: 5%;"><b>6B</b></td>
-<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRJm_9azE-EIvnvwg05ClkzfRIrfxefQ4Ad_kpnbvOBd1TETlF-ZKN-fZeRTXiUpx312JcWH-T5N4NB/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
+<td style="width: 20%;">-</td>
 <td style="width: 5%;"><b>6C</b></td>
-<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwC580EpVYMIXRVbGiC6oLT1IO5SOVyhknfSUgAE8ueS5dQnYLZc9xbaWkLqNthDeJHC0EvzUA9jom/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
+<td style="width: 20%;">-</td>
 <td style="width: 5%;"><b>6D</b></td>
-<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSI13TFRcH4VFNK33MNcB4M9dk6j0LI8AIiRCHh-zWl3-0l6m2zQy5H5_j27IOcHniJsZT7ag3239h_/pubhtml?gid=1527936744&amp;single=true">23 May</a></td>
+<td style="width: 20%;">-</td>
 </tr></tbody></table><br></div>
