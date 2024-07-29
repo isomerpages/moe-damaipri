@@ -2,8 +2,8 @@ collections:
   our-partners:
     output: true
     order:
-      - School Bus/School Bus Operator.md
-      - School Bus/.keep
+      - School Services/School Bus Operator.md
+      - School Services/.keep
       - SAC Members.md
       - Parent Support Group.md
       - Student Care Centre.md
