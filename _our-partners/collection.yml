@@ -2,10 +2,10 @@ collections:
   our-partners:
     output: true
     order:
-      - School Services/School Bus Operator.md
-      - School Services/.keep
       - SAC Members.md
       - Parent Support Group.md
       - Student Care Centre.md
+      - School Services/.keep
+      - School Services/School Bus Operator.md
       - School Bookshop & Uniform Vendor.md
       - School Dental Clinic.md
