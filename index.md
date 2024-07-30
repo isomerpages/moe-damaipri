@@ -19,7 +19,7 @@ sections:
           description: For school announcement
           url: /notification/school-announcements/nomination/
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
-      background: /images/HomeMatter/hero-banner-mascot3b.jpg
+      background: /images/HomeMatter/herobannermascot4.jpg
   - infopic:
       title: Parents' Briefing Slides 2024
       subtitle: INFORMATION
