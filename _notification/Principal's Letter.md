@@ -12,7 +12,7 @@ Here are the principal's letter for parents.
 | January [P1](/files/Principal_letters/2024/2024_001_2_Jan_Principal_s_Letter_P1_Final.pdf) / [P2-P6](/files/Principal_letters/2024/2024_001_3_Jan_Principal_s_Letter_P2_to_6_Final_.pdf) | [February](/files/Principal_letters/2024/2024_5_Feb_Principal_s_Letter_Final.pdf) | [March](/files/Principal_letters/2024/2024_03_18_March_Principals_Letter_Final.pdf) |
 | -------- | -------- | -------- |
 |**April** | **[May](/files/Principal_letters/2024/2024_May_Principal_Letter_Final.pdf)**  |  **[June](/files/Principal_letters/2024/2024_Jun_Principal_Letter.pdf)** |
-| **July** | **August** | **September** |
+| **July** | **[August](/files/Principal_letters/2024/2024_Aug_Principal_Letter_Final.pdf)** | **September** |
 | **October** | **November** | **December** |
 
 
