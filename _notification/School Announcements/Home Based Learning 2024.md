@@ -55,9 +55,9 @@ variant: markdown
 <td style="width: 20%;">-</td>
 </tr><tr>
 <td style="width: 5%;"><b>3A</b></td>
-<td style="width: 20%;"><a href="xxx">27 Sep</a><br><a href="xxx">30 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS8NS8LIpWmZ2EQw9_lp1oD00QNPr9Sw9-Pdc6aAfvFVZoKMcQ9TfrEd-sDPuW6mFIB8D62oqEo_bjw/pubhtml?gid=1536399673&amp;single=true">27 Sep</a><br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS8NS8LIpWmZ2EQw9_lp1oD00QNPr9Sw9-Pdc6aAfvFVZoKMcQ9TfrEd-sDPuW6mFIB8D62oqEo_bjw/pubhtml?gid=1888847170&amp;single=true">30 Sep</a></td>
 <td style="width: 5%;"><b>3B</b></td>
-<td style="width: 20%;"><a href="xxx">27 Sep</a><br><a href="xxx">30 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRqpUWdQWI_lpYIS5TaSy-neRl_cd9ZA-rxFRW9eXLXLoq-vS5vxy_XAkUn0yThz551t028tz55_INU/pubhtml?gid=1787630800&amp;single=true">27 Sep</a><br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRqpUWdQWI_lpYIS5TaSy-neRl_cd9ZA-rxFRW9eXLXLoq-vS5vxy_XAkUn0yThz551t028tz55_INU/pubhtml?gid=2050188112&amp;single=true">30 Sep</a></td>
 <td style="width: 5%;"><b>3C</b></td>
 <td style="width: 20%;"><a href="xxx">27 Sep</a><br><a href="xxx">30 Sep</a></td>
 <td style="width: 5%;"><b>3D</b></td>
