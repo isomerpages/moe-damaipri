@@ -97,7 +97,7 @@ variant: markdown
     <td class="tg-zr06">https://www.haze.gov.sg/</td>
   </tr>
   <tr>
-    <td class="tg-r3ha"><a href="https://icollaborate.moe.gov.sg/myitb/projects/ITD%20School%20Collaboration/Forms/AllItems.aspx"><span style="text-decoration:none;color:#0058D1">ICollaborate</span></a> (Authorised Users Only)</td>
+    <td class="tg-r3ha"><a href="https://icollaborate.moe.gov.sg/"><span style="text-decoration:none;color:#0058D1">ICollaborate</span></a> (Authorised Users Only)</td>
     <td class="tg-zr06">-</td>
   </tr>
 </tbody>
