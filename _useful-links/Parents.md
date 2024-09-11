@@ -2,6 +2,7 @@
 title: Parents
 permalink: /Useful-links/parents/
 description: ""
+variant: markdown
 ---
 <a href="https://www.schoolbag.edu.sg/">
 <img src="/images/site-logo.png" style="width:50%">
@@ -17,10 +18,6 @@ description: ""
 
 <a href="https://www.imda.gov.sg/programme-listing/neu-pc-plus">
 <img src="/images/NEU-PC-Plus-Programme.png" style="width:70%">
-</a>
-
-<a href="https://www.betterinternet.sg/">
-<img src="/images/MLC.png" style="width:70%">
 </a>
 
 <a href="https://www.msf.gov.sg/">
