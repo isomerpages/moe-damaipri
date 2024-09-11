@@ -20,13 +20,17 @@ sections:
           url: /2024-virtual-open-house/
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/herobannermascot4.jpg
-  - infobar:
-      title: 29 Aug 2024
-      subtitle: General Information
-      id: infobar
-      description: Kindly be informed that the school will be closed from 12.00pm to
-        5.00pm on Thursday due to a Staff event and will resume operations on
-        Friday 30 Aug.
+  - infopic:
+      title: Home-Based Learning
+      subtitle: 26-27 Sep & 30 Sep
+      id: infopic
+      description: HBL aims to facilitate continuous learning during emergencies like
+        school closures, while fostering student independence as self-directed
+        learners.
+      button: Click here to find out more
+      url: /notification/announcements/elearning/
+      image: /images/Announcement/2024/HBL.jpg
+      alt: Image alt text
   - infopic:
       title: Parents' Briefing Slides 2024
       subtitle: INFORMATION
