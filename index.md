@@ -36,4 +36,15 @@ sections:
       url: /useful-links/students/
       image: /images/Announcement/2022 quicklink.png
       alt: Image alt text
+  - infopic:
+      title: Home-Based Learning
+      subtitle: P3 to P5
+      id: infopic
+      description: HBL aims to facilitate continuous learning during emergencies like
+        school closures, while fostering student independence as self-directed
+        learners.
+      button: Find out more
+      url: /notification/announcements/elearning/
+      image: /images/Announcement/2024/HBL.jpg
+      alt: Image alt text
 ---
