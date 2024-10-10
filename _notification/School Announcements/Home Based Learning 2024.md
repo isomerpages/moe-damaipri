@@ -12,7 +12,7 @@ variant: markdown
 <div style="text-align:justify;">Please refer to the details below for HBL</div>
 
 <b><font size="4">Schedule</font></b><br>
-<img src="/images/Announcement/2024/2024_10_00_hbl.png" style="width:100%">
+<img src="/images/Announcement/2024/HBL_2024.jpg" style="width:100%">
 
 <div style="text-align:justify;">Hardcopy assignments need to be submitted to the respective Subject Teachers when your child/ward returns to school the next day.<br><br>We value your partnership and look forward to providing the best for our students.<br><br>If you need any further clarifications, please contact the General Office at Tel: 6445 6483.</div><br>
 
