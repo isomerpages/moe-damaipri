@@ -22,7 +22,7 @@ sections:
       background: /images/HomeMatter/herobannermascot4.jpg
   - infopic:
       title: Home-Based Learning
-      subtitle: P3 to P5
+      subtitle: P1 to P5
       id: infopic
       description: HBL aims to facilitate continuous learning during emergencies like
         school closures, while fostering student independence as self-directed
