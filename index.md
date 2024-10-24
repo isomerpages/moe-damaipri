@@ -21,17 +21,6 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/herobannermascot4.jpg
   - infopic:
-      title: Home-Based Learning
-      subtitle: P1 to P5
-      id: infopic
-      description: HBL aims to facilitate continuous learning during emergencies like
-        school closures, while fostering student independence as self-directed
-        learners.
-      button: Find out more
-      url: /notification/announcements/elearning/
-      image: /images/Announcement/2024/HBL.jpg
-      alt: Image alt text
-  - infopic:
       title: Parents' Briefing Slides 2024
       subtitle: INFORMATION
       id: infopic
