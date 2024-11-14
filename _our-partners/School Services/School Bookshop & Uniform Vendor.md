@@ -5,8 +5,18 @@ description: ""
 variant: markdown
 third_nav_title: School Services
 ---
-# School Bookshop
-### Actlink Marketing Pte Ltd  
+# School Bookshop and Uniform Opening Dates during the school Holidays. 
+
+November : **18, 19, 20 27, 28 and 29**
+
+December:  **9, 10, 18, 19, 20, 26, 27 and 30 **
+
+**(FAS collection dates)**
+December : 4, 5 and 6 
+                        
+
+
+# School Bookshop - Actlink Marketing Pte Ltd  
 
 Website: **[https://actlink.com.sg/](https://actlink.com.sg/)**
 
@@ -15,11 +25,10 @@ Operating Hours in School : **8.30am to 3pm**
 
 ### Note to Parents:
 
-For purchase of textbooks and stationeries, parents can come down to the school bookshop or purchase online from the website.
+For purchase of textbooks and stationeries, parents can come down to the school bookshop.
 
 For online purchases, you can **either opt for home delivery (charge of $12.50) or self-collect.**
 
-For self-collection, you can select the preferred collection date and time through appointment at **[https://actlink.com.sg/appointment/](https://actlink.com.sg/appointment/)**  
 
 
 # School Uniform
