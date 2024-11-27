@@ -96,9 +96,6 @@ variant: markdown
     <td class="tg-r3ha"><a href="https://www.haze.gov.sg/"><span style="text-decoration:none;color:#0058D1">Haze Situation Update</span></a></td>
     <td class="tg-zr06">https://www.haze.gov.sg/</td>
   </tr>
-  <tr>
-    <td class="tg-r3ha"><a href="https://icollaborate.moe.gov.sg/"><span style="text-decoration:none;color:#0058D1">ICollaborate</span></a> (Authorised Users Only)</td>
-    <td class="tg-zr06">-</td>
-  </tr>
+
 </tbody>
 </table>
