@@ -9,7 +9,11 @@ variant: tiptap
 <p>Do spend some time going through the slides as the information will be
 beneficial to you and your child.</p>
 <p>You can also access these PDF by clicking on the link below:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -21,7 +25,8 @@ beneficial to you and your child.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/Announcement/2024/P1_Orientation_Day_2024_Hall_Slides_website.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Announcement/2024/Principal___YH___P2_Parents__Briefing_Final_2024_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
