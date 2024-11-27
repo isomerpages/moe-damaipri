@@ -35,7 +35,7 @@ variant: markdown
 		<tr class="tg-73oq"><td><a href="mailto:nur_malisa_saukrad_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Malisa Bte Saukrad Ali</a> - SH Student Wellbeing</td></tr>
 		<tr class="tg-73oq"><td><a href="mailto:lau_peh_peh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lau Peh Peh</a> - SH Chinese</td></tr>
 						<tr class="tg-73oq"><td><a href="mailto:nur_azlin_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azlin Bte Ahmad</a> - LH English</td></tr>
-		<tr class="tg-73oq"><td><a href="mailto:sheryl_chai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sheryl Chai Pei Shian</a> - LH Mathematics</td></tr></tbody></table>
+		<tr class="tg-73oq"><td><a href="mailto:sheryl_chai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sheryl Chai Pei Shian</a> - LH Mathematics</td></tr><tr><td rowspan="“1”" colspan="“1”"><a href="mailto:woo_ying_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Woo Ying Qi</a> - AYH Upper Primary</td></tr></tbody></table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
