@@ -55,21 +55,3 @@ To apply, please refer to the Service Requirements and the Application Procedure
 *   [Most Inspiring Tamil Teachers’ Award Nomination (Online)](https://go.gov.sg/mitt2024nominationformel) – 1 April
     
 *   [Arif Budiman Malay Language Teacher Award](https://go.gov.sg/agab2024) – 1 April
-
-<table class="tg"><tbody>
-<tr><th rowspan="1" colspan="2"><b>Primary X</b></th></tr>
-<tr><td rowspan="2" colspan="1">classroom</td>
-<td rowspan="“1”" colspan="“1”"><a href="mailto:xxxxxxx@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xxxxx</a></td></tr>
-<tr><td rowspan="“1”" colspan="“1”"><a href="mailto:yyyyy" rel="noopener noreferrer nofollow" target="_blank">yyyyy</a></td></tr>
-</tbody>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
-.tg td{background-color:#e8edff;border-color:#aabcfe;border-style:solid;border-width:1px;color:#669;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#b9c9fe;border-color:#aabcfe;border-style:solid;border-width:1px;color:#039;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-18eh{border-color:#000000;font-size:18px;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s25z{border-color:#000000;font-size:18px;text-align:left;vertical-align:top}
-.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-</style></table>
-
