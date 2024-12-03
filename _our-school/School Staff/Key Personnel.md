@@ -16,27 +16,26 @@ variant: markdown
 		<tr class="tg-73oq"><td><a href="mailto:ho_mei_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ho Mei Fong</a> - HOD English</td></tr>
 		<tr class="tg-73oq"><td><a href="mailto:pang_siew_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pang Siew Yin</a> - HOD Mathematics</td></tr>
 		<tr class="tg-73oq"><td><a href="mailto:chen_xin_lei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chen Xin Lei</a> - HOD Mother Tongue</td></tr>
-		<tr class="tg-73oq"><td><a href="mailto:nur_azlin_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azlin Bte Ahmad</a> - HOD Information and Communications Technology</td></tr>
 		<tr class="tg-73oq"><td rowspan="1" colspan="1"><a href="mailto:ling_liang_chee_dianne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Dianne Ang</a> - HOD Aesthetics</td></tr>
 		<tr class="tg-73oq"><td><a href="mailto:tan_seok_ling_shirley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirley Tan Seok Ling</a> - HOD Character &amp; Citizenship Education</td></tr>
+								<tr class="tg-73oq"><td><a href="mailto:teo_keng_hon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Keng Hon Anson</a> - HOD Information and Communications Technology</td></tr>
 		<tr class="tg-73oq"><td><a href="mailto:tan_siew_chen_jacinda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jacinda Tan Siew Chen</a> - HOD Physical Education &amp; Co-curricular Activities</td></tr>
 		<tr class="tg-73oq"><td><a href="mailto:yu_sim_pei_elise@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Elise Lee</a> - School Staff Developer</td></tr></tbody></table>
 
 <table class="tg">
 	<tbody>
 		<tr class="tg-s25z"><th rowspan="1" colspan="1"><b>Year Head</b></th></tr>
-			<tr class="tg-73oq"><td><a href="mailto:ang_mei_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kris Hay</a> - YH Upper Primary</td></tr>
+			<tr class="tg-73oq"><td><a href="mailto:ang_mei_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kris Hay</a> - YH Upper Primary &amp; Discipline Master</td></tr>
 		<tr class="tg-73oq"><td><a href="mailto:ong_su_may_laurice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ong Su May Laurice Sara</a> - YH Middle Primary</td></tr>
 	<tr class="tg-73oq"><td><a href="mailto:nadira_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Nadira Khan</a> - YH Lower Primary</td></tr>
 	</tbody></table>
 		
 <table class="tg">
 	<tbody><tr class="tg-s25z"><th rowspan="1" colspan="1"><b>Subject Head &amp; Level Head</b></th></tr>
-				<tr class="tg-73oq"><td><a href="mailto:teo_keng_hon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Keng Hon Anson</a> - SH ICT and Discipline Master</td></tr>
 		<tr class="tg-73oq"><td><a href="mailto:nur_malisa_saukrad_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Malisa Bte Saukrad Ali</a> - SH Student Wellbeing</td></tr>
 		<tr class="tg-73oq"><td><a href="mailto:lau_peh_peh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lau Peh Peh</a> - SH Chinese</td></tr>
-		<tr class="tg-73oq"><td><a href="mailto:tseng_hwei_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tracy Tseng Hwei Wen</a> - LH Science</td></tr>
-		<tr class="tg-73oq"><td><a href="mailto:sheryl_chai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sheryl Chai Pei Shian</a> - LH Mathematics</td></tr></tbody></table>
+						<tr class="tg-73oq"><td><a href="mailto:nur_azlin_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Azlin Bte Ahmad</a> - LH English</td></tr>
+		<tr class="tg-73oq"><td><a href="mailto:sheryl_chai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sheryl Chai Pei Shian</a> - LH Mathematics</td></tr><tr><td rowspan="“1”" colspan="“1”"><a href="mailto:woo_ying_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Woo Ying Qi</a> - AYH Upper Primary</td></tr></tbody></table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}

@@ -2,9 +2,8 @@
 title: Students
 permalink: /useful-links/students/
 description: ""
+variant: markdown
 ---
-
-
 <a href="https://vle.learning.moe.edu.sg/login"><img src="/images/SLS%20Logo.png" style="width:50%"></a>
 
 <a href="https://www.koobits.com/"><img src="/images/koobitsmikomin.png" style="width:50%"></a>
@@ -16,30 +15,30 @@ description: ""
 ![](/images/Phase%202%20Infographics.png)
 **Online Public Access Catalogue (OPAC)**
 <a href="https://schoolibrary.moe.edu.sg/damaipri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
-<img src="/images/2021%2012%2030%20library.png"  style="width:50%">
+<img src="/images/2021%2012%2030%20library.png" style="width:50%">
 </a>
 
 **School eResource Repository (SERR)**
 <a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
-<img src="/images/2021%2012%2030%20resource.png"  style="width:50%">
+<img src="/images/2021%2012%2030%20resource.png" style="width:50%">
 </a>
 
 ### Sciensational!
 
 <a href="http://www.arvindguptatoys.com/toys-from-trash.php">
-<img src="/images/2020%20toysfromtrash.png"  style="width:50%">
+<img src="/images/2020%20toysfromtrash.png" style="width:50%">
 </a>
 
 <a href="https://www.livescience.com/">
-<img src="/images/2020%20livescience.png"  style="width:50%">
+<img src="/images/2020%20livescience.png" style="width:50%">
 </a>
 
 <a href="https://www.getepic.com/students">
-<img src="/images/2020%20epic.png"  style="width:50%">
+<img src="/images/2020%20epic.png" style="width:50%">
 </a>
 
 <a href="https://kids.nationalgeographic.com/books/article/pinhole-camera">
-<img src="/images/2020%20national%20geographic.png"  style="width:50%">
+<img src="/images/2020%20national%20geographic.png" style="width:50%">
 </a>
 
 ### For P1 - Mouse Skills
@@ -60,36 +59,32 @@ description: ""
   </tr>
 </thead>
 <tbody>
-  <tr>
+   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1</span></td>
-    <td class="tg-i73y"><a href="http://www.mouseprogram.com/"><span style="text-decoration:none;color:#0058D1">Mouse Skills</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2</span></td>
     <td class="tg-i73y"><a href="http://www.pbclibrary.org/mousing/mousercise.htm"><span style="text-decoration:none;color:#0058D1">Mouse Around</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">3</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2</span></td>
     <td class="tg-i73y"><a href="http://www.abcya.com/build_a_house.htm"><span style="text-decoration:none;color:#0058D1">Build a House</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">4</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">3</span></td>
     <td class="tg-i73y"><a href="http://bomomo.com/"><span style="text-decoration:none;color:#0058D1">Drag and Click Painting</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">5</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">4</span></td>
     <td class="tg-i73y"><a href="https://www.abcmouse.com/email/mouse-and-pointer"><span style="text-decoration:none;color:#0058D1">ABC mouse</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">6</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">5</span></td>
     <td class="tg-i73y"><a href="https://thisissand.com/"><span style="text-decoration:none;color:#0058D1">SandArt</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">7</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">6</span></td>
     <td class="tg-i73y"><a href="https://www.roomrecess.com/games/DragonDrop/play.html"><span style="text-decoration:none;color:#0058D1">Dragon Drop</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">8</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">7</span></td>
     <td class="tg-i73y"><a href="https://www.letsgolearn.com/bubble.html"><span style="text-decoration:none;color:#0058D1">Click the bubble</span></a></td>
   </tr>
 </tbody>

@@ -21,7 +21,7 @@ December : 4, 5 and 6
 Website: **[https://actlink.com.sg/](https://actlink.com.sg/)**
 
 Telephone : **9670 2609 (office)**<br>
-Operating Hours in School : **8.30am to 3pm**
+Operating Hours in School : **8.30am to 3pm** (During school days)
 
 ### Note to Parents:
 
@@ -39,4 +39,5 @@ Website : **[https://beauvoix.com.sg/](https://beauvoix.com.sg/)**<br>
 Address : **2 Sims Close. Gemini @ Sims #03-08. Singapore 387298 (NO Walk – ins allowed. strictly by appointment only)**
 
 Telephone : **6743 6645 / 6743 3627**<br>
-Operating Hours : **8.30am to 3pm (On consignment to the school bookshop)**
+Operating Hours : **8.30am to 3pm** (During school days)<br>
+(On consignment to the school bookshop)

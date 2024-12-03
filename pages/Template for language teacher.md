@@ -8,9 +8,9 @@ variant: markdown
 
 Dear Parents/Guardians,
 
- Do take time to appreciate our English/Tamil Language teachers and consider nominating them for these awards.
+&nbsp;Do take time to appreciate our English/Tamil Language teachers and consider nominating them for these awards.
 
- Please click on the links below for more information on the awards:
+&nbsp;Please click on the links below for more information on the awards:
 
 *   [Inspiring English Language Teacher Award](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information) (EL)
     
@@ -19,7 +19,7 @@ Dear Parents/Guardians,
 *   [Arif Budiman Malay Language Teacher Award](https://www.moe.gov.sg/news/press-releases/20240202-nominations-open-for-arif-budiman-malay-language-teacher-award-2024) (ML)
     
 
- Nomination forms can be downloaded online via the links below and respective closing dates indicated:
+&nbsp;Nomination forms can be downloaded online via the links below and respective closing dates indicated:
 
 *   [Inspiring English Language Teacher Award Nomination (Hard copy only to General Office)](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information) – 5 April
 
