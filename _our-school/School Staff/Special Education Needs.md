@@ -5,20 +5,6 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
-<table class="tg" style="undefined;table-layout: fixed; width: 600px">
-<thead>
-  <tr>
-    <th class="tg-s25z">Special Education Needs and School Counsellor</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-73oq"><a href="mailto:mohamed_jamil_yusak@schools.gov.sg">Mr Mohamed Jamil bin Yusak</a> - School Counsellor</td></tr><tr>
-    <td class="tg-73oq"><a href="mailto:muhd_nurhakim@schools.gov.sg">Mr Muhammad Nurhakim Bin Mohd Yusop</a> - SEN Officer</td></tr><tr>
-    <td class="tg-73oq"><a href="mailto:mumtaz_noor_mohamed@schools.gov.sg">Ms Mumtaz Bte Noor Mohamed</a> - SEN Officer</td>
-</tr>
-</tbody>
-</table>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
 .tg td{background-color:#e8edff;border-color:#aabcfe;border-style:solid;border-width:1px;color:#669;
@@ -29,3 +15,11 @@ variant: markdown
 .tg .tg-s25z{border-color:#000000;font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
+
+<table class="tg"><tbody>
+<tr><th class="tg-s25z"><b> Special Education Needs and School Counsellor </b></th></tr>
+<tr>
+</tr><tr><td class="tg-73oq"><a href="mailto:mohamed_jamil_yusak@schools.gov.sg">Mr Mohamed Jamil bin Yusak</a> - School Counsellor</td></tr>
+<tr> <td class="tg-73oq"><a href="mailto:muhd_nurhakim@schools.gov.sg">Mr Muhammad Nurhakim Bin Mohd Yusop</a> - SEN Officer</td></tr>
+<tr><td class="tg-73oq"><a href="mailto:mumtaz_noor_mohamed@schools.gov.sg">Ms Mumtaz Bte Noor Mohamed</a> - SEN Officer</td>
+</tr></tbody></table>
