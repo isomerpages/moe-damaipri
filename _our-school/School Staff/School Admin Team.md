@@ -38,10 +38,10 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-<tr><td class="tg-73oq">Mdm Lee Ngok Chow</td></tr>
-<tr><td class="tg-73oq">Mdm Chua Cheng Kee</td></tr>
 <tr><td class="tg-73oq">Mdm S Usarani</td></tr>
-<tr><td class="tg-73oq">Mdm Teng Juat Ngoh</td></tr>
+	<tr><td class="tg-73oq">Mdm Lee Ngok Chow</td></tr>
+<tr><td class="tg-73oq">Mdm Chua Cheng Kee</td></tr>
+<tr><td class="tg-73oq">Mr Gnana Sekaran</td></tr>
 <tr><td class="tg-73oq">Ms Pauline Poh</td></tr>
 <tr><td class="tg-73oq">Mr Osman Bin Abu</td></tr>
 </tbody>
