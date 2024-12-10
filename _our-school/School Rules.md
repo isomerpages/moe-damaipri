@@ -104,6 +104,6 @@ Thereafter, the errant student(s) will be counselled.
 
 ### Photographs/Video Images of Student for Non-Commercial Use
 
-Photograph(s) or video image(s) of your child/ward may be captured during school activities and events such as classroom lessons, CCAs, school camps and school concerts. These images may be used in displays, presentations, publications or other related materials, in any format (print, electronic,web or other media) for the purposes of documentation or non-commerical use. Please write to the school if you do not wish your child/ward’s image(s) to be used for that year.
+Photograph(s) or video image(s) of your child/ward may be captured during school activities and events such as classroom lessons, CCAs, school camps and school concerts. These images may be used in displays, presentations, publications or other related materials, in any format (print, electronic,web or other media) for the purposes of documentation or non-commerical use. Please write to the school if you do not wish your child/ward’s image(s) to be used during that year.
 
 Updated on 10th Dec 2024
