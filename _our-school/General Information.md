@@ -65,9 +65,15 @@ variant: markdown
     <td class="tg-nrix">P4: 9.30 am - 10.00 am<br>P5 &amp; P6: 10.00 am - 10.30 am<br></td>
   </tr>
   <tr>
-    <td class="tg-nrix"> Snack Break</td>
-    <td class="tg-nrix">P1: 11:20 am<br>P2: 11:20 am</td>
-    <td class="tg-nrix">P3: 11:20 am<br>P4, P5 &amp; P6: 8:50 am<br></td>
+    <td class="tg-nrix">Snack Break</td>
+    <td class="tg-nrix">P1: 11.20 am<br>P2: 11.20 am</td>
+		  <td class="tg-nrix">8.50 am</td>
+    <td class="tg-nrix">P4: 11.20 am<br>(8.20 am Tuesdays only)<br>P5 &amp; P6: 8.50 am<br></td>
+  </tr><tr>
+    <td class="tg-nrix">Lunch</td>
+    <td class="tg-nrix">NA</td>
+		  <td class="tg-nrix">NA</td>
+    <td class="tg-nrix"><b>( Tuesdays only)</b><br>P4: 12.00 pm - 12.30pm<br>P5: 12.30 pm - 1.00 pm<br>P6: 1.00 pm - 1.30pm</td>
   </tr>
 </tbody>
 </table>
