@@ -150,11 +150,13 @@ firm action to protect them against any unreasonable behaviour, harassment or ab
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"><b>Gate B</b></span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Gate opens from</span><br><br>• 6.30am to 7.30am (Monday to Friday)<br>• 1.30pm to 2.00pm (Monday and Tuesday)<br>• 1.00pm to 2.00pm (Wednesday to Friday)</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Gate opens from</span><br>• 6.30am to 7.30am (Monday to Friday)<br>• 1.30pm to 2.00pm (Monday and Tuesday)<br>• 1.00pm to 2.00pm (Wednesday to Friday)</td>
   </tr>
 </tbody>
 </table>
 
-* Gate B operating hours for afternoon activities dismissals will be communicated when the school term starts in 2023.
+* Gate B operating hours for afternoon activities dismissals will be communicated when the school term starts in 2025.
 * All Gates will be closed at 7.30am for morning assembly.
 Students/Vehicle will only be allowed entry after singing of the National Anthem and Pledge Taking.
+
+Updated 10th Dec 2024
