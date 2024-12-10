@@ -107,8 +107,10 @@ variant: markdown
 * The forms must be signed and returned before the start of the activities.
 
 ### Communication with parents
+* We are committed to partner you with sincerity, integrity and professionalism. By showing mutual courtesy and respect, we set a positive example for our children. MOE values our staff and will take
+firm action to protect them against any unreasonable behaviour, harassment or abuse.
 * The school values parents/guardians as co-partners in educating our students and communicate with parents via Parents Gateway, Student Handbook, Emails, Phone calls – via school line **6445 6483**, School Website, Letters to parents, Parents’ Briefings and Parents-Teacher Meetings.
-* We seek your understanding that communication with teachers/staff should only take place within school hours during working days, unless for emergency cases. Teachers are not required to share their personal mobile phone numbers with parents.
+* We seek your understanding that communication with teachers/staff should only take place within school hours during working days, unless for emergency cases. Teachers are not required to share their (7am-5.30pm) personal mobile phone numbers with parents.
 * For any class-related matters, Form Teachers / Subject Teachers are the first point of contact. Parents are encouraged to use the student handbook to communicate with the teachers. For level or school-related matters, parents may approach Year Heads and Admin Manager.
 * Parents may email the Form / Subject teachers and/or staff. The email addresses of teachers/staff are available on the school website. Parents who wish to have a face-to-face meeting with the teachers/staff should make prior arrangement with the teachers/staff.
 * To facilitate communication, please update the school promptly if there is a change in the main point-of-contact and/or the contact details of the parents/guardians for our students. You may send the updates to your child’s/ward’s Form Teachers via email.
@@ -120,7 +122,7 @@ variant: markdown
 
 ### Road safety
 * Students must use pedestrian crossings while crossing the roads.
-* Students are to refer to next page for the safety routes to and from school.
+* Students are to refer below for the safety routes to and from school.
 * Road safety walks and talks will be organized by the school to familiarise the students.  
 
 ### Safety Routes and Gate Opening Information
