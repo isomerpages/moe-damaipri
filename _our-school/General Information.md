@@ -155,7 +155,7 @@ firm action to protect them against any unreasonable behaviour, harassment or ab
 </tbody>
 </table>
 
-* Gate B operating hours for afternoon activities dismissals will be communicated when the school term starts in 2025.
+* Gate B operating hours for afternoon activities dismissals will be communicated when the school term starts.
 * All Gates will be closed at 7.30am for morning assembly.
 Students/Vehicle will only be allowed entry after singing of the National Anthem and Pledge Taking.
 
