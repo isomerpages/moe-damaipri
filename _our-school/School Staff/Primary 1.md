@@ -30,7 +30,7 @@ variant: markdown
 <tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:koo_swee_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Koo Swee Ying</a></td></tr>
 <tr><td rowspan="2" colspan="1">1 Resilience</td>
 <td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:junainah_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Junainah Binte Rahmat</a></td></tr>
-<tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:janice_how_sui_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Janice How Sui Fen</a></td></tr>
+<tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:janice_how_sui_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Janice How Sui Yen</a></td></tr>
 <tr><td rowspan="2" colspan="1">1 Kindness</td>
 <td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:nashitah_fikriyah_sabari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Nashitah Fikriyah</a></td></tr>
 <tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:jowena_lim_lifen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jowena Lim</a></td></tr>
