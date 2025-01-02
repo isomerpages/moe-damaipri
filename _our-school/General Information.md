@@ -150,7 +150,7 @@ firm action to protect them against any unreasonable behaviour, harassment or ab
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"><b>Gate B</b></span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Gate opens from</span><br>• 6.30am to 7.30am (Monday to Friday)<br>• 1.30pm to 2.00pm (Monday and Tuesday)<br>• 1.00pm to 2.00pm (Wednesday to Friday)</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Gate opens from</span><br>• 6.30am to 7.30am (Monday to Friday)<br>• 1.30pm to 2.00pm (Monday and Tuesday)<br>• 1.00pm to 2.00pm (Wednesday to Friday)<br>• 2.30pm to 3.00pm (Tuesday)</td>
   </tr>
 </tbody>
 </table>
@@ -159,4 +159,4 @@ firm action to protect them against any unreasonable behaviour, harassment or ab
 * All Gates will be closed at 7.30am for morning assembly.
 Students/Vehicle will only be allowed entry after singing of the National Anthem and Pledge Taking.
 
-Updated 10th Dec 2024
+Updated 2nd Jan 2025
