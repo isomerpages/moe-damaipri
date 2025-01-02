@@ -35,7 +35,7 @@ variant: markdown
 <tr><td class="tg-73oq">Ms Teo Shuh Yi</td></tr>
 <tr><td class="tg-73oq">Mdm Laverne Wee Chun Tor </td></tr>
 <tr><td class="tg-73oq">Mdm Firdous Bte Abdul Razak </td></tr>
-<tr><td class="tg-73oq">Mr Him Pon Bin Iming </td></tr>
+<tr><td class="tg-73oq">Mr	Mohammad Farris Bin Salleh</td></tr>
 <tr><td class="tg-73oq">Ms Ros’Hamidah Binte Sulaiman</td></tr>
 </tbody></table>
 
