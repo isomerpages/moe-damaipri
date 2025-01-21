@@ -21,13 +21,13 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/herobannermascot4.jpg
   - infopic:
-      title: P1 Orientation Briefing Slides 2024
+      title: Parents' Briefing Slide
       subtitle: INFORMATION
       id: infopic
       description: You may find the briefing slides here
       button: Click here
       url: /files/Announcement/2024/P1_Orientation_Day_2024_Hall_Slides_website.pdf
-      image: /images/Announcement/2024/Screenshot_2024_11_21_124146.png
+      image: /images/Announcement/damaitemplate.jpg
       alt: Image alt text
   - infopic:
       title: Useful Links
