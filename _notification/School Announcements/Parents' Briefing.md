@@ -6,9 +6,9 @@ third_nav_title: School Announcements
 variant: tiptap
 ---
 <p>Dear Parents,</p>
-<p>Do spend some time going through the slides as the information will be
-beneficial to you and your child.</p>
-<p>You can also access these PDF by clicking on the link below:</p>
+<p>Do spend some time going through the slides as the information will benefit
+you and your child.</p>
+<p>You can also access these PDFs by clicking on the link below:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -25,7 +25,7 @@ beneficial to you and your child.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Announcement/2024/P1_Orientation_Day_2024_Hall_Slides_website.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
+<p><a href="/files/Announcement/2024/P1_Orientation_Day_2024_Hall_Slides_website.pdf" rel="noopener nofollow" target="_blank">Primary 1 (Orientation)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,7 +49,7 @@ beneficial to you and your child.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Announcement/2024/2024_P___YH_Address_To_Parents_Parents_Briefing_P6_Final__for_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (2024)</a>
+<p><a href="/files/Announcement/2025/2025_P___YH_Address_To_Parents_Parents_Briefing_P6_final_website2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (2025)</a>
 </p>
 </td>
 </tr>
