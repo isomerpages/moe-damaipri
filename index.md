@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: You may find the briefing slides here
       button: Click here
-      url: /files/Announcement/2024/P1_Orientation_Day_2024_Hall_Slides_website.pdf
+      url: /notification/announcements/parentbriefing/
       image: /images/Announcement/damaitemplate.jpg
       alt: Image alt text
   - infopic:
