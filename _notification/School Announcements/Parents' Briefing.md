@@ -29,17 +29,17 @@ you and your child.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Announcement/2024/Principal___YH___P2_Parents__Briefing_Final_2024_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 (2024)</a>
+<p><a href="/files/Announcement/2025/2025_P2_Parents_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 (2025)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Announcement/2024/2024_P3_Parents_Briefing___P___YH_Final_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 (2024)</a>
+<p><a href="/files/Announcement/2025/2025_P3_Parents_Briefing___PG.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 (2025)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Announcement/2024/2024_P4_Parents_Briefing___P___YH_Final_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 (2024)</a>
+<p><a href="/files/Announcement/2025/2025_P4_Parents_Briefing___PG.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 (2025)</a>
 </p>
 </td>
 </tr>
