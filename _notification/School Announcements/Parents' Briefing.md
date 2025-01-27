@@ -45,7 +45,7 @@ you and your child.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Announcement/2024/2024_P___YH_Address_To_Parents_Parents_Briefing_P5_Final__School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (2024)</a>
+<p><a href="/files/Announcement/2025/2025_P___YH_Address_To_Parents_Parents_Briefing_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (2025)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
