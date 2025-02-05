@@ -24,16 +24,16 @@ Hard copy forms should be submitted to the General Office by 5pm on 24 March 202
 
 #### **2)	Most Inspiring Tamil Teacher Award** (TL)
 
-Please make your online nomination at https://go.gov.sg/mitt2024nominationform or https://go.gov.sg/mitt2024nominationformel by 4 April 2025.
+Please make your online nomination at [https://go.gov.sg/mitt2024nominationform](https://go.gov.sg/mitt2024nominationform) or [https://go.gov.sg/mitt2024nominationformel](https://go.gov.sg/mitt2024nominationformel) by 4 April 2025.
 
-For more information, please email MOE_TLLPC_Secretariat@moe.gov.sg.
+For more information, please email [MOE_TLLPC_Secretariat@moe.gov.sg](MOE_TLLPC_Secretariat@moe.gov.sg).
 
 ==========================================
 
 #### **3)	Arif Budiman Malay Language Teacher Award** (ML)
 
-Nominations can be made online via https://go.gov.sg/agab2025 by 4 April 2025.
+Nominations can be made online via [https://go.gov.sg/agab2025](https://go.gov.sg/agab2025) by 4 April 2025.
 
-For more information, please contact the AGAB 2025 Organising Committee at MOE_MLLPC_Secretariat@moe.gov.sg.
+For more information, please contact the AGAB 2025 Organising Committee at [MOE_TLLPC_Secretariat@moe.gov.sg](MOE_MLLPC_Secretariat@moe.gov.sg).
 
 ==========================================
