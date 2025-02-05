@@ -38,7 +38,7 @@ sections:
         #EducationWithHeart"
       button: Check Us Out!
       url: https://www.instagram.com/damaiprimaryig/
-      image: /images/Random/damaiIG.png
+      image: /images/Random/damaiIG3.png
       alt: Image alt text
   - infopic:
       title: Useful Links
