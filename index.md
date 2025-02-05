@@ -35,7 +35,7 @@ sections:
       id: infopic
       description: Do take time to nominate deserving teachers for the awards.
       button: Find out more!
-      url: teacher-award-nomination/
+      url: /teacher-award-nomination/
       image: /images/pat25.png
       alt: Image alt text
   - infopic:
