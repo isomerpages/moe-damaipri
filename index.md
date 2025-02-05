@@ -30,6 +30,17 @@ sections:
       image: /images/Announcement/damaitemplate.jpg
       alt: Image alt text
   - infopic:
+      title: Damai Primary Instagram
+      subtitle: Official Social Media
+      id: infopic
+      description: "Nurturing young minds and fostering creativity at Damai Primary.
+        Join our journey of discovery, friendship, and excellence! #DamaiPride
+        #EducationWithHeart"
+      button: Check Us Out!
+      url: https://www.instagram.com/damaiprimaryig/
+      image: /images/Random/damaiIG.png
+      alt: Image alt text
+  - infopic:
       title: Useful Links
       description: Links for students, parents and staff
       button: Check it out
