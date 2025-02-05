@@ -32,7 +32,7 @@ For more information, please email MOE_TLLPC_Secretariat@moe.gov.sg.
 
 #### **3)	Arif Budiman Malay Language Teacher Award** (ML)
 
-Nominations can be made online via https://go.gov.sg/agab2025 by 4 April 2025.
+Nominations can be made online via [https://go.gov.sg/agab2025](https://go.gov.sg/agab2025) by 4 April 2025.
 
 For more information, please contact the AGAB 2025 Organising Committee at MOE_MLLPC_Secretariat@moe.gov.sg.
 
