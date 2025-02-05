@@ -30,6 +30,15 @@ sections:
       image: /images/Announcement/damaitemplate.jpg
       alt: Image alt text
   - infopic:
+      title: Calling for Teacher Award Nominations!
+      subtitle: Teacher Award Nomination
+      id: infopic
+      description: Do take time to nominate deserving teachers for the awards.
+      button: Find out more!
+      url: teacher-award-nomination/
+      image: /images/pat25.png
+      alt: Image alt text
+  - infopic:
       title: Damai Primary Instagram
       subtitle: Official Social Media
       id: infopic
