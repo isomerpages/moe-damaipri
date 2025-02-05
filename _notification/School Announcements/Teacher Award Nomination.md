@@ -24,7 +24,7 @@ Hard copy forms should be submitted to the General Office by 5pm on 24 March 202
 
 #### **2)	Most Inspiring Tamil Teacher Award** (TL)
 
-Please make your online nomination at https://go.gov.sg/mitt2024nominationform or https://go.gov.sg/mitt2024nominationformel by 4 April 2025.
+Please make your online nomination at [https://go.gov.sg/mitt2024nominationform](https://go.gov.sg/mitt2024nominationform) or [https://go.gov.sg/mitt2024nominationformel](https://go.gov.sg/mitt2024nominationformel) by 4 April 2025.
 
 For more information, please email MOE_TLLPC_Secretariat@moe.gov.sg.
 
