@@ -36,7 +36,7 @@ sections:
       description: Do take time to nominate deserving teachers for the awards.
       button: Find out more!
       url: /notification/announcements/teacher-award-nomination/
-      image: /images/pat25.png
+      image: /images/2097152.jpg
       alt: Image alt text
   - infopic:
       title: Damai Primary Instagram
