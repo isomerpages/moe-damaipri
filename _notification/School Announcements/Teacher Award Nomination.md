@@ -30,6 +30,10 @@ For more information, please email MOE_TLLPC_Secretariat@moe.gov.sg.
 
 ==========================================
 
-*   [Arif Budiman Malay Language Teacher Award](https://www.moe.gov.sg/news/press-releases/20240202-nominations-open-for-arif-budiman-malay-language-teacher-award-2024) (ML)
+#### **3)	3)	Arif Budiman Malay Language Teacher Award** (ML)
+
+Nominations can be made online via https://go.gov.sg/agab2025 by 4 April 2025.
+
+For more information, please contact the AGAB 2025 Organising Committee at MOE_MLLPC_Secretariat@moe.gov.sg.
 
 ==========================================
