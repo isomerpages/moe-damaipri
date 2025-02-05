@@ -42,8 +42,8 @@ sections:
       title: Damai Primary Instagram
       subtitle: Official Social Media
       id: infopic
-      description: Nurturing and empowering every Damaian to learn, grow and lead
-        Official IG account for DPS.
+      description: Nurturing and empowering every Damaian to learn, grow and lead.
+        Official IG account for DPS
       button: Check Us Out!
       url: https://www.instagram.com/damaiprimaryig/
       image: /images/Random/damaiIG3.png
