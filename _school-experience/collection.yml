@@ -2,7 +2,6 @@ collections:
   school-experience:
     output: true
     order:
-      - Gallery/2025.md
       - Gallery/2024.md
       - Gallery/2023.md
       - Gallery/.keep
