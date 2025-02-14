@@ -8,11 +8,12 @@ Here are the principal's letter for parents.
 
 ### **2025**
 
-| January | February | March |
+| January | [February](/files/Announcement/2025/2025_10_Feb_Principal_s_Letter_Final.pdf) | March |
 | -------- | -------- | -------- |
 |**April** | **May** | **June** |
 | **July** | **August** | **September** |
 | **October** | **November** | **December** |
+
 
 
 ### **2024**
