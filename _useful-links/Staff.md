@@ -77,10 +77,6 @@ variant: markdown
     <td class="tg-zr06">http://intranet.moe.gov.sg/Send/Pages/SEN_Resource_Portal.aspx</td>
   </tr>
   <tr>
-    <td class="tg-r3ha"><a href="https://schools.gov.sg/owa"><span style="text-decoration:none;color:#0058D1">Outlook</span></a> (Web Browser)</td>
-    <td class="tg-zr06">https://schools.gov.sg/owa</td>
-  </tr>
-  <tr>
     <td class="tg-r3ha"><a href="https://academyofsingaporeteachers.moe.edu.sg/"><span style="text-decoration:none;color:#0058D1">Academy of Singapore Teachers</span></a></td>
     <td class="tg-zr06">https://academyofsingaporeteachers.moe.edu.sg</td>
   </tr>
