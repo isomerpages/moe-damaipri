@@ -4,4 +4,4 @@ permalink: /calendar/
 description: ""
 variant: markdown
 ---
-![](/images/Announcement/2024/2024_Jun_Principal_Letter_Page_7.jpg)![](/images/Announcement/2024/2024_Jun_Principal_Letter_Page_8.jpg)
+![](/images/Announcement/2025/2025_001_3_Jan_2025_Final_Page_12.jpg)
