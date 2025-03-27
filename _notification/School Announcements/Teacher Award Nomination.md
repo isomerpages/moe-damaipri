@@ -13,20 +13,7 @@ Please click on the links below for more information on the awards:
 
 ==========================================
 
-#### **1) [Inspiring English Language Teacher Award]** (EL)
-
-We are looking for teachers who:<br>
-•	exemplify the use of good spoken and written English;<br>
-•	enact learner-centred approaches during English lessons to develop English Language/Literature in English/General Paper Learner Outcomes aligned with the syllabuses;<br>
-•	select pedagogical approaches and strategies, as well as use materials and EdTech, which are underpinned by knowledge bases appropriate to learners’ readiness, interests and learning profiles; and<br>
-•	develop their teaching competencies to enact classroom practices in alignment with the syllabuses and curriculum, as well as classroom-based innovations.
-
-Please click [here](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information) to download nomination forms for the Teaching Award. 
-Hard copy forms should be submitted to the General Office by 5pm on 24 March 2025. 
-
-==========================================
-
-#### **2)	Most Inspiring Tamil Teacher Award** (TL)
+#### **1)	Most Inspiring Tamil Teacher Award** (TL)
 
 Please nominate deserving teachers who fulfil the following criteria:<br>
 •	Teachers who nurture students’ interest in TL by using innovative methods to make lessons more interesting and engaging; and<br>
@@ -38,7 +25,7 @@ For more information, please email [MOE_TLLPC_Secretariat@moe.gov.sg](MOE_TLLPC_
 
 ==========================================
 
-#### **3)	Arif Budiman Malay Language Teacher Award** (ML)
+#### **2)	Arif Budiman Malay Language Teacher Award** (ML)
 
 Do nominate Malay Language teachers who:<br>
 •	Nurture students’ interest in the Malay language, literature and culture through innovative pedagogies, including the effective use of educational technology to make learning engaging and interactive while developing students’ 21st Century Competencies to be future-ready; <br>
@@ -51,7 +38,7 @@ For more information, please contact the AGAB 2025 Organising Committee at [MOE_
 
 ==========================================
 
-#### **4) Distinguished Chinese Language Teachers Award**
+#### **3) Distinguished Chinese Language Teachers Award**
 
 Do nominate our deserving Chinese Language teachers today!<br>
 •	All Chinese language teachers in MOE primary, secondary, pre-universities, junior colleges and IP schools are eligible (except for past winners of this award)<br>
