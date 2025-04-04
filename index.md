@@ -17,7 +17,7 @@ sections:
           url: /calendar/
         - title: Notification
           description: For school announcement
-          url: /2024-virtual-open-house/
+          url: /notification/announcements/teacher-award-nomination/
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/herobannermascot4.jpg
   - infopic:
