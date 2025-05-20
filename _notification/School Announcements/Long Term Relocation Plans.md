@@ -44,21 +44,15 @@ children in the Bedok area.</p>
 More details will be released closer to date.</p>
 </li>
 </ul>
-<p>We understand that parents/guardians may have questions and concerns on
-the relocation. Hence, we will be holding an optional briefing session
-for interested parents/guardians on 26 May 2025 Monday at 3.30pm in Damai
-Primary School.</p>
-<p>7.</p>
 <p>The school and our teachers remain committed to your child/ward’s education
 and will ensure that your child/ward’s educational experience remains the
 best it can be even during this period of transition.</p>
-<p>New MOE Kindergarten @ Damai</p>
-<p>8. MOE will be setting up an MOE Kindergarten (MK) within Damai Primary
-School at the new campus. The MK will enrol Kindergarten 1 (K1) children
-from January 2029. The MK registration exercise for 2029 K1 admission will
-be held in early 2028. More information on the MK curriculum, learning
-environment and other locations around Singapore can be found at <a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>.</p>
-<p>9.</p>
+<h4>New MOE Kindergarten @ Damai</h4>
+<p>MOE will be setting up an MOE Kindergarten (MK) within Damai Primary School
+at the new campus. The MK will enrol Kindergarten 1 (K1) children from
+January 2029. The MK registration exercise for 2029 K1 admission will be
+held in early 2028. More information on the MK curriculum, learning environment
+and other locations around Singapore can be found at <a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>.</p>
 <p>We thank you for your support for Damai Primary School. Should you have
 any queries on the above plan, you may get in touch with us at <a href="mailto:damai_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">damai_ps@moe.edu.sg</a> and/or
 64456483.</p>
