@@ -10,6 +10,10 @@ third_nav_title: School Announcements
 <p>The Ministry of Education will be announcing the relocation of some schools.
 As you are one of our valued stakeholders, we would like to share with
 you about the plans for Damai Primary School which will be relocated to <strong>Tampines Street 64</strong>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/2025/2025_05_20_maps.png">
+</div>
 <p>This relocation, however, <strong>has no impact on your child who is currently studying in our Bedok campus.</strong> All
 existing students will be able to graduate from this campus as the school
 will remain fully operational till the end of December 2030. Two-campus
