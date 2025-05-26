@@ -21,15 +21,6 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/herobannermascot4.jpg
   - infopic:
-      title: Parents' Briefing Slide
-      subtitle: INFORMATION
-      id: infopic
-      description: You may find the briefing slides here
-      button: Click here
-      url: /notification/announcements/parentbriefing/
-      image: /images/Announcement/damaitemplate.jpg
-      alt: Image alt text
-  - infopic:
       title: Relocation Plans
       subtitle: Long Term
       id: infopic
@@ -38,6 +29,15 @@ sections:
       button: Click here to read more
       url: /notification/announcements/long-term-relocation-plans/
       image: /images/Announcement/2025/relocated_pri_schs.png
+      alt: Image alt text
+  - infopic:
+      title: Parents' Briefing Slide
+      subtitle: INFORMATION
+      id: infopic
+      description: You may find the briefing slides here
+      button: Click here
+      url: /notification/announcements/parentbriefing/
+      image: /images/Announcement/damaitemplate.jpg
       alt: Image alt text
   - infopic:
       title: Calling for Teacher Award Nominations!
