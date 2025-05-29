@@ -62,4 +62,11 @@ sections:
       url: /useful-links/students/
       image: /images/Announcement/2022 quicklink.png
       alt: Image alt text
+  - infopic:
+      title: MOE Kindergarten @ Damai
+      id: infopic
+      button: For more information
+      url: https://www.moe.gov.sg/preschool/moe-kindergarten
+      image: /images/Announcement/MK_logo__high_res_.png
+      alt: Image alt text
 ---
