@@ -21,11 +21,8 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/herobannermascot4.jpg
   - infopic:
-      title: Relocation Plans
-      subtitle: Long Term
+      title: Long Term Relocation Plans to Tampines Street 64
       id: infopic
-      description: Damai Primary School which will be relocated to Tampines Street 64
-        in January 2029
       button: Click here to read more
       url: /notification/announcements/long-term-relocation-plans/
       image: /images/Announcement/2025/relocated_pri_schs.png
