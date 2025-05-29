@@ -21,6 +21,20 @@ sections:
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/herobannermascot4.jpg
   - infopic:
+      title: Long Term Relocation Plans to Tampines Street 64
+      id: infopic
+      button: Click here to read more
+      url: /notification/announcements/long-term-relocation-plans/
+      image: /images/Announcement/2025/relocated_pri_schs.png
+      alt: Image alt text
+  - infopic:
+      title: MOE Kindergarten @ Damai
+      id: infopic
+      button: For more information
+      url: https://www.moe.gov.sg/preschool/moe-kindergarten
+      image: /images/Announcement/MK_logo__high_res_.png
+      alt: Image alt text
+  - infopic:
       title: Parents' Briefing Slide
       subtitle: INFORMATION
       id: infopic

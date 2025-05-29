@@ -1,0 +1,6 @@
+collections:
+  moe-kindergarten:
+    output: true
+    order:
+      - MOE Kindergarten @ Damai.md
+      - Our Learning Environment.md
