@@ -20,20 +20,32 @@ sections:
           url: /notification/announcements/teacher-award-nomination/
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/herobannermascot4.jpg
-  - infopic:
-      title: Long Term Relocation Plans to Tampines Street 64
-      id: infopic
-      button: Click here to read more
-      url: /notification/announcements/long-term-relocation-plans/
-      image: /images/Announcement/2025/relocated_pri_schs.png
-      alt: Image alt text
-  - infopic:
-      title: MOE Kindergarten @ Damai
-      id: infopic
-      button: For more information
-      url: https://www.moe.gov.sg/preschool/moe-kindergarten
-      image: /images/Announcement/MK_logo__high_res_.png
-      alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Long Term Relocation Plans to Tampines Street 64
+          date: 14 May 2025
+          announcement: The Ministry of Education will be announcing the relocation of
+            some schools. We would like to share with you about the plans for
+            Damai Primary School.
+          link_text: Click here to read more
+          link_url: /notification/announcements/long-term-relocation-plans/
+        - title: MOE Kindergarten @ Damai
+          date: 14 May 2025
+          announcement: MOE will be setting up an MOE Kindergarten (MK) within Damai
+            Primary School at the new campus. The MK will enrol Kindergarten 1
+            (K1) children from January 2029.
+          link_text: For more information
+          link_url: https://www.moe.gov.sg/preschool/moe-kindergarten
+        - title: Publicity Video for SELebrate! Exhibition
+          date: 02 June 2025
+          announcement: Some of our students took part in a series of art workshops
+            earlier this year, and their artworks have been selected for
+            exhibition from 1st – 29th June 2025 at the Bedok Public Library,
+            Level 3.
+          link_text: Video link
+          link_url: https://drive.google.com/file/d/1mOpcU6gPLkZxMi_XjuxOnojnzSxrDfjS/view?usp=sharing
   - infopic:
       title: Parents' Briefing Slide
       subtitle: INFORMATION
