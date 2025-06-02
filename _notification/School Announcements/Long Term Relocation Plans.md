@@ -16,8 +16,8 @@ you about the plans for Damai Primary School which will be relocated to <strong>
 </div>
 <p>This relocation, however, <strong>has no impact on your child who is currently studying in our Bedok campus.</strong> All
 existing students will be able to graduate from this campus as the school
-will remain fully operational till the end of December 2030. Two-campus
-operations in 2029 and 2030</p>
+will remain fully operational till the end of December 2030.</p>
+<h4><strong>Two-campus operations in 2029 and 2030</strong></h4>
 <p>The new campus in Tampines <strong>will retain its name and come with a new MOE Kindergarten i.e. MK@Damai</strong>.
 Both the MK and the primary school will start operating in Tampines Street
 64 campus in January 2029. This will mean that Damai Primary School will
@@ -60,3 +60,5 @@ and other locations around Singapore can be found at <a href="http://www.moe.gov
 <p>We thank you for your support for Damai Primary School. Should you have
 any queries on the above plan, you may get in touch with us at <a href="mailto:damai_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">damai_ps@moe.edu.sg</a> and/or
 64456483.</p>
+<p></p>
+<p>Updated on 2nd Jun 2025</p>
