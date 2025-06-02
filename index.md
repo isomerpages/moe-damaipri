@@ -20,6 +20,16 @@ sections:
           url: /notification/announcements/teacher-award-nomination/
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/herobannermascot4.jpg
+  - infopic:
+      title: Damai Primary Instagram
+      subtitle: Official Social Media
+      id: infopic
+      description: Nurturing and empowering every Damaian to learn, grow and lead.
+        Official IG account for DPS
+      button: Check Us Out!
+      url: https://www.instagram.com/damaiprimaryig/
+      image: /images/Random/damaiIG3.png
+      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
@@ -47,15 +57,6 @@ sections:
           link_text: Video link
           link_url: https://drive.google.com/file/d/1mOpcU6gPLkZxMi_XjuxOnojnzSxrDfjS/view?usp=sharing
   - infopic:
-      title: Parents' Briefing Slide
-      subtitle: INFORMATION
-      id: infopic
-      description: You may find the briefing slides here
-      button: Click here
-      url: /notification/announcements/parentbriefing/
-      image: /images/Announcement/damaitemplate.jpg
-      alt: Image alt text
-  - infopic:
       title: Calling for Teacher Award Nominations!
       subtitle: Teacher Award Nomination
       id: infopic
@@ -65,14 +66,13 @@ sections:
       image: /images/2097152.jpg
       alt: Image alt text
   - infopic:
-      title: Damai Primary Instagram
-      subtitle: Official Social Media
+      title: Parents' Briefing Slide
+      subtitle: INFORMATION
       id: infopic
-      description: Nurturing and empowering every Damaian to learn, grow and lead.
-        Official IG account for DPS
-      button: Check Us Out!
-      url: https://www.instagram.com/damaiprimaryig/
-      image: /images/Random/damaiIG3.png
+      description: You may find the briefing slides here
+      button: Click here
+      url: /notification/announcements/parentbriefing/
+      image: /images/Announcement/damaitemplate.jpg
       alt: Image alt text
   - infopic:
       title: Useful Links
