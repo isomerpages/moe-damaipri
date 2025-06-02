@@ -60,3 +60,5 @@ and other locations around Singapore can be found at <a href="http://www.moe.gov
 <p>We thank you for your support for Damai Primary School. Should you have
 any queries on the above plan, you may get in touch with us at <a href="mailto:damai_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">damai_ps@moe.edu.sg</a> and/or
 64456483.</p>
+<p></p>
+<p>Updated on 2nd Jun 2025</p>
