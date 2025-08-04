@@ -24,4 +24,4 @@ Here are the principal's letter for parents.
 | **July** - | **[August](/files/Principal_letters/2024/2024_Aug_Principal_Letter_Final.pdf)** | [**September**](/files/Principal_letters/2024/2024_270_9_Sept_Principal_s_Letter_Final_v2.pdf) |
 | **October** - | [**November**](/files/Principal_letters/2024/2024_306_4_Nov_Principal_s_Letter_Final.pdf) | **December** |
 
-Updated on 30 Jun 2025
+Updated on 4 Aug 2025
