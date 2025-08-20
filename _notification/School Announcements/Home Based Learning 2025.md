@@ -11,25 +11,21 @@ variant: markdown
 
 <div style="text-align:justify;">Please refer to the details below for HBL</div>
 
-<b><font size="4">Schedule</font></b><br>
+<b><font size="4">Schedule (will update soon)</font></b><br>
 <img src="/images/Announcement/2024/HBL_2024.jpg" style="width:100%">
 
 <div style="text-align:justify;">Hardcopy assignments need to be submitted to the respective Subject Teachers when your child/ward returns to school the next day.<br><br>We value your partnership and look forward to providing the best for our students.<br><br>If you need any further clarifications, please contact the General Office at Tel: 6445 6483.</div><br>
 
 <table style="width: 100%;"><tbody><tr>
-<td style="width: 5%;"><b>1A</b></td>
-<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_VnqhBQC10fM4P3tnfqTbWF5n0dBXpoYrkNDFBVmRoB3u1ulCnSRZreLPiDEAG1R9mit9GcZqGxBE/pubhtml?gid=1132104826&amp;single=true">14 Oct</a><br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_VnqhBQC10fM4P3tnfqTbWF5n0dBXpoYrkNDFBVmRoB3u1ulCnSRZreLPiDEAG1R9mit9GcZqGxBE/pubhtml?gid=959925472&amp;single=true">15 Oct</a><br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_VnqhBQC10fM4P3tnfqTbWF5n0dBXpoYrkNDFBVmRoB3u1ulCnSRZreLPiDEAG1R9mit9GcZqGxBE/pubhtml?gid=592675694&amp;single=true">16 Oct</a></td>
+<td style="width: 5%;"><b>1 SINCERITY</b></td>
+<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
 <td style="width: 5%;"><b>1B</b></td>
-<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSwzSvB97kk3H5EsAl98ZqitrF3O62dBKtfNytjnAgCC0cxNkO7xJcBq8-TXMiAQE9UIqGiNJhPpDKT/pubhtml?gid=1367000184&amp;single=true">14 Oct</a><br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSwzSvB97kk3H5EsAl98ZqitrF3O62dBKtfNytjnAgCC0cxNkO7xJcBq8-TXMiAQE9UIqGiNJhPpDKT/pubhtml?gid=90616981&amp;single=true">15 Oct</a><br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSwzSvB97kk3H5EsAl98ZqitrF3O62dBKtfNytjnAgCC0cxNkO7xJcBq8-TXMiAQE9UIqGiNJhPpDKT/pubhtml?gid=1225058657&amp;single=true">16 Oct</a></td>
+<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
 <td style="width: 5%;"><b>1C</b></td>
-<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTW3CTrNZpSZw5pfGWq1cxZ1nrLy4c_V2RPQYBGgM0U2239D9I2XWNGFvGsvY9Rz1O4e6AthkoHrTlH/pubhtml?gid=1867829816&amp;single=true">14 Oct</a><br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTW3CTrNZpSZw5pfGWq1cxZ1nrLy4c_V2RPQYBGgM0U2239D9I2XWNGFvGsvY9Rz1O4e6AthkoHrTlH/pubhtml?gid=866454675&amp;single=true">15 Oct</a><br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTW3CTrNZpSZw5pfGWq1cxZ1nrLy4c_V2RPQYBGgM0U2239D9I2XWNGFvGsvY9Rz1O4e6AthkoHrTlH/pubhtml?gid=1707207808&amp;single=true">16 Oct</a></td>
-<td style="width: 5%;"><b>1D</b></td>
-<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSYG6h-ib1k1tDvPb7McJWT-xlA8ehhdRQs-bUjewbzYCgZ51QuN5EZuZ9NzkmR027aM9TulNkfnBk2/pubhtml?gid=301867921&amp;single=true">14 Oct</a><br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSYG6h-ib1k1tDvPb7McJWT-xlA8ehhdRQs-bUjewbzYCgZ51QuN5EZuZ9NzkmR027aM9TulNkfnBk2/pubhtml?gid=167560536&amp;single=true">15 Oct</a><br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSYG6h-ib1k1tDvPb7McJWT-xlA8ehhdRQs-bUjewbzYCgZ51QuN5EZuZ9NzkmR027aM9TulNkfnBk2/pubhtml?gid=972771715&amp;single=true">16 Oct</a></td>
+<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
 </tr><tr>
 <td style="width: 5%;"><b>1E</b></td>
-<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTcFo6HO06uY21KW_oLelJkgh03RMtWJl2Uhv2zc-EJVOOFf76RhcaZgCGP1XgW6On8Z8Xbz8eb0d-z/pubhtml?gid=582185506&amp;single=true">14 Oct</a><br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTcFo6HO06uY21KW_oLelJkgh03RMtWJl2Uhv2zc-EJVOOFf76RhcaZgCGP1XgW6On8Z8Xbz8eb0d-z/pubhtml?gid=197091882&amp;single=true">15 Oct</a><br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTcFo6HO06uY21KW_oLelJkgh03RMtWJl2Uhv2zc-EJVOOFf76RhcaZgCGP1XgW6On8Z8Xbz8eb0d-z/pubhtml?gid=32717424&amp;single=true">16 Oct</a></td>
-<td style="width: 5%;"><b>-</b></td>
-<td style="width: 20%;">-</td>
+<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
 <td style="width: 5%;"><b>-</b></td>
 <td style="width: 20%;">-</td>
 <td style="width: 5%;"><b>-</b></td>
