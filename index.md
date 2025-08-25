@@ -20,16 +20,6 @@ sections:
           url: /notification/announcements/teacher-award-nomination/
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/herobannermascot4.jpg
-  - infopic:
-      title: Damai Primary Instagram
-      subtitle: Official Social Media
-      id: infopic
-      description: Nurturing and empowering every Damaian to learn, grow and lead.
-        Official IG account for DPS
-      button: Check Us Out!
-      url: https://www.instagram.com/damaiprimaryig/
-      image: /images/Random/damaiIG3.png
-      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
@@ -56,6 +46,16 @@ sections:
             Level 3.
           link_text: Video link
           link_url: https://drive.google.com/file/d/1mOpcU6gPLkZxMi_XjuxOnojnzSxrDfjS/view?usp=sharing
+  - infopic:
+      title: Damai Primary Instagram
+      subtitle: Official Social Media
+      id: infopic
+      description: Nurturing and empowering every Damaian to learn, grow and lead.
+        Official IG account for DPS
+      button: Check Us Out!
+      url: https://www.instagram.com/damaiprimaryig/
+      image: /images/Random/damaiIG3.png
+      alt: Image alt text
   - infopic:
       title: Calling for Teacher Award Nominations!
       subtitle: Teacher Award Nomination
