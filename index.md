@@ -57,15 +57,6 @@ sections:
       image: /images/Random/damaiIG3.png
       alt: Image alt text
   - infopic:
-      title: Calling for Teacher Award Nominations!
-      subtitle: Teacher Award Nomination
-      id: infopic
-      description: Do take time to nominate deserving teachers for the awards.
-      button: Find out more!
-      url: /notification/announcements/teacher-award-nomination/
-      image: /images/2097152.jpg
-      alt: Image alt text
-  - infopic:
       title: Parents' Briefing Slide
       subtitle: INFORMATION
       id: infopic
