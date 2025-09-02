@@ -74,32 +74,32 @@ variant: markdown
 <td style="width: 20%;">-</td>
 </tr><tr>
 <td style="width: 10%;"><b>5 SINCERITY</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzE_-bvf5KVP_GzxDZS_kXpBB08vnxTdZMtHxrCGADsdTfrTjpgGpGcTsO5FVsYL61gBLakKKxnVTS/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>5 PASSION</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSm1uwuohZYuDCYljjdcUwIBPCEXEFw09M9xMIgYksH-Ufh0G7pLzZRS9S8lOleVNE3u-VkupZuljbJ/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>5 ASPIRATION</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaoC3GryPQpAjIl4hgdet0QR4AGbYzGt8e9Do96DcVH--A-dpE5B2JiS0PMvsrECGBIbcMoSvjAyaT/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 </tr><tr>
 <td style="width: 10%;"><b>5 RESILIENCE</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT0Tt6_k3nx-SRU29b0uSrA9ExNfsuEGeNn_F8Q1XEmTBaXQo1lp9HN5FzfLbczXr5xBGYRWvP7glSw/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>5 KINDNESS</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1ojHXvwyHDWthWdAd9D7lSYg6TP2fmE0T_ln_XsNXMJlmuzaGE0xjaVrFqijgxLjDb8fszgewjiI9/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>-</b></td>
 <td style="width: 20%;">-</td>
 </tr><tr>
 <td style="width: 10%;"><b>6 SINCERITY</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;">-</td>
 <td style="width: 10%;"><b>6 PASSION</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;">-</td>
 <td style="width: 10%;"><b>6 ASPIRATION</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;">-</td>
 </tr><tr>
 <td style="width: 10%;"><b>6 RESILIENCE</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;">-</td>
 <td style="width: 10%;"><b>-</b></td>
 <td style="width: 20%;">-</td>
 <td style="width: 10%;"><b>-</b></td>
 <td style="width: 20%;">-</td>
 </tr></tbody></table><br>
 
-Updated on 20 Aug 2025 (more detail to come)
+Updated on 2 Sep 2025
