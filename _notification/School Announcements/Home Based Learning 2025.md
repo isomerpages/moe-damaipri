@@ -5,16 +5,10 @@ description: ""
 third_nav_title: School Announcements
 variant: markdown
 ---
-<b><font size="6">Home-Based Learning for P1 to P5</font></b>
+<b><font size="6">Home-Based Learning (HBL)</font></b>
 
-<div style="text-align:justify;">HBL aims to facilitate continuous learning during emergencies like school closures, while fostering student independence as self-directed learners.</div><br>
-
-<div style="text-align:justify;">Please refer to the details below for HBL</div>
-
-<b><font size="4">Schedule (will update soon)</font></b><br>
-<img src="/images/Announcement/2024/HBL_2024.jpg" style="width:100%">
-
-<div style="text-align:justify;">Hardcopy assignments need to be submitted to the respective Subject Teachers when your child/ward returns to school the next day.<br><br>We value your partnership and look forward to providing the best for our students.<br><br>If you need any further clarifications, please contact the General Office at Tel: 6445 6483.</div><br>
+<div style="text-align:justify;">HBL will be conducted for English Language, Mother Tongue Language, Mathematics and Science  on **Tuesday 16 September 2025.** </div><br>
+<div style="text-align:justify;">Assignments will be made available online via the <a href="https://vle.learning.moe.edu.sg/login">Student Learning Space (SLS)</a>. Hardcopy assignments will be provided to students without internet access. We value your partnership and look forward to providing the best for our students.<br><br>If you need any further clarifications, please contact the General Office at Tel: 6445 6483.</div><br>
 
 <table style="width: 100%;"><tbody><tr>
 <td style="width: 10%;"><b>1 SINCERITY</b></td>
