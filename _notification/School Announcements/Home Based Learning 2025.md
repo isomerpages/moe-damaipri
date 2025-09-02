@@ -60,14 +60,14 @@ variant: markdown
 <td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSp1NUyr3xGBogwfKKh_pBSGO2LtPUWp9QJz0VEOnNX1ECaDnGSPBTWlQ8lVZcqd373jegtiGLBY8Fb/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 </tr><tr>
 <td style="width: 10%;"><b>4 SINCERITY</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8BDR_a3CE8Gk5KkEMAxGEosBo7_OQ1qckHfdIjWjyhPnCcNmohn4_tufb___ILh2vAFg7mE4VhPhC/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>4 PASSION</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRq7T2v4aZqeRFnU5y9f3_I4UuikksfRmZ7tVQ9SRap1KdCqgJaUYzqJ1vn1b8h0YwQ1hWC5T47D7Ty/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>4 ASPIRATION</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSxvdWVClC43UFnlHPDPlIyrv-waodXet51D0QujRtBVB2GdORAJ-bOsR06_KNfPh_q2LK5llj5hX0f/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 </tr><tr>
 <td style="width: 10%;"><b>4 RESILIENCE</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs5B5QJMqzRYH_0xOLglANsc_oupXUeJ2jBfeJCCjouDF9BoXAxmX8mnV-q2KWhv0c_XcI352tpbF0/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>-</b></td>
 <td style="width: 20%;">-</td>
 <td style="width: 10%;"><b>-</b></td>
