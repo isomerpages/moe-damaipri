@@ -22,12 +22,12 @@ variant: markdown
 <td style="width: 10%;"><b>1 PASSION</b></td>
 <td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
 <td style="width: 10%;"><b>1 ASPIRATION</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMQ4QH3CfW5fZjTrECiFpemOF3sZ449o0oU19Et1gXKk98q7GLfR_OSfgZy3p8XeG6CZ9GfQ9ZIpRF/pubhtml?gid=1132104826&amp;single=true">16 Sep</a></td>
 </tr><tr>
 <td style="width: 10%;"><b>1 RESILIENCE</b></td>
 <td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
 <td style="width: 10%;"><b>1 KINDNESS</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTuxtvfpFQV8AAxxYRHqr_z4M3lmd8H5sNS16TmnS0W5qjq8odJ75eIJkGZODlx9FwIbJ8kuVk6-gW/pubhtml?gid=1132104826&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>-</b></td>
 <td style="width: 20%;">-</td>
 </tr><tr>
