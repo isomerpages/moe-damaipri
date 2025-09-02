@@ -32,7 +32,7 @@ variant: markdown
 <td style="width: 20%;">-</td>
 </tr><tr>
 <td style="width: 10%;"><b>2 SINCERITY</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTmP1QZB_D9qkVgGpH8lA5GXbZLmqjc_ecKmTGjOx1WVUgg95wJp49OvaTrNuzMzeDTOirChx2ADpYu/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>2 PASSION</b></td>
 <td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTok4D2ZoEQGfsc2U4aTOtAIYWlemCU68vDTYrJW8KM9BE2LkH8ZRd6lWQ7UjGCsgdYC5-pU0-C5isH/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>2 ASPIRATION</b></td>
