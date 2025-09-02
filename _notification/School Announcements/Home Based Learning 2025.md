@@ -48,16 +48,16 @@ variant: markdown
 <td style="width: 10%;"><b>3 SINCERITY</b></td>
 <td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
 <td style="width: 10%;"><b>3 PASSION</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6Ij4voB7LsncG7UgC2D33kswOfgY1EYMxwVAIhtLdkQtOlvkBgFAsxw3wOv1nBe4cD-aFVPb5j_zz/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>3 ASPIRATION</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQfcPsC6g_hvpGNaK5qeuYThLo8Sx4UiTMClcOgBt6WzMILqrHPbSoJpYfUOnqPlQ4Pd1D26CLIXiW6/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 </tr><tr>
 <td style="width: 10%;"><b>3 RESILIENCE</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSde-gDpSyky20tcJO9z66e1OEBEi5W6l_0fx5798IZkmKqhGduzVH_uz4hyRKWnC5kriWoAV1EVkGQ/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>3 KINDNESS</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTypGOHxpPlYi-Qw3u_4cA_cObjkUlI5X5xHBjoJW1XLsgVoT2R25WJD7uzYdQIilg93OAjQDBTgcTx/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>3 LEADERSHIP</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSp1NUyr3xGBogwfKKh_pBSGO2LtPUWp9QJz0VEOnNX1ECaDnGSPBTWlQ8lVZcqd373jegtiGLBY8Fb/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 </tr><tr>
 <td style="width: 10%;"><b>4 SINCERITY</b></td>
 <td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
