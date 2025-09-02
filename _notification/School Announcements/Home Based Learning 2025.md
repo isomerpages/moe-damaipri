@@ -46,7 +46,7 @@ variant: markdown
 <td style="width: 20%;">-</td>
 </tr><tr>
 <td style="width: 10%;"><b>3 SINCERITY</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR00mDzm2LxKKa40if2NLITjW_BaeAv2Fkv_Gg9nsPsLf9AHyu1YtiyIUIC9X2_BBLcb_lS8JTjY9fj/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>3 PASSION</b></td>
 <td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6Ij4voB7LsncG7UgC2D33kswOfgY1EYMxwVAIhtLdkQtOlvkBgFAsxw3wOv1nBe4cD-aFVPb5j_zz/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>3 ASPIRATION</b></td>
