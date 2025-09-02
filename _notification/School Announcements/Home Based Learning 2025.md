@@ -34,14 +34,14 @@ variant: markdown
 <td style="width: 10%;"><b>2 SINCERITY</b></td>
 <td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
 <td style="width: 10%;"><b>2 PASSION</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTok4D2ZoEQGfsc2U4aTOtAIYWlemCU68vDTYrJW8KM9BE2LkH8ZRd6lWQ7UjGCsgdYC5-pU0-C5isH/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>2 ASPIRATION</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTvDjeGuGUkYioD5sNK9dsOfXwor-ft3bexLaQ_lMT5dQDrQ2FRSnG5BORYuFZ7ImQ5tgABGwoifAf1/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 </tr><tr>
 <td style="width: 10%;"><b>2 RESILIENCE</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTz94n_fKqhePHJWPXMhVrwxCNqGaZH3FpYQ5h_pjK5sqU0OaEs68TUST7yIQsCOanSOaAFmUupNiiO/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>2 KINDNESS</b></td>
-<td style="width: 20%;"><a href="xxxxxxxxxx">16 Sep</a></td>
+<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTwimbpQuk2XlQ0HSWAFJ2p2KwIVJHWgZu8oXteqCqI2rN7bm0kNtR9bhoDBp7bAf9HE-PvCPAY87NJ/pubhtml?gid=1527936744&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>-</b></td>
 <td style="width: 20%;">-</td>
 </tr><tr>
