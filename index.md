@@ -47,6 +47,16 @@ sections:
           link_text: Video link
           link_url: https://drive.google.com/file/d/1mOpcU6gPLkZxMi_XjuxOnojnzSxrDfjS/view?usp=sharing
   - infopic:
+      title: Home-Based Learning (HBL)
+      subtitle: 16 September 2025
+      id: infopic
+      description: HBL will be conducted for English Language, Mother Tongue Language,
+        Mathematics and Science
+      button: Click to find out more
+      url: /notification/announcements/hbl/
+      image: /images/Announcement/2024/HBL.jpg
+      alt: Image alt text
+  - infopic:
       title: Damai Primary Instagram
       subtitle: Official Social Media
       id: infopic
