@@ -7,7 +7,7 @@ variant: markdown
 ---
 <b><font size="6">Home-Based Learning (HBL)</font></b>
 
-<div style="text-align:justify;">HBL will be conducted for English Language, Mother Tongue Language, Mathematics and Science  on **Tuesday 16 September 2025.** </div><br>
+<div style="text-align:justify;">HBL will be conducted for English Language, Mother Tongue Language, Mathematics and Science  on <b>Tuesday 16 September 2025.</b></div><br>
 <div style="text-align:justify;">Assignments will be made available online via the <a href="https://vle.learning.moe.edu.sg/login">Student Learning Space (SLS)</a>. Hardcopy assignments will be provided to students without internet access. We value your partnership and look forward to providing the best for our students.<br><br>If you need any further clarifications, please contact the General Office at Tel: 6445 6483.</div><br>
 
 <table style="width: 100%;"><tbody><tr>
@@ -96,4 +96,4 @@ variant: markdown
 <td style="width: 20%;">-</td>
 </tr></tbody></table><br>
 
-Updated on 2 Sep 2025
+Updated on 3 Sep 2025
