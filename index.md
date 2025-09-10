@@ -20,16 +20,6 @@ sections:
           url: /notification/announcements/teacher-award-nomination/
       subtitle: Confident Individuals ● Thinking Learners ● Engaged Leaders
       background: /images/HomeMatter/herobannermascot4.jpg
-  - infopic:
-      title: Damai Primary Instagram
-      subtitle: Official Social Media
-      id: infopic
-      description: Nurturing and empowering every Damaian to learn, grow and lead.
-        Official IG account for DPS
-      button: Check Us Out!
-      url: https://www.instagram.com/damaiprimaryig/
-      image: /images/Random/damaiIG3.png
-      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
@@ -57,13 +47,24 @@ sections:
           link_text: Video link
           link_url: https://drive.google.com/file/d/1mOpcU6gPLkZxMi_XjuxOnojnzSxrDfjS/view?usp=sharing
   - infopic:
-      title: Calling for Teacher Award Nominations!
-      subtitle: Teacher Award Nomination
+      title: Home-Based Learning (HBL)
+      subtitle: 16 September 2025
       id: infopic
-      description: Do take time to nominate deserving teachers for the awards.
-      button: Find out more!
-      url: /notification/announcements/teacher-award-nomination/
-      image: /images/2097152.jpg
+      description: HBL will be conducted for English Language, Mother Tongue Language,
+        Mathematics and Science
+      button: Click to find out more
+      url: /notification/announcements/hbl/
+      image: /images/Announcement/2024/HBL.jpg
+      alt: Image alt text
+  - infopic:
+      title: Damai Primary Instagram
+      subtitle: Official Social Media
+      id: infopic
+      description: Nurturing and empowering every Damaian to learn, grow and lead.
+        Official IG account for DPS
+      button: Check Us Out!
+      url: https://www.instagram.com/damaiprimaryig/
+      image: /images/Random/damaiIG3.png
       alt: Image alt text
   - infopic:
       title: Parents' Briefing Slide
