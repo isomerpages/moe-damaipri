@@ -7,14 +7,12 @@ variant: markdown
 ---
 <b><font size="6">Home-Based Learning (HBL)</font></b>
 
-<div style="text-align:justify;">HBL will be conducted for P1 to P5 on Tuesday 16 September 2025. The subjects involved are English Language, Mother Tongue Language, Mathematics and Science. Please refer to the respective Instructional Guide below for the detailed instructions given for your child's class.</div><br>
+<div style="text-align:justify;">HBL will be conducted for P1 to P5 on Tuesday 16 September 2025. The subjects involved are English Language, Mother Tongue Language, Mathematics and Science. Please refer to the respective Instructional Guide below for the detailed instructions given for your child's class.<br>
+Assignments will be made available online via the Student Learning Space <a href="https://vle.learning.moe.edu.sg/login">SLS</a> or <a href="https://member.koobits.com/">Koobits</a>. Students may access <a href="https://vle.learning.moe.edu.sg/login">SLS</a> or <a href="https://member.koobits.com/">Koobits</a> using a digital device like a computer, tablet or mobile phone to complete the assignments. The online assignments should take about 30 minutes to complete for each subject. We have limited screen time for the students to 2 hours.<br>
+For students without access to digital devices, hardcopy assignments will be provided by their subject teachers on Monday 15 September 2025. We value your partnership and look forward to providing the best for our students.<br>
+If you need any clarifications on the Instructional Guide, please contact the subject teachers directly.<br>
+If you encounter any difficulties logging in to SLS or Koobits on HBL day, you may contact General Office at Tel: <b>6445 6483</b></div><br>
 
-<div style="text-align:justify;">Assignments will be made available online via the Student Learning Space <a href="https://vle.learning.moe.edu.sg/login">SLS</a> or <a href="https://member.koobits.com/">Koobits</a>. Students may access <a href="https://vle.learning.moe.edu.sg/login">SLS</a> or <a href="https://member.koobits.com/">Koobits</a> using a digital device like a computer, tablet or mobile phone to complete the assignments. The online assignments should take about 30 minutes to complete for each subject. We have limited screen time for the students to 2 hours.</div><br>
-
-<div style="text-align:justify;">For students without access to digital devices, hardcopy assignments will be provided by their subject teachers on Monday 15 September 2025. We value your partnership and look forward to providing the best for our students.</div><br>
-
-<div style="text-align:justify;">If you need any clarifications on the Instructional Guide, please contact the subject teachers directly.</div><br>
-<div style="text-align:justify;">If you encounter any difficulties logging in to SLS or Koobits on HBL day, you may contact General Office at General Office at Tel: <b>6445 6483</b></div><br>
 <b><font size="6">Instructional Guides</font></b>
 <table style="width: 100%;"><tbody><tr>
 <td style="width: 10%;"><b>1<br>SINCERITY</b></td>
@@ -102,4 +100,4 @@ variant: markdown
 <td style="width: 20%;">-</td>
 </tr></tbody></table><br>
 
-Updated on 10 Sep 2025
+Updated on 11 Sep 2025
