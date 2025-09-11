@@ -100,4 +100,4 @@ If you encounter any difficulties logging in to SLS or Koobits on HBL day, you m
 <td style="width: 20%;">-</td>
 </tr></tbody></table><br>
 
-Updated on 10 Sep 2025
+Updated on 11 Sep 2025
