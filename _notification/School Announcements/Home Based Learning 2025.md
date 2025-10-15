@@ -16,7 +16,7 @@ If you encounter any difficulties logging in to SLS or Koobits on HBL day, you m
 <b><font size="6">Instructional Guides</font></b>
 <table style="width: 100%;"><tbody><tr>
 <td style="width: 10%;"><b>1<br>SINCERITY</b></td>
-<td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT575UPDh5xwH7vg8uRNo12Pgt0xrQPqmjHEiPKVPcHuK0tJefemT_7_7o8ScEVY0QMRrYfpzE8HLJD/pubhtml?gid=1132104826&amp;single=true">16 Sep</a></td>
+<td style="width: 20%;"><a href="xxxx">25 Sep</a><br></td>
 <td style="width: 10%;"><b>1<br>PASSION</b></td>
 <td style="width: 20%;"><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkIkNKMKqEg_FSIkFmM-Ijal3ef7-8wIkm9QASNKt9ZcvzemSWr63oPlg_tRMDAvAbF1_NTfwBEA5h/pubhtml?gid=1132104826&amp;single=true">16 Sep</a></td>
 <td style="width: 10%;"><b>1<br>ASPIRATION</b></td>
