@@ -7,12 +7,12 @@ third_nav_title: School Services
 ---
 # School Bookshop and Uniform Opening Dates during the school Holidays. 
 
-November : **18, 19, 20 27, 28 and 29**
+November : **27 and 28 November 2025**
 
-December:  **9, 10, 18, 19, 20, 26, 27 and 30 **
+December:  **3, 4, 5, 10, 11, 12, 15, 16, 17, 18, 19, 22, 23, 26, 29 and 30 December 2025**
 
 **(FAS collection dates)**
-December : 4, 5 and 6 
+December : **10 to 12 December 2025**
                         
 
 
@@ -41,3 +41,5 @@ Address : **2 Sims Close. Gemini @ Sims #03-08. Singapore 387298 (NO Walk – in
 Telephone : **6743 6645 / 6743 3627**<br>
 Operating Hours : **8.30am to 3pm** (During school days)<br>
 (On consignment to the school bookshop)
+
+Updated: 27/10/2025
