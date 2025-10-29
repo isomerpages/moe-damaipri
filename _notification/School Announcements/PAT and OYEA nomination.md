@@ -23,4 +23,4 @@ OYEA 2026 - https://go.gov.sg/oyea2026
 
 For queries and/or feedback about the awards, please contact MOE_PATOYEA@moe.gov.sg or visit the PAT website as well as the OYEA website.
 
-Updated on 29/10/2025
+Updated on 29 Oct 2025
