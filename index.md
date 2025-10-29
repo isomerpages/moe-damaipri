@@ -47,14 +47,14 @@ sections:
           link_text: Video link
           link_url: https://drive.google.com/file/d/1mOpcU6gPLkZxMi_XjuxOnojnzSxrDfjS/view?usp=sharing
   - infopic:
-      title: Home-Based Learning (HBL)
-      subtitle: 16 September 2025
+      title: PAT and OYEA 2026 Nomination
+      subtitle: 29 Oct 2025
       id: infopic
-      description: HBL will be conducted for English Language, Mother Tongue Language,
-        Mathematics and Science
+      description: Nomination for President’s Award for Teachers (PAT) and Outstanding
+        Youth in Education Award (OYEA) 2026 are now open.
       button: Click to find out more
-      url: /notification/announcements/hbl/
-      image: /images/Announcement/2024/HBL.jpg
+      url: /notification/announcements/pat-and-oyea-nomination/
+      image: /images/Announcement/2025/Screenshot_2025_10_29_083300.png
       alt: Image alt text
   - infopic:
       title: Damai Primary Instagram
