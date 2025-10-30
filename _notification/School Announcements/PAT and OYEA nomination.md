@@ -17,10 +17,10 @@ Do take the opportunity to nominate teachers who have supported your child in hi
 
 Express your appreciation to the teachers by submitting the nominations online:
 ![](/images/pat25.png)
-PAT 2026 - https://go.gov.sg/pat2026
+PAT 2026 - [https://go.gov.sg/pat2026](https://go.gov.sg/pat2026)
 ![](/images/OYEA_Award_Banner.png)
-OYEA 2026 - https://go.gov.sg/oyea2026  
+OYEA 2026 - [https://go.gov.sg/oyea2026](https://go.gov.sg/oyea2026)
 
-For queries and/or feedback about the awards, please contact MOE_PATOYEA@moe.gov.sg or visit the PAT website as well as the OYEA website.
+For queries and/or feedback about the awards, please contact [MOE_PATOYEA@moe.gov.sg](MOE_PATOYEA@moe.gov.sg) or visit the PAT website as well as the OYEA website.
 
-Updated on 29 Oct 2025
+Updated on 30 Oct 2025
