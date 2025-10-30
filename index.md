@@ -48,13 +48,24 @@ sections:
           link_url: https://drive.google.com/file/d/1mOpcU6gPLkZxMi_XjuxOnojnzSxrDfjS/view?usp=sharing
   - infopic:
       title: PAT and OYEA 2026 Nomination
-      subtitle: 29 Oct 2025
+      subtitle: Nomination
       id: infopic
       description: Nomination for President’s Award for Teachers (PAT) and Outstanding
         Youth in Education Award (OYEA) 2026 are now open.
       button: Click to find out more
       url: /notification/announcements/pat-and-oyea-nomination/
       image: /images/Announcement/2025/Screenshot_2025_10_29_083300.png
+      alt: Image alt text
+  - infopic:
+      title: Caring Teacher Award (CTA) 2026
+      subtitle: Nomination
+      id: infopic
+      description: Organised by National Institute of Education (NIE), this biennial
+        award aims to acknowledge teachers who demonstrate exemplary care and
+        concern.
+      button: Click to find out more
+      url: /notification/announcements/caring-teacher-award/
+      image: /images/Announcement/2025/CTA_Poster_2025small.jpg
       alt: Image alt text
   - infopic:
       title: Damai Primary Instagram
