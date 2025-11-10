@@ -12,7 +12,7 @@ Here are the principal's letter for parents.
 | -------- | -------- | -------- |
 |**April** - | **[May](/files/Principal_letters/2025/2025_May_Principal_s_Letter_Final.pdf)** | **June** - |
 | **[July](/files/Principal_letters/2025/2025_222_30_June_Principal_Letter_Final_for_PG.pdf)** | **[August](/files/Principal_letters/2025/2025_256_18_Aug_Principal_s_Letter_Final_v2.pdf)**| **[September](/files/Principal_letters/2025/2025_275_15_September_Principal_s_Letter_Final.pdf)** |
-| **October** | **November** | **December** |
+| **October** | **[November](/files/Principal_letters/2025/2025_293_10_Nov_Principal_s_Letter_Final.pdf)** | **December** |
 
 
 
@@ -24,4 +24,4 @@ Here are the principal's letter for parents.
 | **July** - | **[August](/files/Principal_letters/2024/2024_Aug_Principal_Letter_Final.pdf)** | [**September**](/files/Principal_letters/2024/2024_270_9_Sept_Principal_s_Letter_Final_v2.pdf) |
 | **October** - | [**November**](/files/Principal_letters/2024/2024_306_4_Nov_Principal_s_Letter_Final.pdf) | **December** |
 
-Updated on 17 Sep 2025
+Updated on 10 Nov 2025
