@@ -24,12 +24,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: General Office Closure
-          date: 28 November 2025
-          announcement: General Office will be closed from 1pm onwards on Friday 28
-            November 2025 due to staff function.
-          link_text: ""
-          link_url: ""
         - title: Long Term Relocation Plans to Tampines Street 64
           date: 14 May 2025
           announcement: The Ministry of Education will be announcing the relocation of
