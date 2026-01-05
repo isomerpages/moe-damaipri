@@ -19,23 +19,18 @@ variant: markdown
 <table class="tg"><tbody>
 <tr><th class="tg-s25z" rowspan="1" colspan="2"><b>Primary 3</b></th></tr>
 <tr></tr><tr><td rowspan="2" colspan="1">3 Sincerity</td>
-<td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:lim_kok_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Kok Soon</a></td></tr>
-<tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:marinah_mohsin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Marinah Binte Mohsin Bin Talib</a></td></tr>
+<td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:mak_yew_fatt@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Irene Mak Yew Fatt</a></td></tr>
+<tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:ling_liang_chee_dianne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Dianne Ang</a></td></tr>
 <tr><td rowspan="2" colspan="1">3 Passion</td>
-<td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:yu_sim_pei_elise@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Elise Lee</a></td></tr>
-<tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:syuib_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Syu'ib B Ahmad</a></td></tr>
+<td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:loo_hui_qin_gladys@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Loo Hui Qin Gladys</a></td></tr>
+<tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:chen_xin_lei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chen Xin Lei</a></td></tr>
 <tr><td rowspan="2" colspan="1">3 Aspiration</td>
-<td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:foo_chao_hen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Foo Chao Hen</a></td></tr>
-<tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:teoh_han_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teoh Han Yun Stella</a></td></tr>
-<tr><td rowspan="2" colspan="1">3 Resilience</td>
-<td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:tseng_hwei_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tracy Tseng Hwei Wen</a></td></tr>
-<tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:Karthick_Prema@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Karithick Prema</a></td></tr>
-<tr><td rowspan="2" colspan="1">3 Kindness</td>
-<td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:rohani_abdul_kader@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rohani Bte Abdul Kader</a></td></tr>
-<tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:zheng_jiawei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zheng Jiawei Alice</a></td></tr>
-<tr><td rowspan="2" colspan="1">3 Leadership</td>
-<td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:rozi_bahari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rozi Bahari</a></td></tr>
-<tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:ong_su_may_laurice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ong Su May Laurice Sara</a></td></tr>
+<td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:koh_bee_khim_sally@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sally Koh Bee Khim</a></td></tr>
+<tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:lin_huijun_christine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Christine Lim</a></td></tr>
+<tr><td rowspan="3" colspan="1">3 Resilience</td>
+<td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:noreha_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noreha Mohamed </a></td></tr>
+<tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:eric_tan_wei_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Eric Tan Wei Chong</a></td></tr>
+<tr><td class="tg-73oq" rowspan="“1”" colspan="“1”"><a href="mailto:Chia_Simin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chia Simin</a></td></tr>
 </tbody></table>
 
-Updated 6th Dec 2024
+Updated 6th Jan 2026

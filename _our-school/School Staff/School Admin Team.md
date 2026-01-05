@@ -20,8 +20,8 @@ variant: markdown
 <tr>
 </tr><tr><td class="tg-73oq">Ms Gwendolyn Ong - Admin Manager</td></tr>
 <tr><td class="tg-73oq">Mr Hamim B Hashim - Operations Manager</td></tr>
-<tr><td class="tg-73oq">Ms Normala Ab Hamid - Admin Executive</td></tr>
-<tr><td class="tg-73oq">Mr Hadi Mulyono Bin Wakiono - Admin Executive</td></tr>
+<tr><td class="tg-73oq">Mr Hadi Mulyono Bin Wakiono - Operations Manager</td></tr>
+	<tr><td class="tg-73oq">Ms Normala Ab Hamid - Admin Executive</td></tr>
 <tr><td class="tg-73oq">Mr Jeffery Wong - ICT Manager</td></tr>
 <tr><td class="tg-73oq">Mdm Surinah Sapuan Ali - Corporate Support Officer</td></tr>
 <tr><td class="tg-73oq">Mdm Lee Sok Cheng - Corporate Support Officer</td></tr>
@@ -37,4 +37,4 @@ variant: markdown
 <tr><td class="tg-73oq">Mr Osman Bin Abu</td></tr>
 </tbody></table>
 
-Updated 6th Dec 2024
+Updated 5th Jan 2026

@@ -15,6 +15,7 @@ variant: markdown
 	<tbody><tr class="tg-s25z"><th rowspan="1" colspan="1"><b>Head of Department</b></th></tr>
 		<tr class="tg-73oq"><td><a href="mailto:ho_mei_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ho Mei Fong</a> - HOD English</td></tr>
 		<tr class="tg-73oq"><td><a href="mailto:pang_siew_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pang Siew Yin</a> - HOD Mathematics</td></tr>
+		<tr class="tg-73oq"><td><a href="mailto:poon_sook_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Poon Sook Yee</a> - HOD Science</td></tr>
 		<tr class="tg-73oq"><td><a href="mailto:chen_xin_lei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chen Xin Lei</a> - HOD Mother Tongue</td></tr>
 		<tr class="tg-73oq"><td rowspan="1" colspan="1"><a href="mailto:ling_liang_chee_dianne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Dianne Ang</a> - HOD Aesthetics</td></tr>
 		<tr class="tg-73oq"><td><a href="mailto:tan_seok_ling_shirley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirley Tan Seok Ling</a> - HOD Character &amp; Citizenship Education</td></tr>
@@ -48,4 +49,4 @@ variant: markdown
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
 
-Updated 16th Jul 2025
+Updated 5th Jan 2026
