@@ -6,9 +6,9 @@ third_nav_title: School Announcements
 variant: tiptap
 ---
 <p>Dear Parents,</p>
-<p>Do spend some time going through the slides<a href="/files/Announcement/2025/2025_P___YH_Address_To_Parents_Parents_Briefing_P6_final_website2.pdf" rel="noopener noreferrer nofollow" target="_blank">,</a> as
-the information will benefit you and your child.</p>
-<p>You can also access these PDFs by clicking on the link below:</p>
+<p>Take some time to go through the slides<a href="" rel="noopener noreferrer nofollow" target="_blank">,</a>&nbsp;as the information will benefit you and your child.</p>
+<p>You may access these PDFs by clicking the link below. Note that, due to
+the large file size, they will be divided into parts.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
