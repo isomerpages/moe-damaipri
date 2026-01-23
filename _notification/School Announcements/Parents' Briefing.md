@@ -25,8 +25,7 @@ the large file size, they will be divided into parts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Announcement/2024/P1_Orientation_Day_2024_Hall_Slides_website.pdf" rel="noopener nofollow" target="_blank">Primary 1 (Orientation)</a>
-</p>
+<p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Announcement/2025/2025_P2_Parents_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 (2025)</a>
