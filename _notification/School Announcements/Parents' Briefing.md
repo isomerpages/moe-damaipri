@@ -6,8 +6,8 @@ third_nav_title: School Announcements
 variant: tiptap
 ---
 <p>Dear Parents,</p>
-<p>Do spend some time going through the slides as the information will benefit
-you and your child.</p>
+<p>Do spend some time going through the slides<a href="/files/Announcement/2025/2025_P___YH_Address_To_Parents_Parents_Briefing_P6_final_website2.pdf" rel="noopener noreferrer nofollow" target="_blank">,</a> as
+the information will benefit you and your child.</p>
 <p>You can also access these PDFs by clicking on the link below:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -49,10 +49,12 @@ you and your child.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Announcement/2025/2025_P___YH_Address_To_Parents_Parents_Briefing_P6_final_website2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (2025)</a>
+<p>Primary 6 (2026) - <a href="/files/Announcement/2026/2026_P_n_YH_Address_To_Parents_Parents_Briefing_P6_part_1.pdf" rel="noopener nofollow" target="_blank">Part 1</a> &amp;
+<a href="/files/Announcement/2026/2026_P_n_YH_Address_To_Parents_Parents_Briefing_P6_part_2.pdf" rel="noopener nofollow" target="_blank">Part 2</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p>Updated on 23/1/2026</p>
