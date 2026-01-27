@@ -88,8 +88,8 @@ by teachers</p>
 <p>be better problem solvers</p>
 </li>
 </ul>
-<p>All the above will result in good study habits and skills as well as improving
-their attitude towards school.</p>
+<p>resulting in good study habits and skills as well as improving their attitude
+towards school.</p>
 <h3>Monitoring of Homework</h3>
 <p>Monitoring of Homework can provide parents with:</p>
 <ul data-tight="true" class="tight">
@@ -104,30 +104,26 @@ their attitude towards school.</p>
 <p>Parents can do the following to supervise their children homework:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To create a home environment conducive for studying and completion of
-homework</p>
+<p>create a home environment conducive for studying and completion of homework</p>
 </li>
 <li>
-<p>To guide and reinforce good study habits and attitudes</p>
+<p>guide and reinforce good study habits and attitudes</p>
 </li>
 <li>
-<p>To refer to the student’s handbook daily for updates on homework/assignment/feedback</p>
+<p>refer to the student’s handbook daily for updates on homework/assignment/feedback</p>
 </li>
 <li>
-<p>To spend time to go through the child’s school work</p>
+<p>spend time to go through the child’s school work</p>
 </li>
 <li>
-<p>To help the child to learn through homework assignments</p>
+<p>help the child to learn through homework assignments</p>
 </li>
 <li>
-<p>To consult teachers on the child’s progress</p>
+<p>consult teachers on the child’s progress</p>
 </li>
 <li>
-<p>To be mindful of the stresses arising from school homework and out-of-school
-activities, and help the child to prioritise his/her time among these activities</p>
-</li>
-<li>
-<p>To ensure that homework is done before their tuition work</p>
+<p>be mindful of the stresses arising from school homework and out-of-school
+activities, and help their children prioritise their time among these activities</p>
 </li>
 <li>
 <p>Parents are reminded not to do the homework for their children. They should
@@ -135,22 +131,5 @@ also help their children to ensure that homework is done before their tuition
 work.</p>
 </li>
 </ul>
-<h3>Primary 1 &amp; Primary 2</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Daily reading for enjoyment</p>
-</li>
-<li>
-<p>Either English, Mathematics and/or Mother Tongue homework</p>
-</li>
-</ul>
-<h3>Primary 3 - Primary 6</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Daily reading for enjoyment</p>
-</li>
-<li>
-<p>English, Mathematics, Science and Mother Tongue homework</p>
-</li>
-</ul>
+<p>Updated on 27th Jan 2026</p>
 <p></p>
