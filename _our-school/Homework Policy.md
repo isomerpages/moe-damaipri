@@ -6,10 +6,9 @@ variant: tiptap
 ---
 <h1>General Guidelines on Homework</h1>
 <h3>Definition of Homework</h3>
-<p>Homework refers to any learning activity that schools require students
-to complete outside of curriculum time, regardless of the mode of delivery
-(i.e. pen-and-paper, virtual/ online). This includes assignments and projects
-but not revision of school work or studying for tests and examinations.</p>
+<p>Homework refers to any learning activity in curricular subjects that schools
+require students to complete outside of curriculum time, regardless of
+the mode of delivery (i.e. pen-and-paper, virtual/online).</p>
 <h3>Objectives of Homework</h3>
 <p>Effective use of Homework can help students to</p>
 <ul data-tight="true" class="tight">
@@ -28,9 +27,11 @@ learning</p>
 </li>
 </ul>
 <h3>Students’ Role</h3>
-<p>Students should:
-<br>Understand the purpose of homework and what is expected of them</p>
+<p>Students should:</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>understand the purpose of homework and what is expected of them</p>
+</li>
 <li>
 <p>keep track of homework instructions and deadlines</p>
 </li>
@@ -87,8 +88,8 @@ by teachers</p>
 <p>be better problem solvers</p>
 </li>
 </ul>
-<p>All the above will result in good study habits and skills as well as improving
-their attitude towards school.</p>
+<p>resulting in good study habits and skills as well as improving their attitude
+towards school.</p>
 <h3>Monitoring of Homework</h3>
 <p>Monitoring of Homework can provide parents with:</p>
 <ul data-tight="true" class="tight">
@@ -103,30 +104,26 @@ their attitude towards school.</p>
 <p>Parents can do the following to supervise their children homework:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To create a home environment conducive for studying and completion of
-homework</p>
+<p>create a home environment conducive for studying and completion of homework</p>
 </li>
 <li>
-<p>To guide and reinforce good study habits and attitudes</p>
+<p>guide and reinforce good study habits and attitudes</p>
 </li>
 <li>
-<p>To refer to the student’s handbook daily for updates on homework/assignment/feedback</p>
+<p>refer to the student’s handbook daily for updates on homework/assignment/feedback</p>
 </li>
 <li>
-<p>To spend time to go through the child’s school work</p>
+<p>spend time to go through the child’s school work</p>
 </li>
 <li>
-<p>To help the child to learn through homework assignments</p>
+<p>help the child to learn through homework assignments</p>
 </li>
 <li>
-<p>To consult teachers on the child’s progress</p>
+<p>consult teachers on the child’s progress</p>
 </li>
 <li>
-<p>To be mindful of the stresses arising from school homework and out-of-school
-activities, and help the child to prioritise his/her time among these activities</p>
-</li>
-<li>
-<p>To ensure that homework is done before their tuition work</p>
+<p>be mindful of the stresses arising from school homework and out-of-school
+activities, and help their children prioritise their time among these activities</p>
 </li>
 <li>
 <p>Parents are reminded not to do the homework for their children. They should
@@ -134,22 +131,5 @@ also help their children to ensure that homework is done before their tuition
 work.</p>
 </li>
 </ul>
-<h3>Primary 1 &amp; Primary 2</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Daily reading for enjoyment</p>
-</li>
-<li>
-<p>Either English, Mathematics and/or Mother Tongue homework</p>
-</li>
-</ul>
-<h3>Primary 3 - Primary 6</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Daily reading for enjoyment</p>
-</li>
-<li>
-<p>English, Mathematics, Science and Mother Tongue homework</p>
-</li>
-</ul>
+<p>Updated on 27/1/2026</p>
 <p></p>
