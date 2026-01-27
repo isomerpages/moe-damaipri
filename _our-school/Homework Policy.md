@@ -6,10 +6,9 @@ variant: tiptap
 ---
 <h1>General Guidelines on Homework</h1>
 <h3>Definition of Homework</h3>
-<p>Homework refers to any learning activity that schools require students
-to complete outside of curriculum time, regardless of the mode of delivery
-(i.e. pen-and-paper, virtual/ online). This includes assignments and projects
-but not revision of school work or studying for tests and examinations.</p>
+<p>Homework refers to any learning activity in curricular subjects that schools
+require students to complete outside of curriculum time, regardless of
+the mode of delivery (i.e. pen-and-paper, virtual/online).</p>
 <h3>Objectives of Homework</h3>
 <p>Effective use of Homework can help students to</p>
 <ul data-tight="true" class="tight">
@@ -28,9 +27,11 @@ learning</p>
 </li>
 </ul>
 <h3>Students’ Role</h3>
-<p>Students should:
-<br>Understand the purpose of homework and what is expected of them</p>
+<p>Students should:</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>understand the purpose of homework and what is expected of them</p>
+</li>
 <li>
 <p>keep track of homework instructions and deadlines</p>
 </li>
