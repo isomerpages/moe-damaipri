@@ -39,6 +39,25 @@ sections:
           link_text: For more information
           link_url: https://www.moe.gov.sg/preschool/moe-kindergarten
   - infopic:
+      title: Parents' Briefing Slide
+      subtitle: INFORMATION
+      id: infopic
+      description: You may find the briefing slides here
+      button: Click here
+      url: /notification/announcements/parentbriefing/
+      image: /images/Announcement/damaitemplate.jpg
+      alt: Image alt text
+  - infopic:
+      title: Inspiring Teacher of English Award 2026
+      subtitle: Call for Nominations
+      id: infopic
+      description: Nominations for Inspiring Teacher of English Award are now open.
+        You are invited to send in nominations by 6 p.m. on 23 March 2026.
+      button: Find out more
+      url: /notification/announcements/teacher-award-nomination/
+      image: /images/Announcement/2025/2026_02_ilovenglish.png
+      alt: Image alt text
+  - infopic:
       title: Damai Primary Instagram
       subtitle: Official Social Media
       id: infopic
@@ -47,15 +66,6 @@ sections:
       button: Check Us Out!
       url: https://www.instagram.com/damaiprimaryig/
       image: /images/Random/damaiIG3.png
-      alt: Image alt text
-  - infopic:
-      title: Parents' Briefing Slide
-      subtitle: INFORMATION
-      id: infopic
-      description: You may find the briefing slides here
-      button: Click here
-      url: /notification/announcements/parentbriefing/
-      image: /images/Announcement/damaitemplate.jpg
       alt: Image alt text
   - infopic:
       title: Useful Links
