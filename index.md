@@ -49,17 +49,6 @@ sections:
       image: /images/Announcement/2025/Screenshot_2025_10_29_083300.png
       alt: Image alt text
   - infopic:
-      title: Caring Teacher Award (CTA) 2026
-      subtitle: Nomination
-      id: infopic
-      description: Organised by National Institute of Education (NIE), this biennial
-        award aims to acknowledge teachers who demonstrate exemplary care and
-        concern.
-      button: Click to find out more
-      url: /notification/announcements/caring-teacher-award/
-      image: /images/Announcement/2025/CTA_Poster_2025small.jpg
-      alt: Image alt text
-  - infopic:
       title: Damai Primary Instagram
       subtitle: Official Social Media
       id: infopic
