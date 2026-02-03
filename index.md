@@ -39,16 +39,6 @@ sections:
           link_text: For more information
           link_url: https://www.moe.gov.sg/preschool/moe-kindergarten
   - infopic:
-      title: PAT and OYEA 2026 Nomination
-      subtitle: Nomination
-      id: infopic
-      description: Nomination for President’s Award for Teachers (PAT) and Outstanding
-        Youth in Education Award (OYEA) 2026 are now open.
-      button: Click to find out more
-      url: /notification/announcements/pat-and-oyea-nomination/
-      image: /images/Announcement/2025/Screenshot_2025_10_29_083300.png
-      alt: Image alt text
-  - infopic:
       title: Damai Primary Instagram
       subtitle: Official Social Media
       id: infopic
