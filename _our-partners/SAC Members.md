@@ -11,42 +11,48 @@ variant: markdown
   </thead>
   <tbody><tr>
 <td><table class="tg-73oq"><thead><tr>
-<td width="400px">GOH ENG HOE</td>
+<td width="400px">MR TANG ZHICHAO</td>
 <td width="200px">- CHAIRMAN</td>
   </tr></thead></table></td>
     </tr><tr>
 <td><table class="tg-73oq"><thead><tr>
-<td width="400px">TANG ZHICHAO</td>
-<td width="200px">- VICE-CHAIRMAN</td>
-  </tr></thead></table></td>
-    </tr><tr>
-<td><table class="tg-73oq"><thead><tr>
-<td width="400px">AFFANDI SALLEH</td>
+<td width="400px">MR AFFANDI SALLEH</td>
 <td width="200px">- MEMBER</td>
   </tr></thead></table></td>
     </tr><tr>
 <td><table class="tg-73oq"><thead><tr>
-<td width="400px">GOH CHOW KIM</td>
+<td width="400px">MR EDWARD OOI TECK</td>
 <td width="200px">- MEMBER</td>
   </tr></thead></table></td>
     </tr><tr>
 <td><table class="tg-73oq"><thead><tr>
-<td width="400px">HAJA ZAFARULLAH S/O A P K M</td>
+<td width="400px">MS EGOH LEE MEY</td>
 <td width="200px">- MEMBER</td>
   </tr></thead></table></td>
     </tr><tr>
 <td><table class="tg-73oq"><thead><tr>
-<td width="400px">NATALIE MORRIS-SHARMA</td>
+<td width="400px">MR GOH TIONG CHENG EDWIN</td>
 <td width="200px">- MEMBER</td>
   </tr></thead></table></td>
     </tr><tr>
 <td><table class="tg-73oq"><thead><tr>
-<td width="400px">YEE FOOK KEONG STEPHEN</td>
+<td width="400px">MR HAJA ZAFARULLAH S/O A P K M</td>
+<td width="200px">- MEMBER</td>
+  </tr></thead></table></td>
+    </tr><tr>
+<td><table class="tg-73oq"><thead><tr>
+<td width="400px">MS NATALIE MORRIS-SHARMA</td>
+<td width="200px">- MEMBER</td>
+  </tr></thead></table></td>
+    </tr><tr>
+<td><table class="tg-73oq"><thead><tr>
+<td width="400px">MR SOH WAI KONG</td>
 <td width="200px">- MEMBER</td>
   </tr></thead></table></td>
     </tr>
   </tbody></table>
 	
+	Updated 13 Feb 2026
 	
 
 
