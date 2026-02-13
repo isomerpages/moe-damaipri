@@ -21,7 +21,7 @@ variant: markdown
 <tr>
 </tr><tr><td class="tg-73oq"><a href="mailto:mohamed_jamil_yusak@schools.gov.sg">Mr Mohamed Jamil bin Yusak</a> - School Counsellor</td></tr>
 <tr><td class="tg-73oq"><a href="mailto:kang_chun_yong@schools.gov.sg">Mr Kang Chun Yong Dave</a> - School Counsellor</td></tr><tr><td class="tg-73oq"><a href="mailto:muhd_nurhakim@schools.gov.sg">Mr Muhammad Nurhakim Bin Mohd Yusop</a> - SEN Officer</td></tr>
-<tr><td class="tg-73oq"><a href="mailto:mumtaz_noor_mohamed@schools.gov.sg">Miss Uma d/o Sivalingam</a> - SEN Officer</td>
+<tr><td class="tg-73oq"><a href="mailto:Uma_Sivalingam@schools.gov.sg">Miss Uma d/o Sivalingam</a> - SEN Officer</td>
 </tr></tbody></table>
 
 Updated 5th Jan 2026
