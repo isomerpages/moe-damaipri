@@ -28,7 +28,8 @@ the large file size, they will be divided into two parts.</p>
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Announcement/2025/2025_P2_Parents_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 (2025)</a>
+<p>Primary 2 (2026) - <a href="/files/Announcement/2026/2026_P2_Parents_Briefing_part_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Part 1</a> &amp;
+<a href="/files/Announcement/2026/2026_P2_Parents_Briefing_part_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Part 2</a>
 </p>
 </td>
 </tr>
@@ -59,4 +60,4 @@ the large file size, they will be divided into two parts.</p>
 </tbody>
 </table>
 <p></p>
-<p>Updated on 28/1/2026</p>
+<p>Updated on 10/2/2026</p>
