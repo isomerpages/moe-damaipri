@@ -7,7 +7,7 @@ variant: markdown
 Here are the principal's letter for parents.
 ### **2026**
 
-| [January](/files/Principal_letters/2026/2026_5_Jan_Principal_s_Letter_Jan_Final.pdf)  | February  | March |
+| [January](/files/Principal_letters/2026/2026_5_Jan_Principal_s_Letter_Jan_Final.pdf)  | [February](/files/Principal_letters/2026/2026_Feb_Principals_Letter_Feb_Final.pdf)  | March |
 | -------- | -------- | -------- |
 |**April** - | **May**  |  **June** |
 | **July** - | **August** | **September** |
@@ -22,4 +22,4 @@ Here are the principal's letter for parents.
 | **October** | **[November](/files/Principal_letters/2025/2025_293_10_Nov_Principal_s_Letter_Final.pdf)** | **December** |
 
 
-Updated on 5 Jan 2026
+Updated on 23/2/2026
