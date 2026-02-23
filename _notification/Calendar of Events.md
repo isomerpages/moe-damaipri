@@ -4,4 +4,4 @@ permalink: /calendar/
 description: ""
 variant: markdown
 ---
-![](/images/Announcement/2025/2025_222_30_June_Principal_Letter_Final_for_PG_Page_1.jpg)![](/images/Announcement/2025/2025_222_30_June_Principal_Letter_Final_for_PG_Page_2.jpg)
+![](/images/Announcement/2026/2026_5_Jan_Principal_s_Letter_Jan_Final.jpg)
