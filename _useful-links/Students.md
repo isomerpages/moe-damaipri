@@ -6,10 +6,13 @@ variant: markdown
 ---
 <a href="https://vle.learning.moe.edu.sg/login"><img src="/images/SLS%20Logo.png" style="width:50%"></a>
 
-<a href="https://www.koobits.com/"><img src="/images/koobitsmikomin.png" style="width:50%"></a>
+<a href="https://www.koobits.com/"><img src="/images/koobitsmikomin.png" style="width:30%"></a>
 
 <a href="https://workspace.google.com/dashboard"><img src="/images/googleworkspace.png" style="width:50%"></a>
 **Domain= @students.edu.sg<br>Password = School Windows Login Password**
+
+<a href="https://www.damaipri.moe.edu.sg/acceptable-use-policy"><img src="/images/Quicklinks/2026_03_student_learning.png" style="width:70%"></a>
+
 
 ### Library
 ![](/images/Phase%202%20Infographics.png)
