@@ -4,6 +4,8 @@ permalink: /useful-links/students/
 description: ""
 variant: markdown
 ---
+<a href="https://vle.learning.moe.edu.sg/login"><img src="/images/Quicklinks/2026_Cyber_Wellness_logo_for_students.png" style="width:50%"></a>
+
 <a href="https://vle.learning.moe.edu.sg/login"><img src="/images/SLS%20Logo.png" style="width:50%"></a>
 
 <a href="https://www.koobits.com/"><img src="/images/koobitsmikomin.png" style="width:30%"></a>
