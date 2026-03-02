@@ -21,5 +21,5 @@ The web is like a massive, open-world game. It’s full of awesome stuff to disc
 
 **Ready to earn your Digital Badge?** Don't be a "Noob" who gets caught in a web trap. Check out our top tips below to learn how to own the internet like a boss!
 
-**Be a Digital Hero!**
+#### Be a Digital Hero!
 <iframe allowfullscreen="true" height="569" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRijZhP9M3MNTTpZ-7bBF-8Se0JigCm25sECpgKUjdZawFKwK3QoqmOLgurn1NS0N6hl8KAzCdoD8ES/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
