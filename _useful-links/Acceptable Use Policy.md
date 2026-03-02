@@ -5,8 +5,7 @@ variant: markdown
 description: ""
 ---
 # **Acceptable Use Policy (AUP) for use of EdTech Resources**
-
-![](/images/Quicklinks/Acceptable_Use_Policy_logo.png)
+<img src="/images/Quicklinks/Acceptable_Use_Policy_logo.png" style="width:50%">
 
 ##### **Purpose of the Acceptable Use Policy (AUP)**
 
