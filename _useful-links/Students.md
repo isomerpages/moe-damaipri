@@ -4,7 +4,7 @@ permalink: /useful-links/students/
 description: ""
 variant: markdown
 ---
-<a href="https://www.damaipri.moe.edu.sg/cyber-wellness-microsites-for-students/"><img src="/images/Quicklinks/2026_Cyber_Wellness_logo_for_students.png" style="width:50%"></a>
+<a href="https://www.damaipri.moe.edu.sg/cyber-wellness-microsite-for-students/"><img src="/images/Quicklinks/2026_Cyber_Wellness_logo_for_students.png" style="width:50%"></a>
 
 <a href="https://vle.learning.moe.edu.sg/login"><img src="/images/SLS%20Logo.png" style="width:50%"></a>
 
