@@ -4,6 +4,10 @@ permalink: /Useful-links/parents/
 description: ""
 variant: markdown
 ---
+<a href="https://www.damaipri.moe.edu.sg/cyber-wellness-microsites-for-parents/">
+<img src="/images/Quicklinks/2026_Cyber_Wellness_logo_for_parents.png" style="width:50%">
+</a>
+<br><br>
 <a href="https://www.schoolbag.edu.sg/">
 <img src="/images/site-logo.png" style="width:50%">
 </a>
