@@ -6,6 +6,8 @@ variant: markdown
 ---
 <a href="https://www.damaipri.moe.edu.sg/cyber-wellness-microsite-for-students/"><img src="/images/Quicklinks/2026_Cyber_Wellness_logo_for_students.png" style="width:50%"></a>
 
+<a href="https://www.damaipri.moe.edu.sg/acceptable-use-policy/"><img src="/images/Quicklinks/Acceptable_Use_Policy_logo.png" style="width:50%"></a>
+
 <a href="https://vle.learning.moe.edu.sg/login"><img src="/images/SLS%20Logo.png" style="width:50%"></a>
 
 <a href="https://www.koobits.com/"><img src="/images/koobitsmikomin.png" style="width:30%"></a>
