@@ -6,6 +6,8 @@ description: ""
 ---
 # **Acceptable Use Policy (AUP) for use of EdTech Resources**
 
+![](/images/Quicklinks/Acceptable_Use_Policy_logo.png)
+
 ##### **Purpose of the Acceptable Use Policy (AUP)**
 
 Technology is an essential part of learning in today’s world.
@@ -14,8 +16,8 @@ This Acceptable Use Policy (AUP) establishes guidelines on the appropriate use o
 
 EdTech resources include the following, but are not limited to:
 
--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning devices (e.g. Personal Learning Devices (PLDs), school devices) <br>
--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON); and school internet networks.
+- Learning devices (e.g. Personal Learning Devices (PLDs), school devices) <br>
+- ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON); and school internet networks.
 
 For more information, please refer to: <br>
 Student Kit on Cyber Wellness and Learning with a Learning Device (Primary) – [https://go.gov.sg/cw-studentkitpri](https://go.gov.sg/cw-studentkitpri)
