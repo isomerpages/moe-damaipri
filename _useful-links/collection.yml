@@ -2,11 +2,11 @@ collections:
   useful-links:
     output: true
     order:
-      - Acceptable Use Policy.md
+      - Parents.md
+      - Students.md
+      - Staff.md
       - Student Well Being.md
       - Parents Gateway.md
       - Student Learning Space (SLS).md
       - Digital Access @ Home.md
-      - Parents.md
-      - Students.md
-      - Staff.md
+      - Acceptable Use Policy.md
