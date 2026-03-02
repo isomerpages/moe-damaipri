@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Cyber Wellness Microsites
 ---
-# **Ctrl+Alt+Defeat the Trolls: Your Guide to Becoming a Digital Legend!** **🎮✨**
+# **Ctrl+Alt+Defeat the Trolls: Your Guide to Becoming a Digital Legend!** 🎮✨
 
 ### **Hey there, Future Tech Pro!**
 
