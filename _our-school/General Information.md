@@ -36,47 +36,8 @@ variant: markdown
 
 ### School Hours
 
+![](/images/Random/2026_canteen.png)
 
-
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax"></th>
-    <th class="g-pa0n"><b>Primary 1 &amp; Primary 2</b></th>
-    <th class="g-pa0n"><b>Primary 3</b></th>
-		  <th class="g-pa0n"><b>Primary 4 to Primary 6</b></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-nrix">Morning Assembly</td>
-    <td class="tg-nrix" colspan="3">7.30 am<br>(All students are to report to <b>school hall/classrooms</b> for attendance-taking and morning assembly)</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Curriculum Time</td>
-    <td class="tg-nrix">07.30 am - 1.30 pm<br>(Monday &amp; Tuesday)<br>07.30 am - 1.00 pm<br>(Wednesday to Friday)</td>
-    <td class="tg-nrix">07.30 am - 1.30 pm<br>(Monday to Friday)</td>
-		<td class="tg-nrix">07.30 am - 1.30 pm<br>(Monday to Friday<br><b>except Tuesdays</b>)<br><b>07.30 am - 2.30 pm<br>(Tuesdays only)</b></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Recess  </td>
-    <td class="tg-nrix">P1: 08.30 am - 09.00 am<br>P2: 09.00 am - 09.30 am</td>
-		 <td class="tg-nrix">10.30 am - 11.00 am</td>
-    <td class="tg-nrix">P4: 9.30 am - 10.00 am<br>P5 &amp; P6: 10.00 am - 10.30 am<br></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Snack Break</td>
-    <td class="tg-nrix">P1: 11.20 am<br>P2: 11.20 am</td>
-		  <td class="tg-nrix">8.50 am</td>
-    <td class="tg-nrix">P4: 11.20 am<br>(8.20 am Tuesdays only)<br>P5 &amp; P6: 8.50 am<br></td>
-  </tr><tr>
-    <td class="tg-nrix">Lunch</td>
-    <td class="tg-nrix">NA</td>
-		  <td class="tg-nrix">NA</td>
-    <td class="tg-nrix"><b>( Tuesdays only)</b><br>P4: 12.00 pm - 12.30pm<br>P5: 12.30 pm - 1.00 pm<br>P6: 1.00 pm - 1.30pm</td>
-  </tr>
-</tbody>
-</table>
 
 ### Visitors to the school
 * For the security and safety of our students, all parents and visitors must enter the school through Gate A, along Bedok Reservoir Crescent. All visitors are to obtain a Visitor Pass and display the pass at all times.
@@ -159,4 +120,4 @@ firm action to protect them against any unreasonable behaviour, harassment or ab
 * All Gates will be closed at 7.30am for morning assembly.
 Students/Vehicle will only be allowed entry after singing of the National Anthem and Pledge Taking.
 
-Updated 2nd Jan 2025
+Updated 5th Mar 2026
