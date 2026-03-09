@@ -35,5 +35,8 @@ Tip 1: Raising a Digitally Smart Child
 **Chinese** 
 <iframe allowfullscreen="true" height="569" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS75it-n3t_fGkJ8ezxzYx9B4RKVDhRv4NCGsNguBX3zM4y9_KWDxEvTwj0hiSh7w/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+**Melayu**
+<iframe allowfullscreen="true" height="569" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTqaDp9fgi83nUJ9pwe08vmL2Rsvd1yExLNhzmEllg3bdgSMqlGM2GV9lf-iuGx3Q/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-
+**Tamil**
+<iframe allowfullscreen="true" height="569" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXwHIx_uRXO8EJhHpJj912qdU9zdeNzHwWFYvQ-5OQ71VS56oCrZTGQOaq33i3Tg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
