@@ -5,9 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Cyber Wellness Microsites
 ---
-# **Digital Pulse: Raising Savvy &amp; Safe Explorers in a Screen-First World**
+# **Empowering your child to Sense, Think, and Act safely online**
 
-**Empowering your child to Sense, Think, and Act safely online**
 
 To help your child navigate the internet safely, the Ministry of Education uses a **Cyber Wellness** framework built on two core principles: **Respect for Self and Others** and **Safe and Responsible Use**.
 
