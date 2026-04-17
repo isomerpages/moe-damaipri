@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 third_nav_title: School Services
 ---
-                      
 ### School Bookshop -  BL Marketing Pte Ltd 
 Operating Hours:<br>
 **Monday to Friday, <br>8.30 a.m. to 3.00 p.m.**
@@ -16,9 +15,7 @@ Email Address: <br>sales@blmarketing.com.sg
 
 
 
-# School Uniform
-
-### Beau Voix Uniform  
+### School Uniform - Beau Voix Uniform  
 
 Website : **[https://beauvoix.com.sg/](https://beauvoix.com.sg/)**<br>
 Address : **2 Sims Close. Gemini @ Sims #03-08. Singapore 387298 (NO Walk – ins allowed. strictly by appointment only)**
