@@ -9,7 +9,7 @@ Here are the principal's letter for parents.
 
 | [January](/files/Principal_letters/2026/2026_5_Jan_Principal_s_Letter_Jan_Final.pdf)  | [February](/files/Principal_letters/2026/2026_Feb_Principals_Letter_Feb_Final.pdf)  | [March](/files/Principal_letters/2026/2026_March_Principal_s_Letter_Final.pdf) |
 | -------- | -------- | -------- |
-|**April** - | **May**  |  **June** |
+|**April** - | **[May](/files/Principal_letters/2026/2026_May_Principal_s_Letter_Final_for_PG.pdf)**  |  **June** |
 | **July** - | **August** | **September** |
 | **October** - | **November** | **December** |
 
@@ -23,4 +23,4 @@ Here are the principal's letter for parents.
 | **October** | **[November](/files/Principal_letters/2025/2025_293_10_Nov_Principal_s_Letter_Final.pdf)** | **December** |
 
 
-Updated on 30/3/2026
+Updated on 13/5/2026
