@@ -24,7 +24,7 @@ variant: markdown
 <img src="/images/financial_assistance.png" style="width:70%">
 </a>
 <br><br>
-<a href="https://www.imda.gov.sg/programme-listing/neu-pc-plus">
+<a href="http://www.digitalaccess.gov.sg/">
 <img src="/images/NEU-PC-Plus-Programme.png" style="width:70%">
 </a>
 <br><br>
