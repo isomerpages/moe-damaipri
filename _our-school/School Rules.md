@@ -69,31 +69,5 @@ in lengths or patterns and/or side shaved hairstyles.).
 - Permission must be sought from the Form Teachers to leave early in the event of illness or unexpected circumstances.
 - Parents/Guardians must sign the early dismissal form at the general office before they can take the child/ward home.
 
-### 16. School Disciplinary Matters
----------------------------
 
-The school believes that good discipline is an important factor to help create a positive school with a conducive environment for our students. Students learn well when there is order and discipline. While we strive to teach and instil self-discipline in our students, disciplinary action will be taken against those
-who violate school rules. This is to help them understand the consequences of their inappropriate actions and poor choices, and encourages them to take responsibility for not repeating their mistakes.
-  
-Students who have committed offences are referred to the Disciplinary Board which decides on the appropriate consequences. Disciplinary action meted out to the student will depend on the severity of the offence. These can be in the form of:
-
-- Verbal Warning
-- Conduct Grade adjustment
-- Detention / Suspension
-- Caning
-- Warning Letter*
-- Corrective Work
-- Behavioural Contract
-- Bag checks by the school
-- Ineligibility for Awards, Leadership Appointments, Overseas Trips, School Team Representation
-
-Thereafter, the errant student(s) will be counselled.
-
-***Note: When a student has been issued a Warning Letter, his/her conduct grade will be ‘Fair’.** 
-
-Serious offences include :
-![](/images/Gallery/2026/2026_05_13_serious.png)
-
-
-
-Updated on 13 May 2026
+Updated on 25th Jun 2026
