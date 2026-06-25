@@ -4,7 +4,7 @@ permalink: /our-school/school-disciplinary-matters/
 variant: markdown
 description: ""
 ---
-### School Disciplinary Matters
+### **School Disciplinary Matters**
 ---------------------------
 
 The school believes that good discipline is an important factor to help create a positive school with a conducive environment for our students. Students learn well when there is order and discipline. While we strive to teach and instil self-discipline in our students, disciplinary action will be taken against those
@@ -29,7 +29,7 @@ Thereafter, the errant student(s) will be counselled.
 Serious offences include :
 ![](/images/Gallery/2026/2026_05_13_serious.png)
 
-### Anti-bullying Policy
+### **Anti-bullying Policy**
 
 All forms of hurtful behaviour (including bullying) —whether physical, verbal, social, or online — are not tolerated in our school. As a school, we expect our students to treat one another with kindness and respect, and we are committed to working closely with parents to nurture these values in our children. As part of the school's student management approach,
 
