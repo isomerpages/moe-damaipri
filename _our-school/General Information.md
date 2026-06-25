@@ -120,4 +120,8 @@ firm action to protect them against any unreasonable behaviour, harassment or ab
 * All Gates will be closed at 7.30am for morning assembly.
 Students/Vehicle will only be allowed entry after singing of the National Anthem and Pledge Taking.
 
-Updated 5th Mar 2026
+### Photographs/Video Images of Student for Non-Commercial Use
+
+Photograph(s) or video image(s) of your child/ward may be captured during school activities and events such as classroom lessons, CCAs, school camps and school concerts. These images may be used in displays, presentations, publications or other related materials, in any format (print, electronic,web or other media) for the purposes of documentation or non-commerical use. Please write to the school if you do not wish your child/ward’s image(s) to be used in 2026.
+
+Updated 25th Jun 2026
